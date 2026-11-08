@@ -38,3 +38,8 @@ def test_motif_mot_cle():
     assert motif("RAG").search("simple RAG pipeline")
     assert not motif("RAG").search("road rage")
     assert motif("ocean crossing").search("an Ocean  crossing in 2019")
+
+
+def test_emails_masques():
+    t = texte_brut("SEEKING WORK<p>Email: jane.doe+hn@example.co.uk")
+    assert "@" not in t and "[e-mail masqué]" in t

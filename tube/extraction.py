@@ -16,6 +16,14 @@ _RE_VIDEO = re.compile(
     re.VERBOSE | re.IGNORECASE,
 )
 _RE_BALISE = re.compile(r"<[^>]+>")
+# Le dépôt est public et versionne data/ : les adresses que des auteurs HN laissent dans leurs
+# annonces « Seeking work » n'ont rien à faire dans le classement, on ne les republie pas.
+_RE_EMAIL = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
+EMAIL_MASQUE = "[e-mail masqué]"
+
+
+def masquer_emails(texte: str) -> str:
+    return _RE_EMAIL.sub(EMAIL_MASQUE, texte)
 
 
 def ids_videos(texte_html: str | None) -> list[str]:
@@ -37,5 +45,5 @@ def texte_brut(texte_html: str | None, limite: int = 1500) -> str:
     t = texte_html.replace("<p>", "\n\n")
     t = re.sub(r'<a\s+href="([^"]*)"[^>]*>.*?</a>', r"\1", t, flags=re.DOTALL)
     t = html.unescape(_RE_BALISE.sub("", t))
-    t = re.sub(r"\n{3,}", "\n\n", t).strip()
+    t = masquer_emails(re.sub(r"\n{3,}", "\n\n", t).strip())
     return t if len(t) <= limite else t[:limite] + " […]"
