@@ -1,0 +1,24 @@
+id: agents-ia
+titre: Agents IA et automatisation
+description: >-
+  Agents LLM, Claude, MCP, outils d'automatisation (n8n, scripts, pipelines).
+  Les vidéos que les développeurs de Hacker News se recommandent entre eux.
+# Le domaine bouge vite : une recommandation de deux ans pèse quatre fois moins qu'une récente.
+demi_vie_mois: 12
+# Avant 2023, « agent » désigne surtout autre chose (agents logiciels classiques, RL).
+depuis: 2023-01-01
+mots_cles:
+  - agent
+  - agents
+  - agentic
+  - LLM
+  - Claude
+  - MCP
+  - Anthropic
+  - automation
+  - n8n
+  - prompt
+  - RAG
+consigne_classement: >-
+  Vidéo sur les agents IA, les LLM appliqués, Claude, MCP, ou l'automatisation de tâches par
+  logiciel. Hors sujet : actualité IA générale sans contenu pratique, musique, divertissement.

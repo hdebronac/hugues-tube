@@ -1,0 +1,23 @@
+id: navigation-hauturiere
+titre: Navigation hauturière
+description: >-
+  Traversées, météo au large, préparation du bateau, navigation astronomique, vie à bord.
+# Une vidéo sur la prise de ris ou la météo au large ne vieillit pas : décroissance très lente.
+demi_vie_mois: 120
+depuis: 2007-01-01
+mots_cles:
+  - sailing
+  - sailboat
+  - sailor
+  - yacht
+  - offshore
+  - circumnavigation
+  - "ocean crossing"
+  - "celestial navigation"
+  - sextant
+  - liveaboard
+  - cruising
+consigne_classement: >-
+  Vidéo sur la navigation à voile au large : traversées océaniques, sécurité, météo marine,
+  préparation et entretien du voilier, navigation (dont astronomique), vie à bord.
+  Hors sujet : régates télévisées seules, croisières en paquebot, sujets sans rapport avec la mer.

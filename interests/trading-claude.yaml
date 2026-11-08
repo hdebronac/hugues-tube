@@ -1,0 +1,23 @@
+id: trading-claude
+titre: Trading automatisé avec Claude
+description: >-
+  Trading algorithmique, backtests, microstructure de marché, et usage des LLM pour trader.
+# Les outils changent vite, les fondamentaux (backtest, biais, risque) beaucoup moins.
+demi_vie_mois: 36
+depuis: 2007-01-01
+mots_cles:
+  - "algorithmic trading"
+  - "algo trading"
+  - "trading bot"
+  - "trading strategy"
+  - backtest
+  - backtesting
+  - quant
+  - "market making"
+  - "high frequency trading"
+  - "LLM trading"
+consigne_classement: >-
+  Vidéo sur le trading systématique ou algorithmique : construction et backtest de stratégies,
+  gestion du risque, microstructure, exécution, usage des LLM ou de Claude pour trader.
+  Les vidéos qui promettent des gains faciles comptent comme « critique » si le commentaire
+  les dénonce, et « hors_sujet » si elles relèvent du marketing pur.
