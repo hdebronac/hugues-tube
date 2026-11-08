@@ -16,3 +16,12 @@ pythonpath = ["."]
 [tool.ruff]
 line-length = 110
 target-version = "py311"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+# Disposition à plat avec plusieurs dossiers à la racine (site/, data/, tests/) : sans liste
+# explicite, setuptools refuse de deviner le paquet.
+[tool.setuptools]
+packages = ["tube"]

@@ -27,7 +27,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install ".[claude,dev]"
+      - run: pip install -e ".[claude,dev]"
       - run: python -m pytest -q
       # Sur un push de code, pas de nouvelle collecte : on reclasse et on republie à partir de data/.
       - name: Chaîne complète
