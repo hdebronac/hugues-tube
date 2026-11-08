@@ -15,6 +15,9 @@ import time
 from .commun import DOSSIER_DONNEES, Interet, ecrire_json, lire_json
 
 CHEMIN = DOSSIER_DONNEES / "classements.json"
+CHEMIN_LOTS = DOSSIER_DONNEES / "lots_en_cours.json"
+# L'exécution GitHub est coupée à 120 min : on rend la main avant pour publier le site quand même.
+ATTENTE_MAX = int(os.environ.get("HUGUES_TUBE_ATTENTE_MAX", "4500"))
 # Tri court et répétitif : Haiku suffit et coûte quelques centimes par mois à ce volume.
 MODELE = os.environ.get("HUGUES_TUBE_MODELE", "claude-haiku-5-5")
 # Tâche de tri courte : un effort bas suffit et divise le coût de réflexion.
@@ -105,8 +108,16 @@ def classer(a_classer: list[tuple[Interet, dict]], videos: dict) -> dict:
     import anthropic  # importé ici : le reste de la chaîne tourne sans le SDK
 
     client = anthropic.Anthropic()
+    index = {cle(i.id, el["id"]): (i, el) for i, el in a_classer}
+    lots = lire_json(CHEMIN_LOTS, {})
+    # Mentions déjà parties dans un lot non encore récupéré : ne pas les renvoyer (double paiement).
+    en_vol = {c for lot in lots.values() for c in lot.values()}
+
     for debut in range(0, len(restants), TAILLE_LOT):
-        lot = restants[debut:debut + TAILLE_LOT]
+        lot = [(i, el) for i, el in restants[debut:debut + TAILLE_LOT]
+               if cle(i.id, el["id"]) not in en_vol]
+        if not lot:
+            continue
         # custom_id n'accepte que [A-Za-z0-9_-]{1,64} : on passe par un index et une table locale.
         table = {f"m{n}": (i, el) for n, (i, el) in enumerate(lot)}
         requetes = [{
@@ -121,22 +132,30 @@ def classer(a_classer: list[tuple[Interet, dict]], videos: dict) -> dict:
             },
         } for cid, (i, el) in table.items()]
         lot_api = client.messages.batches.create(requests=requetes)
+        lots[lot_api.id] = {cid: cle(i.id, el["id"]) for cid, (i, el) in table.items()}
+        # Enregistré avant d'attendre : si l'exécution est interrompue, le passage suivant
+        # récupère ce lot au lieu de le payer une seconde fois.
+        ecrire_json(CHEMIN_LOTS, lots)
         print(f"  Lot {lot_api.id} : {len(requetes)} mentions envoyées à {MODELE}.", file=sys.stderr)
-        while True:
-            etat = client.messages.batches.retrieve(lot_api.id)
-            if etat.processing_status == "ended":
+
+    limite = time.monotonic() + ATTENTE_MAX
+    for lot_id in list(lots):
+        while client.messages.batches.retrieve(lot_id).processing_status != "ended":
+            if time.monotonic() > limite:
+                print(f"  Lot {lot_id} pas encore terminé : repris au prochain passage.", file=sys.stderr)
                 break
             time.sleep(30)
-        n_ok = 0
-        for resultat in client.messages.batches.results(lot_api.id):
-            i, el = table[resultat.custom_id]
-            if resultat.result.type != "succeeded":
-                continue  # erreur ou expiration : reprise au prochain passage
-            verdicts = _lire_reponse(resultat.result.message, el["videos"])
-            if verdicts is None:
-                verdicts = {"_refus": True}
-            cache[cle(i.id, el["id"])] = verdicts
-            n_ok += 1
-        print(f"  Lot {lot_api.id} : {n_ok}/{len(requetes)} classées.", file=sys.stderr)
-        ecrire_json(CHEMIN, cache)
+        else:
+            n_ok = 0
+            for resultat in client.messages.batches.results(lot_id):
+                c = lots[lot_id].get(resultat.custom_id)
+                if c is None or c not in index or resultat.result.type != "succeeded":
+                    continue  # erreur ou expiration : la mention sera renvoyée au prochain passage
+                verdicts = _lire_reponse(resultat.result.message, index[c][1]["videos"])
+                cache[c] = verdicts if verdicts is not None else {"_refus": True}
+                n_ok += 1
+            print(f"  Lot {lot_id} : {n_ok}/{len(lots[lot_id])} classées.", file=sys.stderr)
+            del lots[lot_id]
+            ecrire_json(CHEMIN, cache)
+            ecrire_json(CHEMIN_LOTS, lots)
     return cache
