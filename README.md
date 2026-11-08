@@ -26,8 +26,10 @@ collecte HN ──► liens YouTube (regex) ──► candidates (≥ 2 auteurs)
 3. **Métadonnées** (`tube/enrichissement.py`) : titre, chaîne, disponibilité via l'oEmbed
    public de YouTube, sans clé d'API.
 4. **Classement** (`tube/classement.py`) : Claude lit chaque commentaire et dit si la vidéo est
-   recommandée, simplement citée, critiquée ou hors sujet. API Message Batches (moitié prix),
-   verdicts mis en cache dans `data/classements.json` : rien n'est classé deux fois.
+   recommandée, simplement citée, critiquée ou hors sujet. Appels directs en parallèle jusqu'à
+   3 000 mentions (quelques minutes) ; au-delà, API Message Batches (moitié prix, mais jusqu'à
+   24 h, lots repris d'un passage à l'autre). Verdicts mis en cache dans `data/classements.json` :
+   rien n'est classé deux fois.
 5. **Score** (`tube/score.py`) : somme, par auteur distinct, de sa recommandation la plus forte,
    pondérée par l'ancienneté (demi-vie propre au centre d'intérêt), bonus si la vidéo est citée
    sur plusieurs années.

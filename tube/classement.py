@@ -1,7 +1,10 @@
 """Classement des mentions par Claude : la vidéo est-elle recommandée, et dans le sujet ?
 
-Passe par l'API Message Batches (moitié prix, asynchrone). Les verdicts sont mis en cache dans
-data/classements.json : un commentaire déjà classé ne repart jamais chez Claude.
+Petits volumes (le cas courant : quelques dizaines de mentions par semaine) : appels directs en
+parallèle, terminés en quelques minutes. Gros volumes : API Message Batches, moitié prix mais
+sans délai garanti en dessous de 24 h — un premier lot de 1 031 mentions n'était pas revenu au
+bout de 2 h. Les verdicts sont mis en cache dans data/classements.json : un commentaire déjà
+classé ne repart jamais chez Claude.
 Sans ANTHROPIC_API_KEY, l'étape est sautée et les mentions restent « non_classe ».
 """
 
@@ -11,6 +14,7 @@ import json
 import os
 import sys
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from .commun import DOSSIER_DONNEES, Interet, ecrire_json, lire_json
 
@@ -24,6 +28,10 @@ MODELE = os.environ.get("HUGUES_TUBE_MODELE", "claude-haiku-5-5")
 EFFORT = os.environ.get("HUGUES_TUBE_EFFORT", "low")
 VERDICTS = ("recommande", "neutre", "critique", "hors_sujet")
 TAILLE_LOT = 5000
+# En dessous, le surcoût des appels directs (×2 sur quelques centimes) vaut mieux qu'une attente
+# imprévisible qui ferait expirer l'exécution GitHub.
+SEUIL_DIRECT = int(os.environ.get("HUGUES_TUBE_SEUIL_DIRECT", "3000"))
+PARALLELE = 8
 
 SCHEMA = {
     "type": "object",
@@ -94,54 +102,22 @@ def _lire_reponse(message, attendus: list[str]) -> dict | None:
     return verdicts or None
 
 
-def classer(a_classer: list[tuple[Interet, dict]], videos: dict) -> dict:
-    """a_classer : couples (centre d'intérêt, élément HN) dont au moins une vidéo est candidate."""
-    cache = lire_json(CHEMIN, {})
-    restants = [(i, el) for i, el in a_classer if cle(i.id, el["id"]) not in cache]
-    if not restants:
-        return cache
-    if not os.environ.get("ANTHROPIC_API_KEY"):
-        print(f"  ANTHROPIC_API_KEY absente : {len(restants)} mentions restent non classées.",
-              file=sys.stderr)
-        return cache
+def _params(interet: Interet, el: dict, videos: dict) -> dict:
+    return {
+        "model": MODELE,
+        "max_tokens": 2000,
+        "system": SYSTEME,
+        "output_config": {"effort": EFFORT, "format": {"type": "json_schema", "schema": SCHEMA}},
+        "messages": [{"role": "user", "content": _message(interet, el, videos)}],
+    }
 
-    import anthropic  # importé ici : le reste de la chaîne tourne sans le SDK
 
-    client = anthropic.Anthropic()
-    index = {cle(i.id, el["id"]): (i, el) for i, el in a_classer}
-    lots = lire_json(CHEMIN_LOTS, {})
-    # Mentions déjà parties dans un lot non encore récupéré : ne pas les renvoyer (double paiement).
-    en_vol = {c for lot in lots.values() for c in lot.values()}
-
-    for debut in range(0, len(restants), TAILLE_LOT):
-        lot = [(i, el) for i, el in restants[debut:debut + TAILLE_LOT]
-               if cle(i.id, el["id"]) not in en_vol]
-        if not lot:
-            continue
-        # custom_id n'accepte que [A-Za-z0-9_-]{1,64} : on passe par un index et une table locale.
-        table = {f"m{n}": (i, el) for n, (i, el) in enumerate(lot)}
-        requetes = [{
-            "custom_id": cid,
-            "params": {
-                "model": MODELE,
-                "max_tokens": 2000,
-                "system": SYSTEME,
-                "output_config": {"effort": EFFORT,
-                                  "format": {"type": "json_schema", "schema": SCHEMA}},
-                "messages": [{"role": "user", "content": _message(i, el, videos)}],
-            },
-        } for cid, (i, el) in table.items()]
-        lot_api = client.messages.batches.create(requests=requetes)
-        lots[lot_api.id] = {cid: cle(i.id, el["id"]) for cid, (i, el) in table.items()}
-        # Enregistré avant d'attendre : si l'exécution est interrompue, le passage suivant
-        # récupère ce lot au lieu de le payer une seconde fois.
-        ecrire_json(CHEMIN_LOTS, lots)
-        print(f"  Lot {lot_api.id} : {len(requetes)} mentions envoyées à {MODELE}.", file=sys.stderr)
-
-    limite = time.monotonic() + ATTENTE_MAX
+def _recolter(client, lots: dict, index: dict, cache: dict, attendre: bool) -> None:
+    """Récupère les lots terminés ; avec attendre, patiente jusqu'à ATTENTE_MAX."""
+    limite = time.monotonic() + (ATTENTE_MAX if attendre else 0)
     for lot_id in list(lots):
         while client.messages.batches.retrieve(lot_id).processing_status != "ended":
-            if time.monotonic() > limite:
+            if time.monotonic() >= limite:
                 print(f"  Lot {lot_id} pas encore terminé : repris au prochain passage.", file=sys.stderr)
                 break
             time.sleep(30)
@@ -158,4 +134,69 @@ def classer(a_classer: list[tuple[Interet, dict]], videos: dict) -> dict:
             del lots[lot_id]
             ecrire_json(CHEMIN, cache)
             ecrire_json(CHEMIN_LOTS, lots)
+
+
+def _classer_direct(client, restants: list, videos: dict, cache: dict) -> None:
+    def un(i, el):
+        return cle(i.id, el["id"]), el, client.messages.create(**_params(i, el, videos))
+
+    n_ok = n_err = 0
+    with ThreadPoolExecutor(PARALLELE) as pool:
+        futurs = [pool.submit(un, i, el) for i, el in restants]
+        for n, f in enumerate(as_completed(futurs), 1):
+            try:
+                c, el, message = f.result()
+            except Exception as e:  # noqa: BLE001 — une mention en échec sera retentée au passage suivant
+                n_err += 1
+                if n_err <= 3:
+                    print(f"  Échec d'un appel : {type(e).__name__}: {e}", file=sys.stderr)
+                continue
+            verdicts = _lire_reponse(message, el["videos"])
+            cache[c] = verdicts if verdicts is not None else {"_refus": True}
+            n_ok += 1
+            if n % 100 == 0:
+                ecrire_json(CHEMIN, cache)
+                print(f"  {n}/{len(restants)} mentions traitées", file=sys.stderr)
+    ecrire_json(CHEMIN, cache)
+    print(f"  Appels directs à {MODELE} : {n_ok} classées, {n_err} en échec.", file=sys.stderr)
+
+
+def classer(a_classer: list[tuple[Interet, dict]], videos: dict) -> dict:
+    """a_classer : couples (centre d'intérêt, élément HN) dont au moins une vidéo est candidate."""
+    cache = lire_json(CHEMIN, {})
+    if all(cle(i.id, el["id"]) in cache for i, el in a_classer):
+        return cache
+    if not os.environ.get("ANTHROPIC_API_KEY"):
+        n = sum(1 for i, el in a_classer if cle(i.id, el["id"]) not in cache)
+        print(f"  ANTHROPIC_API_KEY absente : {n} mentions restent non classées.", file=sys.stderr)
+        return cache
+
+    import anthropic  # importé ici : le reste de la chaîne tourne sans le SDK
+
+    # Le SDK retente déjà les 429 et 5xx ; en parallèle, on lui laisse plus de marge.
+    client = anthropic.Anthropic(max_retries=6)
+    index = {cle(i.id, el["id"]): (i, el) for i, el in a_classer}
+    lots = lire_json(CHEMIN_LOTS, {})
+    _recolter(client, lots, index, cache, attendre=False)
+
+    # Mentions parties dans un lot pas encore revenu : ne pas les renvoyer (double paiement).
+    en_vol = {c for lot in lots.values() for c in lot.values()}
+    restants = [(i, el) for c, (i, el) in index.items() if c not in cache and c not in en_vol]
+    if not restants:
+        return cache
+    if len(restants) <= SEUIL_DIRECT:
+        _classer_direct(client, restants, videos, cache)
+        return cache
+
+    for debut in range(0, len(restants), TAILLE_LOT):
+        # custom_id n'accepte que [A-Za-z0-9_-]{1,64} : on passe par un index et une table locale.
+        table = {f"m{n}": (i, el) for n, (i, el) in enumerate(restants[debut:debut + TAILLE_LOT])}
+        lot_api = client.messages.batches.create(requests=[
+            {"custom_id": cid, "params": _params(i, el, videos)} for cid, (i, el) in table.items()])
+        lots[lot_api.id] = {cid: cle(i.id, el["id"]) for cid, (i, el) in table.items()}
+        # Enregistré avant d'attendre : si l'exécution est interrompue, le passage suivant
+        # récupère ce lot au lieu de le payer une seconde fois.
+        ecrire_json(CHEMIN_LOTS, lots)
+        print(f"  Lot {lot_api.id} : {len(table)} mentions envoyées à {MODELE}.", file=sys.stderr)
+    _recolter(client, lots, index, cache, attendre=True)
     return cache
