@@ -6,6 +6,7 @@ c'est ce filtre gratuit, avant tout appel à Claude, qui rend le coût supportab
 
 from __future__ import annotations
 
+import re
 import sys
 import time
 
@@ -29,6 +30,8 @@ def _requete(texte: str, type_: str, debut: int, fin: int, page: int):
         "hitsPerPage": PAR_PAGE,
         "page": page,
         "numericFilters": f"created_at_i>={debut},created_at_i<{fin}",
+        # Sans cela, « MCP » ramène aussi « MVP », « MCU »… : 2 072 résultats au lieu de 148.
+        "typoTolerance": "false",
     })
     time.sleep(PAUSE)
     if code != 200 or corps is None:
@@ -48,6 +51,19 @@ def _fenetre(texte: str, type_: str, debut: int, fin: int):
         yield from _requete(texte, type_, debut, fin, page)["hits"]
 
 
+def motif(mot: str) -> re.Pattern:
+    """Mot-clé reconnu localement, en complément d'Algolia qui cherche aussi dans l'auteur et l'URL.
+
+    Un sigle en capitales (LLM, MCP, RAG) est cherché tel quel, pluriel admis : en minuscules,
+    « rag » attraperait « rage ». Un mot ordinaire accepte quelques terminaisons (agents,
+    backtesting) et des espaces multiples entre les mots d'une expression.
+    """
+    corps = r"\s+".join(re.escape(m) for m in mot.split())
+    if mot.isupper():
+        return re.compile(rf"\b{corps}s?\b")
+    return re.compile(rf"(?<![a-z0-9]){corps}(?:s|es|ing|ed|ic)?\b", re.IGNORECASE)
+
+
 def _element(hit: dict, interet: Interet, mot: str) -> dict | None:
     if "comment" in hit.get("_tags", []):
         html_ = hit.get("comment_text")
@@ -60,6 +76,9 @@ def _element(hit: dict, interet: Interet, mot: str) -> dict | None:
         titre = hit.get("title")
         type_ = "article"
     if not videos or not hit.get("author"):
+        return None
+    # Le titre du fil compte : un lien posté sous « Show HN: mon agent » est dans le sujet.
+    if not motif(mot).search(texte_brut(html_, limite=10**6) + " " + (titre or "")):
         return None
     return {
         "id": str(hit["objectID"]),

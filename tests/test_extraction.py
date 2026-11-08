@@ -28,3 +28,13 @@ def test_texte_brut_garde_les_urls():
     t = texte_brut('Super<p><a href="https:&#x2F;&#x2F;youtu.be&#x2F;abcdefghijk">lien</a> &amp; co')
     assert "https://youtu.be/abcdefghijk" in t
     assert "<" not in t and "& co" in t
+
+
+def test_motif_mot_cle():
+    from tube.collecte_hn import motif
+    assert motif("agent").search("AI Agents are here")
+    assert motif("backtest").search("my backtesting rig")
+    assert not motif("agent").search("reagent")
+    assert motif("RAG").search("simple RAG pipeline")
+    assert not motif("RAG").search("road rage")
+    assert motif("ocean crossing").search("an Ocean  crossing in 2019")
