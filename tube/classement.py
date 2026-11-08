@@ -15,7 +15,8 @@ import time
 from .commun import DOSSIER_DONNEES, Interet, ecrire_json, lire_json
 
 CHEMIN = DOSSIER_DONNEES / "classements.json"
-MODELE = os.environ.get("HUGUES_TUBE_MODELE", "claude-opus-5-5")
+# Tri court et répétitif : Haiku suffit et coûte quelques centimes par mois à ce volume.
+MODELE = os.environ.get("HUGUES_TUBE_MODELE", "claude-haiku-5-5")
 # Tâche de tri courte : un effort bas suffit et divise le coût de réflexion.
 EFFORT = os.environ.get("HUGUES_TUBE_EFFORT", "low")
 VERDICTS = ("recommande", "neutre", "critique", "hors_sujet")

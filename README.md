@@ -47,7 +47,7 @@ python -m pytest -q
 Sans `ANTHROPIC_API_KEY`, le classement est sauté : le site se construit quand même, sur le
 seul nombre d'auteurs, et l'affiche en tête de page.
 
-Variables facultatives : `HUGUES_TUBE_MODELE` (défaut `claude-opus-5-5`),
+Variables facultatives : `HUGUES_TUBE_MODELE` (défaut `claude-haiku-5-5`),
 `HUGUES_TUBE_EFFORT` (défaut `low`).
 
 ## Ajouter un centre d'intérêt
