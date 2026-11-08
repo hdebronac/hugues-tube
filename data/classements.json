@@ -1,0 +1,7256 @@
+{
+ "agents-ia:34330191": {
+  "-JlxuQ7tPgQ": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:34416609": {
+  "ajGX7odA87k": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:34506548": {
+  "vaUuE582vq8": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:34882864": {
+  "D5VN56jQMWM": {
+   "type_contenu": "autre",
+   "verdict": "critique"
+  }
+ },
+ "agents-ia:34953081": {
+  "HB5TrK7A4pI": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:34966091": {
+  "kCc8FmEb1nY": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:35061773": {
+  "gQddtTdmG_8": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:35160348": {
+  "OgYQAS9LY3o": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:35199312": {
+  "36GT2zI8lVA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:35216982": {
+  "7Pq-S557XQU": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:35229870": {
+  "kCc8FmEb1nY": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:35241505": {
+  "Bf-dbS9CcRU": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:35243283": {
+  "OgYQAS9LY3o": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:35259895": {
+  "XZJc1p6RE78": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:35267498": {
+  "agzItTz35QQ": {
+   "type_contenu": "conference",
+   "verdict": "critique"
+  }
+ },
+ "agents-ia:35268072": {
+  "agzItTz35QQ": {
+   "type_contenu": "conference",
+   "verdict": "critique"
+  }
+ },
+ "agents-ia:35278720": {
+  "Bf-dbS9CcRU": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:35301877": {
+  "ebls5x-gb0s": {
+   "type_contenu": "conference",
+   "verdict": "critique"
+  }
+ },
+ "agents-ia:35318638": {
+  "hEUO6pjwFOo": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:35365418": {
+  "pOmXiapfCs8": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:35377147": {
+  "AaTRHFaaPG8": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:35395279": {
+  "qpoRO378qRY": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:35427904": {
+  "cP5zGh2fui0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:35435909": {
+  "cP5zGh2fui0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:35472955": {
+  "hEUO6pjwFOo": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:35485966": {
+  "AaTRHFaaPG8": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:35509547": {
+  "ZZ0atq2yYJw": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  },
+  "qbIk7-JPB2c": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  },
+  "qpoRO378qRY": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:35519804": {
+  "7Pq-S557XQU": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:35525433": {
+  "x10964w00zk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:35547415": {
+  "kCc8FmEb1nY": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:35556699": {
+  "qbIk7-JPB2c": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:35563867": {
+  "pOmXiapfCs8": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:35571933": {
+  "biYciU1uiUw": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:35583304": {
+  "x10964w00zk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:35584820": {
+  "HQI6O5DlyFc": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "hEUO6pjwFOo": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:35589453": {
+  "qbIk7-JPB2c": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:35632876": {
+  "ajGX7odA87k": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:35637182": {
+  "xoVJKj8lcNQ": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:35687927": {
+  "AaTRHFaaPG8": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:35702146": {
+  "hhiLw5Q_UFg": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:35704811": {
+  "lnA9DMvHtfI": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:35710204": {
+  "XEM5qz__HOU": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:35714913": {
+  "XEM5qz__HOU": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:35721698": {
+  "XEM5qz__HOU": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:35734603": {
+  "xoVJKj8lcNQ": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:35739445": {
+  "xoVJKj8lcNQ": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:35745086": {
+  "qbIk7-JPB2c": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:35757475": {
+  "aircAruvnKk": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  },
+  "qv6UVOQ0F44": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:35766627": {
+  "xoVJKj8lcNQ": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:35779126": {
+  "XEM5qz__HOU": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:35842736": {
+  "hJP5GqnTrNo": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:35868081": {
+  "wVzuvf9D9BU": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:35875071": {
+  "WO2X3oZEJOA": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:35924584": {
+  "wVzuvf9D9BU": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:35942531": {
+  "UCo7YeTy-aE": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:36016931": {
+  "UCo7YeTy-aE": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  },
+  "wVzuvf9D9BU": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:36017211": {
+  "ajGX7odA87k": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:36059540": {
+  "XZJc1p6RE78": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:36134831": {
+  "bZQun8Y4L2A": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:36197725": {
+  "bZQun8Y4L2A": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:36207905": {
+  "bZQun8Y4L2A": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:36248931": {
+  "aircAruvnKk": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  },
+  "jGwO_UgTS7I": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:36280776": {
+  "WO2X3oZEJOA": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:36313669": {
+  "YDiSFS-yHwk": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "lnA9DMvHtfI": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:36397293": {
+  "bZQun8Y4L2A": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:36423208": {
+  "rGgGOccMEiY": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:36652109": {
+  "qv6UVOQ0F44": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:36682860": {
+  "hhiLw5Q_UFg": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:36687130": {
+  "AaTRHFaaPG8": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:36712392": {
+  "qbIk7-JPB2c": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:36732052": {
+  "rGgGOccMEiY": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:36772202": {
+  "ofKJ2zauYxw": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:36797870": {
+  "ofKJ2zauYxw": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:36853770": {
+  "TYgtG2Th6fI": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  },
+  "ozOsrX9d0a0": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:36862659": {
+  "TYgtG2Th6fI": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:36906641": {
+  "x10964w00zk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:36907930": {
+  "x10964w00zk": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:36975403": {
+  "OgYQAS9LY3o": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:37010025": {
+  "qv6UVOQ0F44": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:37090043": {
+  "5ESJH1NLMLs": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:37121384": {
+  "TYgtG2Th6fI": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  },
+  "eeM6V5aPjhk": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:37154620": {
+  "d6sVWEu9HWU": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:37162061": {
+  "ZCyxDRSw0wE": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:37164568": {
+  "ZCyxDRSw0wE": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:37166755": {
+  "ZCyxDRSw0wE": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:37215022": {
+  "2Kx9jbSMZqA": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:37215306": {
+  "7Pq-S557XQU": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:37358377": {
+  "QrSCwxrLrRc": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:37421478": {
+  "3TYT1QfdfsM": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "aL1f6w-ziOM": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:37636479": {
+  "jkrNMKz9pWU": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:37656987": {
+  "xoVJKj8lcNQ": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:37660262": {
+  "kCc8FmEb1nY": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:37671603": {
+  "cEyHsMzbZBs": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:37676619": {
+  "xoVJKj8lcNQ": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:37801117": {
+  "jACcgLfyiyM": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "o4-YnLpLgtk": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:37903176": {
+  "jkrNMKz9pWU": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:38082494": {
+  "RXJKdh1KZ0w": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:38089487": {
+  "ZeecOKBus3Q": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:38168333": {
+  "PgwpqjiKkoY": {
+   "type_contenu": "retour_experience",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:38261142": {
+  "BKorP55Aqvg": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:38268470": {
+  "JhCl-GeT4jw": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:38270004": {
+  "jkrNMKz9pWU": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:38313795": {
+  "djzOBZUFzTw": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:38317689": {
+  "QrSCwxrLrRc": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:38347046": {
+  "PgwpqjiKkoY": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:38368352": {
+  "PgwpqjiKkoY": {
+   "type_contenu": "retour_experience",
+   "verdict": "critique"
+  },
+  "gQuLRdBYn8Q": {
+   "type_contenu": "retour_experience",
+   "verdict": "critique"
+  }
+ },
+ "agents-ia:38377669": {
+  "ZeecOKBus3Q": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:38390952": {
+  "9EN_HoEk3KY": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  },
+  "zjkBMFhNj_g": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:38407783": {
+  "zjkBMFhNj_g": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:38412110": {
+  "jkrNMKz9pWU": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:38420488": {
+  "zjkBMFhNj_g": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:38420720": {
+  "xuCn8ux2gbs": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:38421394": {
+  "d-7o9xYp7eE": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:38440504": {
+  "zjkBMFhNj_g": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:38473771": {
+  "zjkBMFhNj_g": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:38476904": {
+  "zjkBMFhNj_g": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:38485627": {
+  "pOmXiapfCs8": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:38530602": {
+  "zjkBMFhNj_g": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:38545732": {
+  "D64QD7Swr3s": {
+   "type_contenu": "autre",
+   "verdict": "recommande"
+  },
+  "JPwU1FNhMOA": {
+   "type_contenu": "autre",
+   "verdict": "recommande"
+  },
+  "UIZAiXYceBI": {
+   "type_contenu": "autre",
+   "verdict": "recommande"
+  },
+  "sPiOP_CB54A": {
+   "type_contenu": "autre",
+   "verdict": "recommande"
+  },
+  "v5tRc_5-8G4": {
+   "type_contenu": "autre",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:38587808": {
+  "vJG698U2Mvo": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:38598964": {
+  "EMOFRDOMIiU": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:38606268": {
+  "EMOFRDOMIiU": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:38619834": {
+  "D64QD7Swr3s": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:38626212": {
+  "jaM02mb6JFM": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:38631430": {
+  "kCc8FmEb1nY": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:38639017": {
+  "bZQun8Y4L2A": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:38639260": {
+  "CnkM0AecxYA": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:38650285": {
+  "CnkM0AecxYA": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:38653228": {
+  "zjkBMFhNj_g": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:38666322": {
+  "cEyHsMzbZBs": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:38668451": {
+  "JhCl-GeT4jw": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:38826235": {
+  "bsRnh_brggM": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:38826594": {
+  "bsRnh_brggM": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:38843569": {
+  "5ESJH1NLMLs": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:38891701": {
+  "O1aqLLiIjgA": {
+   "type_contenu": "retour_experience",
+   "verdict": "hors_sujet"
+  },
+  "biYciU1uiUw": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:38933905": {
+  "22wlLy7hKP4": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:38940544": {
+  "bsRnh_brggM": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:38970551": {
+  "XEM5qz__HOU": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:39003140": {
+  "jaM02mb6JFM": {
+   "type_contenu": "retour_experience",
+   "verdict": "critique"
+  }
+ },
+ "agents-ia:39074086": {
+  "bZQun8Y4L2A": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:39100727": {
+  "qV_rOlHjvvs": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:39158092": {
+  "kCc8FmEb1nY": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:39166430": {
+  "kCc8FmEb1nY": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:39177300": {
+  "LXzJR7K0wK0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:39288711": {
+  "efPrtcLdcdM": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:39377127": {
+  "ahnGLM-RC1Y": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:39390925": {
+  "SSnsmqIj1MI": {
+   "type_contenu": "autre",
+   "verdict": "critique"
+  }
+ },
+ "agents-ia:39398764": {
+  "jkrNMKz9pWU": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:39421887": {
+  "SSnsmqIj1MI": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:39461140": {
+  "djzOBZUFzTw": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:39505819": {
+  "zjkBMFhNj_g": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:39540714": {
+  "qTogNUV3CAI": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:39545597": {
+  "qTogNUV3CAI": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:39557741": {
+  "zduSFxRajkE": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:39635372": {
+  "DcYLT37ImBY": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:39635503": {
+  "5t1vTLU7s40": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:39640320": {
+  "5t1vTLU7s40": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:39667911": {
+  "efPrtcLdcdM": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:39811640": {
+  "jkrNMKz9pWU": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:39830486": {
+  "7Pq-S557XQU": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:39903038": {
+  "wjZofJX0v4M": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:39909829": {
+  "zjkBMFhNj_g": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:39947285": {
+  "wjZofJX0v4M": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:39959012": {
+  "wjZofJX0v4M": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:39968821": {
+  "wjZofJX0v4M": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:39974942": {
+  "VMj-3S1tku0": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:39995908": {
+  "wjZofJX0v4M": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:40038694": {
+  "w7-gJicosyA": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:40038701": {
+  "w7-gJicosyA": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:40054577": {
+  "jaM02mb6JFM": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:40054773": {
+  "_gZK0tW8EhQ": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:40079420": {
+  "Nlkk3glap_U": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  },
+  "tMdMiYsfHKo": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:40117481": {
+  "ubNF9QNEQLA": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "v3iPrBrGSJM": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "vJG698U2Mvo": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:40159206": {
+  "zjkBMFhNj_g": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:40183685": {
+  "_gZK0tW8EhQ": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:40188612": {
+  "jkrNMKz9pWU": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  },
+  "zjkBMFhNj_g": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:40223471": {
+  "d6iQrh2TK98": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:40223516": {
+  "d6iQrh2TK98": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:40259847": {
+  "hGXhFa3gzBs": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:40270095": {
+  "tc4ROCJYbm0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:40270746": {
+  "5t1vTLU7s40": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "bc6uFV9CJGg": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:40323744": {
+  "5t1vTLU7s40": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:40334643": {
+  "hGXhFa3gzBs": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:40338520": {
+  "nkdZRBFtqSs": {
+   "type_contenu": "autre",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:40338697": {
+  "nkdZRBFtqSs": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:40342848": {
+  "GzX1qOIO1bE": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:40364235": {
+  "XEM5qz__HOU": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:40368237": {
+  "dDUC-LqVrPU": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:40392468": {
+  "Nlkk3glap_U": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:40401200": {
+  "VMj-3S1tku0": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:40419454": {
+  "hGXhFa3gzBs": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:40481194": {
+  "jkrNMKz9pWU": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:40551594": {
+  "B_DMMlDuJB0": {
+   "type_contenu": "retour_experience",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:40551597": {
+  "B_DMMlDuJB0": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:40586206": {
+  "hGXhFa3gzBs": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:40590288": {
+  "22wlLy7hKP4": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "X-MNgciL5hw": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:40604068": {
+  "_gZK0tW8EhQ": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:40616969": {
+  "5ESJH1NLMLs": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:40629013": {
+  "jLVl5V8roMU": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:40643173": {
+  "h_x0Y3FqkEI": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:40643892": {
+  "PPxOE9YH57E": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:40648916": {
+  "UakqL6Pj9xo": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:40651875": {
+  "UakqL6Pj9xo": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:40662087": {
+  "Gg-w_n9NJIE": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:40663664": {
+  "Gg-w_n9NJIE": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:40687717": {
+  "zjkBMFhNj_g": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:40703149": {
+  "ahnGLM-RC1Y": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:40703253": {
+  "ahnGLM-RC1Y": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:40736192": {
+  "X9RYuvPCQUA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:40741669": {
+  "rHqk0ZGb6qo": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:40757610": {
+  "9dYsjDqUdr0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "h_x0Y3FqkEI": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:40765314": {
+  "UakqL6Pj9xo": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:40856197": {
+  "qbIk7-JPB2c": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:40879948": {
+  "7jymOKqNrdU": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:40883153": {
+  "7jymOKqNrdU": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:40885895": {
+  "T8ByoAt5gCA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:40885959": {
+  "T8ByoAt5gCA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:40912755": {
+  "JREufgkf5pk": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:40981570": {
+  "hJP5GqnTrNo": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:41091982": {
+  "ztNdagyT8po": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:41100934": {
+  "dDUC-LqVrPU": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:41117540": {
+  "U_cSLPv34xk": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:41134861": {
+  "pRM_P6UfdIc": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:41141148": {
+  "pRM_P6UfdIc": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:41178247": {
+  "ztNdagyT8po": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:41214876": {
+  "jLVl5V8roMU": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:41246012": {
+  "U_cSLPv34xk": {
+   "type_contenu": "retour_experience",
+   "verdict": "critique"
+  }
+ },
+ "agents-ia:41344618": {
+  "JREufgkf5pk": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "M0d7CSpEJ1E": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "VXvpzhi8ySE": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "qOVRB0uAPIE": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:41349909": {
+  "1Ut6RouSs0w": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:41350861": {
+  "1Ut6RouSs0w": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:41397633": {
+  "7xij6SoCClI": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:41408424": {
+  "9-Jl0dxWQs8": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:41412630": {
+  "9-Jl0dxWQs8": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:41417631": {
+  "9-Jl0dxWQs8": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:41423409": {
+  "yBL7J0kgldU": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:41464219": {
+  "yBL7J0kgldU": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:41464315": {
+  "T9aRN5JkmL8": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:41466843": {
+  "X9RYuvPCQUA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:41474269": {
+  "yBL7J0kgldU": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:41498290": {
+  "yBL7J0kgldU": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:41498913": {
+  "T9aRN5JkmL8": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:41534025": {
+  "hM_h0UA7upI": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:41662431": {
+  "hM_h0UA7upI": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:41669659": {
+  "ly5BhGOt2vE": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:41676231": {
+  "ly5BhGOt2vE": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:41678367": {
+  "ly5BhGOt2vE": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:41703649": {
+  "qV_rOlHjvvs": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:41760003": {
+  "uRuLgar5XZw": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:41872922": {
+  "wOL3n8ErBAc": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:41877671": {
+  "ly5BhGOt2vE": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:41885997": {
+  "wOL3n8ErBAc": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:41891903": {
+  "yBL7J0kgldU": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:41917534": {
+  "vH2f7cjXjKI": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:41918993": {
+  "ly5BhGOt2vE": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:41919351": {
+  "vH2f7cjXjKI": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:41926020": {
+  "9-Jl0dxWQs8": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  },
+  "IHZwWFHWa-w": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  },
+  "eMlx5fFNoYc": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:41932357": {
+  "zduSFxRajkE": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:42010013": {
+  "umJsITGzXd0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:42057948": {
+  "ueGC3xVcDlc": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:42108141": {
+  "xXCBz_8hM9w": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:42109856": {
+  "ugvHCXCOmm4": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:42112785": {
+  "ugvHCXCOmm4": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:42134697": {
+  "ugvHCXCOmm4": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "xjH2B_sE_RQ": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:42135046": {
+  "8pTEmbeENF4": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:42135245": {
+  "ugvHCXCOmm4": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:42139138": {
+  "xXCBz_8hM9w": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:42187132": {
+  "I4Lbhr-NNXk": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:42187632": {
+  "ly5BhGOt2vE": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:42213434": {
+  "m5WVJu154F0": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:42214367": {
+  "m5WVJu154F0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:42217004": {
+  "m5WVJu154F0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:42259017": {
+  "2IK3DFHRFfw": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  },
+  "KJtZARuO3JY": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  },
+  "LPZh9BOjkQs": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  },
+  "VPRSBzXzavo": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  },
+  "bZQun8Y4L2A": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  },
+  "jkrNMKz9pWU": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:42280404": {
+  "efPrtcLdcdM": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:42284659": {
+  "ugvHCXCOmm4": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:42302366": {
+  "Kbk9BiPhm7o": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:42398079": {
+  "kCc8FmEb1nY": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:42471596": {
+  "om2lIWXLLN4": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:42494417": {
+  "vYCT7cw0ycw": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:42497868": {
+  "2pQWvd6xozw": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "EYDrSSEP0h0": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  },
+  "YoSRg3ORKtQ": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "fcr8Y-3c4E0": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:42504544": {
+  "vYCT7cw0ycw": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:42507349": {
+  "ytomieYqUCQ": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:42514410": {
+  "ueGC3xVcDlc": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:42521498": {
+  "ueGC3xVcDlc": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:42605457": {
+  "5ESJH1NLMLs": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:42649831": {
+  "GEXllEH2XiQ": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:42659205": {
+  "eIaJZ13A0UQ": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:42667261": {
+  "GEXllEH2XiQ": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:42668798": {
+  "MQwryfkydc0": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "PdtKkc5jB4g": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  },
+  "hfb_AIhDYnA": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  },
+  "pRM_P6UfdIc": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:42709667": {
+  "rCIZflYEpEk": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:42729515": {
+  "HlEJbs02wAM": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:42757637": {
+  "pOmXiapfCs8": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:42766939": {
+  "ytomieYqUCQ": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:42776096": {
+  "eIaJZ13A0UQ": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:42787465": {
+  "snkOMOjiVOk": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:42791332": {
+  "0ER5qfoJXd0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "PPxOE9YH57E": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:42801200": {
+  "HlEJbs02wAM": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:42902138": {
+  "eIaJZ13A0UQ": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:42913862": {
+  "bZQun8Y4L2A": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:42926876": {
+  "5It1zarINv0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:42933698": {
+  "5ESJH1NLMLs": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:42951590": {
+  "GXWZPpVI0zU": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:42952960": {
+  "7xTGNNLPyMI": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:42997477": {
+  "GXWZPpVI0zU": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43028597": {
+  "-mRi-B3t6fA": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  },
+  "knDDGYHnnSI": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  },
+  "pRM_P6UfdIc": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  },
+  "uiq95JYpBGY": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "zeAyuLc_f3Q": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43058497": {
+  "TPLPpz6dD3A": {
+   "type_contenu": "autre",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:43058669": {
+  "WITLR_qSPXk": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43087586": {
+  "uRuLgar5XZw": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:43110996": {
+  "7xTGNNLPyMI": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:43155938": {
+  "160F8F8mXlo": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:43172435": {
+  "7xTGNNLPyMI": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43176628": {
+  "ly5BhGOt2vE": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:43195530": {
+  "DcYLT37ImBY": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43199426": {
+  "EWvNQjAaOHw": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43202581": {
+  "EWvNQjAaOHw": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43209021": {
+  "EWvNQjAaOHw": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43213209": {
+  "_pLlet9Jrzc": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  },
+  "rCIZflYEpEk": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:43216179": {
+  "5t1vTLU7s40": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:43222112": {
+  "d7ltNiRrDHQ": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43226282": {
+  "eIaJZ13A0UQ": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43229187": {
+  "EWvNQjAaOHw": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:43233172": {
+  "NW6PhVdq9R8": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43235436": {
+  "NW6PhVdq9R8": {
+   "type_contenu": "retour_experience",
+   "verdict": "critique"
+  }
+ },
+ "agents-ia:43259862": {
+  "I4Lbhr-NNXk": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43262010": {
+  "EWvNQjAaOHw": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43277634": {
+  "K27diMbCsuw": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43305225": {
+  "K27diMbCsuw": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43311949": {
+  "5-xqQBv-ccY": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:43312883": {
+  "5-xqQBv-ccY": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43328507": {
+  "K27diMbCsuw": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43330306": {
+  "kCc8FmEb1nY": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43332477": {
+  "5xumga3QjmA": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43333747": {
+  "5xumga3QjmA": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43343293": {
+  "SxdOUGdseq4": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:43343836": {
+  "K27diMbCsuw": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43351573": {
+  "TPLPpz6dD3A": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43381526": {
+  "NW6PhVdq9R8": {
+   "type_contenu": "technique",
+   "verdict": "critique"
+  },
+  "cQNyYx2fZXw": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "riyh_CIshTs": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43396131": {
+  "eiMSapoeyaU": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43419169": {
+  "Qd6anWv0mv0": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43434432": {
+  "snkOMOjiVOk": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43453566": {
+  "GzX1qOIO1bE": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:43479027": {
+  "160F8F8mXlo": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:43497097": {
+  "YtIQVaSS5Pg": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:43499494": {
+  "7xTGNNLPyMI": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43515234": {
+  "zjkBMFhNj_g": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:43526474": {
+  "HB5TrK7A4pI": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "TknN8fCQvRk": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43532571": {
+  "7xTGNNLPyMI": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:43542635": {
+  "HB5TrK7A4pI": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  },
+  "TknN8fCQvRk": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43546950": {
+  "RXJKdh1KZ0w": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:43559823": {
+  "YtIQVaSS5Pg": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:43571324": {
+  "ETZfkkv6V7Y": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  },
+  "TknN8fCQvRk": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:43575576": {
+  "wjZofJX0v4M": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:43596568": {
+  "ETZfkkv6V7Y": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43604399": {
+  "ETZfkkv6V7Y": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43610570": {
+  "zduSFxRajkE": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:43620238": {
+  "xuCn8ux2gbs": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:43625813": {
+  "EWvNQjAaOHw": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:43645440": {
+  "dutyOc_cAEU": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43650476": {
+  "7xTGNNLPyMI": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:43677331": {
+  "7xTGNNLPyMI": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:43723475": {
+  "ugvHCXCOmm4": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43735039": {
+  "ETZfkkv6V7Y": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:43742639": {
+  "aircAruvnKk": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  },
+  "zhxNI7V2IxM": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43764293": {
+  "EYDrSSEP0h0": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43831585": {
+  "dutyOc_cAEU": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43889555": {
+  "biYciU1uiUw": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:43910739": {
+  "dutyOc_cAEU": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43911602": {
+  "T9aRN5JkmL8": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43955038": {
+  "wjZofJX0v4M": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43970965": {
+  "zZr54G7ec7A": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:43999072": {
+  "zDmW5hJPsvQ": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:44013643": {
+  "zZr54G7ec7A": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44023735": {
+  "ipRvjS7q1DI": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:44039676": {
+  "Dk36u4NGeSU": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44052626": {
+  "ly5BhGOt2vE": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:44067910": {
+  "Dk36u4NGeSU": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44074824": {
+  "zZr54G7ec7A": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:44090437": {
+  "7xTGNNLPyMI": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:44099898": {
+  "zZr54G7ec7A": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:44107993": {
+  "zNTWmw72BDs": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44108175": {
+  "zNTWmw72BDs": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44108620": {
+  "zDmW5hJPsvQ": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:44118955": {
+  "uc-jdM9XnhE": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44126166": {
+  "HB5TrK7A4pI": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "TknN8fCQvRk": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44127413": {
+  "wjZofJX0v4M": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:44145999": {
+  "5D3x_Ygv3No": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44158588": {
+  "uc-jdM9XnhE": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44160867": {
+  "d6sVWEu9HWU": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44165151": {
+  "5D3x_Ygv3No": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44168763": {
+  "5D3x_Ygv3No": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44176009": {
+  "b2F-DItXtZs": {
+   "type_contenu": "autre",
+   "verdict": "critique"
+  }
+ },
+ "agents-ia:44176610": {
+  "7xTGNNLPyMI": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44185210": {
+  "6eBSHbLKuN0": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:44191389": {
+  "ojL_VHc4gLk": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:44197036": {
+  "Yf_1w00qIKc": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44197117": {
+  "Yf_1w00qIKc": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:44197169": {
+  "6eBSHbLKuN0": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44208069": {
+  "HB5TrK7A4pI": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  },
+  "TknN8fCQvRk": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44217253": {
+  "eiMSapoeyaU": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44218268": {
+  "sQYXZCUvpIc": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44253838": {
+  "B7GDr-VFuEo": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44256287": {
+  "aSXaxOdVtAQ": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44257122": {
+  "ojL_VHc4gLk": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44257209": {
+  "sQYXZCUvpIc": {
+   "type_contenu": "technique",
+   "verdict": "critique"
+  }
+ },
+ "agents-ia:44272185": {
+  "eMlx5fFNoYc": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44285360": {
+  "d7ltNiRrDHQ": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:44305116": {
+  "D7_ipDqhtwk": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:44312818": {
+  "HB5TrK7A4pI": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:44312947": {
+  "B7GDr-VFuEo": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:44315254": {
+  "LCEmiRjPEtQ": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44316048": {
+  "LCEmiRjPEtQ": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44316081": {
+  "XyQ4ZTS5dGw": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44320055": {
+  "LCEmiRjPEtQ": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44320812": {
+  "zjkBMFhNj_g": {
+   "type_contenu": "conference",
+   "verdict": "critique"
+  }
+ },
+ "agents-ia:44329453": {
+  "ojL_VHc4gLk": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:44367641": {
+  "k9BRhSbVSpI": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44379954": {
+  "k9BRhSbVSpI": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44390241": {
+  "LCEmiRjPEtQ": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44422415": {
+  "nfOVgz_omlU": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44424942": {
+  "7xTGNNLPyMI": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  },
+  "wjZofJX0v4M": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:44431171": {
+  "HB5TrK7A4pI": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "TknN8fCQvRk": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44435834": {
+  "EO3_qN_Ynsk": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44435904": {
+  "ETZfkkv6V7Y": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:44444988": {
+  "SxdOUGdseq4": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:44447831": {
+  "nfOVgz_omlU": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:44450663": {
+  "nfOVgz_omlU": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44453926": {
+  "EO3_qN_Ynsk": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44455690": {
+  "T9aRN5JkmL8": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44461730": {
+  "8kMaTybvDUw": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44477192": {
+  "4epAfU1FCuQ": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44491508": {
+  "Yf_1w00qIKc": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44491841": {
+  "Yf_1w00qIKc": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44495748": {
+  "ipRvjS7q1DI": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:44526681": {
+  "hJP5GqnTrNo": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:44527405": {
+  "WITLR_qSPXk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:44546265": {
+  "I4Lbhr-NNXk": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44552708": {
+  "Y4_YYrIKLac": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44560145": {
+  "ZuiJjkbX0Og": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44568473": {
+  "LXzJR7K0wK0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:44593038": {
+  "XyQ4ZTS5dGw": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44595499": {
+  "1jn_RpbPbEc": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44598184": {
+  "6eBSHbLKuN0": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:44600621": {
+  "1jn_RpbPbEc": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44603151": {
+  "Y4_YYrIKLac": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44606941": {
+  "XyQ4ZTS5dGw": {
+   "type_contenu": "retour_experience",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:44608263": {
+  "NW6PhVdq9R8": {
+   "type_contenu": "autre",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:44645356": {
+  "4__gg83s_Do": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44659516": {
+  "vaUuE582vq8": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:44701400": {
+  "ia6aJIplmtc": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44750885": {
+  "6eBSHbLKuN0": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:44766795": {
+  "ueGC3xVcDlc": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44766982": {
+  "c46VaM_VZGU": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:44793769": {
+  "hOqgFNlbrYE": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44794067": {
+  "gv0WHhKelSE": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44798468": {
+  "XyQ4ZTS5dGw": {
+   "type_contenu": "retour_experience",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:44813827": {
+  "GcqQ1ebBqkc": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44827753": {
+  "1jn_RpbPbEc": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44834380": {
+  "b2F-DItXtZs": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:44851888": {
+  "4__gg83s_Do": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44857612": {
+  "EO3_qN_Ynsk": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  },
+  "tbDDYKRFjhk": {
+   "type_contenu": "conference",
+   "verdict": "critique"
+  }
+ },
+ "agents-ia:44877619": {
+  "1jn_RpbPbEc": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44890212": {
+  "HB5TrK7A4pI": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "TknN8fCQvRk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:44916616": {
+  "gv0WHhKelSE": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:44934492": {
+  "EL7Au1tzNxE": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:44942098": {
+  "LCEmiRjPEtQ": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:44996215": {
+  "4epAfU1FCuQ": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:45043402": {
+  "IS_y40zY-hc": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45050748": {
+  "GcqQ1ebBqkc": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45076326": {
+  "lNcEVYq2qUg": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:45079033": {
+  "lNcEVYq2qUg": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:45087705": {
+  "ZJUyVVFOXOc": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45107348": {
+  "c46VaM_VZGU": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:45110368": {
+  "iF9iV4xponk": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45113229": {
+  "EL7Au1tzNxE": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45115514": {
+  "tbDDYKRFjhk": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45116874": {
+  "iF9iV4xponk": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45134988": {
+  "efPrtcLdcdM": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:45143647": {
+  "ly5BhGOt2vE": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:45183921": {
+  "iF9iV4xponk": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45195340": {
+  "zjkBMFhNj_g": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:45209187": {
+  "zjkBMFhNj_g": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45229778": {
+  "wL22URoMZjo": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45237161": {
+  "IS_y40zY-hc": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:45245145": {
+  "HB5TrK7A4pI": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "TknN8fCQvRk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:45292505": {
+  "D5VN56jQMWM": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45360666": {
+  "rCIZflYEpEk": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:45363902": {
+  "160F8F8mXlo": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45394176": {
+  "2oXDgbvFCWY": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45396242": {
+  "21EYKqUsPfg": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:45417147": {
+  "BER3EhUIyz0": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45417431": {
+  "dGiqrsv530Y": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45422410": {
+  "21EYKqUsPfg": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:45423064": {
+  "BER3EhUIyz0": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45424165": {
+  "dGiqrsv530Y": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45430899": {
+  "ZJUyVVFOXOc": {
+   "type_contenu": "retour_experience",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:45438992": {
+  "ZJUyVVFOXOc": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45439275": {
+  "BER3EhUIyz0": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45448536": {
+  "HXp8_w3XzgU": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:45448762": {
+  "HXp8_w3XzgU": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:45477811": {
+  "21EYKqUsPfg": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:45497905": {
+  "-Pc3IuVNuO0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "wL22URoMZjo": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45504310": {
+  "2oXDgbvFCWY": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45506796": {
+  "2oXDgbvFCWY": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45517436": {
+  "gv0WHhKelSE": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  },
+  "xOO8Wt_i72s": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:45532586": {
+  "hM_h0UA7upI": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45542438": {
+  "7xTGNNLPyMI": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  },
+  "kCc8FmEb1nY": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:45544105": {
+  "wL22URoMZjo": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45571088": {
+  "GvibIstOn_E": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45576358": {
+  "2oXDgbvFCWY": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45605574": {
+  "nfOVgz_omlU": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:45608669": {
+  "21EYKqUsPfg": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:45615177": {
+  "qbIk7-JPB2c": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:45638433": {
+  "EWvNQjAaOHw": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:45652516": {
+  "_zfN9wnPvU0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:45671331": {
+  "_zfN9wnPvU0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:45707036": {
+  "d-7o9xYp7eE": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:45748759": {
+  "_zfN9wnPvU0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:45755813": {
+  "vnGC4YS36gU": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:45773477": {
+  "_zfN9wnPvU0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:45780167": {
+  "vnGC4YS36gU": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:45788773": {
+  "EWvNQjAaOHw": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45798358": {
+  "Y65FRxE7uMc": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:45805599": {
+  "21EYKqUsPfg": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "IkdziSLYzHw": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:45815377": {
+  "AbSehcT19u0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:45819961": {
+  "VlA_jt_3Qc4": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45864158": {
+  "vnGC4YS36gU": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:45892406": {
+  "aircAruvnKk": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:45902241": {
+  "GcqQ1ebBqkc": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:45915424": {
+  "8kMaTybvDUw": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45926364": {
+  "IS_y40zY-hc": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45933744": {
+  "OwMu0pyYZBc": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45955207": {
+  "ipRvjS7q1DI": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:45978393": {
+  "8pTEmbeENF4": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45982611": {
+  "7xTGNNLPyMI": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:45991986": {
+  "OwMu0pyYZBc": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:45995194": {
+  "d7ltNiRrDHQ": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:46085614": {
+  "5ESJH1NLMLs": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "dTwB94yOrRQ": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:46144776": {
+  "ly5BhGOt2vE": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:46174514": {
+  "I9aGC6Ui3eE": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46179594": {
+  "Q5baLehv5So": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46187308": {
+  "I9aGC6Ui3eE": {
+   "type_contenu": "autre",
+   "verdict": "critique"
+  }
+ },
+ "agents-ia:46211174": {
+  "yftBiNu0ZNU": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46223284": {
+  "Xx4Tpsk_fnM": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "_zfN9wnPvU0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "t-8TDOFqkQA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "yftBiNu0ZNU": {
+   "type_contenu": "autre",
+   "verdict": "critique"
+  }
+ },
+ "agents-ia:46251251": {
+  "CEvIs9y1uog": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:46251769": {
+  "CEvIs9y1uog": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46269022": {
+  "5ESJH1NLMLs": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:46274639": {
+  "yftBiNu0ZNU": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:46344977": {
+  "CEvIs9y1uog": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:46375215": {
+  "SkTgX1mGmDg": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "bzkRVzciAZg": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "y8OnoxKotPQ": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:46396835": {
+  "mNLWtM3Iya4": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46401082": {
+  "zuJyJP517Uw": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46401377": {
+  "3VJT2JeDCyw": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:46418753": {
+  "AmdLVWMdjOk": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46457012": {
+  "0ANECpNdt-4": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46472213": {
+  "ukpCHo5v-Gc": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46474326": {
+  "8fNP4N46RRo": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  },
+  "PmW_TMQ3l0I": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  },
+  "Q5baLehv5So": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  },
+  "Q86qzJ1K1Ss": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  },
+  "Ub3GoFaUcds": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  },
+  "VlA_jt_3Qc4": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  },
+  "h-7S6HNq0Vg": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  },
+  "k5Fh-UgTuCo": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  },
+  "yT84Y5zCnaA": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46489928": {
+  "7xTGNNLPyMI": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:46510011": {
+  "mNLWtM3Iya4": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46513225": {
+  "TZE33qMYwsc": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  },
+  "aSXaxOdVtAQ": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46523017": {
+  "6eBSHbLKuN0": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46532478": {
+  "zuJyJP517Uw": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:46551814": {
+  "1OzxYK2-qsI": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46558751": {
+  "1OzxYK2-qsI": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46564821": {
+  "JAcwtV_bFp4": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "Xx4Tpsk_fnM": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "t-8TDOFqkQA": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "vrTrOCQZoQE": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "yftBiNu0ZNU": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:46597781": {
+  "_6C9nMvQsGU": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46611176": {
+  "ukpCHo5v-Gc": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:46611715": {
+  "3VJT2JeDCyw": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:46624687": {
+  "ojL_VHc4gLk": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46638257": {
+  "AmdLVWMdjOk": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:46643921": {
+  "_6C9nMvQsGU": {
+   "type_contenu": "retour_experience",
+   "verdict": "critique"
+  }
+ },
+ "agents-ia:46655202": {
+  "JcQPAZP7-sE": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46684280": {
+  "OwMu0pyYZBc": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:46687517": {
+  "aI7XknJJC5Q": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:46688862": {
+  "yftBiNu0ZNU": {
+   "type_contenu": "autre",
+   "verdict": "critique"
+  }
+ },
+ "agents-ia:46689823": {
+  "JcQPAZP7-sE": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46690512": {
+  "0ANECpNdt-4": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46690876": {
+  "oRiQz7mOY6A": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:46690967": {
+  "aI7XknJJC5Q": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:46703535": {
+  "aI7XknJJC5Q": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:46710285": {
+  "I9aGC6Ui3eE": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46714947": {
+  "hOqgFNlbrYE": {
+   "type_contenu": "retour_experience",
+   "verdict": "recommande"
+  },
+  "zxMjOqM7DFs": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46751163": {
+  "7pqF90rstZQ": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:46756014": {
+  "0ANECpNdt-4": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46793781": {
+  "rHqk0ZGb6qo": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46797969": {
+  "LvW1HTSLPEk": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46802763": {
+  "iV1EcfZSdCM": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46805633": {
+  "TYNHYIX11Pc": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "t-8TDOFqkQA": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "yftBiNu0ZNU": {
+   "type_contenu": "autre",
+   "verdict": "critique"
+  }
+ },
+ "agents-ia:46812608": {
+  "Y0MfUWS3LKQ": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46817321": {
+  "Y0MfUWS3LKQ": {
+   "type_contenu": "technique",
+   "verdict": "critique"
+  }
+ },
+ "agents-ia:46820458": {
+  "jBpQiv-ZlVM": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46828732": {
+  "jBpQiv-ZlVM": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46885990": {
+  "kQRu7DdTTVA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:46887620": {
+  "De-_wQpKw0s": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46889534": {
+  "l5ggH-YhuAw": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46890307": {
+  "kQRu7DdTTVA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:46896855": {
+  "3sVD3aG_azw": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "De-_wQpKw0s": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "FBSam25u8O4": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "kQRu7DdTTVA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:46897095": {
+  "LvW1HTSLPEk": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:46905758": {
+  "f2FnYRP5kC4": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46906075": {
+  "8brENzmq1pE": {
+   "type_contenu": "autre",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:46907914": {
+  "8brENzmq1pE": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46913177": {
+  "f2FnYRP5kC4": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46963496": {
+  "ERiXDhLHxmo": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "Xx4Tpsk_fnM": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "_zfN9wnPvU0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:46987040": {
+  "J7al_Gpolb8": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "umJsITGzXd0": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47002572": {
+  "7xTGNNLPyMI": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:47012749": {
+  "FBSam25u8O4": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:47022494": {
+  "AmdLVWMdjOk": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47023556": {
+  "efPrtcLdcdM": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47026705": {
+  "l5ggH-YhuAw": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47031059": {
+  "7xTGNNLPyMI": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:47048290": {
+  "PQU9o_5rHC4": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47059625": {
+  "2oXDgbvFCWY": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47066847": {
+  "GJVSDjRXVoo": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:47074604": {
+  "iV1EcfZSdCM": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47074883": {
+  "f2FnYRP5kC4": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:47101131": {
+  "zZr54G7ec7A": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:47109524": {
+  "tc4ROCJYbm0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:47116815": {
+  "Y65FRxE7uMc": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:47132875": {
+  "GcNu6wrLTJc": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:47134384": {
+  "_k22WAEAfpE": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47139755": {
+  "_k22WAEAfpE": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:47144474": {
+  "GcNu6wrLTJc": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47155162": {
+  "I2K94zZfD9E": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "Kbk9BiPhm7o": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:47163681": {
+  "3TYT1QfdfsM": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:47167522": {
+  "7xTGNNLPyMI": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:47194978": {
+  "MPTNHrq_4LU": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:47195023": {
+  "ZJUyVVFOXOc": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:47202323": {
+  "FBSam25u8O4": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:47203526": {
+  "MPTNHrq_4LU": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:47206595": {
+  "7xTGNNLPyMI": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  },
+  "EWvNQjAaOHw": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:47217403": {
+  "PctlBxRh0p4": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47232286": {
+  "c46VaM_VZGU": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:47245995": {
+  "HJQ86HuSIJI": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47248134": {
+  "CjOKBwBCcOs": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "oJ2gTb-lxbE": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47264945": {
+  "yftBiNu0ZNU": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:47279136": {
+  "oRiQz7mOY6A": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:47282982": {
+  "PctlBxRh0p4": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47287447": {
+  "HJQ86HuSIJI": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:47298807": {
+  "JHEO7cplfk8": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47306852": {
+  "JHEO7cplfk8": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47313908": {
+  "gzwRflcLPAA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:47315695": {
+  "CjOKBwBCcOs": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  },
+  "oJ2gTb-lxbE": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47348140": {
+  "l5ggH-YhuAw": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47349619": {
+  "oJ2gTb-lxbE": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47351652": {
+  "sxiSp4JXqws": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:47364116": {
+  "R_2-ggpZz0Q": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47365179": {
+  "R_2-ggpZz0Q": {
+   "type_contenu": "autre",
+   "verdict": "critique"
+  }
+ },
+ "agents-ia:47372454": {
+  "Qd6anWv0mv0": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47394524": {
+  "xE9W9Ghe4Jk": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47428140": {
+  "pLQCG31HSK8": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47434594": {
+  "YDdKiQNw80c": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47447490": {
+  "h3AtWdeu_G0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:47452669": {
+  "h3AtWdeu_G0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:47457347": {
+  "dutyOc_cAEU": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:47458803": {
+  "h3AtWdeu_G0": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47462235": {
+  "PQU9o_5rHC4": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47464529": {
+  "_k22WAEAfpE": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:47465356": {
+  "d6iQrh2TK98": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:47466722": {
+  "h3AtWdeu_G0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:47467441": {
+  "kwSVtQ7dziU": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47475832": {
+  "kwSVtQ7dziU": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47476466": {
+  "h3AtWdeu_G0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:47484145": {
+  "h3AtWdeu_G0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:47494146": {
+  "GJVSDjRXVoo": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47505594": {
+  "kwSVtQ7dziU": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47514854": {
+  "GJVSDjRXVoo": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:47515645": {
+  "pLQCG31HSK8": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47548141": {
+  "JAcwtV_bFp4": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "Xx4Tpsk_fnM": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "YDdKiQNw80c": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47552951": {
+  "1sd26pWhfmg": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47558929": {
+  "1sd26pWhfmg": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47581390": {
+  "1sd26pWhfmg": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:47598915": {
+  "1sd26pWhfmg": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47600990": {
+  "1sd26pWhfmg": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47601003": {
+  "1sd26pWhfmg": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:47601122": {
+  "1sd26pWhfmg": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47605205": {
+  "1sd26pWhfmg": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:47606169": {
+  "c46VaM_VZGU": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:47610545": {
+  "1sd26pWhfmg": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47626709": {
+  "1sd26pWhfmg": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:47633900": {
+  "1sd26pWhfmg": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:47641819": {
+  "1sd26pWhfmg": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47658997": {
+  "-DSCZX3uG_c": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  },
+  "manjyiUsfU8": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47680053": {
+  "1sd26pWhfmg": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:47680218": {
+  "1sd26pWhfmg": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:47716728": {
+  "b2F-DItXtZs": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:47723969": {
+  "X9RYuvPCQUA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:47732549": {
+  "1sd26pWhfmg": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:47758283": {
+  "1sd26pWhfmg": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47765174": {
+  "gzt52Trk9w0": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47799974": {
+  "JAcwtV_bFp4": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  },
+  "OUE3FSIk46g": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  },
+  "Xx4Tpsk_fnM": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  },
+  "YDdKiQNw80c": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  },
+  "YhgYMH6n004": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47816137": {
+  "D7_ipDqhtwk": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47830832": {
+  "wjZofJX0v4M": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:47833490": {
+  "5ESJH1NLMLs": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47834126": {
+  "1sd26pWhfmg": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47860046": {
+  "BKorP55Aqvg": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:47877060": {
+  "dGiqrsv530Y": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47886517": {
+  "7xTGNNLPyMI": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47888195": {
+  "7xTGNNLPyMI": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47899393": {
+  "21EYKqUsPfg": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:47904138": {
+  "1sd26pWhfmg": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47913237": {
+  "EWvNQjAaOHw": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47939500": {
+  "gzt52Trk9w0": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47951931": {
+  "1sd26pWhfmg": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47956176": {
+  "96jN2OCOfLs": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47971697": {
+  "96jN2OCOfLs": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47981117": {
+  "JrBdYmStZJ4": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:47984799": {
+  "96jN2OCOfLs": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47992511": {
+  "-DSCZX3uG_c": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  },
+  "manjyiUsfU8": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:47995683": {
+  "21EYKqUsPfg": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:47996103": {
+  "WnzR5aOElvw": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48002015": {
+  "J8O9LLpJNrg": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48008693": {
+  "kYkIdXwW2AE": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:48012309": {
+  "J8O9LLpJNrg": {
+   "type_contenu": "autre",
+   "verdict": "critique"
+  }
+ },
+ "agents-ia:48020642": {
+  "sxiSp4JXqws": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48025735": {
+  "21EYKqUsPfg": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48026505": {
+  "kYkIdXwW2AE": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:48040092": {
+  "GJVSDjRXVoo": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:48047857": {
+  "SlGRN8jh2RI": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48050357": {
+  "AUQKjgKQF7w": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:48050402": {
+  "SlGRN8jh2RI": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48061823": {
+  "xE9W9Ghe4Jk": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48070520": {
+  "AUQKjgKQF7w": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:48091609": {
+  "7pqF90rstZQ": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "VRjgNgJms3Q": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48095290": {
+  "UQ4pSVS_mN0": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48103104": {
+  "UQ4pSVS_mN0": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48104030": {
+  "UQ4pSVS_mN0": {
+   "type_contenu": "autre",
+   "verdict": "critique"
+  }
+ },
+ "agents-ia:48124647": {
+  "Hrbq66XqtCo": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "aJmHfmrRMUE": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48137114": {
+  "h3AtWdeu_G0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:48144020": {
+  "ebls5x-gb0s": {
+   "type_contenu": "autre",
+   "verdict": "critique"
+  }
+ },
+ "agents-ia:48152899": {
+  "X_ZVSPcZhtw": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48158585": {
+  "X_ZVSPcZhtw": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48161937": {
+  "21EYKqUsPfg": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:48189076": {
+  "1sd26pWhfmg": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:48284443": {
+  "8zIcP5WlShw": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48291079": {
+  "UiXcLURL7yo": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48309077": {
+  "gV5obrYaogU": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "o4-YnLpLgtk": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:48321181": {
+  "eMlx5fFNoYc": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:48360398": {
+  "ZuiJjkbX0Og": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:48371456": {
+  "-DSCZX3uG_c": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "manjyiUsfU8": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48375109": {
+  "8zIcP5WlShw": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:48400517": {
+  "wjZofJX0v4M": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:48412538": {
+  "8rS3fTbC7TE": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "IHD8BDFYyGI": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "T8e2FbwN7dw": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "zbKDmkJPVvI": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:48416641": {
+  "-QFHIoCo-Ko": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48427184": {
+  "GJVSDjRXVoo": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48432645": {
+  "-QFHIoCo-Ko": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:48441958": {
+  "zbKDmkJPVvI": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:48447549": {
+  "T8ByoAt5gCA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "_wStScmT748": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48461087": {
+  "5ESJH1NLMLs": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:48467063": {
+  "wykPErJ8M-8": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48479626": {
+  "wykPErJ8M-8": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48495584": {
+  "qzpZQe7JT-o": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:48495623": {
+  "qzpZQe7JT-o": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:48610628": {
+  "yvJYw2gR0cU": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48674236": {
+  "XTT55qFdyss": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "kQRu7DdTTVA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:48680759": {
+  "I9aGC6Ui3eE": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48695059": {
+  "36GT2zI8lVA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:48705046": {
+  "JrBdYmStZJ4": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:48735993": {
+  "gQddtTdmG_8": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48781814": {
+  "21EYKqUsPfg": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:48790835": {
+  "Fc3cW0nqAQ0": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48808420": {
+  "SlGRN8jh2RI": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48809905": {
+  "rKV5JcALQoQ": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48815143": {
+  "rKV5JcALQoQ": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48830379": {
+  "rKV5JcALQoQ": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48842839": {
+  "qbIk7-JPB2c": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48905402": {
+  "Fc3cW0nqAQ0": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48926331": {
+  "gzwRflcLPAA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:48931051": {
+  "_zfN9wnPvU0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:48940484": {
+  "cSsVNtGPOIg": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "uDAeAuYyl0E": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:48949239": {
+  "cSsVNtGPOIg": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "uDAeAuYyl0E": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:48985758": {
+  "UiXcLURL7yo": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:48989295": {
+  "om2lIWXLLN4": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:48997082": {
+  "kQRu7DdTTVA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49013121": {
+  "GvibIstOn_E": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49040843": {
+  "wlYa8NV5k-U": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49048996": {
+  "wlYa8NV5k-U": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49067777": {
+  "Fc3cW0nqAQ0": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49070803": {
+  "2Kx9jbSMZqA": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49073525": {
+  "Sir59K8ZDPU": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49078280": {
+  "Hrbq66XqtCo": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49079410": {
+  "Sir59K8ZDPU": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49093409": {
+  "ia6aJIplmtc": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49104027": {
+  "Sir59K8ZDPU": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49120682": {
+  "kYkIdXwW2AE": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49141228": {
+  "6Ide5pRLR8Y": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49165607": {
+  "-DSCZX3uG_c": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  },
+  "manjyiUsfU8": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49179899": {
+  "W7U3HdI37N0": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49181796": {
+  "5ESJH1NLMLs": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49186921": {
+  "l6DKRf-fAAM": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49193434": {
+  "hEUO6pjwFOo": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49213617": {
+  "87DyyMV0kCY": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:49215336": {
+  "87DyyMV0kCY": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49221160": {
+  "87DyyMV0kCY": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49236091": {
+  "87DyyMV0kCY": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49241156": {
+  "87DyyMV0kCY": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49250930": {
+  "XZJc1p6RE78": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49318304": {
+  "W7U3HdI37N0": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49331907": {
+  "Sir59K8ZDPU": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49334795": {
+  "2Kx9jbSMZqA": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49337061": {
+  "Sir59K8ZDPU": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49346086": {
+  "87DyyMV0kCY": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49362945": {
+  "tLv7qRWFMlw": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49382227": {
+  "dLhcLqoff6k": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49382698": {
+  "jBpQiv-ZlVM": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49398117": {
+  "ORgKY9AlybA": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49398752": {
+  "tLv7qRWFMlw": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49408329": {
+  "yvJYw2gR0cU": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49422202": {
+  "7xTGNNLPyMI": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  },
+  "JuoVZkPBiKk": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:49440130": {
+  "aV26V1UvkJw": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49441237": {
+  "aV26V1UvkJw": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49467437": {
+  "NYFGCESmikA": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49469155": {
+  "AbSehcT19u0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49477235": {
+  "B4Kn3djJMCE": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "Cjntrqhn8pk": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "v9XJWBZBzq4": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49478095": {
+  "NYFGCESmikA": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49494894": {
+  "e5O1Y-5phEU": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49501939": {
+  "e5O1Y-5phEU": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49503349": {
+  "NYFGCESmikA": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49512023": {
+  "e5O1Y-5phEU": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49523145": {
+  "_MwMLPmMccs": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49523168": {
+  "NYFGCESmikA": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49527471": {
+  "QgH9sr7G13Q": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49530873": {
+  "c46VaM_VZGU": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49538660": {
+  "QgH9sr7G13Q": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:49552292": {
+  "X50zezLFWWI": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49569167": {
+  "GlYgs6v2YfU": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:49571729": {
+  "Bj9BD2D3DzA": {
+   "type_contenu": "autre",
+   "verdict": "recommande"
+  },
+  "D8GOeCFFby4": {
+   "type_contenu": "autre",
+   "verdict": "recommande"
+  },
+  "GlYgs6v2YfU": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  },
+  "l6DKRf-fAAM": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:49582194": {
+  "om2lIWXLLN4": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49582680": {
+  "ORgKY9AlybA": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49583108": {
+  "-DSCZX3uG_c": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  },
+  "manjyiUsfU8": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49589039": {
+  "-JlxuQ7tPgQ": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49589920": {
+  "QgH9sr7G13Q": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49590464": {
+  "6Ide5pRLR8Y": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "SpPhm7S9vsQ": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49596717": {
+  "6IFVTcM28KA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49596801": {
+  "6IFVTcM28KA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49610254": {
+  "5ESJH1NLMLs": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49619743": {
+  "Lx8lrn-cytc": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49620355": {
+  "I9aGC6Ui3eE": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49622607": {
+  "Cjntrqhn8pk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "v9XJWBZBzq4": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49644390": {
+  "_MwMLPmMccs": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49652210": {
+  "6IFVTcM28KA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49659348": {
+  "ORgKY9AlybA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49660663": {
+  "i30jVPqQeOM": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49672488": {
+  "WnzR5aOElvw": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:49676743": {
+  "om2lIWXLLN4": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49678897": {
+  "i30jVPqQeOM": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49690128": {
+  "ukpCHo5v-Gc": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49695222": {
+  "7xij6SoCClI": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49696530": {
+  "LPZh9BOjkQs": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49701285": {
+  "U-Rqv9dOB1U": {
+   "type_contenu": "autre",
+   "verdict": "critique"
+  }
+ },
+ "agents-ia:49702885": {
+  "U-Rqv9dOB1U": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49732313": {
+  "y8OnoxKotPQ": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49791532": {
+  "Cjntrqhn8pk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49811778": {
+  "8j-hR4fJywU": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49814886": {
+  "X50zezLFWWI": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49848295": {
+  "Cjntrqhn8pk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "v9XJWBZBzq4": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49848789": {
+  "5It1zarINv0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49849567": {
+  "B4Kn3djJMCE": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "v9XJWBZBzq4": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49869870": {
+  "8j-hR4fJywU": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49877741": {
+  "1sd26pWhfmg": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49879401": {
+  "k6rbHmBxSEs": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49880915": {
+  "JrBdYmStZJ4": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49882778": {
+  "k6rbHmBxSEs": {
+   "type_contenu": "autre",
+   "verdict": "critique"
+  }
+ },
+ "agents-ia:49883504": {
+  "X9RYuvPCQUA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "nJPERZDfyWc": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49884205": {
+  "JAcwtV_bFp4": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "wL22URoMZjo": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49884519": {
+  "114i2Kz-LZA": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49920574": {
+  "kYkIdXwW2AE": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49927291": {
+  "c46VaM_VZGU": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49929353": {
+  "NnV_cWeoo5Q": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:49929391": {
+  "NnV_cWeoo5Q": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49931076": {
+  "NnV_cWeoo5Q": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49938661": {
+  "21EYKqUsPfg": {
+   "type_contenu": "autre",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:49939078": {
+  "zwi5b5xSsKA": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49939109": {
+  "zwi5b5xSsKA": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49939944": {
+  "zwi5b5xSsKA": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49947678": {
+  "NnV_cWeoo5Q": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49948199": {
+  "NnV_cWeoo5Q": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:49951732": {
+  "-DSCZX3uG_c": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  },
+  "manjyiUsfU8": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49962207": {
+  "114i2Kz-LZA": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49972801": {
+  "R_uf5OfMGio": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49989812": {
+  "Cjntrqhn8pk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49992286": {
+  "87DyyMV0kCY": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:49997471": {
+  "R_uf5OfMGio": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:50000407": {
+  "NnV_cWeoo5Q": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:50010330": {
+  "3TNpOD6bov8": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:50011965": {
+  "en0GuyhieQk": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:50016373": {
+  "en0GuyhieQk": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:50025137": {
+  "en0GuyhieQk": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:50028019": {
+  "d-7o9xYp7eE": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:50029408": {
+  "NnV_cWeoo5Q": {
+   "type_contenu": "conference",
+   "verdict": "critique"
+  }
+ },
+ "agents-ia:50053413": {
+  "5It1zarINv0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:50072505": {
+  "3TYT1QfdfsM": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:50074431": {
+  "DlTNN0gvkLM": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:50081712": {
+  "DlTNN0gvkLM": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:50100268": {
+  "X50zezLFWWI": {
+   "type_contenu": "autre",
+   "verdict": "critique"
+  }
+ },
+ "agents-ia:50133642": {
+  "NnV_cWeoo5Q": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:50142251": {
+  "umJsITGzXd0": {
+   "type_contenu": "autre",
+   "verdict": "critique"
+  }
+ },
+ "agents-ia:50158294": {
+  "Lx8lrn-cytc": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:50171703": {
+  "-0UhSo5ZNX8": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "03i_Ojbx5do": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "0ZpINmi6C3o": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "1CbmC2aWhjY": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "205IdzGJMJs": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "A4eVoOlIuis": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "I3iK7j36tI4": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "Qi8icKc9kKw": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "RmVL30sS2yU": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "Vp5qsEuUOWo": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "YcuxbYUW8R8": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "bKdfNztHq1k": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "e5O1Y-5phEU": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "iBwuEt3DqoI": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "zMg9Gjz8PKs": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:50173522": {
+  "6OnuO6Y5OQY": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:50183793": {
+  "6OnuO6Y5OQY": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:50186009": {
+  "biYciU1uiUw": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:50208353": {
+  "5It1zarINv0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:50297182": {
+  "o4AUKGdScNI": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:50299757": {
+  "NnV_cWeoo5Q": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:50301908": {
+  "QgH9sr7G13Q": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  },
+  "z64a7USuGX0": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:50303740": {
+  "3TNpOD6bov8": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:50307393": {
+  "5ESJH1NLMLs": {
+   "type_contenu": "autre",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:50310682": {
+  "5ESJH1NLMLs": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:50320652": {
+  "kCc8FmEb1nY": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:50321585": {
+  "EWvNQjAaOHw": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:50322685": {
+  "NnV_cWeoo5Q": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:50327831": {
+  "o4AUKGdScNI": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:50376821": {
+  "NnV_cWeoo5Q": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:50376898": {
+  "dLhcLqoff6k": {
+   "type_contenu": "retour_experience",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:50381648": {
+  "5D7QPOIZ7gY": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:50383659": {
+  "L1OBRtfPS34": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:50391647": {
+  "L1OBRtfPS34": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:50391685": {
+  "L1OBRtfPS34": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:50396050": {
+  "5D7QPOIZ7gY": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:50401738": {
+  "5D7QPOIZ7gY": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:12029776": {
+  "QPKKQnijnsM": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:14239560": {
+  "YNTARSM-Fjc": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:17615788": {
+  "dFdas-kMF74": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:18847464": {
+  "np_ylvc8Zj8": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:20892697": {
+  "C9Ly6na58e0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "F6NW0QeKLZA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:20954213": {
+  "F6NW0QeKLZA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:21897552": {
+  "XORSpUUy0lQ": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:2194944": {
+  "CkaH_UUH0Ek": {
+   "type_contenu": "vlog",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:22288616": {
+  "QPKKQnijnsM": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:23015347": {
+  "lk83N2u1ZmY": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:23044554": {
+  "lk83N2u1ZmY": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:23121246": {
+  "lk83N2u1ZmY": {
+   "type_contenu": "vlog",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:23306129": {
+  "np_ylvc8Zj8": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:23387223": {
+  "lk83N2u1ZmY": {
+   "type_contenu": "vlog",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:24405960": {
+  "lk83N2u1ZmY": {
+   "type_contenu": "vlog",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:24478864": {
+  "HfPCdJapIXA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:24502147": {
+  "HfPCdJapIXA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:24502160": {
+  "HfPCdJapIXA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:25855152": {
+  "OQsXDdGxk3U": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:26025043": {
+  "-ARXW8InStY": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  },
+  "UV1V9-nnaAs": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  },
+  "yu5R5mrrGB0": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "navigation-hauturiere:26371609": {
+  "np_ylvc8Zj8": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:28117940": {
+  "jyQwgBAaBag": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:28118403": {
+  "jyQwgBAaBag": {
+   "type_contenu": "retour_experience",
+   "verdict": "recommande"
+  }
+ },
+ "navigation-hauturiere:28343141": {
+  "YNTARSM-Fjc": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:28386307": {
+  "yu5R5mrrGB0": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "navigation-hauturiere:30100083": {
+  "1AZXXKj0p0s": {
+   "type_contenu": "retour_experience",
+   "verdict": "recommande"
+  }
+ },
+ "navigation-hauturiere:30103089": {
+  "CkaH_UUH0Ek": {
+   "type_contenu": "vlog",
+   "verdict": "recommande"
+  },
+  "NbPgP6wIF44": {
+   "type_contenu": "vlog",
+   "verdict": "neutre"
+  },
+  "QBrvPaNz1Bo": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "VERYUyO93_Y": {
+   "type_contenu": "vlog",
+   "verdict": "recommande"
+  }
+ },
+ "navigation-hauturiere:30237632": {
+  "dFdas-kMF74": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:30711914": {
+  "UV1V9-nnaAs": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "navigation-hauturiere:31710337": {
+  "np_ylvc8Zj8": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:31858841": {
+  "XpH3O6mnZvw": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:33325985": {
+  "yCsgoLc_fzI": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:33456883": {
+  "4n3txSCoKn0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:34090660": {
+  "1AZXXKj0p0s": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:34091709": {
+  "XORSpUUy0lQ": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:34572709": {
+  "jyQwgBAaBag": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:34804469": {
+  "FAKfbk_kB_4": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "OQsXDdGxk3U": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:35166091": {
+  "4Nr1AgIfajI": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:35213960": {
+  "4Nr1AgIfajI": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:35426482": {
+  "VUpVqzpym54": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:35450166": {
+  "4Nr1AgIfajI": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:35710578": {
+  "4Nr1AgIfajI": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:37081921": {
+  "4n3txSCoKn0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:37819780": {
+  "jyQwgBAaBag": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  },
+  "yCsgoLc_fzI": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:38141841": {
+  "b2mSsQ4Smyg": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:38151074": {
+  "4Nr1AgIfajI": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:39318713": {
+  "--l-FWUxxiw": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:39654664": {
+  "np_ylvc8Zj8": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:40783802": {
+  "UV1V9-nnaAs": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  },
+  "cun0DGZ6-sk": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:41453119": {
+  "3pYqXrFx6S8": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:42661446": {
+  "C7gAiI79nOY": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "G4DRBi66cOA": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  },
+  "UV1V9-nnaAs": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  },
+  "xc3rAlCDf54": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:42992470": {
+  "b2mSsQ4Smyg": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:43691763": {
+  "XpH3O6mnZvw": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:43729463": {
+  "3pYqXrFx6S8": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  },
+  "4Nr1AgIfajI": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:44144880": {
+  "--l-FWUxxiw": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:44224764": {
+  "C7gAiI79nOY": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  },
+  "xc3rAlCDf54": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:44700099": {
+  "kk4AV3d4v3E": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:44725870": {
+  "kk4AV3d4v3E": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:45156278": {
+  "UV1V9-nnaAs": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "navigation-hauturiere:45860599": {
+  "VUpVqzpym54": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:4709097": {
+  "0mUp1PP98uU": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:4709687": {
+  "0mUp1PP98uU": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:4711501": {
+  "0mUp1PP98uU": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:47151739": {
+  "2efa3epOGgY": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:47177595": {
+  "2efa3epOGgY": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:47223480": {
+  "2efa3epOGgY": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:47819943": {
+  "UV1V9-nnaAs": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:49057330": {
+  "2efa3epOGgY": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:5156912": {
+  "wnjyusAgk8I": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:8427880": {
+  "wnjyusAgk8I": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "trading-claude:1301469": {
+  "ed2FWNWwE3I": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "trading-claude:15882518": {
+  "FoYC_8cutb0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "trading-claude:16197466": {
+  "FqaP3VTKccE": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "trading-claude:16298440": {
+  "hKcOkWzj0_s": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "trading-claude:1730141": {
+  "ed2FWNWwE3I": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "trading-claude:19108257": {
+  "FqaP3VTKccE": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "trading-claude:23191261": {
+  "NH1Tta7purM": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  },
+  "_0aU8S-hFQI": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  },
+  "iINk7x44MmM": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  },
+  "nXFcM1pGOIE": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "trading-claude:25217499": {
+  "NH1Tta7purM": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "trading-claude:25972963": {
+  "ed2FWNWwE3I": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "trading-claude:26708881": {
+  "1rMq-4rWgis": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "7teqrCNzrD8": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  },
+  "AhR4PSExnqk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "BtuzSlKRmzA": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "FZi9CSB9_kk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "es6U7WAlKpQ": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "trading-claude:27034032": {
+  "1rMq-4rWgis": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "7teqrCNzrD8": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "AhR4PSExnqk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "BtuzSlKRmzA": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "FZi9CSB9_kk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "es6U7WAlKpQ": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "trading-claude:27364152": {
+  "1rMq-4rWgis": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "7teqrCNzrD8": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "AhR4PSExnqk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "BtuzSlKRmzA": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "FZi9CSB9_kk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "es6U7WAlKpQ": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "trading-claude:27707475": {
+  "1rMq-4rWgis": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "7teqrCNzrD8": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "AhR4PSExnqk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "BtuzSlKRmzA": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "FZi9CSB9_kk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "es6U7WAlKpQ": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "trading-claude:28049050": {
+  "1rMq-4rWgis": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "7teqrCNzrD8": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "AhR4PSExnqk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "BtuzSlKRmzA": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "FZi9CSB9_kk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "es6U7WAlKpQ": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "trading-claude:28401366": {
+  "1rMq-4rWgis": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "7teqrCNzrD8": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "AhR4PSExnqk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "BtuzSlKRmzA": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "FZi9CSB9_kk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "es6U7WAlKpQ": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "trading-claude:28737883": {
+  "1rMq-4rWgis": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "7teqrCNzrD8": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "AhR4PSExnqk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "BtuzSlKRmzA": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "FZi9CSB9_kk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "es6U7WAlKpQ": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "trading-claude:29075695": {
+  "1rMq-4rWgis": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "7teqrCNzrD8": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  },
+  "AhR4PSExnqk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "BtuzSlKRmzA": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "FZi9CSB9_kk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "es6U7WAlKpQ": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "trading-claude:29521339": {
+  "1rMq-4rWgis": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "7teqrCNzrD8": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  },
+  "AhR4PSExnqk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "BtuzSlKRmzA": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "FZi9CSB9_kk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "es6U7WAlKpQ": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "trading-claude:2971724": {
+  "ed2FWNWwE3I": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "trading-claude:29792041": {
+  "1rMq-4rWgis": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "7teqrCNzrD8": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  },
+  "AhR4PSExnqk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "BtuzSlKRmzA": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "FZi9CSB9_kk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "es6U7WAlKpQ": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "trading-claude:29792043": {
+  "1rMq-4rWgis": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "7teqrCNzrD8": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  },
+  "AhR4PSExnqk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "BtuzSlKRmzA": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "FZi9CSB9_kk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "es6U7WAlKpQ": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "trading-claude:30176601": {
+  "1rMq-4rWgis": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "7teqrCNzrD8": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "AhR4PSExnqk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "BtuzSlKRmzA": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "FZi9CSB9_kk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "es6U7WAlKpQ": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "trading-claude:30525005": {
+  "1rMq-4rWgis": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "7teqrCNzrD8": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  },
+  "AhR4PSExnqk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "BtuzSlKRmzA": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "FZi9CSB9_kk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "es6U7WAlKpQ": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "trading-claude:30896186": {
+  "1rMq-4rWgis": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "7teqrCNzrD8": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  },
+  "AhR4PSExnqk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "BtuzSlKRmzA": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "FZi9CSB9_kk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "trading-claude:31242913": {
+  "1rMq-4rWgis": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "7teqrCNzrD8": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  },
+  "AhR4PSExnqk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "BtuzSlKRmzA": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "FZi9CSB9_kk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "trading-claude:31592450": {
+  "1rMq-4rWgis": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "7teqrCNzrD8": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  },
+  "AhR4PSExnqk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "BtuzSlKRmzA": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "FZi9CSB9_kk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "trading-claude:31954586": {
+  "1rMq-4rWgis": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "7teqrCNzrD8": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  },
+  "AhR4PSExnqk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "BtuzSlKRmzA": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "FZi9CSB9_kk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "trading-claude:32688760": {
+  "1rMq-4rWgis": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "7teqrCNzrD8": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  },
+  "AhR4PSExnqk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "BtuzSlKRmzA": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "FZi9CSB9_kk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "trading-claude:33076039": {
+  "1rMq-4rWgis": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "7teqrCNzrD8": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  },
+  "AhR4PSExnqk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "BtuzSlKRmzA": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "FZi9CSB9_kk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "trading-claude:33436180": {
+  "1rMq-4rWgis": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "7teqrCNzrD8": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  },
+  "AhR4PSExnqk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "BtuzSlKRmzA": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "FZi9CSB9_kk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "trading-claude:33828807": {
+  "1rMq-4rWgis": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "7teqrCNzrD8": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  },
+  "AhR4PSExnqk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "BtuzSlKRmzA": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "FZi9CSB9_kk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "trading-claude:34219392": {
+  "1rMq-4rWgis": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "7teqrCNzrD8": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  },
+  "AhR4PSExnqk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "BtuzSlKRmzA": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "FZi9CSB9_kk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "trading-claude:34541857": {
+  "ed2FWNWwE3I": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "trading-claude:35956845": {
+  "FoYC_8cutb0": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "trading-claude:36699142": {
+  "bo-F61ZuBDg": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "oUVchh37AO8": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  },
+  "rB5jJuMP84E": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "trading-claude:5110332": {
+  "hKcOkWzj0_s": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "trading-claude:5653163": {
+  "rB5jJuMP84E": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "trading-claude:6628049": {
+  "aq1Ln1UCoEU": {
+   "type_contenu": "autre",
+   "verdict": "recommande"
+  },
+  "ed2FWNWwE3I": {
+   "type_contenu": "autre",
+   "verdict": "recommande"
+  }
+ },
+ "trading-claude:6683097": {
+  "GEAGdwHXfLQ": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "trading-claude:6707349": {
+  "aq1Ln1UCoEU": {
+   "type_contenu": "autre",
+   "verdict": "recommande"
+  }
+ },
+ "trading-claude:6906188": {
+  "GEAGdwHXfLQ": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "trading-claude:6906194": {
+  "GEAGdwHXfLQ": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "trading-claude:7952454": {
+  "hKcOkWzj0_s": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ }
+}
