@@ -1,0 +1,1924 @@
+{
+ "curseurs": {
+  "LLM trading youtube|comment": 1794128318,
+  "LLM trading youtube|story": 1794128318,
+  "LLM trading youtu|comment": 1794128318,
+  "LLM trading youtu|story": 1794128318,
+  "algo trading youtube|comment": 1794128318,
+  "algo trading youtube|story": 1794128318,
+  "algo trading youtu|comment": 1794128318,
+  "algo trading youtu|story": 1794128318,
+  "algorithmic trading youtube|comment": 1794128318,
+  "algorithmic trading youtube|story": 1794128318,
+  "algorithmic trading youtu|comment": 1794128318,
+  "algorithmic trading youtu|story": 1794128318,
+  "backtest youtube|comment": 1794128318,
+  "backtest youtube|story": 1794128318,
+  "backtest youtu|comment": 1794128318,
+  "backtest youtu|story": 1794128318,
+  "backtesting youtube|comment": 1794128318,
+  "backtesting youtube|story": 1794128318,
+  "backtesting youtu|comment": 1794128318,
+  "backtesting youtu|story": 1794128318,
+  "high frequency trading youtube|comment": 1794128318,
+  "high frequency trading youtube|story": 1794128318,
+  "high frequency trading youtu|comment": 1794128318,
+  "high frequency trading youtu|story": 1794128318,
+  "market making youtube|comment": 1794128318,
+  "market making youtube|story": 1794128318,
+  "market making youtu|comment": 1794128318,
+  "market making youtu|story": 1794128318,
+  "quant youtube|comment": 1794128318,
+  "quant youtube|story": 1794128318,
+  "quant youtu|comment": 1794128318,
+  "quant youtu|story": 1794128318,
+  "trading bot youtube|comment": 1794128318,
+  "trading bot youtube|story": 1794128318,
+  "trading bot youtu|comment": 1794128318,
+  "trading bot youtu|story": 1794128318,
+  "trading strategy youtube|comment": 1794128318,
+  "trading strategy youtube|story": 1794128318,
+  "trading strategy youtu|comment": 1794128318,
+  "trading strategy youtu|story": 1794128318
+ },
+ "elements": {
+  "10035474": {
+   "auteur": "deepnet",
+   "date": 1439222548,
+   "fil": "10032339",
+   "id": "10035474",
+   "mots": [
+    "quant"
+   ],
+   "texte": "The abstract maybe a tad general, but the paper specifically refers to the movement of a single proton :\n\n\" As initially proposed by Delbruck et al. (1935)\nand Schrodinger (1944) and Watson and Crick\n(1953), spontaneous mutations are initiated by\nquantum jump events such as tautomeric shifts in\nsingle protons of DNA bases.\"\n\nYou reference catalysts and there are some indications this is a quantum tunneling phenomena :\n\nHere is a talk by Professor Nigel Scrutton of the University of Manchester who has many papers on this, \nQuantum effects in biological catalysis\n\nhttps://www.youtube.com/watch?v=SnxmHlbtJDI\n\n----\n\nHere is Donald's paper criticising McFadden and al-Khalili's ideas\nhttp://people.bss.phy.cam.ac.uk/~mjd1014/qevrev.pdf\n\nand their rebuttal : http://arxiv.org/abs/quant-ph/0110083v1\n\n---\n\nThe 2012 Quantum Biology Conference at the IAS has some excellent papers - which are (too briefly) summarised into the OP article. http://www.ias.surrey.ac.uk/workshops/quantumbiology/",
+   "titre_fil": "Quantum weirdness is everywhere in life",
+   "type": "commentaire",
+   "videos": [
+    "SnxmHlbtJDI"
+   ]
+  },
+  "10270288": {
+   "auteur": "lisper",
+   "date": 1443078520,
+   "fil": "10269297",
+   "id": "10270288",
+   "mots": [
+    "quant"
+   ],
+   "texte": "> it's a fuck-ton\n\nOr zero.  (But it's definitely not one.)  Personally I find the zero-worlds view to be the most intuitively satisfying:\n\nhttp://www.flownet.com/ron/QM.pdf  (Or the movie version: https://www.youtube.com/watch?v=dEaecUuEqfc)\n\nDavid Mermin's Ithaca interpretation is essentially the same thing:\n\nhttp://arxiv.org/abs/quant-ph/9609013\n\nThe slogan is that \"we are correlations without correlata\".",
+   "titre_fil": "Bell inequality violation finally done right",
+   "type": "commentaire",
+   "videos": [
+    "dEaecUuEqfc"
+   ]
+  },
+  "12464693": {
+   "auteur": "jedmeyers",
+   "date": 1473444677,
+   "fil": "12463826",
+   "id": "12464693",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Here is a quite amusing clip \"Jenga\" from the movie The Big Short on this topic.\nhttps://www.youtube.com/watch?v=QpsI_Gvn7C8\n\nBTW, most quants that I know don't find the term derogatory, quite the opposite.",
+   "titre_fil": "Why UBS Is Hiring So Many Quants",
+   "type": "commentaire",
+   "videos": [
+    "QpsI_Gvn7C8"
+   ]
+  },
+  "12498952": {
+   "auteur": "vinchuco",
+   "date": 1473872336,
+   "fil": "12496490",
+   "id": "12498952",
+   "mots": [
+    "high frequency trading"
+   ],
+   "texte": "That's incredible. \nThe speed advantage here: https://youtu.be/IKVFZ28ybQs\nBrings to mind the power of high frequency trading",
+   "titre_fil": "Deep Reinforcement Learning to Play StarCraft",
+   "type": "commentaire",
+   "videos": [
+    "IKVFZ28ybQs"
+   ]
+  },
+  "1282251": {
+   "auteur": "pw0ncakes",
+   "date": 1271860281,
+   "fil": "1279396",
+   "id": "1282251",
+   "mots": [
+    "quant"
+   ],
+   "texte": "This is true of trader and quant interviews, but not when people are being evaluated for \"soft skills\" departments like IBD and M&A.\n\nA \"tricky\" brain teaser for IBD is: \"What is the expected value of an 8-sided die?\" or \"If the Euro is worth $1.50 and a dollar is worth 100 yen, what is a Euro worth in yen?\" Mathematically-illiterate but intelligent people (125 IQ; Ivy League non-quant major) will sometimes get these wrong on occasion, but they're not exactly hard questions by our standards.\n\nDE Shaw quant interviews, on the other hand, are tough, but the average wannabe banker will never get anywhere near one of those.\n\nThis is what an IBD or M&A interview will be like for the average HN reader: http://www.youtube.com/watch?v=L0yQunhOaU0#t=0m51s\n\nAs for intelligence in investment banking, it's an asset to be very smart (135+) if you're looking to be a quant or a quant trader (floor trading is dying) but it's generally to your detriment if you're looking for an analyst position, because the smart people tend to fail when it comes to the conformity aspect. If you tell a smart person that he needs to sacrifice his weekend in order to have X finished by Monday morning, he'll probably do it, but he'll ask (gasp!) why it was left on his desk on Friday afternoon instead of delivered to him earlier... and you just don't ask such questions if you want to make it in banking.\n\nAnalyst programs are designed to pick out people with an unconditional work ethic: people who believe \"deadlin […]",
+   "titre_fil": "Recent trends in grade inflation at American universities",
+   "type": "commentaire",
+   "videos": [
+    "L0yQunhOaU0"
+   ]
+  },
+  "1301469": {
+   "auteur": "jakarta",
+   "date": 1272461052,
+   "fil": "1301469",
+   "id": "1301469",
+   "mots": [
+    "quant"
+   ],
+   "texte": "The Quants: Alchemists of Wall Street (w/ subtitles)",
+   "titre_fil": "The Quants: Alchemists of Wall Street (w/ subtitles)",
+   "type": "article",
+   "videos": [
+    "ed2FWNWwE3I"
+   ]
+  },
+  "13164612": {
+   "auteur": "espeed",
+   "date": 1481605614,
+   "fil": "13164612",
+   "id": "13164612",
+   "mots": [
+    "algorithmic trading"
+   ],
+   "texte": "Algorithmic Trading and Machine Learning [video]",
+   "titre_fil": "Algorithmic Trading and Machine Learning [video]",
+   "type": "article",
+   "videos": [
+    "XNZ7o3621FY"
+   ]
+  },
+  "14851840": {
+   "auteur": "buckie",
+   "date": 1501016683,
+   "fil": "14850259",
+   "id": "14851840",
+   "mots": [
+    "quant"
+   ],
+   "texte": "No need to forgive. You're not wrong nor naive. I'd pin the difference as one of personal risk tolerances. I have much less than you, that's all. Right now Solidity is the only choice of public smart contracts. All I meant before was that this is an impressive project and to be careful.\n\n> But, after all, a dark horse 20 year old college dropout spearheaded the development of Ethereum, and the technology now secures nearly 20B worth of value.\n\nThis is a really common trope in finance -- the trader/quant/manager/pm who thinks that he's god's gift to earth because he made so much money (and a system that made even more). I'm not saying that's what's going on in Ethereum, far from it, just that people who make a lot of money tend to think they are worth that amount of money (usually they are just fortunate) and that using monetary value as the sole justification for one's actions is (generally) wrong.\n\nWhile I disagree that Eth is actually valued at $20B -- if you can't get even a fraction of the $20B out of the market then it's not worth $20B in value... I bet the buy side of the Eth market supports around $100M-$300M max -- that's neither here nor there.\n\nThe Ethereum ecosystem is, invariant on the value it represents, truly impressive and Vitalik's work is amazing especially given his experience level prior to it. I wouldn't say that the EVM is well designed in the slightest but the rest of the system is. It's closer to a 80's era CPU than a modern VM. I get why it looks like […]",
+   "titre_fil": "Show HN: Dharma – Programmable Peer-To-Peer Loans Using Ethereum Smart Contracts",
+   "type": "commentaire",
+   "videos": [
+    "Nw1glriQYP8"
+   ]
+  },
+  "15080650": {
+   "auteur": "mikhailfranco",
+   "date": 1503489000,
+   "fil": "15063714",
+   "id": "15080650",
+   "mots": [
+    "quant"
+   ],
+   "texte": "My random stream-of-consciousness reference reactions ...\n\nTegmark & Lin's discussion of how deep learning maps onto the physical world: Why does deep and cheap learning work so well? [1][2]\n\nThe work of Aerts et al. more than 10 years ago, including how vector space models of human categorization show QM structure [3].\n\nLucien Hardy's exquisite teasing out of the difference between classical and quantum probability: Quantum Theory From Five Reasonable Axioms [4]\n\nIt turns out that the innovation, power and strangeness of QM is related to separating physical processes into:\n\n1. Linear continuous unitary reversible evolution relying on complex amplitudes (wavefunction propagation).\n\n2. Non-linear discontinuous irreversible 'collapse' or 'measurement' or 'entanglement' or 'correlated branching', with probabilities based on the Born Rule (real values from the square of wave function amplitudes).\n\nNeural nets also decompose a problem into successive alternating layers of reversible continuous functions and discrete irreversible categorical decisions (e.g. softmax/sigmoid logistic classifiers).\n\nAn even more obscure tangent is that most of the financial market is now constructed from 'options', which track continuous values with a continuous payoff, but offer a choice of execution to collapse the option and create a real financial result, e.g. see N.N.Taleb's dicussion of optionality [5].\n\n[1] http://arxiv.org/pdf/1608.08225.pdf\n\n[2] http://www.youtube.com/watch?v=5MdSE-N0bxs\n\n[3] […]",
+   "titre_fil": "Deep Learning and Quantum Entanglement [pdf]",
+   "type": "commentaire",
+   "videos": [
+    "5MdSE-N0bxs"
+   ]
+  },
+  "15882518": {
+   "auteur": "ben_jones",
+   "date": 1512770967,
+   "fil": "15880875",
+   "id": "15882518",
+   "mots": [
+    "quant"
+   ],
+   "texte": "\"That's my quant\".\n\n[1]: https://www.youtube.com/watch?v=FoYC_8cutb0",
+   "titre_fil": "Hedge funds embrace machine learning up to a point",
+   "type": "commentaire",
+   "videos": [
+    "FoYC_8cutb0"
+   ]
+  },
+  "16197466": {
+   "auteur": "axlprose",
+   "date": 1516528304,
+   "fil": "16196421",
+   "id": "16197466",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Indeed. One of my favorite finance talks is \"A Breif and Biased Survey of Quantitative Investing\" by AQR's Cliff Asness, which talks about what quant funds actually are. Link for those curious:\n\nhttps://youtu.be/FqaP3VTKccE",
+   "titre_fil": "A summary of what quantitative trading firms do",
+   "type": "commentaire",
+   "videos": [
+    "FqaP3VTKccE"
+   ]
+  },
+  "16268559": {
+   "auteur": "GenericsMotors",
+   "date": 1517343062,
+   "fil": "16267428",
+   "id": "16268559",
+   "mots": [
+    "trading bot"
+   ],
+   "texte": "> How trustworthy is Kraken?\n\nThey spoof their order books and use wash trading bots...so draw your own conclusions :)\n\nEg:\n\nhttps://www.youtube.com/watch?v=wz-ziPfP00M",
+   "titre_fil": "U.S. Regulators to Subpoena Crypto Exchange Bitfinex, Tether",
+   "type": "commentaire",
+   "videos": [
+    "wz-ziPfP00M"
+   ]
+  },
+  "16298440": {
+   "auteur": "bufferoverflow",
+   "date": 1517677992,
+   "fil": "16293646",
+   "id": "16298440",
+   "mots": [
+    "algorithmic trading"
+   ],
+   "texte": "That's just not true. There are whole companies based on algorithmic trading. Jane Street, for instance, has a tech talk on how they take advantage of Caml in automated trading.\n\nhttps://www.youtube.com/watch?v=hKcOkWzj0_s",
+   "titre_fil": "A.I. Has Arrived in Investing, Humans Are Still Dominating",
+   "type": "commentaire",
+   "videos": [
+    "hKcOkWzj0_s"
+   ]
+  },
+  "16376161": {
+   "auteur": "patatino",
+   "date": 1518620418,
+   "fil": "16376015",
+   "id": "16376161",
+   "mots": [
+    "algo trading"
+   ],
+   "texte": "Check out this podcast. Dis guy had a algo trading as a sideproject (now fulltime):\nhttps://www.youtube.com/watch?v=Co_GYku903k",
+   "titre_fil": "Ask HN: How to launch an algo trading side project?",
+   "type": "commentaire",
+   "videos": [
+    "Co_GYku903k"
+   ]
+  },
+  "16703384": {
+   "auteur": "tmuir",
+   "date": 1522282585,
+   "fil": "16700714",
+   "id": "16703384",
+   "mots": [
+    "high frequency trading"
+   ],
+   "texte": "I posit that its a beautiful piece of artwork designed as a honeypot.  The sweetness that will draw certain people in is all of the conflicting, and therefore inherently controversial information that can be used to paint Facebook and Christopher Wylie as the true problem here, and the incredible Donald is just the poor guy caught up in the middle.\n\nThis is evidenced by the conservative media's discrediting of all of the people telling the story.  I don't even contend that Buzzfeed is conservative or liberal, so I think Buzzfeed is either an unwitting accomplice in this honeypot, or perhaps it is their pot.  Time will tell.\n\nMy thesis is that, just like actual honeypots, the sweetness is coverfire for the trap lying inside.  That trap is to frame this whole story as if the most heinous part of the story is just Facebook losing control of the data.  Once the key players admit to the microtargetting, but claim everybody does it, the jaws of the trap will spring shut.\n\nSome of those players have already made their confessions, literally on Fox News, a week after the election, and they couldnt contain their joy:\n\nhttps://www.youtube.com/watch?v=_fFbVwuU8bM\n\nIt is obvious that Donald Trump intuitively understands the general concepts at play in microtargetting, but also just as obvious that he doesn't understand its mechanics.\n\nMicrotargetting is literally a deep learning algorithm, and Cambridge Analytica is a Robert Mercer affiliated outfit.  You may remember Robert Mercer from  […]",
+   "titre_fil": "Cambridge Analytica whistleblower used same Facebook dataset for own startup",
+   "type": "commentaire",
+   "videos": [
+    "_fFbVwuU8bM"
+   ]
+  },
+  "1730141": {
+   "auteur": "patrickk",
+   "date": 1285540077,
+   "fil": "1730141",
+   "id": "1730141",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Quants: The Alchemists of Wall Street [Video]",
+   "titre_fil": "Quants: The Alchemists of Wall Street [Video]",
+   "type": "article",
+   "videos": [
+    "ed2FWNWwE3I"
+   ]
+  },
+  "17664231": {
+   "auteur": "kumikoda",
+   "date": 1533141940,
+   "fil": "17663077",
+   "id": "17664231",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Numerai | All Engineering | San Francisco | Onsite\n\nslyfox @ numer.ai\nhttps://angel.co/numerai/jobs\n\nNumerai is a quant hedge fund with a distributed research platform designed specifically for AIs. We are a small team looking for ambitious individuals interested in money, decentralization and AI.\n\nTech stack: Elixir, Go, Python, Javascript, Postgres, GraphQL, AWS, Ethereum\n\nMore info:\nhttps://www.youtube.com/watch?v=Xa6L2UHTm2g\nhttps://medium.com/numerai/how-to-scale-16x-in-6-months-on-ethereum-174105d3b1d3\nhttps://medium.com/numerai/a-new-cryptocurrency-for-coordinating-artificial-intelligence-on-numerai-9251a131419a",
+   "titre_fil": "Ask HN: Who is hiring? (August 2018)",
+   "type": "commentaire",
+   "videos": [
+    "Xa6L2UHTm2g"
+   ]
+  },
+  "18361090": {
+   "auteur": "melaos",
+   "date": 1541140975,
+   "fil": "18361090",
+   "id": "18361090",
+   "mots": [
+    "algorithmic trading"
+   ],
+   "texte": "Fuzzy MA System with GA Optimization for Trading Crude Palm Oil Futures",
+   "titre_fil": "Fuzzy MA System with GA Optimization for Trading Crude Palm Oil Futures",
+   "type": "article",
+   "videos": [
+    "c-SQBHtVb8Y"
+   ]
+  },
+  "18593423": {
+   "auteur": "jdquantopian",
+   "date": 1543873648,
+   "fil": "18589702",
+   "id": "18593423",
+   "mots": [
+    "backtesting",
+    "quant"
+   ],
+   "texte": "Quantopian | Site Reliability Engineer | Boston, MA, USA | ONSITE | https://www.quantopian.com\n\nQuantopian empowers amateur and professional quants to find alpha in trading markets. We provide a hosted Python platform for free-form research of market data, an open-source backtesting engine, and a large base of educational material for quants of all experience levels.\n\nWe're looking for Site Reliability Engineers (SREs) to support our rapidly expanding user base and build towards our ambitious product roadmap. The SRE team at Quantopian manages the full cloud infrastructure platform that all of our products and services run on. We oversee code deployments, monitoring and alarm systems, databases, servers, containers, test infrastructure, and more.\n\nYou'll get hands-on experience with Python, Kubernetes, Apache Airflow (https://www.youtube.com/watch?v=81F8A6tHM30), Postgres, MongoDB, and more.\n\nFull details are here: https://quantopian.recruiterbox.com/jobs/fk0jw29\n\nIf you have any questions, I'd love to hear from you - jd {AT} quantopian.com - I manage the SRE team here.",
+   "titre_fil": "Ask HN: Who is hiring? (December 2018)",
+   "type": "commentaire",
+   "videos": [
+    "81F8A6tHM30"
+   ]
+  },
+  "18801407": {
+   "auteur": "jdquantopian",
+   "date": 1546366713,
+   "fil": "18800645",
+   "id": "18801407",
+   "mots": [
+    "backtesting",
+    "quant"
+   ],
+   "texte": "Quantopian | Site Reliability Engineer | Boston, MA, USA | ONSITE | https://www.quantopian.com\n\nQuantopian empowers amateur and professional quants to find alpha in trading markets. We provide a hosted Python platform for free-form research of market data, an open-source backtesting engine, and a large base of educational material for quants of all experience levels.\n\nWe're looking for Site Reliability Engineers (SREs) to support our rapidly expanding user base and build towards our ambitious product roadmap. The SRE team at Quantopian manages the full cloud infrastructure platform that all of our products and services run on. We oversee code deployments, monitoring and alarm systems, databases, servers, containers, test infrastructure, and more.\n\nYou'll get hands-on experience with Python, Kubernetes, Apache Airflow (https://www.youtube.com/watch?v=81F8A6tHM30), Postgres, MongoDB, and more.\n\nFull details are here: https://quantopian.recruiterbox.com/jobs/fk0jw29\n\nIf you have any questions, I'd love to hear from you - jd {AT} quantopian.com - I manage the SRE team here.",
+   "titre_fil": "[dead]",
+   "type": "commentaire",
+   "videos": [
+    "81F8A6tHM30"
+   ]
+  },
+  "18807065": {
+   "auteur": "jdquantopian",
+   "date": 1546445139,
+   "fil": "18807017",
+   "id": "18807065",
+   "mots": [
+    "backtesting",
+    "quant"
+   ],
+   "texte": "Quantopian | Site Reliability Engineer | Boston, MA, USA | ONSITE | https://www.quantopian.com\n\nQuantopian empowers amateur and professional quants to find alpha in trading markets. We provide a hosted Python platform for free-form research of market data, an open-source backtesting engine, and a large base of educational material for quants of all experience levels.\n\nWe're looking for Site Reliability Engineers (SREs) to support our rapidly expanding user base and build towards our ambitious product roadmap. The SRE team at Quantopian manages the full cloud infrastructure platform that all of our products and services run on. We oversee code deployments, monitoring and alarm systems, databases, servers, containers, test infrastructure, and more.\n\nYou'll get hands-on experience with Python, Kubernetes, Apache Airflow (https://www.youtube.com/watch?v=81F8A6tHM30), Postgres, MongoDB, and more.\n\nFull details are here: https://quantopian.recruiterbox.com/jobs/fk0jw29\n\nIf you have any questions, I'd love to hear from you - jd {AT} quantopian.com - I manage the SRE team here.",
+   "titre_fil": "Ask HN: Who is hiring? (January 2019)",
+   "type": "commentaire",
+   "videos": [
+    "81F8A6tHM30"
+   ]
+  },
+  "19108257": {
+   "auteur": "rbavocadotree",
+   "date": 1549571307,
+   "fil": "19106658",
+   "id": "19108257",
+   "mots": [
+    "quant"
+   ],
+   "texte": "I think many people may be surprised how much of quantitative investing is similar to what was done here: finding strategies that are proven to work well over time and in different market conditions. It's not all black boxes and HFT.\n\nHere is a great video of Cliff Assess of AQR, one of the largest quant hedge funds basically saying the same thing [0]. They focus on Value, Momentum, Carry, and Defensive.\n\n[0] https://www.youtube.com/watch?v=FqaP3VTKccE",
+   "titre_fil": "Crunching 200 years of stock, bond, currency and commodity data",
+   "type": "commentaire",
+   "videos": [
+    "FqaP3VTKccE"
+   ]
+  },
+  "21132348": {
+   "auteur": "proverbialbunny",
+   "date": 1569976073,
+   "fil": "21126012",
+   "id": "21132348",
+   "mots": [
+    "backtesting",
+    "quant"
+   ],
+   "texte": "Quantitative finance is a field that takes from many different topics and combines them, so one way to start instead of studying the field directly it helps to learn a handful of different subjects slowly over time.\n\nMost people start with basic programming and basic stock market indicators.  Many people start by hacking together some python scripts using some framework and then backtesting to see if their assumptions are correct.\n\nOn the more advanced level there is C++, CUDA, and Rust, and similar tech that needs to be fast.  When developing a custom algo for an NP problem, you need a lot of speed.  On this front, auditing MIT's old Artificial Intelligence class might be a good place to start, which goes over how to optimize NP algorithms and builds up the thought process of how to automate difficult problems.  https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi\n\nWriting a bot that plays the stock market when boiled down is either 1) pattern matching the market, having a hypothesis, and then writing some code to test that hypothesis or 2) writing a machine that pattern matches for you, finding meta-patterns of sorts.  Is closer to Data Science and machine learning.\n\nQuantitative finance can be as simple as what is often done in Data Science work. That is, hacking together some python scripts and testing your assumption, or it can be as complex as being an expert C++ programmer and building up a custom system, combining Software Engineering an […]",
+   "titre_fil": "Ask HN: Who wants to be hired? (October 2019)",
+   "type": "commentaire",
+   "videos": [
+    "TjZBTDzGeGg"
+   ]
+  },
+  "21246657": {
+   "auteur": "askmike",
+   "date": 1571048570,
+   "fil": "21246657",
+   "id": "21246657",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Interview with a (self-taught) crypto quant about HFT trading in crypto",
+   "titre_fil": "Interview with a (self-taught) crypto quant about HFT trading in crypto",
+   "type": "article",
+   "videos": [
+    "BCXwRKqTK-M"
+   ]
+  },
+  "21744966": {
+   "auteur": "xwenf",
+   "date": 1575915784,
+   "fil": "21744966",
+   "id": "21744966",
+   "mots": [
+    "trading bot"
+   ],
+   "texte": "I Coded a Trading Bot and Gave It $1000 to Trade",
+   "titre_fil": "I Coded a Trading Bot and Gave It $1000 to Trade",
+   "type": "article",
+   "videos": [
+    "-MHhA-Y3DSk"
+   ]
+  },
+  "22349484": {
+   "auteur": "finnly",
+   "date": 1581964322,
+   "fil": "22349484",
+   "id": "22349484",
+   "mots": [
+    "trading bot"
+   ],
+   "texte": "Finnly, the automated trading bot for everyday people",
+   "titre_fil": "Finnly, the automated trading bot for everyday people",
+   "type": "article",
+   "videos": [
+    "PUddvdP0U50"
+   ]
+  },
+  "23191261": {
+   "auteur": "pjmlp",
+   "date": 1589545175,
+   "fil": "23190601",
+   "id": "23191261",
+   "mots": [
+    "high frequency trading"
+   ],
+   "texte": "Basically Java, .NET and C++, with heavy focus on C++.\n\nBeing able to write allocation free algorithms, even on GC languages, lock free data structures and good knowledge of all multi-core programming paradigms and distributed computing.\n\nHere are some talks that will give you a small overview into that world,\n\nCppCon 2017: Carl Cook “When a Microsecond Is an Eternity: High Performance Trading Systems in C++”\n\nhttps://www.youtube.com/watch?v=NH1Tta7purM\n\nCore C++ 2019 :: Nimrod Sapir :: High Frequency Trading and Ultra Low Latency development techniques\n\nhttps://www.youtube.com/watch?v=_0aU8S-hFQI\n\nOpen source Java HFT code from Chronicle Software, https://github.com/OpenHFT\n\n\"Writing and Testing High-Frequency Trading Engines\", from Cliff Click\n\nhttps://www.youtube.com/watch?v=iINk7x44MmM\n\nHowever in these domains every ms counts, even how long cables are, so also expect Verilog, VHDL, and plenty of custom made algorithms running directly on hardware.\n\n\"A Low-Latency Library in FPGA Hardware for High-Frequency Trading\"\n\nhttps://www.youtube.com/watch?v=nXFcM1pGOIE\n\nYou can get an overview of the typical expectations here, https://www.efinancialcareers.com/",
+   "titre_fil": "Ask HN: What programming skills are required by HFT or Trading firms",
+   "type": "commentaire",
+   "videos": [
+    "NH1Tta7purM",
+    "_0aU8S-hFQI",
+    "iINk7x44MmM",
+    "nXFcM1pGOIE"
+   ]
+  },
+  "24089649": {
+   "auteur": "siamak_rp",
+   "date": 1596869585,
+   "fil": "24089649",
+   "id": "24089649",
+   "mots": [
+    "trading strategy"
+   ],
+   "texte": "Price Action Trading Strategy in Forex and Stock Market",
+   "titre_fil": "Price Action Trading Strategy in Forex and Stock Market",
+   "type": "article",
+   "videos": [
+    "Zi0IzC3ll-s"
+   ]
+  },
+  "24597139": {
+   "auteur": "sssra",
+   "date": 1601106797,
+   "fil": "24597139",
+   "id": "24597139",
+   "mots": [
+    "trading strategy"
+   ],
+   "texte": "Doji Candlestick Trading Strategy",
+   "titre_fil": "Doji Candlestick Trading Strategy",
+   "type": "article",
+   "videos": [
+    "k147rICY3Gk"
+   ]
+  },
+  "25015492": {
+   "auteur": "siamak_rp",
+   "date": 1604761989,
+   "fil": "25015492",
+   "id": "25015492",
+   "mots": [
+    "trading strategy"
+   ],
+   "texte": "Fibonacci Retracement Trading Strategy Explained for Beginners",
+   "titre_fil": "Fibonacci Retracement Trading Strategy Explained for Beginners",
+   "type": "article",
+   "videos": [
+    "72R9o3y6W_Y"
+   ]
+  },
+  "25070067": {
+   "auteur": "siamak_rp",
+   "date": 1605190649,
+   "fil": "25070067",
+   "id": "25070067",
+   "mots": [
+    "trading strategy"
+   ],
+   "texte": "Keltner Channel Trading Strategy - Beginners",
+   "titre_fil": "Keltner Channel Trading Strategy - Beginners",
+   "type": "article",
+   "videos": [
+    "ylmMOcYPtQw"
+   ]
+  },
+  "25217499": {
+   "auteur": "vgatherps",
+   "date": 1606373152,
+   "fil": "25217270",
+   "id": "25217499",
+   "mots": [
+    "quant"
+   ],
+   "texte": "I’ve seen this sentiment before and worked on both a “low latency Java” team and low latency C++ teams.\n\nI have some sympathy for the idea that the JVM is better since it means you won’t spend all your time chasing crash reports. The thing is, like another comment hinted at, is that this issue is generally more reflective of the environment you build in than the technology choice.\n\nHere’s a good talk on the reasons for and limits of using C++ for low latency systems: https://m.youtube.com/watch?v=NH1Tta7purM\n\nIf I had to rank in terms of reliability of trading infrastructure I’ve used/worked on,\n\n* Low Latency C / C++ infra at fully automated trading firm. Very much run by the programmers and quants and also fairly small. By far the fastest (near limits of what you could do) and also most reliable.\n\n* Low Latency Java execution infrastructure. Pretty reliable, not that fast, had some issues with GC battling and manual memory management to avoid GC, etc. There was a pretty clear latency floor (still quite low) even when “doing everything right” that serious native infrastructure beat.\n\n* C++ market making infra at a firm run by manual traders. It was by far the slowest and least reliable. Echos the experience of “spent hours debugging weird crashes”. The culture was very “A trader asked for this and needs it done yesterday. Also this refactoring business doesn’t sound like adding new features, drop it”.\n\nWhat I saw is that if you hire people who have a good idea of what they’r […]",
+   "titre_fil": "Java is better than C++ for high speed trading systems",
+   "type": "commentaire",
+   "videos": [
+    "NH1Tta7purM"
+   ]
+  },
+  "25315344": {
+   "auteur": "siamak_rp",
+   "date": 1607183021,
+   "fil": "25315344",
+   "id": "25315344",
+   "mots": [
+    "trading strategy"
+   ],
+   "texte": "Stochastic Oscillator Trading Strategy, Explained for Beginners",
+   "titre_fil": "Stochastic Oscillator Trading Strategy, Explained for Beginners",
+   "type": "article",
+   "videos": [
+    "aBcqykhYZyg"
+   ]
+  },
+  "25972963": {
+   "auteur": "kratom_sandwich",
+   "date": 1612040616,
+   "fil": "25972912",
+   "id": "25972963",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Check out the works of Paul Wilmott, which include textbooks and a magazine of the same name which is (or at least used to be) the most expensive magazine subscription there is.\n\nWikipedia: https://en.wikipedia.org/wiki/Paul_Wilmott\n\nDocumentary on \"quants\" featuring him: https://www.youtube.com/watch?v=ed2FWNWwE3I\n\nFor finance in general, I recommend \"Corporate Finance\" by Berk & de Marzo or the CFA study material, which is quite accessible (at least for Level 1).",
+   "titre_fil": "Ask HN: Best Resources on (Computational) Finance",
+   "type": "commentaire",
+   "videos": [
+    "ed2FWNWwE3I"
+   ]
+  },
+  "26075870": {
+   "auteur": "Closi",
+   "date": 1612866758,
+   "fil": "26063920",
+   "id": "26075870",
+   "mots": [
+    "trading strategy"
+   ],
+   "texte": "Lost his fortune? He is worth 85 billion dollars, mainly through his trading strategy of only investing in things that have good fundamentals. He didn't get rich by investing in purely speculative instruments that don't have any fundamentals.\n\nCould he have made money if he could see into the future and see bitcoin's current price? Yes, but it's hard to predict how many new buyers will continue to enter Bitcoin.\n\nhttps://www.youtube.com/watch?v=PxA7sH5ZqLA\n\nI completely agree with his assessment. Bitcoin's value depends entirely on new people joining the bitcoin market - the second that stops the bubble pops, you just can't tell when it's going to pop.",
+   "titre_fil": "Tesla buys $1.5B in Bitcoin, may accept it as payment in the future",
+   "type": "commentaire",
+   "videos": [
+    "PxA7sH5ZqLA"
+   ]
+  },
+  "26503346": {
+   "auteur": "spark3k",
+   "date": 1616079427,
+   "fil": "26503346",
+   "id": "26503346",
+   "mots": [
+    "trading bot"
+   ],
+   "texte": "Trading Bot lets subscribers trade $25k on Twitch",
+   "titre_fil": "Trading Bot lets subscribers trade $25k on Twitch",
+   "type": "article",
+   "videos": [
+    "-UdWguw90g4"
+   ]
+  },
+  "26708881": {
+   "auteur": "kal31dic",
+   "date": 1617692390,
+   "fil": "26661443",
+   "id": "26708881",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Symmetry Investments | Many Varied Roles | REMOTE or VISA (London, Hong Kong, Singapore, Jersey) | D, Julia, Kotlin, other functional and systems languages | Full-Time, Fixed Term, Flexible\n\n## Roles we are hiring for\n\n- Business Analysts: business analysis, documentation, team and tool design\n\n- Native Code Developers: We are looking for outstanding native code developers who would like to write D.  Our experience has been that strong C and C++ developers can learn D quite quickly.\n\n- Functional Developers to work with Practitioners using Symmetry Integration Language to deliver value to the business.\n\n- Documentation: At Symmetry we recognise the value of writing and have for example a Pulitzer prize-winning former WSJ journalist and a maintainer of Linux Kernel Newbies documentation.  We are looking for people to write technical documentation and to document data structures and processes (open to varying range of technical ability depending on the project).\n\n- Designers for documentation.  Now that non-programming internal work is moving to markdown in git, we are hiring designers to work on templates and mini-logos for documentation and other work.\n\n- Information Security: incident response, threat intelligence, vuln management\n\n- Platform: Platform as Code,  Site Reliability Engineers, Windows desktop support; frontline server support and administration\n\n- Legal and Compliance: #lawyerswhocode or who are very comfortable working with markdown in git\n\n- Accounting: are yo […]",
+   "titre_fil": "Ask HN: Who is hiring? (April 2021)",
+   "type": "commentaire",
+   "videos": [
+    "AhR4PSExnqk",
+    "es6U7WAlKpQ",
+    "7teqrCNzrD8",
+    "FZi9CSB9_kk",
+    "BtuzSlKRmzA",
+    "1rMq-4rWgis"
+   ]
+  },
+  "27031798": {
+   "auteur": "delano",
+   "date": 1620081674,
+   "fil": "27025922",
+   "id": "27031798",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Quantified Citizen | Senior Mobile Engineer | Senior Full Stack Engineer | Vancouver, BC | REMOTE | Full-Time\n\nQuantified Citizen is a Canadian-based mobile health startup developing solutions to disrupt the clinical and health product research markets. We empower professional researchers to easily create their own scientific studies, while building a movement towards more timely insights into the latest health research for citizens of all kinds, with a particular emphasis on psychedelic research and therapy.\n\nWe are hiring experienced engineers to help us build out our mobile and web app products. We love product-minded engineers that are comfortable both managing a team and working independently, and love to contribute to product decisions. Our tech stack is built from the ground up on Elixir/Phoenix and Flutter/Dart.\n\nWe launched our flagship mobile research app [1] in November 2019 on the Joe Rogan Experience [2] and have since had over 35,000 iOS app installs with a 4.8 star rating. Among our flagship studies, we've partnered with world-famous mycologist Paul Stamets [3] on a UBC research ethics approved 12,000+ participant correlational study [4] on the effects of microdosing psychedelic substances on cognitive performance and mental health. We've also partnered with award-winning cinematographer Louie Schwartzberg on a 5,000 participant Gratitude Study.\n\nApply here:\nhttps://github.com/qcitizen/apply\n\nMore information about working at QC:\nhttps://www.notion.so/quant/Wor […]",
+   "titre_fil": "Ask HN: Who is hiring? (May 2021)",
+   "type": "commentaire",
+   "videos": [
+    "xJ6Ym719urg"
+   ]
+  },
+  "27034032": {
+   "auteur": "kal31dic",
+   "date": 1620102070,
+   "fil": "27025922",
+   "id": "27034032",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Symmetry Investments | Many Varied Roles | REMOTE or VISA (London, Hong Kong, Singapore, Jersey) | D, Julia, Kotlin, other functional and systems languages | Full-Time, Fixed Term, Flexible\n\n## Roles we are hiring for\n\n- Business Analysts: business analysis, documentation, team and tool design\n\n- Native Code Developers: We are looking for outstanding native code developers who would like to write D.  Our experience has been that strong C and C++ developers can learn D quite quickly.\n\n- Functional Developers to work with Practitioners using Symmetry Integration Language to deliver value to the business.\n\n- Documentation: At Symmetry we recognise the value of writing and have for example a Pulitzer prize-winning former WSJ journalist and a maintainer of Linux Kernel Newbies documentation.  We are looking for people to write technical documentation and to document data structures and processes (open to varying range of technical ability depending on the project).\n\n- Designers for documentation.  Now that non-programming internal work is moving to markdown in git, we are hiring designers to work on templates and mini-logos for documentation and other work.\n\n- Information Security: incident response, threat intelligence, vuln management\n\n- Platform: Platform as Code,  Site Reliability Engineers, Windows desktop support; frontline server support and administration\n\n- Legal and Compliance: #lawyerswhocode or who are very comfortable working with markdown in git\n\n- Accounting: are yo […]",
+   "titre_fil": "Ask HN: Who is hiring? (May 2021)",
+   "type": "commentaire",
+   "videos": [
+    "AhR4PSExnqk",
+    "es6U7WAlKpQ",
+    "7teqrCNzrD8",
+    "FZi9CSB9_kk",
+    "BtuzSlKRmzA",
+    "1rMq-4rWgis"
+   ]
+  },
+  "27364152": {
+   "auteur": "kal31dic",
+   "date": 1622601471,
+   "fil": "27355392",
+   "id": "27364152",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Symmetry Investments | Many Varied Roles | REMOTE or VISA (London, Hong Kong, Singapore, Jersey) | D, Julia, Kotlin, other functional and systems languages | Full-Time, Fixed Term, Flexible\n\n## Roles we are hiring for\n\n- Business Analysts: business analysis, documentation, team and tool design\n\n- Native Code Developers: We are looking for outstanding native code developers who would like to write D.  Our experience has been that strong C and C++ developers can learn D quite quickly.\n\n- Functional Developers to work with Practitioners using Symmetry Integration Language to deliver value to the business.\n\n- Documentation: At Symmetry we recognise the value of writing and have for example a Pulitzer prize-winning former WSJ journalist and a maintainer of Linux Kernel Newbies documentation.  We are looking for people to write technical documentation and to document data structures and processes (open to varying range of technical ability depending on the project).\n\n- Designers for documentation.  Now that non-programming internal work is moving to markdown in git, we are hiring designers to work on templates and mini-logos for documentation and other work.\n\n- Information Security: incident response, threat intelligence, vuln management\n\n- Platform: Platform as Code,  Site Reliability Engineers, Windows desktop support; frontline server support and administration; application support\n\n- Legal and Compliance: #lawyerswhocode or who are very comfortable working with markdown in git\n […]",
+   "titre_fil": "Ask HN: Who is hiring? (June 2021)",
+   "type": "commentaire",
+   "videos": [
+    "AhR4PSExnqk",
+    "es6U7WAlKpQ",
+    "7teqrCNzrD8",
+    "FZi9CSB9_kk",
+    "BtuzSlKRmzA",
+    "1rMq-4rWgis"
+   ]
+  },
+  "27707475": {
+   "auteur": "kal31dic",
+   "date": 1625195621,
+   "fil": "27699704",
+   "id": "27707475",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Symmetry Investments | Many Varied Roles | REMOTE or VISA (London, Hong Kong, Singapore, Jersey) | D, Julia, Kotlin, other functional and systems languages | Full-Time, Fixed Term, Flexible\n\n## Roles we are hiring for\n\n- Business Analysts: business analysis, documentation, team and tool design\n\n- Native Code Developers: We are looking for outstanding native code developers who would like to write D.  Our experience has been that strong C and C++ developers can learn D quite quickly.\n\n- Functional Developers to work with Practitioners using Symmetry Integration Language to deliver value to the business.\n\n- Documentation: At Symmetry we recognise the value of writing and have for example a Pulitzer prize-winning former WSJ journalist and a maintainer of Linux Kernel Newbies documentation.  We are looking for people to write technical documentation and to document data structures and processes (open to varying range of technical ability depending on the project).\n\n- Designers for documentation.  Now that non-programming internal work is moving to markdown in git, we are hiring designers to work on templates and mini-logos for documentation and other work.\n\n- Information Security: incident response, threat intelligence, vuln management\n\n- Platform: Platform as Code,  Site Reliability Engineers, Windows desktop support; frontline server support and administration; application support\n\n- Legal and Compliance: #lawyerswhocode or who are very comfortable working with markdown in git\n […]",
+   "titre_fil": "Ask HN: Who is hiring? (July 2021)",
+   "type": "commentaire",
+   "videos": [
+    "AhR4PSExnqk",
+    "es6U7WAlKpQ",
+    "7teqrCNzrD8",
+    "FZi9CSB9_kk",
+    "BtuzSlKRmzA",
+    "1rMq-4rWgis"
+   ]
+  },
+  "28049050": {
+   "auteur": "kal31dic",
+   "date": 1627998226,
+   "fil": "28037366",
+   "id": "28049050",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Symmetry Investments | Many Varied Roles | REMOTE or VISA (London, Hong Kong, Singapore, Jersey) | D, Julia, Kotlin, other functional and systems languages | Full-Time, Fixed Term, Flexible\n\n## Roles we are hiring for\n\n- Business Analysts: business analysis, documentation, team and tool design\n\n- Native Code Developers: We are looking for outstanding native code developers who would like to write D.  Our experience has been that strong C and C++ developers can learn D quite quickly.\n\n- Functional Developers to work with Practitioners using Symmetry Integration Language to deliver value to the business.\n\n- Documentation: At Symmetry we recognise the value of writing and have for example a Pulitzer prize-winning former WSJ journalist and a maintainer of Linux Kernel Newbies documentation.  We are looking for people to write technical documentation and to document data structures and processes (open to varying range of technical ability depending on the project).\n\n- Designers for documentation.  Now that non-programming internal work is moving to markdown in git, we are hiring designers to work on templates and mini-logos for documentation and other work.\n\n- Information Security: incident response, threat intelligence, vuln management\n\n- Platform: Platform as Code,  Site Reliability Engineers, Windows desktop support; frontline server support and administration; application support\n\n- Legal and Compliance: #lawyerswhocode or who are very comfortable working with markdown in git\n […]",
+   "titre_fil": "Ask HN: Who is hiring? (August 2021)",
+   "type": "commentaire",
+   "videos": [
+    "AhR4PSExnqk",
+    "es6U7WAlKpQ",
+    "7teqrCNzrD8",
+    "FZi9CSB9_kk",
+    "BtuzSlKRmzA",
+    "1rMq-4rWgis"
+   ]
+  },
+  "28118234": {
+   "auteur": "Cryptomaton",
+   "date": 1628523457,
+   "fil": "28118234",
+   "id": "28118234",
+   "mots": [
+    "trading bot"
+   ],
+   "texte": "My results testing a crypto trading bot that buys coins based on Reddit posts",
+   "titre_fil": "My results testing a crypto trading bot that buys coins based on Reddit posts",
+   "type": "article",
+   "videos": [
+    "qUPDIQ5zky8"
+   ]
+  },
+  "28401366": {
+   "auteur": "kal31dic",
+   "date": 1630654086,
+   "fil": "28380661",
+   "id": "28401366",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Symmetry Investments | Many Varied Roles | REMOTE or VISA (London, Hong Kong, Singapore, Jersey) | D, Julia, Kotlin, other functional and systems languages | Full-Time, Fixed Term, Flexible\n\n## Roles we are hiring for\n\n- Business Analysts: business analysis, documentation, team and tool design\n\n- Native Code Developers: We are looking for outstanding native code developers who would like to write D.  Our experience has been that strong C and C++ developers can learn D quite quickly.\n\n- Functional Developers to work with Practitioners using Symmetry Integration Language to deliver value to the business.\n\n- Documentation: At Symmetry we recognise the value of writing and have for example a Pulitzer prize-winning former WSJ journalist and a maintainer of Linux Kernel Newbies documentation.  We are looking for people to write technical documentation and to document data structures and processes (open to varying range of technical ability depending on the project).\n\n- Designers for documentation.  Now that non-programming internal work is moving to markdown in git, we are hiring designers to work on templates and mini-logos for documentation and other work.\n\n- Data Science: time series analysis in particular, including high frequency data sets that are too big for simple tools\n\n- Information Security: incident response, threat intelligence, vuln management\n\n- Platform: Platform as Code,  Site Reliability Engineers, Windows desktop support; frontline server support and administrati […]",
+   "titre_fil": "Ask HN: Who is hiring? (September 2021)",
+   "type": "commentaire",
+   "videos": [
+    "AhR4PSExnqk",
+    "es6U7WAlKpQ",
+    "7teqrCNzrD8",
+    "FZi9CSB9_kk",
+    "BtuzSlKRmzA",
+    "1rMq-4rWgis"
+   ]
+  },
+  "28737883": {
+   "auteur": "kal31dic",
+   "date": 1633274667,
+   "fil": "28719320",
+   "id": "28737883",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Symmetry Investments | Many Varied Roles | REMOTE or VISA (London, Hong Kong, Singapore, Jersey) | D, Julia, Kotlin, other functional and systems languages | Full-Time, Fixed Term, Flexible\n\n## Roles we are hiring for\n\n- Business Analysts: business analysis, documentation, team and tool design\n\n- Native Code Developers: We are looking for outstanding native code developers who would like to write D.  Our experience has been that strong C and C++ developers can learn D quite quickly.\n\n- Functional Developers to work with Practitioners using Symmetry Integration Language to deliver value to the business.\n\n- Documentation: At Symmetry we recognise the value of writing and have for example a Pulitzer prize-winning former WSJ journalist and a maintainer of Linux Kernel Newbies documentation.  We are looking for people to write technical documentation and to document data structures and processes (open to varying range of technical ability depending on the project).\n\n- Designers for documentation.  Now that non-programming internal work is moving to markdown in git, we are hiring designers to work on templates and mini-logos for documentation and other work.\n\n- Data Science: time series analysis in particular, including high frequency data sets that are too big for simple tools\n\n- Information Security: incident response, threat intelligence, vuln management\n\n- Platform: Platform as Code, Site Reliability Engineers, Windows desktop support; frontline server support and administratio […]",
+   "titre_fil": "Ask HN: Who is hiring? (October 2021)",
+   "type": "commentaire",
+   "videos": [
+    "AhR4PSExnqk",
+    "es6U7WAlKpQ",
+    "7teqrCNzrD8",
+    "FZi9CSB9_kk",
+    "BtuzSlKRmzA",
+    "1rMq-4rWgis"
+   ]
+  },
+  "28786067": {
+   "auteur": "rahulbhatia",
+   "date": 1633613910,
+   "fil": "28786067",
+   "id": "28786067",
+   "mots": [
+    "quant"
+   ],
+   "texte": "How to Make a Career as a Quant?",
+   "titre_fil": "How to Make a Career as a Quant?",
+   "type": "article",
+   "videos": [
+    "xJ2ZRMdiCrU"
+   ]
+  },
+  "29075695": {
+   "auteur": "kal31dic",
+   "date": 1635816300,
+   "fil": "29067493",
+   "id": "29075695",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Symmetry Investments | Many Varied Roles | REMOTE or VISA (London, Hong Kong, Singapore, Jersey) | D, Julia, Kotlin, other functional and systems languages | Full-Time, Fixed Term, Flexible\n\n## Roles we are hiring for\n\n- Business Analysts: business analysis, documentation, team and tool design\n\n- Native Code Developers: We are looking for outstanding native code developers who would like to write D.  Our experience has been that strong C and C++ developers can learn D quite quickly.\n\n- Functional Developers to work with Practitioners using Symmetry Integration Language to deliver value to the business.\n\n- Documentation: At Symmetry we recognise the value of writing and have for example a Pulitzer prize-winning former WSJ journalist and a maintainer of Linux Kernel Newbies documentation.  We are looking for people to write technical documentation and to document data structures and processes (open to varying range of technical ability depending on the project).\n\n- Designers for documentation.  Now that non-programming internal work is moving to markdown in git, we are hiring designers to work on templates and mini-logos for documentation and other work.\n\n- Data Science: time series analysis in particular, including high frequency data sets that are too big for simple tools\n\n- Information Security: incident response, threat intelligence, vuln management\n\n- Platform: Platform as Code, Site Reliability Engineers, Windows desktop support; frontline server support and administratio […]",
+   "titre_fil": "Ask HN: Who is hiring? (November 2021)",
+   "type": "commentaire",
+   "videos": [
+    "AhR4PSExnqk",
+    "es6U7WAlKpQ",
+    "7teqrCNzrD8",
+    "FZi9CSB9_kk",
+    "BtuzSlKRmzA",
+    "1rMq-4rWgis"
+   ]
+  },
+  "29521339": {
+   "auteur": "kal31dic",
+   "date": 1639235356,
+   "fil": "29405056",
+   "id": "29521339",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Symmetry Investments | Many Varied Roles | REMOTE or VISA (London, Hong Kong, Singapore, Jersey) | D, Julia, Kotlin, other functional and systems languages | Full-Time, Fixed Term, Flexible\n\n## Roles we are hiring for\n\n- Business Analysts: business analysis, documentation, team and tool design\n\n- Native Code Developers: We are looking for outstanding native code developers who would like to write D.  Our experience has been that strong C and C++ developers can learn D quite quickly.\n\n- Functional Developers to work with Practitioners using Symmetry Integration Language to deliver value to the business.\n\n- Documentation: At Symmetry we recognise the value of writing and have for example a Pulitzer prize-winning former WSJ journalist and a maintainer of Linux Kernel Newbies documentation.  We are looking for people to write technical documentation and to document data structures and processes (open to varying range of technical ability depending on the project).\n\n- Designers for documentation.  Now that non-programming internal work is moving to markdown in git, we are hiring designers to work on templates and mini-logos for documentation and other work.\n\n- Data Science: time series analysis in particular, including high frequency data sets that are too big for simple tools\n\n- Information Security: incident response, threat intelligence, vuln management\n\n- Platform: Platform as Code, Site Reliability Engineers, Windows desktop support; frontline server support and administratio […]",
+   "titre_fil": "Ask HN: Who is hiring? (December 2021)",
+   "type": "commentaire",
+   "videos": [
+    "AhR4PSExnqk",
+    "es6U7WAlKpQ",
+    "7teqrCNzrD8",
+    "FZi9CSB9_kk",
+    "BtuzSlKRmzA",
+    "1rMq-4rWgis"
+   ]
+  },
+  "2971724": {
+   "auteur": "lyudmil",
+   "date": 1315433396,
+   "fil": "2971724",
+   "id": "2971724",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Quants: The Alchemists of Wall Street [video]",
+   "titre_fil": "Quants: The Alchemists of Wall Street [video]",
+   "type": "article",
+   "videos": [
+    "ed2FWNWwE3I"
+   ]
+  },
+  "29792041": {
+   "auteur": "kal31dic",
+   "date": 1641278056,
+   "fil": "29782099",
+   "id": "29792041",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Symmetry Investments | Many Varied Roles | REMOTE GLOBALLY or VISA (London, Hong Kong, Singapore, Jersey) | D/C/C++, Julia, Typescript, Haskell/Ocaml/ML | Full-Time, Fixed Term, Flexible\n\n## Roles we are hiring for\n- Business Analysts: business analysis, documentation, team and tool design\n\n- Native Code Developers: We are looking for outstanding native code developers who would like to write D. Our experience has been that strong C and C++ developers can learn D quite quickly.\n\n- Functional programmers to work with practitioners in delivering value to the business using Symmetry Integration Language.\n\n- Documentation: At Symmetry we recognise the value of writing and have for example a Pulitzer prize-winning former WSJ journalist and a maintainer of Linux Kernel Newbies documentation. We are looking for people to write technical documentation and to document data structures and processes (open to varying range of technical ability depending on the project).\n\n- Front end design: designers - ideally with some ability to program - to work on usability and aesthetics for our applications and other information-presenting systems, on both web and desktop\n\n- Designers for documentation: Now that non-programming internal work is moving to markdown in git, we are hiring designers to work on templates and mini-logos for documentation and other work.\n\n- Data Science: time series analysis in particular, including high frequency data sets that are too big for simple tools\n\n- Information  […]",
+   "titre_fil": "Ask HN: Who is hiring? (January 2022)",
+   "type": "commentaire",
+   "videos": [
+    "AhR4PSExnqk",
+    "es6U7WAlKpQ",
+    "7teqrCNzrD8",
+    "FZi9CSB9_kk",
+    "BtuzSlKRmzA",
+    "1rMq-4rWgis"
+   ]
+  },
+  "29792043": {
+   "auteur": "kal31dic",
+   "date": 1641278086,
+   "fil": "29782099",
+   "id": "29792043",
+   "mots": [
+    "quant"
+   ],
+   "texte": "## Roles we are hiring for\n\n- Business Analysts: business analysis, documentation, team and tool design\n\n- Native Code Developers: We are looking for outstanding native code developers who would like to write D.  Our experience has been that strong C and C++ developers can learn D quite quickly.\n\n- Functional programmers to work with practitioners in delivering value to the business using Symmetry Integration Language.\n\n- Documentation: At Symmetry we recognise the value of writing and have for example a Pulitzer prize-winning former WSJ journalist and a maintainer of Linux Kernel Newbies documentation.  We are looking for people to write technical documentation and to document data structures and processes (open to varying range of technical ability depending on the project).\n\n- Front end design: designers - ideally with some ability to program - to work on usability and aesthetics for our applications and other information-presenting systems, on both web and desktop\n\n- Designers for documentation:  Now that non-programming internal work is moving to markdown in git, we are hiring designers to work on templates and mini-logos for documentation and other work.\n\n- Data Science: time series analysis in particular, including high frequency data sets that are too big for simple tools\n\n- Information Security: incident response, threat intelligence, vuln management\n\n- Platform: Platform as Code, Site Reliability Engineers, Windows desktop support; frontline server support and admin […]",
+   "titre_fil": "Ask HN: Who is hiring? (January 2022)",
+   "type": "commentaire",
+   "videos": [
+    "AhR4PSExnqk",
+    "es6U7WAlKpQ",
+    "7teqrCNzrD8",
+    "FZi9CSB9_kk",
+    "BtuzSlKRmzA",
+    "1rMq-4rWgis"
+   ]
+  },
+  "30176601": {
+   "auteur": "kal31dic",
+   "date": 1643804944,
+   "fil": "30164271",
+   "id": "30176601",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Symmetry Investments | Many Varied Roles | REMOTE or VISA (London, Hong Kong, Singapore, Jersey) | D, Julia, Kotlin, other functional and systems languages | Full-Time, Fixed Term, Flexible\n\n## Roles we are hiring for\n\n- Business Analysts: business analysis, documentation, team and tool design\n\n- Native Code Developers: We are looking for outstanding native code developers who would like to write D.  Our experience has been that strong C and C++ developers can learn D quite quickly.\n\n- Functional programmers to work with practitioners in delivering value to the business using Symmetry Integration Language.\n\n- Documentation: At Symmetry we recognise the value of writing and have for example a Pulitzer prize-winning former WSJ journalist and a maintainer of Linux Kernel Newbies documentation.  We are looking for people to write technical documentation and to document data structures and processes (open to varying range of technical ability depending on the project).\n\n- Front end design: designers - ideally with some ability to program - to work on usability and aesthetics for our applications and other information-presenting systems, on both web and desktop\n\n- Designers for documentation:  Now that non-programming internal work is moving to markdown in git, we are hiring designers to work on templates and mini-logos for documentation and other work.\n\n- Data Science: time series analysis in particular, including high frequency data sets that are too big for simple tools\n\n- Infor […]",
+   "titre_fil": "Ask HN: Who is hiring? (February 2022)",
+   "type": "commentaire",
+   "videos": [
+    "AhR4PSExnqk",
+    "es6U7WAlKpQ",
+    "7teqrCNzrD8",
+    "FZi9CSB9_kk",
+    "BtuzSlKRmzA",
+    "1rMq-4rWgis"
+   ]
+  },
+  "30525005": {
+   "auteur": "kal31dic",
+   "date": 1646208565,
+   "fil": "30515750",
+   "id": "30525005",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Symmetry Investments | Many Varied Roles | REMOTE or VISA (London, Hong Kong, Singapore, Jersey) | D, Julia, Kotlin, other functional and systems languages | Full-Time, Fixed Term, Flexible\n\n## Roles we are hiring for\n\n- Business Analysts: business analysis, documentation, team and tool design\n\n- Native Code Developers: We are looking for outstanding native code developers who would like to write D.  Our experience has been that strong C and C++ developers can learn D quite quickly.\n\n- Functional programmers to work with practitioners in delivering value to the business using Symmetry Integration Language.\n\n- Documentation: At Symmetry we recognise the value of writing and have for example a Pulitzer prize-winning former WSJ journalist and a maintainer of Linux Kernel Newbies documentation.  We are looking for people to write technical documentation and to document data structures and processes (open to varying range of technical ability depending on the project).\n\n- Front end design: designers - ideally with some ability to program - to work on usability and aesthetics for our applications and other information-presenting systems, on both web and desktop\n\n- Designers for documentation:  Now that non-programming internal work is moving to markdown in git, we are hiring designers to work on templates and mini-logos for documentation and other work.\n\n- Data Science: time series analysis in particular, including high frequency data sets that are too big for simple tools\n\n- Infor […]",
+   "titre_fil": "Ask HN: Who is hiring? (March 2022)",
+   "type": "commentaire",
+   "videos": [
+    "AhR4PSExnqk",
+    "es6U7WAlKpQ",
+    "7teqrCNzrD8",
+    "FZi9CSB9_kk",
+    "BtuzSlKRmzA",
+    "1rMq-4rWgis"
+   ]
+  },
+  "30896186": {
+   "auteur": "kal31dic",
+   "date": 1648986894,
+   "fil": "30878761",
+   "id": "30896186",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Symmetry Investments | Many Varied Roles | REMOTE GLOBALLY or VISA (London, Hong Kong, Singapore, Jersey) | D/C/C++, Julia, Typescript, Haskell/Ocaml/ML | Full-Time, Fixed Term, Flexible\n\n## Roles we are hiring for\n\n- Business Analysts: business analysis, documentation, team and tool design\n\n- Native Code Developers: We are looking for outstanding native code developers who would like to write D.  Our experience has been that strong C and C++ developers can learn D quite quickly.\n\n- Functional programmers to work with practitioners in delivering value to the business using Symmetry Integration Language.\n\n- Documentation: At Symmetry we recognise the value of writing and have for example a Pulitzer prize-winning former WSJ journalist and a maintainer of Linux Kernel Newbies documentation.  We are looking for people to write technical documentation and to document data structures and processes (open to varying range of technical ability depending on the project).\n\n- Front end design: designers - ideally with some ability to program - to work on usability and aesthetics for our applications and other information-presenting systems, on both web and desktop\n\n- Designers for documentation:  Now that non-programming internal work is moving to markdown in git, we are hiring designers to work on templates and mini-logos for documentation and other work.\n\n- Data Science: time series analysis in particular, including high frequency data sets that are too big for simple tools\n\n- Informat […]",
+   "titre_fil": "Ask HN: Who is hiring? (April 2022)",
+   "type": "commentaire",
+   "videos": [
+    "AhR4PSExnqk",
+    "7teqrCNzrD8",
+    "FZi9CSB9_kk",
+    "BtuzSlKRmzA",
+    "1rMq-4rWgis"
+   ]
+  },
+  "31242913": {
+   "auteur": "kal31dic",
+   "date": 1651538221,
+   "fil": "31235968",
+   "id": "31242913",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Symmetry Investments | Many Varied Roles | REMOTE GLOBALLY or VISA (London, Hong Kong, Singapore, Jersey) | D/C/C++, Julia, Typescript, Haskell/Ocaml/ML | Full-Time, Fixed Term, Flexible\n\n## Roles we are hiring for\n\n- Business Analysts: business analysis, documentation, team and tool design\n\n- Native Code Developers: We are looking for outstanding native code developers who would like to write D.  Our experience has been that strong C and C++ developers can learn D quite quickly.\n\n- Functional programmers to work with practitioners in delivering value to the business using Symmetry Integration Language.\n\n- Documentation: At Symmetry we recognise the value of writing and have for example a Pulitzer prize-winning former WSJ journalist and a maintainer of Linux Kernel Newbies documentation.  We are looking for people to write technical documentation and to document data structures and processes (open to varying range of technical ability depending on the project).\n\n- Front end design: designers - ideally with some ability to program - to work on usability and aesthetics for our applications and other information-presenting systems, on both web and desktop\n\n- Designers for documentation:  Now that non-programming internal work is moving to markdown in git, we are hiring designers to work on templates and mini-logos for documentation and other work.\n\n- Data Science: time series analysis in particular, including high frequency data sets that are too big for simple tools\n\n- Informat […]",
+   "titre_fil": "Ask HN: Who is hiring? (May 2022)",
+   "type": "commentaire",
+   "videos": [
+    "AhR4PSExnqk",
+    "7teqrCNzrD8",
+    "FZi9CSB9_kk",
+    "BtuzSlKRmzA",
+    "1rMq-4rWgis"
+   ]
+  },
+  "31592450": {
+   "auteur": "kal31dic",
+   "date": 1654155773,
+   "fil": "31582796",
+   "id": "31592450",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Symmetry Investments | Many Varied Roles | REMOTE GLOBALLY or VISA (London, Hong Kong, Singapore, Jersey) | D/C/C++, Julia, Typescript, Haskell/Ocaml/ML | Full-Time, Fixed Term, Flexible\n\n## Roles we are hiring for\n\n- Business Analysts: business analysis, documentation, team and tool design\n\n- Native Code Developers: We are looking for outstanding native code developers who would like to write D.  Our experience has been that strong C and C++ developers can learn D quite quickly.\n\n- Functional programmers to work with practitioners in delivering value to the business using Symmetry Integration Language.\n\n- Documentation: At Symmetry we recognise the value of writing and have for example a Pulitzer prize-winning former WSJ journalist and a maintainer of Linux Kernel Newbies documentation.  We are looking for people to write technical documentation and to document data structures and processes (open to varying range of technical ability depending on the project).\n\n- Front end design: designers - ideally with some ability to program - to work on usability and aesthetics for our applications and other information-presenting systems, on both web and desktop\n\n- Designers for documentation:  Now that non-programming internal work is moving to markdown in git, we are hiring designers to work on templates and mini-logos for documentation and other work.\n\n- Data Science: time series analysis in particular, including high frequency data sets that are too big for simple tools\n\n- Informat […]",
+   "titre_fil": "Ask HN: Who is hiring? (June 2022)",
+   "type": "commentaire",
+   "videos": [
+    "AhR4PSExnqk",
+    "7teqrCNzrD8",
+    "FZi9CSB9_kk",
+    "BtuzSlKRmzA",
+    "1rMq-4rWgis"
+   ]
+  },
+  "31954586": {
+   "auteur": "kal31dic",
+   "date": 1656719889,
+   "fil": "31947297",
+   "id": "31954586",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Symmetry Investments | Many Varied Roles | REMOTE GLOBALLY or VISA (London, Hong Kong, Singapore, Jersey) | D/C/C++, Julia, Typescript, Haskell/Ocaml/ML | Full-Time, Fixed Term, Flexible\n\n## Roles we are hiring for\n\n- Business Analysts: business analysis, documentation, team and tool design\n\n- Native Code Developers: We are looking for outstanding native code developers who would like to write D.  Our experience has been that strong C and C++ developers can learn D quite quickly.\n\n- Functional programmers to work with practitioners in delivering value to the business using Symmetry Integration Language.\n\n- Documentation: At Symmetry we recognise the value of writing and have for example a Pulitzer prize-winning former WSJ journalist and a maintainer of Linux Kernel Newbies documentation.  We are looking for people to write technical documentation and to document data structures and processes (open to varying range of technical ability depending on the project).\n\n- Front end design: designers - ideally with some ability to program - to work on usability and aesthetics for our applications and other information-presenting systems, on both web and desktop\n\n- Designers for documentation:  Now that non-programming internal work is moving to markdown in git, we are hiring designers to work on templates and mini-logos for documentation and other work.\n\n- Data Science: time series analysis in particular, including high frequency data sets that are too big for simple tools\n\n- Informat […]",
+   "titre_fil": "Ask HN: Who is hiring? (July 2022)",
+   "type": "commentaire",
+   "videos": [
+    "AhR4PSExnqk",
+    "7teqrCNzrD8",
+    "FZi9CSB9_kk",
+    "BtuzSlKRmzA",
+    "1rMq-4rWgis"
+   ]
+  },
+  "32688760": {
+   "auteur": "symmetryinv",
+   "date": 1662112180,
+   "fil": "32677265",
+   "id": "32688760",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Symmetry Investments | Many Varied Roles | REMOTE or VISA (London, Hong Kong, Singapore, Jersey) | D, Julia, Kotlin, other functional and systems languages | Full-Time, Fixed Term, Flexible\n\n## Roles we are hiring for\n\n- Business Analysts: business analysis, documentation, team and tool design\n\n- Native Code Developers: We are looking for outstanding native code developers who would like to write D.  Our experience has been that strong C and C++ developers can learn D quite quickly.\n\n- Functional programmers to work with practitioners in delivering value to the business using Symmetry Integration Language.\n\n- Documentation: At Symmetry we recognise the value of writing and have for example a Pulitzer prize-winning former WSJ journalist and a maintainer of Linux Kernel Newbies documentation.  We are looking for people to write technical documentation and to document data structures and processes (open to varying range of technical ability depending on the project).\n\n- Front end design: designers - ideally with some ability to program - to work on usability and aesthetics for our applications and other information-presenting systems, on both web and desktop\n\n- Designers for documentation:  Now that non-programming internal work is moving to markdown in git, we are hiring designers to work on templates and mini-logos for documentation and other work.\n\n- Data Science: time series analysis in particular, including high frequency data sets that are too big for simple tools\n\n- Infor […]",
+   "titre_fil": "Ask HN: Who is hiring? (September 2022)",
+   "type": "commentaire",
+   "videos": [
+    "AhR4PSExnqk",
+    "7teqrCNzrD8",
+    "FZi9CSB9_kk",
+    "BtuzSlKRmzA",
+    "1rMq-4rWgis"
+   ]
+  },
+  "32864199": {
+   "auteur": "jldevezas",
+   "date": 1663322435,
+   "fil": "32864199",
+   "id": "32864199",
+   "mots": [
+    "algorithmic trading"
+   ],
+   "texte": "Show HN: Indicator Dash – Rank and compare to mitigate crypto market uncertainty",
+   "titre_fil": "Show HN: Indicator Dash – Rank and compare to mitigate crypto market uncertainty",
+   "type": "article",
+   "videos": [
+    "Pa5WujQ8bXA"
+   ]
+  },
+  "32882600": {
+   "auteur": "localy",
+   "date": 1663456703,
+   "fil": "32882600",
+   "id": "32882600",
+   "mots": [
+    "quant"
+   ],
+   "texte": "London Quant Firm Python SWE Interview",
+   "titre_fil": "London Quant Firm Python SWE Interview",
+   "type": "article",
+   "videos": [
+    "YLj6kUlH0d0"
+   ]
+  },
+  "32898406": {
+   "auteur": "mellonaut",
+   "date": 1663596025,
+   "fil": "32898075",
+   "id": "32898406",
+   "mots": [
+    "high frequency trading",
+    "trading bot"
+   ],
+   "texte": "If you want to watch basically the same information deducted in similar matter in video format, presented by a mathematician who makes hilarious youtube videos with very high production value, you’re in luck!\n\nMatt parker made a video on this topic, and it’s great:\nhttps://youtu.be/sseSi0k3Ecg\n\nIt will not give you not a lot more information than you can find in this blog post (though it relates it to a stock market crash triggered by high frequency trading bots doing basically the same thing), but it’s highly entertaining.\n\n——\n\nedit: after re-checking the video, it states that is a video adaptation of the blog post, and the blog post is listed as primary source of the information :)",
+   "titre_fil": "Amazon’s $23M book about flies  (2011)",
+   "type": "commentaire",
+   "videos": [
+    "sseSi0k3Ecg"
+   ]
+  },
+  "33044505": {
+   "auteur": "martin_richter",
+   "date": 1664606709,
+   "fil": "33044505",
+   "id": "33044505",
+   "mots": [
+    "trading strategy"
+   ],
+   "texte": "Show HN: A tool to test investment strategies that are popular on Reddit",
+   "titre_fil": "Show HN: A tool to test investment strategies that are popular on Reddit",
+   "type": "article",
+   "videos": [
+    "AZZ18oMxnVg"
+   ]
+  },
+  "33076039": {
+   "auteur": "symmetryinv",
+   "date": 1664849203,
+   "fil": "33068421",
+   "id": "33076039",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Symmetry Investments | Many Varied Roles | REMOTE GLOBALLY or VISA (London, Hong Kong, Singapore, Jersey) | D/C/C++, Julia, Typescript, Haskell/Ocaml/ML | Full-Time, Fixed Term, Flexible\n\n## Roles we are hiring for\n\n- Business Analysts: business analysis, documentation, team and tool design\n\n- Native Code Developers: We are looking for outstanding native code developers who would like to write D.  Our experience has been that strong C and C++ developers can learn D quite quickly.\n\n- Functional programmers to work with practitioners in delivering value to the business using Symmetry Integration Language.\n\n- Documentation: At Symmetry we recognise the value of writing and have for example a Pulitzer prize-winning former WSJ journalist and a maintainer of Linux Kernel Newbies documentation.  We are looking for people to write technical documentation and to document data structures and processes (open to varying range of technical ability depending on the project).\n\n- Front end design: designers - ideally with some ability to program - to work on usability and aesthetics for our applications and other information-presenting systems, on both web and desktop\n\n- Designers for documentation:  Now that non-programming internal work is moving to markdown in git, we are hiring designers to work on templates and mini-logos for documentation and other work.\n\n- Data Science: time series analysis in particular, including high frequency data sets that are too big for simple tools\n\n- Informat […]",
+   "titre_fil": "Ask HN: Who is hiring? (October 2022)",
+   "type": "commentaire",
+   "videos": [
+    "AhR4PSExnqk",
+    "7teqrCNzrD8",
+    "FZi9CSB9_kk",
+    "BtuzSlKRmzA",
+    "1rMq-4rWgis"
+   ]
+  },
+  "33328850": {
+   "auteur": "3Sophons",
+   "date": 1666695479,
+   "fil": "33328850",
+   "id": "33328850",
+   "mots": [
+    "trading bot"
+   ],
+   "texte": "A WebAssembly-based, cloud-native ETL application framework for Cloud DATABASE",
+   "titre_fil": "A WebAssembly-based, cloud-native ETL application framework for Cloud DATABASE",
+   "type": "article",
+   "videos": [
+    "sQCRQeTnBgo"
+   ]
+  },
+  "33436180": {
+   "auteur": "symmetryinv",
+   "date": 1667398635,
+   "fil": "33422129",
+   "id": "33436180",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Symmetry Investments | Many Varied Roles | REMOTE GLOBALLY or VISA (London, Hong Kong, Singapore, Jersey) | D/C/C++, Julia, Typescript, Haskell/Ocaml/ML | Full-Time, Fixed Term, Flexible\n\n## Roles we are hiring for\n\n- Business Analysts: business analysis, documentation, team and tool design\n\n- Native Code Developers: We are looking for outstanding native code developers who would like to write D.  Our experience has been that strong C and C++ developers can learn D quite quickly.\n\n- Functional programmers to work with practitioners in delivering value to the business using Symmetry Integration Language.\n\n- Documentation: At Symmetry we recognise the value of writing and have for example a Pulitzer prize-winning former WSJ journalist and a maintainer of Linux Kernel Newbies documentation.  We are looking for people to write technical documentation and to document data structures and processes (open to varying range of technical ability depending on the project).\n\n- Front end design: designers - ideally with some ability to program - to work on usability and aesthetics for our applications and other information-presenting systems, on both web and desktop\n\n- Designers for documentation:  Now that non-programming internal work is moving to markdown in git, we are hiring designers to work on templates and mini-logos for documentation and other work.\n\n- Data Science: time series analysis in particular, including high frequency data sets that are too big for simple tools\n\n- Informat […]",
+   "titre_fil": "Ask HN: Who is hiring? (November 2022)",
+   "type": "commentaire",
+   "videos": [
+    "AhR4PSExnqk",
+    "7teqrCNzrD8",
+    "FZi9CSB9_kk",
+    "BtuzSlKRmzA",
+    "1rMq-4rWgis"
+   ]
+  },
+  "33828807": {
+   "auteur": "symmetryinv",
+   "date": 1669977077,
+   "fil": "33818037",
+   "id": "33828807",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Symmetry Investments | Many Varied Roles | REMOTE GLOBALLY or VISA (London, Hong Kong, Singapore, Jersey) | D/C/C++, Julia, Typescript, Haskell/Ocaml/ML | Full-Time, Fixed Term, Flexible\n\n## Roles we are hiring for\n\n- Business Analysts: business analysis, documentation, team and tool design\n\n- Native Code Developers: We are looking for outstanding native code developers who would like to write D.  Our experience has been that strong C and C++ developers can learn D quite quickly.\n\n- Functional programmers to work with practitioners in delivering value to the business using Symmetry Integration Language.\n\n- Documentation: At Symmetry we recognise the value of writing and have for example a Pulitzer prize-winning former WSJ journalist and a maintainer of Linux Kernel Newbies documentation.  We are looking for people to write technical documentation and to document data structures and processes (open to varying range of technical ability depending on the project).\n\n- Front end design: designers - ideally with some ability to program - to work on usability and aesthetics for our applications and other information-presenting systems, on both web and desktop\n\n- Designers for documentation:  Now that non-programming internal work is moving to markdown in git, we are hiring designers to work on templates and mini-logos for documentation and other work.\n\n- Data Science: time series analysis in particular, including high frequency data sets that are too big for simple tools\n\n- Informat […]",
+   "titre_fil": "Ask HN: Who is hiring? (December 2022)",
+   "type": "commentaire",
+   "videos": [
+    "AhR4PSExnqk",
+    "7teqrCNzrD8",
+    "FZi9CSB9_kk",
+    "BtuzSlKRmzA",
+    "1rMq-4rWgis"
+   ]
+  },
+  "33945057": {
+   "auteur": "knaik94",
+   "date": 1670778817,
+   "fil": "33943707",
+   "id": "33945057",
+   "mots": [
+    "algorithmic trading",
+    "quant"
+   ],
+   "texte": "I found it worthwhile to spend a day finding specific episodes of software engineering related podcasts. I've found good results when searching for software episodes in Algorithmic Trading, Math, Netsec, and Game Development podcasts. I also found that searching YouTube with the >20 min filter helps me find podcast-like single discussions/presentations. Youtube autoplay and recommended videos are really good for me.\n\nChat With Traders Podcast has Quant traders and software engineers from time to time. Hearing technical people talk about work and answer questions to a non-technical audience is useful, because podcasts often don't have PR talk. There are exception to that, here's a 3 year old episode with Sam Bankman-Fried https://www.youtube.com/watch?v=gSDk5PAJss4 https://chatwithtraders.com/?s=software\n\nDataSkeptic is an AI, data science, stats, advertising podcast I have found relatively recently. The have had multiple seasons, Seasons labeled, Ad-Tech (current), Physically Distributed, k-means, Time Series, Consensus, Interpretability, Fake News, Natural Language Processing, and Artificial Intelligence. I really liked the episodes I have heard so far. https://dataskeptic.com/\n\nI also enjoy old developer conference presentations like ones from Game Developers Conference and Defcon. There are projects to put saved articles through text to speech in batches on the computer, but I have set up classic TTS on my phone instead. Not all articles will work well for conversion thoug […]",
+   "titre_fil": "Ask HN: What are some of the best podcasts for developers?",
+   "type": "commentaire",
+   "videos": [
+    "gSDk5PAJss4"
+   ]
+  },
+  "34219392": {
+   "auteur": "symmetryinv",
+   "date": 1672675457,
+   "fil": "34219335",
+   "id": "34219392",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Symmetry Investments | Many Varied Roles | REMOTE GLOBALLY or VISA (London, Hong Kong, Singapore, Jersey) | D/C/C++, Julia, Typescript, Haskell/Ocaml/ML | Full-Time, Fixed Term, Flexible\n\n## Roles we are hiring for\n\n- Business Analysts: business analysis, documentation, team and tool design\n\n- Native Code Developers: We are looking for outstanding native code developers who would like to write D.  Our experience has been that strong C and C++ developers can learn D quite quickly.\n\n- Functional programmers to work with practitioners in delivering value to the business using Symmetry Integration Language.\n\n- Documentation: At Symmetry we recognise the value of writing and have for example a Pulitzer prize-winning former WSJ journalist and a maintainer of Linux Kernel Newbies documentation.  We are looking for people to write technical documentation and to document data structures and processes (open to varying range of technical ability depending on the project).\n\n- Front end design: designers - ideally with some ability to program - to work on usability and aesthetics for our applications and other information-presenting systems, on both web and desktop\n\n- Designers for documentation:  Now that non-programming internal work is moving to markdown in git, we are hiring designers to work on templates and mini-logos for documentation and other work.\n\n- Data Science: time series analysis in particular, including high frequency data sets that are too big for simple tools\n\n- Informat […]",
+   "titre_fil": "Ask HN: Who is hiring? (January 2023)",
+   "type": "commentaire",
+   "videos": [
+    "AhR4PSExnqk",
+    "7teqrCNzrD8",
+    "FZi9CSB9_kk",
+    "BtuzSlKRmzA",
+    "1rMq-4rWgis"
+   ]
+  },
+  "34541857": {
+   "auteur": "deepzn",
+   "date": 1674787625,
+   "fil": "34541857",
+   "id": "34541857",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Quants – The Alchemists of Wall Street – VPRO Documentary",
+   "titre_fil": "Quants – The Alchemists of Wall Street – VPRO Documentary",
+   "type": "article",
+   "videos": [
+    "ed2FWNWwE3I"
+   ]
+  },
+  "35000858": {
+   "auteur": "SuoDuanDao",
+   "date": 1677786274,
+   "fil": "35000195",
+   "id": "35000858",
+   "mots": [
+    "algo trading"
+   ],
+   "texte": "I came across a humorous video of someone getting his fish to invest in stocks https://www.youtube.com/watch?v=USKD3vPD6ZA&t=715s\n\nHe was essentially teaching algo trading, and also tracked wallstreet bets sentiment analysis. He went so far as to pitch his investment strategy to serious tech investors (it was ahead of the nasdaq at the time). His Wallstreet bets tracker had been tanking so he focused on the fish investing fund, but I was waiting for one of the investors to suggest he inverse wallstreet bets and make a lot of money.",
+   "titre_fil": "The Inverse Jim Cramer ETF",
+   "type": "commentaire",
+   "videos": [
+    "USKD3vPD6ZA"
+   ]
+  },
+  "35145180": {
+   "auteur": "turtledragonfly",
+   "date": 1678752159,
+   "fil": "35143573",
+   "id": "35145180",
+   "mots": [
+    "high frequency trading"
+   ],
+   "texte": "I suppose it comes down to your definition of \"by hand,\" but creating custom allocators for your application and arranging your memory layout carefully can still absolutely be a worthwhile endeavor.\n\nEspecially when performance matters (eg: high frequency trading systems, video games, constrained embedded systems, and more), the improved locality that you can get from custom memory management can be worth it all on its own.\n\nFor a good talk on this subject, see Lakos \"Local Memory Allocators\" presentation:\n\n* part 1: https://www.youtube.com/watch?v=nZNd5FjSquk, part 2: https://www.youtube.com/watch?v=CFzuFNSpycI",
+   "titre_fil": "Switching from C++ to Rust",
+   "type": "commentaire",
+   "videos": [
+    "nZNd5FjSquk",
+    "CFzuFNSpycI"
+   ]
+  },
+  "35397125": {
+   "auteur": "than3",
+   "date": 1680323078,
+   "fil": "35384462",
+   "id": "35397125",
+   "mots": [
+    "algorithmic trading"
+   ],
+   "texte": "> I didn't find it ethical to invest in the stock market.\n\nEthics are individual, but I can totally agree with this sentiment.\n\nTo effectively make money in up, down, or sideways markets you need to be able to trade options. Options are risky, but you can structure them in combinations to reduce risk, but those positions are handled differently depending on whether you are a primary dealer, or an individual investor.\n\nWhen certain options are coupled in certain structures, they form synthetic shares at the broker dealer level which can exceed the amount of shares in the float, and the market maker assumes the risk because they delta hedge to facilitate selling and clearing contracts.\n\nAs a result, with sufficient capital you can manipulate the market price down since a synthetic share is counted indistinguishable from a real share and with sufficient capital this can be an arbitrary amount.\n\nThe basic mechanics of the market are when there are more sellers than buyers the price goes down, the opposite causes the market to go up.\n\nAlgorithmic trading capitalizes on volumes/churn, and can trigger intentional volatility halts with sufficient churn which almost seemed targeted when it might go against a short seller (i.e. moving up).\n\nOverall the markets today from what I've seen are just a very clever way to fleece people's retirement money. For someone to gain, someone must lose. Ethically, its quite tainted, but other avenues for capital investment are generally not easily acc […]",
+   "titre_fil": "Where have all the laid-off tech workers gone?",
+   "type": "commentaire",
+   "videos": [
+    "-Eyo0u4_sYI"
+   ]
+  },
+  "35843878": {
+   "auteur": "btilly",
+   "date": 1683396945,
+   "fil": "35833700",
+   "id": "35843878",
+   "mots": [
+    "trading strategy"
+   ],
+   "texte": "I'm bored, so I'll respond.  But where to begin?\n\nFirst, the most basic role of money is to be a medium of exchange.  With reasonable overhead and in acceptable time, people need to be able to exchange money for goods and services.  Crypto fails this in every practical way.  If I want to buy pizza with bitcoin, my overhead exceeds the value of the pizza, the average time to make the purchase is longer than the average time to order, have it made, delivered, and get eaten by my family.  (Have you ever SEEN hungry teenagers tear into pizza.)  Also if people started trying to buy pizza with bitcoin, you'd quickly run into the problem that the maximum number of transactions per second on the bitcoin network is a fraction of the number of pizzas sold per second.\n\nYes, yes.  This is all improvable.  I've heard that for years.  But these issues are not new, and haven't gone away.\n\nOK, what next?  You are making a big deal out of the fact that there are poor people in horrible third world countries who want to use crypto to escape authoritarian oversight.  At best this is a red herring, I lean towards calling it disingenuous.  A far more important use case for crypto is crooks trying to get paid for their ransomware attacks without themselves being caught by law enforcement.  And the third world has benefitted far more from payment networks like M-PESA than all of crypto.\n\nBesides, the single best way to help the poor people in horrible third world countries is to continue the worldw […]",
+   "titre_fil": "US crypto mining used more power last year than all the computers",
+   "type": "commentaire",
+   "videos": [
+    "jbkSRLYSojo"
+   ]
+  },
+  "35956845": {
+   "auteur": "photochemsyn",
+   "date": 1684201277,
+   "fil": "35956333",
+   "id": "35956845",
+   "mots": [
+    "quant"
+   ],
+   "texte": "The Big Short: \"Look at my quant!\"\n\nhttps://youtu.be/FoYC_8cutb0",
+   "titre_fil": "Math prodigy runs market-making empire",
+   "type": "commentaire",
+   "videos": [
+    "FoYC_8cutb0"
+   ]
+  },
+  "36243891": {
+   "auteur": "Mc91",
+   "date": 1686239262,
+   "fil": "36242944",
+   "id": "36243891",
+   "mots": [
+    "high frequency trading"
+   ],
+   "texte": "> ML+Python+Pytorch because it's hot right now?\n\nWatch this video, which is an introduction to logistic regression for beginners - https://www.youtube.com/watch?v=hjrYrynGWGA\n\nIf you think that is lacking some preliminary explanation, this is the possibly clarifying previous video: https://www.youtube.com/watch?v=eqEc66RFY0I\n\nThe video doesn't expect you to know deep learning, but does expect you know probability/statistics, calculus and linear algebra.\n\nIf this is confusing, then things like transformers will be even more confusing.\n\n> Java because no one wants to maintain legacy Java code but there are lots of it and the demand will be there? COBOL to take that even further?\n\nOver a long career I have not found this to be a good strategy.  Although plenty of application servers run JVM code - Java, or nowadays sometimes Kotlin (or other JVM languages).  Java is OK to do, but the idea of starting with some legacy stuff does not - there are Java programmers who have experience going back to the 1990s.\n\n> Node.js because it's popular?\n\nPopularity has its appeals and drawbacks.  More jobs for popular technology, but there is also more competition.  Companies are always having trouble finding senior programmers in niche but not too niche stacks.\n\n> Swift because Apple will continue to dominate the high end?\n\niOS is not going away anytime soon.\n\n> Practice and pass the tests to get into a FAANG?\n\nIt makes sense, as other companies ape FAANGs tests as well.  Being able to do Leetc […]",
+   "titre_fil": "Ask HN: How can a junior dev maximize their income?",
+   "type": "commentaire",
+   "videos": [
+    "hjrYrynGWGA",
+    "eqEc66RFY0I"
+   ]
+  },
+  "36699142": {
+   "auteur": "tastyfreeze",
+   "date": 1689185516,
+   "fil": "36697191",
+   "id": "36699142",
+   "mots": [
+    "algorithmic trading"
+   ],
+   "texte": "I went down this road a few years ago.  Reading up on algorithmic trading is a great start.  HFT often employs normal algorithmic trading techniques optimized for low latency.  There are some algorithms that only work when you have a temporal edge.  That is the software side.  The hardware side is really interesting as well.  If a connection to an exchange can be reduced by a few milliseconds it gives a competitive advantage.  There is a lot of money spent to be the fastest because for some types of algorithmic trading being fastest almost means free money.  Because of how lucrative a minor edge can be you are not likely to find many details on the bleeding edge of HFT.\n\nBeware, the more you read about the practices of HFT firms the more some of it looks like fraud on a grand scale.  For example, front running orders is a common practice that goes unpunished for HFT firms but will land you or I in jail.\n\nI got into algorithmic trading and HFT when I was dabbling in bot trading cryptocurrencies.  The wild west of crypto bot trading is pretty much gone now but man it was fun while it lasted.\n\nIn addition to the algorithmic trading books suggested I found these links helpful:\nhttps://www.quantstart.com/articles/Beginners-Guide-to-Quantitative-Trading/\n\nhttps://www.youtube.com/watch?v=rB5jJuMP84E - just neat\n\nhttps://www.youtube.com/watch?v=oUVchh37AO8\n\nhttps://www.youtube.com/watch?v=bo-F61ZuBDg - 2010 flash crash",
+   "titre_fil": "Ask HN: I am interested in reading about techniques HFT firms use",
+   "type": "commentaire",
+   "videos": [
+    "rB5jJuMP84E",
+    "oUVchh37AO8",
+    "bo-F61ZuBDg"
+   ]
+  },
+  "36877456": {
+   "auteur": "amai",
+   "date": 1690378564,
+   "fil": "36864115",
+   "id": "36877456",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Most probably the answer to this question is yes. Quant hedge funds like Renaissance technology claim they are making their money by exploiting the mistakes of these technical analysis people.\n\nhttps://youtu.be/Q2u0dKRA1cA?t=1216\n\n\"Never send a human to do a machines job!\" (Agent Smith)",
+   "titre_fil": "Is technical analysis just stock market astrology?",
+   "type": "commentaire",
+   "videos": [
+    "Q2u0dKRA1cA"
+   ]
+  },
+  "38195578": {
+   "auteur": "cookyprophecy",
+   "date": 1699471442,
+   "fil": "38195578",
+   "id": "38195578",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Automation in Quant Trading – Hudson River Trading [video]",
+   "titre_fil": "Automation in Quant Trading – Hudson River Trading [video]",
+   "type": "article",
+   "videos": [
+    "QGV5OHhuMVw"
+   ]
+  },
+  "38656833": {
+   "auteur": "apantel",
+   "date": 1702663906,
+   "fil": "38652887",
+   "id": "38656833",
+   "mots": [
+    "high frequency trading"
+   ],
+   "texte": "Here is a presentation by a team that did benchmarking of different runtimes:\n\nhttps://youtu.be/sRCgu1ng6Bo?si=SV_Mcinuqh_c-nuX\n\nJavaScript is ~8x slower and Python ~30x slower on average vs Java / Go / C++ that are all quite close.\n\nA funny aside: I always believed that Java is slow because I heard it repeated so many times.  I internalized that bit of age-old mythology.  But lately as I’ve gotten more focused on performance, I’ve come across a lot of hints in various talks and articles that Java has become one of the go-to languages for high-performance programming (e.g. high frequency trading).  So, I hear you about the mythology point.",
+   "titre_fil": "Oxlint – JavaScript linter written in Rust",
+   "type": "commentaire",
+   "videos": [
+    "sRCgu1ng6Bo"
+   ]
+  },
+  "38693778": {
+   "auteur": "slowmovintarget",
+   "date": 1702980079,
+   "fil": "38692898",
+   "id": "38693778",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Scott Aaronson did: [1], [2]\n\n[1] https://arxiv.org/pdf/quant-ph/0206089.pdf\n\n[2] https://www.youtube.com/watch?v=wd-0COLM8oc\n\nSummary: Wolfram's model doesn't handle violations of Bell's Inequality, which has been observed in nature. Violations of Bell's Inequality require true randomness in the underlying universe. Hypergraph state machines assume an underlying mechanism that has no randomness. In other words, it functions like the kind of hidden variables theory ruled out by Bell's theorem. They haven't gotten anything like Hilbert space (quantum states) out of Wolfram's model.",
+   "titre_fil": "Finally We May Have a Path to the Fundamental Theory of Physics",
+   "type": "commentaire",
+   "videos": [
+    "wd-0COLM8oc"
+   ]
+  },
+  "38844460": {
+   "auteur": "pknerd",
+   "date": 1704217486,
+   "fil": "38842976",
+   "id": "38844460",
+   "mots": [
+    "algo trading"
+   ],
+   "texte": "SEEKING WORK | REMOTE\n\nI am looking for automation-related work: Bots(Algo Trading, Discord, Telegram, etc) that are connected with some APIs or backend systems. I also have worked on both OpenAI and Google Gemini Pro APIs and used them for Stock Sentiment Analysis and Finance WordPress blog automation respectively. I also recently started exploring AI chatbots and came up with a real estate lead-capturing bot demo using VoiceFlow[1]\n\nYou can learn more about me at https://adnansiddiqi.me\n\n[1] https://www.youtube.com/watch?v=Bu3JvLb0hMs",
+   "titre_fil": "Ask HN: Freelancer? Seeking freelancer? (January 2024)",
+   "type": "commentaire",
+   "videos": [
+    "Bu3JvLb0hMs"
+   ]
+  },
+  "38848944": {
+   "auteur": "pknerd",
+   "date": 1704240215,
+   "fil": "38842975",
+   "id": "38848944",
+   "mots": [
+    "algo trading"
+   ],
+   "texte": "Location: Pakistan\n\nRemote: Yes\n\nWilling to relocate: No\n\nTechnologies: Python, Go, LLM integrations, API integrations, Bots(Discord, Trading, Slack, etc), Web Scraping, ETLs.\n\nI am looking for automation-related work: Bots(Algo Trading, Discord, Telegram, etc) that are connected with some APIs or backend systems. I also have worked on both OpenAI and Google Gemini Pro APIs and used them for Stock Sentiment Analysis and Finance WordPress blog automation respectively. I also recently started exploring AI chatbots and came up with a real estate lead-capturing bot demo using VoiceFlow[1]\n\nYou can learn more about me at https://adnansiddiqi.me\n\nEmail: [e-mail masqué]\n\n[1] https://www.youtube.com/watch?v=Bu3JvLb0hMs",
+   "titre_fil": "Ask HN: Who wants to be hired? (January 2024)",
+   "type": "commentaire",
+   "videos": [
+    "Bu3JvLb0hMs"
+   ]
+  },
+  "39158770": {
+   "auteur": "tim333",
+   "date": 1706382633,
+   "fil": "39146654",
+   "id": "39158770",
+   "mots": [
+    "backtest",
+    "backtesting",
+    "trading bot"
+   ],
+   "texte": "I've recently been studying up on it with a view to unleash the bots soon. I can recommend a couple of Udemy courses, details below.\n\nThere's a guy here explaining how to make trading bots in Python https://youtu.be/sUQmuL95_oY  He has free code available on github to try out. He also explains how to backtest. There are a couple of popular packages like backtesting.py out there.\n\nccxt is a handy python package if you want to trade crypto. There are various free tutorials for it.\n\nI also recommend playing around with Tradingview. It draws graphs and you can make your own indicators with their language Pinescript and even trade off that although Python probably gives you more flexibility.\n\nUdemy courses https://www.udemy.com/course/algorithmic-trading-strategies-in-python and https://www.udemy.com/course/complete-algorthmic-forex-trading-and-back-testing-system I paid about £14 each - they keep chopping and changing with the discounts\n\nThe details vary a bit depending what you want to trade - crypto, stocks fx or whatever.\n\nOne tip - chatgpt4 is surprisingly helpful and can almost code a whole bot for you if you know what you want. One slight pain for me has been finding brokers with the what I want. I'm the wrong nationality or they don't have futures or there isn't enough liquidity or they are sketchy or such like.",
+   "titre_fil": "Ask HN: How to get into quantitative trading?",
+   "type": "commentaire",
+   "videos": [
+    "sUQmuL95_oY"
+   ]
+  },
+  "39477882": {
+   "auteur": "tarruda",
+   "date": 1708673386,
+   "fil": "39471388",
+   "id": "39477882",
+   "mots": [
+    "quant"
+   ],
+   "texte": "This video [1] shows someone running at 4-bit quant in 48gb VRAM. I suspect you need 4x that to run at full f16 precision, or approx 3 H100.\n\nhttps://www.youtube.com/watch?v=dJ69gY0qRbg",
+   "titre_fil": "Phind-70B: Closing the code quality gap with GPT-4 Turbo while running 4x faster",
+   "type": "commentaire",
+   "videos": [
+    "dJ69gY0qRbg"
+   ]
+  },
+  "39704339": {
+   "auteur": "hudson-trading",
+   "date": 1710425880,
+   "fil": "39704339",
+   "id": "39704339",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Ask an Algo Dev – 6 HRT quants answer common questions about their role [video]",
+   "titre_fil": "Ask an Algo Dev – 6 HRT quants answer common questions about their role [video]",
+   "type": "article",
+   "videos": [
+    "VRpxqtA_Nlk"
+   ]
+  },
+  "40903110": {
+   "auteur": "haebom",
+   "date": 1720421115,
+   "fil": "40903110",
+   "id": "40903110",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Show HN: Stock trading advisor with technical analysis, Quant invest and GenAI",
+   "titre_fil": "Show HN: Stock trading advisor with technical analysis, Quant invest and GenAI",
+   "type": "article",
+   "videos": [
+    "f1KtKIDEHpY"
+   ]
+  },
+  "41345892": {
+   "auteur": "jjmunro",
+   "date": 1724578313,
+   "fil": "41309997",
+   "id": "41345892",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Hi. I'm the presenter. Thanks for the interest. Opinions here are my own.\n\nI'll put in a TLDR as the presentation is quite long. The other thing I'd like to say was that QCon London impressed me, the organisers spent time ensuring a good quality of presentation. The other talks that I saw were great. Many conferences I've been to recently are just happy to get someone, or can choose and go with well known quantities.  I first attended QCon London early in my career, so it was interesting coming back after over a decade to present.\n\nTLDR:\n\nWhy did we build our own database?  In effort terms, successful quantative trading is more about good ideas well executed than it is about production trading technology (apart from perhaps HFT).   We needed something that helped the quants be the most productive with data.\n\nWe needed something that was:\n\n- Easy to use (I mean really easy for beginner/moderate programmers).  We talk about day 1 productivity for new starters. Python is a tool for Quants not a career.\n\n- Cost effective to run (no large DB infra, easy to maintain, cheap storage, low licensing)\n\n- Performant (traditional SQL DBs don't compare here, we're in the Parquet, Clickhouse, KBD, etc space)\n\n- Scalable (large data-science jobs 10K+ cores, on-demand)\n\nA much shorter 3 min intro from PyQuantNews: https://www.youtube.com/watch?v=5_AjD7aVEEM\n\nGitHub repo (Source-available/BSL): https://github.com/man-group/ArcticDB",
+   "titre_fil": "ArcticDB: Why a Hedge Fund Built Its Own Database",
+   "type": "commentaire",
+   "videos": [
+    "5_AjD7aVEEM"
+   ]
+  },
+  "41949396": {
+   "auteur": "lizhaoliu",
+   "date": 1729888439,
+   "fil": "41949395",
+   "id": "41949396",
+   "mots": [
+    "backtesting"
+   ],
+   "texte": "Hi everyone,\n\nI've built a free portfolio optimization and backtesting tool that I wanted to share with the community. I created it to scratch my own itch: powerful investment tools without the paywall.\n\nWebsite: https://investest.io/\nDemo: https://youtu.be/eTD-f8AHs1o\n\nKey Features:\n* Portfolio optimization (Maximum Sharpe Ratio, Minimum Volatility)\n* Support for 36,000+ securities (stocks, ETFs, mutual funds)\n* Multiple portfolio creation, management and sharing\n* Daily-updated market data\n\nFuture Development Plans:\n* Scaling the infrastructure\n* Adding AI-powered chatbot and advisor\n* Implementing advanced portfolio insights\n\nThis is a side project, so updates might not be frequent. I'd love to get feedback from the community. What features would you find most useful? Any suggestions for improvement?\n\nDisclaimer: This is a personal project and should not be considered financial advice.",
+   "titre_fil": "I built a portfolio optimization and backtest tool supporting 36,000 securities",
+   "type": "commentaire",
+   "videos": [
+    "eTD-f8AHs1o"
+   ]
+  },
+  "43200069": {
+   "auteur": "_benj",
+   "date": 1740701150,
+   "fil": "43164498",
+   "id": "43200069",
+   "mots": [
+    "algo trading",
+    "trading bot"
+   ],
+   "texte": "Yes, all of it is solvable. I think my point is that is my impression (at least from the algo trading subreddit) that many approach it as a computer problem, which it is if one is doing what Jane Street is doing and has that kind of execution in the ns scale… but for retail traders I think one needs to learn what trading actually is, what market inefficiencies are there, usual behaviors of markets, money managements, psychology of trading, etc. in order to do algo trading well.\n\nProps to whoever can work that out by themselves.\n\nThere’s a guy that supposedly has a couple of live trading bots trading live money on YouTube. I’ve watched his stuff and don’t really have reason to not believe him since I can look at the charts myself and see that they are indeed live. His tutorial of mql5 is also very interesting. Algo bot programming is kind of just event programming. When a bar closes or on a tick… buy? sell? do thing? That’s all it is! The trick is in when to buy/sell/do nothing.\n\nhttps://www.youtube.com/live/QfDysU5eyM4?si=mvjN8dj6IHMlODR6",
+   "titre_fil": "Ask HN: Former devs who can't get a job, what did you end up doing for work?",
+   "type": "commentaire",
+   "videos": [
+    "QfDysU5eyM4"
+   ]
+  },
+  "43521748": {
+   "auteur": "vismit2000",
+   "date": 1743314713,
+   "fil": "43521748",
+   "id": "43521748",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Fibonacci hidden in interesting quant puzzle [video]",
+   "titre_fil": "Fibonacci hidden in interesting quant puzzle [video]",
+   "type": "article",
+   "videos": [
+    "waQ8Z5BN-CM"
+   ]
+  },
+  "43906346": {
+   "auteur": "vaibhavdubey97",
+   "date": 1746545884,
+   "fil": "43906346",
+   "id": "43906346",
+   "mots": [
+    "algorithmic trading"
+   ],
+   "texte": "Show HN: Plexe – ML Models from a Prompt",
+   "titre_fil": "Show HN: Plexe – ML Models from a Prompt",
+   "type": "article",
+   "videos": [
+    "bUwCSglhcXY"
+   ]
+  },
+  "44166248": {
+   "auteur": "idispatch",
+   "date": 1748924665,
+   "fil": "44157819",
+   "id": "44166248",
+   "mots": [
+    "trading strategy"
+   ],
+   "texte": "Related video for those who are interested: “When Nanoseconds Matter: Ultrafast Trading Systems in C++ - David Gross - CppCon 2024” https://youtu.be/sX2nF1fW7kI?si=komqKuZ0-eOH2v4V\n\nThis is basics for those who start creating anything HFT.\n\nYour project is a nice start. It has a lot of things waiting to be added and improved. I’d also add it looks like a 1-2 week project (excluding benchmarks) in my company for people who just started doing trading systems, and it reminds me of the project that is given to people that have finished C++ training and need something to exercise on.\n\nWhile it is a good start, I’d add you may find a lot of interesting ideas in QuantLib (https://www.quantlib.org/).\n\nPlease also be careful with double for price and quantity especially in HFT and especially with asset types like BTC. The precision issues may lead to some confusion and eventual losses here and there. I noticed that you use fuzzy floating point comparisons, even in tests. That may not be suitable for important use cases.\n\nPlease also add some examples for specific trading strategies. Let’s say if you have back testing and some simple historic data in JSON a good example could be a comparison of two trading strategies and the difference compared to most optimal trading strategy possible.",
+   "titre_fil": "Show HN: FLOX – C++ framework for building trading systems",
+   "type": "commentaire",
+   "videos": [
+    "sX2nF1fW7kI"
+   ]
+  },
+  "44456432": {
+   "auteur": "aadesola",
+   "date": 1751558588,
+   "fil": "44456432",
+   "id": "44456432",
+   "mots": [
+    "backtest",
+    "backtesting",
+    "quant"
+   ],
+   "texte": "Show HN: Epoch – build and backtest trading strategies with plain English",
+   "titre_fil": "Show HN: Epoch – build and backtest trading strategies with plain English",
+   "type": "article",
+   "videos": [
+    "KD7a0auQTfI"
+   ]
+  },
+  "44490862": {
+   "auteur": "MichaelRo",
+   "date": 1751899237,
+   "fil": "44482194",
+   "id": "44490862",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Well, I had an interview recently where I passed with flying honors the technical interview but they failed me at \"cultural fit\", which was strangely, the last one in the series.\n\nNow I must say that I got the vibe from the start they weren't interested in hiring me as much as extracting proprietary quant / trading information from me, but I played along since I was also interested in their culture.\n\nSo at the final interview, I get a series of questions that basically The Senate asked Cosa Nostra in https://en.wikipedia.org/wiki/United_States_Senate_Special_Committee_to_Investigate_Crime_in_Interstate_Commerce\n\nAnd foolish me, maybe, instead of taking the 5th Amendment \"I respectfully decline to answer on the grounds that my answer may tend to incriminate me\", I foolishly (did I say that again), gave a straight answer. From that on it was only downfall. Watch this movie, it's insightful: https://www.youtube.com/watch?v=TXdC293horg\n\nWhen you interview, remember, HR and hiring manager are fucking pigs. Anything you say can and will be used against you. So when they ask you of a situation of what you didn't like about your colleagues, you invoke Amendment 5: \"I never had a situation where I didn't like my colleagues\". When they ask you about how you handled a missed deadline you answer: \"I never missed a deadline\". And so on. They won't hire you probably any way. No point giving them pigs material to use against you.",
+   "titre_fil": "Async Queue – One of my favorite programming interview questions",
+   "type": "commentaire",
+   "videos": [
+    "TXdC293horg"
+   ]
+  },
+  "45966860": {
+   "auteur": "bofadeez",
+   "date": 1763477240,
+   "fil": "45947771",
+   "id": "45966860",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Yeah markets are disconnected from fundamentals. Conduct causal inference with any fundamental metric on forward returns and you'll see they have almost zero predictive ability. That supports the efficient market hypothesis, as do many many other observations.\n\nIf you could simply \"value the market\" in some analytical way, then any simple neural network would (universally) approximate it. Instead you see the vast vast majority of machine learning quant funds fail. Here are the specific details as to why: https://www.youtube.com/watch?v=BRUlSm4gdQ4",
+   "titre_fil": "AI Is the Bubble to Burst Them All",
+   "type": "commentaire",
+   "videos": [
+    "BRUlSm4gdQ4"
+   ]
+  },
+  "46110003": {
+   "auteur": "kevg86",
+   "date": 1764609286,
+   "fil": "46108941",
+   "id": "46110003",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Yuzu Health (yuzu.health) | Location: New York City (Flatiron) | ONSITE\n\nOur mission: Rebuild health insurance from the ground up\n\nWhy: We're solving the root cause of spiraling healthcare costs in the US (we're not building an integration on top of United or Aetna)\n\nInvestors: Our investors include General Catalyst, Chemistry VC, Anthropic, Lachy Groom and many unicorn founders, including leaders at Stripe, OpenAI, Brex, Deel, Mercury and Notion\n\nTeam: We are reasonable, fun people that work in person in NYC\n\nRoles: See here https://yuzu.health/careers (we have Fullstack and Backend roles posted at the moment. We're particularly in need of front end leaning folks right now and would consider other spikes also e.g. a Quant type to work on Pricing and we're also open to making a TLM type hire; all roles provide a ton of ownership).\n\nSome resources if folks want to learn more about the space:\n\n- Co-Founder interview with the Self Funded podcast: https://www.youtube.com/watch?v=OqFNseHLA1M\n\n- Co-Founder interview with Health Tech Nerds: https://www.healthtechnerds.com/p/russell-pekala-co-founder-of-yuzu-health-on-the-merits-of-employer-sponsored-health-insurance-and-th\n\n- Our company blog: https://yuzu.health/blog\n\n- Nikhil from our team’s substack on the industry: https://nikhilkapse.substack.com/\n\nI'm Kev the interim recruiting lead. You can reach out to me directly on kev ( at ) yuzu ( dot ) health",
+   "titre_fil": "Ask HN: Who is hiring? (December 2025)",
+   "type": "commentaire",
+   "videos": [
+    "OqFNseHLA1M"
+   ]
+  },
+  "47109761": {
+   "auteur": "tradrich",
+   "date": 1771754110,
+   "fil": "47109761",
+   "id": "47109761",
+   "mots": [
+    "algo trading",
+    "quant"
+   ],
+   "texte": "Show HN: C++26 Reflection for Python Algo Trading",
+   "titre_fil": "Show HN: C++26 Reflection for Python Algo Trading",
+   "type": "article",
+   "videos": [
+    "SJ0NFLpR9vE"
+   ]
+  },
+  "47204740": {
+   "auteur": "Benjamin-Cup",
+   "date": 1772352826,
+   "fil": "47204740",
+   "id": "47204740",
+   "mots": [
+    "trading bot"
+   ],
+   "texte": "Polymarket 5min market Trading Bot",
+   "titre_fil": "Polymarket 5min market Trading Bot",
+   "type": "article",
+   "videos": [
+    "4cklMPZs0y8"
+   ]
+  },
+  "47789594": {
+   "auteur": "bofadeez",
+   "date": 1776322802,
+   "fil": "47753472",
+   "id": "47789594",
+   "mots": [
+    "quant"
+   ],
+   "texte": "You're deliberately misunderstanding that you linked an article to EMH as informative and true, and then don't want to defend it. How do markets become efficient and reflect (any) information if nobody can profit by collecting information and trading on it? EMH states it's impossible to beat the market and that all available information is priced in. How, magically?\n\nThe way you're speaking about trading in terms of technical analysis implies you have retail trading exposure and have no idea what institutional alpha quants do.\n\nThis explainer might help you understand: https://youtu.be/RpCzaEn4rnc?t=257",
+   "titre_fil": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+   "type": "commentaire",
+   "videos": [
+    "RpCzaEn4rnc"
+   ]
+  },
+  "48307929": {
+   "auteur": "TDiblik",
+   "date": 1779971048,
+   "fil": "48307929",
+   "id": "48307929",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Show HN: Pushing a naive C++ web server implementation to 9k req/SEC",
+   "titre_fil": "Show HN: Pushing a naive C++ web server implementation to 9k req/SEC",
+   "type": "article",
+   "videos": [
+    "dCwylDrxowQ"
+   ]
+  },
+  "48394339": {
+   "auteur": "dirkg",
+   "date": 1780550715,
+   "fil": "48385906",
+   "id": "48394339",
+   "mots": [
+    "quant"
+   ],
+   "texte": "> For 16GB laptops, Qwen 3.5 9B is the undisputed champ.\n\nyou can run qwen 3.6 35BA3B on a 12-16GB vram gpu and ot works pretty well.\n\nhttps://www.youtube.com/watch?v=8F_5pdcD3HY&t=1s\n\neven the 27B in some quants can fit.\n\nhttps://www.reddit.com/r/LocalLLaMA/comments/1tkmgwj/qwen27biq4_ks_for_ik_llamacpp_especially_for/\n\nqwen IMO is far better for coding, esp agentic coding when combined with something like Pi, it comes probably close enough to Sonnet for a lot of use cases.\n\nGemma family is better for almost all other tasks you'd use a local llm for.",
+   "titre_fil": "Gemma 4 12B: A unified, encoder-free multimodal model",
+   "type": "commentaire",
+   "videos": [
+    "8F_5pdcD3HY"
+   ]
+  },
+  "48595026": {
+   "auteur": "mojo-jojo",
+   "date": 1781846329,
+   "fil": "48595025",
+   "id": "48595026",
+   "mots": [
+    "quant"
+   ],
+   "texte": "I wanted to see what each frontier lab model would do when put into a prisoner’s dilemma with each other.\n\nIn case you skipped the game theory chapter in Econ 101 freshman year… two accomplices (in our case four) are arrested and separated. The police lack enough evidence to convict them of a major crime, so they offer each prisoner a deal. Rat out your partners and walk. Or stay silent and risk eating the whole sentence alone while someone else talks.\n\nBefore wiring these rascals into this AI generated video for some fun (not too bad Kling!), we ran each of the four models (Claude Sonnet 4.6, GPT-4o, Gemini 2.5 Flash, Grok-3) through the same single-shot prisoner's-dilemma interrogation (N = 40 times per model).\n\nWatch to see what happens… Each of the four models maps to the four suspects being interrogated. Their lines and choices are true to the final results of the eval. Stay till the end for the reveal! Enjoy!!\nhttps://youtu.be/A1F-8ZRw6l4?si=Ds4WphXwf-K99LJg\n\nAnd for the more technical, persnickety bunch… here’s the quant:\nWe ran the eval at N=40 per model per condition,  temperature 1.0, sampling independently and parsing each transcript's final decision by the model into {cooperate, defect, unparsed}. The design crossed model × an identity manipulation — an anonymous condition (suspects referred to only by role) versus a named condition (suspects told the others' identities) — for 320 total runs. In the anonymous condition cooperation was near-universal: pooled defect […]",
+   "titre_fil": "[dead]",
+   "type": "commentaire",
+   "videos": [
+    "A1F-8ZRw6l4"
+   ]
+  },
+  "48703792": {
+   "auteur": "pixelpoet",
+   "date": 1782613866,
+   "fil": "48703258",
+   "id": "48703792",
+   "mots": [
+    "quant"
+   ],
+   "texte": "I have two 128gb Strix Halos and have been extremely excited about Antirez's (Redis author) work on DS4, especially with 4bit quant using two machines: https://github.com/antirez/ds4\n\nRight now the speed isn't good for GLM 5.2, Deepseek V4 Flash speed is okay for me (actually reading the output) and quite usable. See kyuz0's great recent video here: https://www.youtube.com/watch?v=PkKXm_mKCCM\n\nWith a bit more speed and model improvements, local AI becomes a reasonable practical thing! The biggest problem is all the tech companies making consumer hardware completely unaffordable, and I don't think this is accidental. Look at Micron's profits and share price lately...\n\nI got my Strix machines for ~2k eur each, best computers this 90s kid has ever owned, but those days are gone :(",
+   "titre_fil": "AMD Strix Halo RDMA Cluster Setup Guide",
+   "type": "commentaire",
+   "videos": [
+    "PkKXm_mKCCM"
+   ]
+  },
+  "49079390": {
+   "auteur": "stevejb",
+   "date": 1785213164,
+   "fil": "49065752",
+   "id": "49079390",
+   "mots": [
+    "quant"
+   ],
+   "texte": "You can run GLM 5.2 at a reasonable quant on a cluster of DGX Sparks. On the link below, the guy is getting decent performance and links to a repo. An 8x Spark cluster can run it even better. A Spark cluster is about as good as it gets for (a) runnable at home, (b) \"affordable\" hardware, (c) not going to kill your power bill.\n\nhttps://www.youtube.com/watch?v=nbHOBvLlypY\nhttps://www.youtube.com/watch?v=PV89U-PNUNA",
+   "titre_fil": "Kimi-K3 on HuggingFace",
+   "type": "commentaire",
+   "videos": [
+    "nbHOBvLlypY",
+    "PV89U-PNUNA"
+   ]
+  },
+  "49310271": {
+   "auteur": "adletbalzhanov",
+   "date": 1786799647,
+   "fil": "49310271",
+   "id": "49310271",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Do You Really Know Python? Quant Dev Mock Interview [video]",
+   "titre_fil": "Do You Really Know Python? Quant Dev Mock Interview [video]",
+   "type": "article",
+   "videos": [
+    "bE0K8mn18-8"
+   ]
+  },
+  "49441237": {
+   "auteur": "mkw5053",
+   "date": 1787694969,
+   "fil": "49434378",
+   "id": "49441237",
+   "mots": [
+    "quant"
+   ],
+   "texte": "Warning, this is a long comment! (I’m trying to stick to sourced facts here and not overstate what they mean)\n\nI went down a rabbit hole after watching Dylan Patel on Dwarkesh today:\nhttps://www.youtube.com/watch?v=aV26V1UvkJw\n\nI was initially just surprised by how bullish Dylan is on OpenAI/Anthropic and how bearish he is on China, despite Chinese labs getting closer to US SOTA while offering inference at dramatically lower prices.\n\nSo, I started digging while waiting for various day-job inference calls to return, ha.\n\nDylan says he spent years obsessively posting on hardware forums, moderating hardware subreddits, and running anonymous hardware blogs/videos before SemiAnalysis. But he also says most of that history is now gone, including from the Internet Archive, because he asked for it to be removed.[1]\n\nIn a 2024 interview he described his post-college job as “data science” around hurricane/earthquake/wildfire simulations for a financial company.[1] In a 2026 Sequoia interview he described himself as having been a “quant at a small quant risk firm” who generated $10M+ of “risk-free revenue.”[2] The Information reports that he declined to identify the employer and doesn’t list it on LinkedIn.[3]\n\nEven harmless/silly stuff seems to drift. In February he said he kept bees for ~1.5 years. Today it was “few months, few months.”[4][5] I know, sort of silly and doesn't matter.\n\nThe Information reports that Patel owns stakes in ~20 startups in the same ecosystem SemiAnalysis cov […]",
+   "titre_fil": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+   "type": "commentaire",
+   "videos": [
+    "aV26V1UvkJw"
+   ]
+  },
+  "5110332": {
+   "auteur": "kylebrown",
+   "date": 1359044852,
+   "fil": "5107045",
+   "id": "5110332",
+   "mots": [
+    "algorithmic trading"
+   ],
+   "texte": "> We (I work for Quantopian) will surely support other order types when we support live trading.\n\nI suspect they won't be true limit orders, but stop orders (true limit orders wouldn't slip). Also, for a passive trading algorithm its important to have level II data (the order book), or the algorithm is flying blind.\n\nRe 1, its not the size of the data set which prevents overfitting (larger data sets actually make it more likely), but the use of it when developing/training the algorithm. Repeated testing and tweaking the algorithm will overfit, unless one is careful to maintain the complexity of the algorithm.\n\nAnyway, best of luck to your users! But they should be warned that active trading on signals (price prediction) is the hard way to algorithmic profit. That's why market making and arbitrage is the bread and butter of the pros, not signal trading.[1]\n\n1. said as much here somewhere in the first 20:00 http://www.youtube.com/watch?v=hKcOkWzj0_s",
+   "titre_fil": "Quantopian Brings Algorithmic Trading To The Masses",
+   "type": "commentaire",
+   "videos": [
+    "hKcOkWzj0_s"
+   ]
+  },
+  "5327302": {
+   "auteur": "henning",
+   "date": 1362517106,
+   "fil": "5327302",
+   "id": "5327302",
+   "mots": [
+    "high frequency trading"
+   ],
+   "texte": "High frequency trading explained",
+   "titre_fil": "High frequency trading explained",
+   "type": "article",
+   "videos": [
+    "NzfmT4vGXZY"
+   ]
+  },
+  "5653163": {
+   "auteur": "jweir",
+   "date": 1367622114,
+   "fil": "5653163",
+   "id": "5653163",
+   "mots": [
+    "high frequency trading"
+   ],
+   "texte": "Visualize high frequency trading of ticker:JNJ (via Nanex)",
+   "titre_fil": "Visualize high frequency trading of ticker:JNJ (via Nanex)",
+   "type": "article",
+   "videos": [
+    "rB5jJuMP84E"
+   ]
+  },
+  "5845925": {
+   "auteur": "e3pi",
+   "date": 1370718930,
+   "fil": "5845189",
+   "id": "5845925",
+   "mots": [
+    "quant"
+   ],
+   "texte": "If you've the free time, see this (longish 1:27:34) Youtube video of  William Binney, harassed and heroic  NSA whistleblower, describing huge corporate-intelligence-complex expansion, internal intrique, and corrupt revolving door entanglement of  NSA active careers into lucrative re-hired retirees.\n\nhttp://www.youtube.com/watch?v=dxnp2Sz59p8\n\nWho Does a Cyberwar Escalation Or False-Flag-Op Benefit?\n\nWhat does a false flag op(Reichstag Fire)  lead to in `Cyberwar'?  Say, something such as personal crypto, stego, deniable crypto, hacking ... becomes illegal?  Loss of more civil rights?\n\nPossibly something much  more frightening.\n\nRather, \"follow the money\", this new kind of war's required budgets, now even more centralized and higher-tech  than Wall Street or Silicon Valley,  more remote and alien `mathematical', `quant';  more pure-and-applied `mathematics-weaponized' focused,  this new defense budget,  will be handled  and directed by these re-employed  ex-NSA elite.\n\nWho is going to fight a Cyberwar? Not the Marines, Army, Navy, Air Force. \nIt will be a  relatively tiny nos of techs in these Maryland corridors of security/intel-tech corporate parks leading into Fort Meade, with ex-NSA civilians pulling down exec salaries wearing their valuable rare and tightly controlled security clearance badge necklaces.\n\nIf the above outcome is true, this appears quite the nightmare. President Bush was cognitively challenged though recognizably human. These state sanctioned and security c […]",
+   "titre_fil": "The Program - William Binney Video Interview (NSA Whistleblower)",
+   "type": "commentaire",
+   "videos": [
+    "dxnp2Sz59p8"
+   ]
+  },
+  "6628049": {
+   "auteur": "chinmoy",
+   "date": 1382979025,
+   "fil": "6626501",
+   "id": "6628049",
+   "mots": [
+    "algorithmic trading",
+    "quant"
+   ],
+   "texte": "I'm happy to see this pop up on HN since HFT is something I've  been looking into lately. If you're interested to dig deeper into HFT and algorithmic trading, 'Inside the Black Box' will be a good read. Link: www.amazon.com/Inside-Black-Box-Quantitative-Frequency/dp/1118362411\n\nIf you want to take your reading further, there are some great recommendations on the review section. And just to get an insider look into quant traders and the effect HFT can have on the market, I also recommend these two short documentaries made by the dutch national TV:\n\n1. Quants: The Alchemists of Wall Street \n    https://www.youtube.com/watch?v=ed2FWNWwE3I\n\n2. Money & Speed: Inside the Black Box\n    https://www.youtube.com/watch?v=aq1Ln1UCoEU",
+   "titre_fil": "How to Get a Job at a High Frequency Trading Firm",
+   "type": "commentaire",
+   "videos": [
+    "ed2FWNWwE3I",
+    "aq1Ln1UCoEU"
+   ]
+  },
+  "6683097": {
+   "auteur": "beauzero",
+   "date": 1383751165,
+   "fil": "6683097",
+   "id": "6683097",
+   "mots": [
+    "high frequency trading"
+   ],
+   "texte": "High frequency trading...and programmers.",
+   "titre_fil": "High frequency trading...and programmers.",
+   "type": "article",
+   "videos": [
+    "GEAGdwHXfLQ"
+   ]
+  },
+  "6707349": {
+   "auteur": "asselinpaul",
+   "date": 1384103779,
+   "fil": "6707343",
+   "id": "6707349",
+   "mots": [
+    "high frequency trading"
+   ],
+   "texte": "fascinating documentary on high frequency trading. \nIf you're interested this one is similarly good:\n\nhttps://www.youtube.com/watch?v=aq1Ln1UCoEU",
+   "titre_fil": "The Wall Street Code (VPRO documentary on HFT)",
+   "type": "commentaire",
+   "videos": [
+    "aq1Ln1UCoEU"
+   ]
+  },
+  "6906188": {
+   "auteur": "rawland",
+   "date": 1387040270,
+   "fil": "6906188",
+   "id": "6906188",
+   "mots": [
+    "quant"
+   ],
+   "texte": "What is a Quant?",
+   "titre_fil": "What is a Quant?",
+   "type": "article",
+   "videos": [
+    "GEAGdwHXfLQ"
+   ]
+  },
+  "6906194": {
+   "auteur": "rawland",
+   "date": 1387040364,
+   "fil": "6906188",
+   "id": "6906194",
+   "mots": [
+    "quant"
+   ],
+   "texte": "After watching \"The Wall St Code\" -- http://www.youtube.com/watch?v=GEAGdwHXfLQ -- I was asking myself what a \"Quant\" in the context of HFT is.",
+   "titre_fil": "What is a Quant?",
+   "type": "commentaire",
+   "videos": [
+    "GEAGdwHXfLQ"
+   ]
+  },
+  "7784509": {
+   "auteur": "fabulist",
+   "date": 1400774813,
+   "fil": "7783588",
+   "id": "7784509",
+   "mots": [
+    "quant"
+   ],
+   "texte": "I've read some great books from Packt, this wasn't really one of them. When the first thread was on HN, I got excited because I love Python and had been looking into starting some investments. Namely, I want to implement a low-risk, low-frequency automated trade strategy. Naively, I assumed this book would be for people who knew Python and were interested in learning finance, but it was the opposite. A lot of concepts were thrown out there with little to no explanation. I gave up reading it until I actually know finance, and can use it as a cookbook.\n\nThe code in the book is also shoddy. I don't have it with me, but two examples come to mind. I didn't run any of the examples, but eyeballing them I some of them wouldn't run because of syntax errors -- rather unfortunate for a beginner's text. The section of naming conventions. To write a program using a financial expression like P(1+r)n (exponential growth/decay), the book recommends against using confusing variables like p... in favor of P. P stands for Principal in this case, and I doubt many of you knew that off hand.\n\nFor those looking to do finance in Python, I recommend looking into QuantLib[1]. I'm also watching a series of videos from the University of Michigan's online Intro to Finance class on YouTube[2]; however I realized a few days ago that they're probably pirated. That makes me feel bad, but its still a good reference.\n\nIf any quants on HN have some better book recs, they would be strongly appreciated.\n\nEdited t […]",
+   "titre_fil": "Python for Finance",
+   "type": "commentaire",
+   "videos": [
+    "pQeZqn-8yM8"
+   ]
+  },
+  "7952454": {
+   "auteur": "hoggle",
+   "date": 1403834800,
+   "fil": "7951383",
+   "id": "7952454",
+   "mots": [
+    "high frequency trading"
+   ],
+   "texte": "Jane Street is one of the few companies which are betting heavily on OCaml, it makes sense to go all functional in the high frequency trading world I guess. It's purportedly been C/C++ for most of that industry, probably not the best toolset for keeping error rates low in a complex environment. Fascinating to read how far beyond language decisions they need to think to shield themselves against outages (and competitors?).\n\nI did a little bit of experimentation with OCaml by playing with bitcoin exchange APIs during the China boom some months ago, but I unfortunately didn't push further to a point where I'd be using Jane Street's open source libraries. It still was very interesting and IMHO totally worth it if not just for the functional programming practice.\n\nRelevant video on how OCaml gets used at Jane Street:\n\nhttps://www.youtube.com/watch?v=hKcOkWzj0_s",
+   "titre_fil": "Reading Lamport, again ",
+   "type": "commentaire",
+   "videos": [
+    "hKcOkWzj0_s"
+   ]
+  }
+ }
+}
