@@ -4,7 +4,8 @@ Les vidéos YouTube que les passionnés se recommandent vraiment, plutôt que ce
 l'algorithme pousse. Publié sur **https://tube.bronac.net**.
 
 Inspiré de HackerTube (Karpathy, novembre 2026), qui a extrait de 20 ans de commentaires
-Hacker News les vidéos citées encore et encore. Ici, même principe, restreint à trois centres d'intérêt :
+Hacker News les vidéos citées encore et encore. Ici, même principe, étendu à Reddit et au forum
+de voile Hisse et Oh, et restreint à trois centres d'intérêt :
 
 | Centre d'intérêt | Fichier | Demi-vie d'une recommandation |
 |---|---|---|
@@ -15,12 +16,22 @@ Hacker News les vidéos citées encore et encore. Ici, même principe, restreint
 ## La chaîne
 
 ```
-collecte HN ──► liens YouTube (regex) ──► candidates (≥ 2 auteurs) ──► oEmbed YouTube ──► Claude ──► score ──► _site/
+collecte HN + Reddit + Hisse et Oh ──► liens YouTube (regex) ──► candidates (≥ 2 auteurs) ──► oEmbed YouTube ──► Claude ──► score ──► _site/
 ```
 
-1. **Collecte** (`tube/collecte_hn.py`) : API publique Algolia de Hacker News, une requête par
-   mot-clé × {youtube, youtu} × {commentaire, article}. Incrémentale : chaque passage ne
-   récupère que la période depuis le précédent.
+1. **Collecte**, trois sources déclarées dans chaque YAML de `interests/` :
+   - **Hacker News** (`tube/collecte_hn.py`) : API publique Algolia, une requête par
+     mot-clé × {youtube, youtu} × {commentaire, article}, tolérance aux fautes coupée et mot-clé
+     revérifié localement. Incrémentale.
+   - **Reddit** (`tube/collecte_reddit.py`) : archive publique [Arctic Shift](https://arctic-shift.photon-reddit.com).
+     L'API officielle refuse les requêtes anonymes et la recherche plein texte d'Arctic Shift
+     expire : on parcourt posts et commentaires des subreddits listés, du plus récent au plus
+     ancien, sous budget de temps (`HUGUES_TUBE_BUDGET_REDDIT`, 40 min par défaut). L'historique
+     se complète de semaine en semaine. Le subreddit sert de filtre thématique.
+   - **Hisse et Oh** (`tube/collecte_heo.py`) : fils récents des sections listées (le site n'en
+     expose que dix pages), 5 s entre requêtes comme l'exige son robots.txt, budget
+     `HUGUES_TUBE_BUDGET_HEO` (25 min). Un fil n'est relu qu'au bout de six jours.
+   - Écartés : **Cruisers Forum** et **YBW**, protégés par un défi anti-robots qu'on ne contourne pas.
 2. **Candidates** : seules les vidéos citées par au moins deux auteurs distincts continuent.
    Ce filtre gratuit évite d'envoyer à Claude des milliers de liens isolés.
 3. **Métadonnées** (`tube/enrichissement.py`) : titre, chaîne, disponibilité via l'oEmbed
@@ -43,6 +54,7 @@ python -m tube            # tout : collecte, classement, site
 python -m tube collecte   # collecte seule
 python -m tube site       # sans nouvelle collecte
 python -m tube --interet agents-ia
+python -m tube collecte --sources reddit   # une seule source (hn, reddit, heo)
 python -m pytest -q
 ```
 
