@@ -6,6 +6,15 @@
    "derniere": 1791318108,
    "discussions": [
     {
+     "communaute": "r/LocalLLaMA",
+     "date": 1791318108,
+     "fil": "reddit:1wzd6kf",
+     "id": "reddit:1wzd6kf",
+     "titre_fil": "suppose I CPT qwen3.5-9B on 2B legal corpus, how will i turn it back into Instruct + thinking?",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzd6kf/",
+     "verdict": "recommande"
+    },
+    {
      "communaute": "Hacker News",
      "date": 1787588934,
      "fil": "49412396",
@@ -40,22 +49,13 @@
      "titre_fil": "Show HN: Microgpt is a GPT you can visualize in the browser",
      "url": "https://news.ycombinator.com/item?id=47031059",
      "verdict": "recommande"
-    },
-    {
-     "communaute": "Hacker News",
-     "date": 1770989978,
-     "fil": "46995608",
-     "id": "47002572",
-     "titre_fil": "Ask HN: What would you recommend a vibe coder learn about how all this works?",
-     "url": "https://news.ycombinator.com/item?id=47002572",
-     "verdict": "recommande"
     }
    ],
    "id": "7xTGNNLPyMI",
    "mentions": 21,
-   "part_classee": 0.95,
+   "part_classee": 1.0,
    "premiere": 1738780170,
-   "score": 9.532,
+   "score": 9.856,
    "sources": [
     "Hacker News",
     "r/LocalLLaMA"
@@ -380,7 +380,7 @@
    "url_chaine": "https://www.youtube.com/@AndrejKarpathy"
   },
   {
-   "auteurs": 8,
+   "auteurs": 7,
    "chaine": "Black Hat",
    "derniere": 1791378652,
    "discussions": [
@@ -431,81 +431,79 @@
     }
    ],
    "id": "87DyyMV0kCY",
-   "mentions": 8,
-   "part_classee": 0.88,
-   "premiere": 1786092835,
-   "score": 3.483,
+   "mentions": 7,
+   "part_classee": 1.0,
+   "premiere": 1786123583,
+   "score": 2.898,
    "sources": [
-    "Hacker News",
-    "r/LocalLLaMA"
+    "Hacker News"
    ],
    "titre": "Black Hat USA 2026 | The 'Breaking' News: The OpenAI–Hugging Face Incident",
    "type_contenu": "conference",
    "url_chaine": "https://www.youtube.com/@BlackHatOfficialYT"
   },
   {
-   "auteurs": 5,
-   "chaine": "Claude",
-   "derniere": 1791572188,
+   "auteurs": 4,
+   "chaine": "KVK AI",
+   "derniere": 1772256649,
    "discussions": [
     {
-     "communaute": "Hacker News",
-     "date": 1791572188,
-     "fil": "50025137",
-     "id": "50025137",
-     "titre_fil": "Claude Dashboards and Claude Motion [video]",
-     "url": "https://news.ycombinator.com/item?id=50025137",
-     "verdict": "neutre"
+     "communaute": "r/n8n",
+     "date": 1772256649,
+     "fil": "reddit:1rgu9p3",
+     "id": "reddit:1rgu9p3",
+     "titre_fil": "I built a SaaS using n8n + claude code",
+     "url": "https://www.reddit.com/r/n8n/comments/1rgu9p3/",
+     "verdict": "recommande"
     },
     {
-     "communaute": "Hacker News",
-     "date": 1791523985,
-     "fil": "50016373",
-     "id": "50016373",
-     "titre_fil": "Claude release: Dashboard for data visulization and Motion for data Animation [video]",
-     "url": "https://news.ycombinator.com/item?id=50016373",
-     "verdict": "neutre"
+     "communaute": "r/n8n",
+     "date": 1771936764,
+     "fil": "reddit:1rdf5g2",
+     "id": "reddit:1rdf5g2",
+     "titre_fil": "I tried “vibe coding” a full SaaS with Claude + n8n — this surprised me",
+     "url": "https://www.reddit.com/r/n8n/comments/1rdf5g2/",
+     "verdict": "recommande"
     },
     {
-     "communaute": "r/ClaudeAI",
-     "date": 1791518367,
-     "fil": "reddit:1x1bh06",
-     "id": "reddit:1x1bh06",
-     "titre_fil": "Introducing Claude Dashboards and Claude Motion",
-     "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1bh06/",
-     "verdict": "non_classe"
+     "communaute": "r/n8n",
+     "date": 1771836703,
+     "fil": "reddit:1rcccpw",
+     "id": "reddit:1rcccpw",
+     "titre_fil": "I tried “vibe coding” a full SaaS with Claude + n8n — this surprised me",
+     "url": "https://www.reddit.com/r/n8n/comments/1rcccpw/",
+     "verdict": "recommande"
     },
     {
-     "communaute": "Hacker News",
-     "date": 1791492300,
-     "fil": "50011965",
-     "id": "50011965",
-     "titre_fil": "Claude Dashboards and Claude Motion [video]",
-     "url": "https://news.ycombinator.com/item?id=50011965",
-     "verdict": "neutre"
+     "communaute": "r/n8n",
+     "date": 1771631015,
+     "fil": "reddit:1rabibx",
+     "id": "reddit:1rabibx",
+     "titre_fil": "I tried “vibe coding” a full SaaS with Claude + n8n — this surprised me",
+     "url": "https://www.reddit.com/r/n8n/comments/1rabibx/",
+     "verdict": "recommande"
     },
     {
-     "communaute": "r/ClaudeAI",
-     "date": 1791488082,
-     "fil": "reddit:1x10fht",
-     "id": "reddit:1x10fht",
-     "titre_fil": "Introducing Claude Dashboards and Claude Motion",
-     "url": "https://www.reddit.com/r/ClaudeAI/comments/1x10fht/",
-     "verdict": "non_classe"
+     "communaute": "r/n8n",
+     "date": 1771552161,
+     "fil": "reddit:1r9iazv",
+     "id": "reddit:1r9iazv",
+     "titre_fil": "I tried “vibe coding” a full SaaS with Claude + n8n — this surprised me",
+     "url": "https://www.reddit.com/r/n8n/comments/1r9iazv/",
+     "verdict": "recommande"
     }
    ],
-   "id": "en0GuyhieQk",
-   "mentions": 5,
-   "part_classee": 0.6,
-   "premiere": 1791488082,
-   "score": 2.45,
+   "id": "ZPiDvUL4B7o",
+   "mentions": 9,
+   "part_classee": 1.0,
+   "premiere": 1770421933,
+   "score": 2.429,
    "sources": [
-    "Hacker News",
-    "r/ClaudeAI"
+    "r/n8n"
    ],
-   "titre": "Introducing Claude Dashboards and Claude Motion",
-   "type_contenu": "autre",
-   "url_chaine": "https://www.youtube.com/@claude"
+   "titre": "I Vibe Coded an Entire SaaS With Claude Code + n8n (For a Skool Member)",
+   "type_contenu": "retour_experience",
+   "url_chaine": "https://www.youtube.com/@KVKAutomates"
   },
   {
    "auteurs": 14,
@@ -621,152 +619,72 @@
     "Hacker News"
    ],
    "titre": "Children Of The Magenta Line",
-   "type_contenu": "conference",
+   "type_contenu": "autre",
    "url_chaine": "https://www.youtube.com/@sarapismosy"
   },
   {
-   "auteurs": 3,
-   "chaine": "Degenerative Pixels",
-   "derniere": 1791566273,
+   "auteurs": 5,
+   "chaine": "Claude",
+   "derniere": 1791572188,
    "discussions": [
     {
-     "communaute": "r/ClaudeAI",
-     "date": 1791566273,
-     "fil": "reddit:1x1r6qd",
-     "id": "reddit:1x1r6qd",
-     "titre_fil": "LGTM - Claude Opus 5.5 Music Video",
-     "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1r6qd/",
-     "verdict": "non_classe"
+     "communaute": "Hacker News",
+     "date": 1791572188,
+     "fil": "50025137",
+     "id": "50025137",
+     "titre_fil": "Claude Dashboards and Claude Motion [video]",
+     "url": "https://news.ycombinator.com/item?id=50025137",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "Hacker News",
+     "date": 1791523985,
+     "fil": "50016373",
+     "id": "50016373",
+     "titre_fil": "Claude release: Dashboard for data visulization and Motion for data Animation [video]",
+     "url": "https://news.ycombinator.com/item?id=50016373",
+     "verdict": "neutre"
     },
     {
      "communaute": "r/ClaudeAI",
-     "date": 1791353753,
-     "fil": "reddit:1wzp5tr",
-     "id": "reddit:1wzp5tr",
-     "titre_fil": "LGTM (Looks Good to Me) - Claude Opus 5.5 music video",
-     "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzp5tr/",
-     "verdict": "non_classe"
+     "date": 1791518367,
+     "fil": "reddit:1x1bh06",
+     "id": "reddit:1x1bh06",
+     "titre_fil": "Introducing Claude Dashboards and Claude Motion",
+     "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1bh06/",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "Hacker News",
+     "date": 1791492300,
+     "fil": "50011965",
+     "id": "50011965",
+     "titre_fil": "Claude Dashboards and Claude Motion [video]",
+     "url": "https://news.ycombinator.com/item?id=50011965",
+     "verdict": "neutre"
     },
     {
      "communaute": "r/ClaudeAI",
-     "date": 1791341301,
-     "fil": "reddit:1wzlkkr",
-     "id": "reddit:1wzlkkr",
-     "titre_fil": "LGTM (Looks Good to Me) - Claude Opus 5.5 music video [5:05]",
-     "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzlkkr/",
-     "verdict": "non_classe"
+     "date": 1791488082,
+     "fil": "reddit:1x10fht",
+     "id": "reddit:1x10fht",
+     "titre_fil": "Introducing Claude Dashboards and Claude Motion",
+     "url": "https://www.reddit.com/r/ClaudeAI/comments/1x10fht/",
+     "verdict": "neutre"
     }
    ],
-   "id": "3TNpOD6bov8",
-   "mentions": 3,
-   "part_classee": 0.0,
-   "premiere": 1791341301,
-   "score": 1.975,
+   "id": "en0GuyhieQk",
+   "mentions": 5,
+   "part_classee": 1.0,
+   "premiere": 1791488082,
+   "score": 1.885,
    "sources": [
+    "Hacker News",
     "r/ClaudeAI"
    ],
-   "titre": "LGTM (Looks Good to Me) - Claude Opus 5.5 music video",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@degenerativepixels"
-  },
-  {
-   "auteurs": 3,
-   "chaine": "Bijan Bowen",
-   "derniere": 1794029902,
-   "discussions": [
-    {
-     "communaute": "r/LocalLLaMA",
-     "date": 1794029902,
-     "fil": "reddit:1xpyp07",
-     "id": "reddit:1xpyp07",
-     "titre_fil": "Subway Zombie FPS for fun using Deepseek v4.1 1017 UD-IQ3_S with Maya and OMP",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpyp07/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/LocalLLaMA",
-     "date": 1790108407,
-     "fil": "reddit:1wnkrt8",
-     "id": "reddit:1wnkrt8",
-     "titre_fil": "Cloud-AI Cold-Turkey: Real Dev Work with Local AI (Ornith 1.5 35b-a3b and Qwen 3.8-27b; 8GB VRAM vs 32GB VRAM)",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnkrt8/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/LocalLLaMA",
-     "date": 1788897238,
-     "fil": "reddit:1waz5a0",
-     "id": "reddit:1waz5a0",
-     "titre_fil": "Qwen 3.8 27b with PI agent - pushed to its 3D graphic game limits",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1waz5a0/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/LocalLLaMA",
-     "date": 1788894573,
-     "fil": "reddit:1waxwdi",
-     "id": "reddit:1waxwdi",
-     "titre_fil": "Qwen 3.8 27b with PI agent - pushed to its 3D graphic game limits",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1waxwdi/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "6kjXzTVmT58",
-   "mentions": 4,
-   "part_classee": 0.0,
-   "premiere": 1788894573,
-   "score": 1.96,
-   "sources": [
-    "r/LocalLLaMA"
-   ],
-   "titre": "Qwen3.8 27B Is INSANE – This Is the BEST Local AI Model Yet!",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@Bijanbowen"
-  },
-  {
-   "auteurs": 3,
-   "chaine": "DevPsyche",
-   "derniere": 1791481873,
-   "discussions": [
-    {
-     "communaute": "r/LocalLLaMA",
-     "date": 1791481873,
-     "fil": "reddit:1x0xoul",
-     "id": "reddit:1x0xoul",
-     "titre_fil": "This is too true, I had to share",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0xoul/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/LocalLLaMA",
-     "date": 1790176069,
-     "fil": "reddit:1wo8ljg",
-     "id": "reddit:1wo8ljg",
-     "titre_fil": "Your Life at Every Level of Running AI Locally (Laptop to 4×3090)",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo8ljg/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/LocalLLaMA",
-     "date": 1789510257,
-     "fil": "reddit:1wheklp",
-     "id": "reddit:1wheklp",
-     "titre_fil": "This video was so interesting and relates to many here had to share it",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wheklp/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "0YdsvCJXeic",
-   "mentions": 3,
-   "part_classee": 0.0,
-   "premiere": 1789510257,
-   "score": 1.931,
-   "sources": [
-    "r/LocalLLaMA"
-   ],
-   "titre": "Your Life at Every Level of Running AI Locally (Laptop to 4×3090)",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@TheDevPsyche"
+   "titre": "Introducing Claude Dashboards and Claude Motion",
+   "type_contenu": "autre",
+   "url_chaine": "https://www.youtube.com/@claude"
   },
   {
    "auteurs": 5,
@@ -994,69 +912,6 @@
    "url_chaine": "https://www.youtube.com/@3blue1brown"
   },
   {
-   "auteurs": 4,
-   "chaine": "KVK AI",
-   "derniere": 1772256649,
-   "discussions": [
-    {
-     "communaute": "r/n8n",
-     "date": 1772256649,
-     "fil": "reddit:1rgu9p3",
-     "id": "reddit:1rgu9p3",
-     "titre_fil": "I built a SaaS using n8n + claude code",
-     "url": "https://www.reddit.com/r/n8n/comments/1rgu9p3/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/n8n",
-     "date": 1771936764,
-     "fil": "reddit:1rdf5g2",
-     "id": "reddit:1rdf5g2",
-     "titre_fil": "I tried “vibe coding” a full SaaS with Claude + n8n — this surprised me",
-     "url": "https://www.reddit.com/r/n8n/comments/1rdf5g2/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/n8n",
-     "date": 1771836703,
-     "fil": "reddit:1rcccpw",
-     "id": "reddit:1rcccpw",
-     "titre_fil": "I tried “vibe coding” a full SaaS with Claude + n8n — this surprised me",
-     "url": "https://www.reddit.com/r/n8n/comments/1rcccpw/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/n8n",
-     "date": 1771631015,
-     "fil": "reddit:1rabibx",
-     "id": "reddit:1rabibx",
-     "titre_fil": "I tried “vibe coding” a full SaaS with Claude + n8n — this surprised me",
-     "url": "https://www.reddit.com/r/n8n/comments/1rabibx/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/n8n",
-     "date": 1771552161,
-     "fil": "reddit:1r9iazv",
-     "id": "reddit:1r9iazv",
-     "titre_fil": "I tried “vibe coding” a full SaaS with Claude + n8n — this surprised me",
-     "url": "https://www.reddit.com/r/n8n/comments/1r9iazv/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "ZPiDvUL4B7o",
-   "mentions": 9,
-   "part_classee": 0.0,
-   "premiere": 1770421933,
-   "score": 1.701,
-   "sources": [
-    "r/n8n"
-   ],
-   "titre": "I Vibe Coded an Entire SaaS With Claude Code + n8n (For a Skool Member)",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@KVKAutomates"
-  },
-  {
    "auteurs": 5,
    "chaine": "AI Engineer",
    "derniere": 1786998136,
@@ -1172,6 +1027,51 @@
    "titre": "S1E8: Show And Tell: Efrit: When Steve Gives Claude Full Access To 50 Years of Emacs Capabilities",
    "type_contenu": "retour_experience",
    "url_chaine": "https://www.youtube.com/@VibeCodingWithSteveandGene"
+  },
+  {
+   "auteurs": 3,
+   "chaine": "DevPsyche",
+   "derniere": 1791481873,
+   "discussions": [
+    {
+     "communaute": "r/LocalLLaMA",
+     "date": 1789510257,
+     "fil": "reddit:1wheklp",
+     "id": "reddit:1wheklp",
+     "titre_fil": "This video was so interesting and relates to many here had to share it",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wheklp/",
+     "verdict": "recommande"
+    },
+    {
+     "communaute": "r/LocalLLaMA",
+     "date": 1791481873,
+     "fil": "reddit:1x0xoul",
+     "id": "reddit:1x0xoul",
+     "titre_fil": "This is too true, I had to share",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0xoul/",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "r/LocalLLaMA",
+     "date": 1790176069,
+     "fil": "reddit:1wo8ljg",
+     "id": "reddit:1wo8ljg",
+     "titre_fil": "Your Life at Every Level of Running AI Locally (Laptop to 4×3090)",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo8ljg/",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "0YdsvCJXeic",
+   "mentions": 3,
+   "part_classee": 1.0,
+   "premiere": 1789510257,
+   "score": 1.644,
+   "sources": [
+    "r/LocalLLaMA"
+   ],
+   "titre": "Your Life at Every Level of Running AI Locally (Laptop to 4×3090)",
+   "type_contenu": "autre",
+   "url_chaine": "https://www.youtube.com/@TheDevPsyche"
   },
   {
    "auteurs": 3,
@@ -1314,7 +1214,7 @@
     "Hacker News"
    ],
    "titre": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
-   "type_contenu": "retour_experience",
+   "type_contenu": "autre",
    "url_chaine": "https://www.youtube.com/@lexfridman"
   },
   {
@@ -1364,42 +1264,6 @@
   },
   {
    "auteurs": 2,
-   "chaine": "NetworkChuck",
-   "derniere": 1793472758,
-   "discussions": [
-    {
-     "communaute": "r/LocalLLaMA",
-     "date": 1793472758,
-     "fil": "reddit:1xki7po",
-     "id": "reddit:1xki7po",
-     "titre_fil": "The family gpu",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xki7po/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/LocalLLaMA",
-     "date": 1793454604,
-     "fil": "reddit:1xkaqk0",
-     "id": "reddit:1xkaqk0",
-     "titre_fil": "[Discussion] WiCi: Connecting a GPU over the WiFi",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkaqk0/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "cFdoXn6yvE4",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1793454604,
-   "score": 1.377,
-   "sources": [
-    "r/LocalLLaMA"
-   ],
-   "titre": "local AI's biggest problem... they solved it?",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@NetworkChuck"
-  },
-  {
-   "auteurs": 2,
    "chaine": "Recurse Center",
    "derniere": 1792415299,
    "discussions": [
@@ -1410,7 +1274,7 @@
      "id": "reddit:1x9wftg",
      "titre_fil": "social engineering performed through lostcity server using TypeScript SDK called RS-SDK",
      "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9wftg/",
-     "verdict": "non_classe"
+     "verdict": "recommande"
     },
     {
      "communaute": "Hacker News",
@@ -1419,58 +1283,21 @@
      "id": "50136126",
      "titre_fil": "RuneScape Bench: MMOs for Agents [video]",
      "url": "https://news.ycombinator.com/item?id=50136126",
-     "verdict": "non_classe"
+     "verdict": "neutre"
     }
    ],
    "id": "cNm4zyUtWj0",
    "mentions": 2,
-   "part_classee": 0.0,
+   "part_classee": 1.0,
    "premiere": 1792279445,
-   "score": 1.344,
+   "score": 1.345,
    "sources": [
     "Hacker News",
     "r/ClaudeAI"
    ],
    "titre": "RuneScape Bench: MMOs for Agents | Max Bittker",
-   "type_contenu": null,
+   "type_contenu": "conference",
    "url_chaine": "https://www.youtube.com/@RecurseCenter"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "Mike Wren",
-   "derniere": 1792288174,
-   "discussions": [
-    {
-     "communaute": "Hacker News",
-     "date": 1792288174,
-     "fil": "50137043",
-     "id": "50137043",
-     "titre_fil": "Show HN: Cosplay as a tech lead, using gVisor to sandbox agents",
-     "url": "https://news.ycombinator.com/item?id=50137043",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/LocalLLaMA",
-     "date": 1792107568,
-     "fil": "reddit:1x713h7",
-     "id": "reddit:1x713h7",
-     "titre_fil": "MIKE: Integrated Kanban Environment = Strong Sandbox Isolation + Lightweight IDE",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x713h7/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "jexzLkZ50FU",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1792107568,
-   "score": 1.339,
-   "sources": [
-    "Hacker News",
-    "r/LocalLLaMA"
-   ],
-   "titre": "MIKE: Integrated Kanban Editor",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@Mike_Wren"
   },
   {
    "auteurs": 2,
@@ -1505,199 +1332,8 @@
     "Hacker News"
    ],
    "titre": "I'm done with terminals",
-   "type_contenu": "retour_experience",
+   "type_contenu": "autre",
    "url_chaine": "https://www.youtube.com/@theo"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "Stigg",
-   "derniere": 1791821628,
-   "discussions": [
-    {
-     "communaute": "r/ClaudeAI",
-     "date": 1791821628,
-     "fil": "reddit:1x463ox",
-     "id": "reddit:1x463ox",
-     "titre_fil": "Opus 5.5 Music Video",
-     "url": "https://www.reddit.com/r/ClaudeAI/comments/1x463ox/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "Hacker News",
-     "date": 1791821434,
-     "fil": "50058490",
-     "id": "50058490",
-     "titre_fil": "I'm an AI Founder (Claude Opus 5.5 music video)",
-     "url": "https://news.ycombinator.com/item?id=50058490",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "EIBcfbPT3_I",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1791821434,
-   "score": 1.328,
-   "sources": [
-    "Hacker News",
-    "r/ClaudeAI"
-   ],
-   "titre": "I'M AN AI FOUNDER - Claude Opus 5.5 music video",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@trystigg"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "CNBC Television",
-   "derniere": 1791604817,
-   "discussions": [
-    {
-     "communaute": "r/LocalLLaMA",
-     "date": 1791604817,
-     "fil": "reddit:1x25j0n",
-     "id": "reddit:1x25j0n",
-     "titre_fil": "And this is why we have LocalLlama! - NYU's Tristan Buckmaster on the controversy over OpenAI's math findings",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x25j0n/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/LocalLLaMA",
-     "date": 1791567133,
-     "fil": "reddit:1x1rk4o",
-     "id": "reddit:1x1rk4o",
-     "titre_fil": "OpenAI's math findings built on stolen user data",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1rk4o/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "GweKOBSJvEY",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1791567133,
-   "score": 1.321,
-   "sources": [
-    "r/LocalLLaMA"
-   ],
-   "titre": "NYU's Tristan Buckmaster on the controversy over OpenAI's math findings",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@CNBCtelevision"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "Bright Mirror",
-   "derniere": 1791710053,
-   "discussions": [
-    {
-     "communaute": "r/ClaudeAI",
-     "date": 1791710053,
-     "fil": "reddit:1x33luj",
-     "id": "reddit:1x33luj",
-     "titre_fil": "Evil Plan - Screw it. If this is the big bad plan of the shoggoth then sign me up.",
-     "url": "https://www.reddit.com/r/ClaudeAI/comments/1x33luj/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/ClaudeAI",
-     "date": 1790891732,
-     "fil": "reddit:1wvch3j",
-     "id": "reddit:1wvch3j",
-     "titre_fil": "Wake up babe, Claude's evil plan dropped",
-     "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvch3j/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "oBE-lhubQ2k",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1790891732,
-   "score": 1.313,
-   "sources": [
-    "r/ClaudeAI"
-   ],
-   "titre": "Evil Plan",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@brightmirrorofficial"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "Degenerative Pixels",
-   "derniere": 1791369828,
-   "discussions": [
-    {
-     "communaute": "Hacker News",
-     "date": 1791369828,
-     "fil": "49990896",
-     "id": "49990896",
-     "titre_fil": "The Simulation's Ending – Claude Opus 5.5 music video",
-     "url": "https://news.ycombinator.com/item?id=49990896",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/ClaudeAI",
-     "date": 1791173543,
-     "fil": "reddit:1wxz63d",
-     "id": "reddit:1wxz63d",
-     "titre_fil": "I know there are a lot of these, but Opus 5.5 animated this full 4-minute song in code and I'm still impressed",
-     "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxz63d/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/ClaudeAI",
-     "date": 1791173213,
-     "fil": "reddit:1wxz2j8",
-     "id": "reddit:1wxz2j8",
-     "titre_fil": "I know there are a lot of these, but Opus 5.5 animated this full 4-minute song in code and I'm still impressed",
-     "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxz2j8/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "R_ErmTs7g9I",
-   "mentions": 3,
-   "part_classee": 0.0,
-   "premiere": 1791173213,
-   "score": 1.312,
-   "sources": [
-    "Hacker News",
-    "r/ClaudeAI"
-   ],
-   "titre": "The Simulation's Ending - Claude Opus 5.5 music video",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@degenerativepixels"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "Imaginative Prompting",
-   "derniere": 1791500333,
-   "discussions": [
-    {
-     "communaute": "r/ClaudeAI",
-     "date": 1791500333,
-     "fil": "reddit:1x15fgv",
-     "id": "reddit:1x15fgv",
-     "titre_fil": "Imaginative Prompting",
-     "url": "https://www.reddit.com/r/ClaudeAI/comments/1x15fgv/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/ClaudeAI",
-     "date": 1790955823,
-     "fil": "reddit:1wvx5o6",
-     "id": "reddit:1wvx5o6",
-     "titre_fil": "A music video about the AI race, made entirely in code by Claude",
-     "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvx5o6/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "tKrVYOUvrtA",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1790955823,
-   "score": 1.311,
-   "sources": [
-    "r/ClaudeAI"
-   ],
-   "titre": "The End Of The Show | Claude Music Video about AI TAKING OVER",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@ImaginativePrompting"
   },
   {
    "auteurs": 2,
@@ -1705,27 +1341,27 @@
    "derniere": 1791023407,
    "discussions": [
     {
-     "communaute": "Hacker News",
-     "date": 1791023407,
-     "fil": "49942970",
-     "id": "49942970",
-     "titre_fil": "Terminal Velocity for Claude Code. Session Orchestrator. Live Action",
-     "url": "https://news.ycombinator.com/item?id=49942970",
-     "verdict": "non_classe"
-    },
-    {
      "communaute": "r/ClaudeAI",
      "date": 1790948691,
      "fil": "reddit:1wvu7ks",
      "id": "reddit:1wvu7ks",
      "titre_fil": "I built tvty - a terminal for many Claude Code agents in loops with tickets beside them",
      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvu7ks/",
-     "verdict": "non_classe"
+     "verdict": "recommande"
+    },
+    {
+     "communaute": "Hacker News",
+     "date": 1791023407,
+     "fil": "49942970",
+     "id": "49942970",
+     "titre_fil": "Terminal Velocity for Claude Code. Session Orchestrator. Live Action",
+     "url": "https://news.ycombinator.com/item?id=49942970",
+     "verdict": "neutre"
     }
    ],
    "id": "9tfGn3isfZU",
    "mentions": 2,
-   "part_classee": 0.0,
+   "part_classee": 1.0,
    "premiere": 1790948691,
    "score": 1.304,
    "sources": [
@@ -1733,7 +1369,7 @@
     "r/ClaudeAI"
    ],
    "titre": "Terminal Velocity — building the Darkball with three AI agents (shorter)",
-   "type_contenu": null,
+   "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@DavidBerlioz"
   },
   {
@@ -1791,79 +1427,6 @@
    "url_chaine": "https://www.youtube.com/@CodeSync"
   },
   {
-   "auteurs": 2,
-   "chaine": "PewDiePie",
-   "derniere": 1790874021,
-   "discussions": [
-    {
-     "communaute": "r/LocalLLaMA",
-     "date": 1790874021,
-     "fil": "reddit:1wv4vot",
-     "id": "reddit:1wv4vot",
-     "titre_fil": "Heretic is on PewDiePie!",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv4vot/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/LocalLLaMA",
-     "date": 1790843238,
-     "fil": "reddit:1wutzvq",
-     "id": "reddit:1wutzvq",
-     "titre_fil": "PewDiePie announces he distilled 5.6 Sol into Qwen3.5 9B and taught it how to make nuclear weapons, release in 40 hours",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wutzvq/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "ODDJXGY_1kQ",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1790843238,
-   "score": 1.3,
-   "sources": [
-    "r/LocalLLaMA"
-   ],
-   "titre": "I seriously should NOT be dropping this.",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@PewDiePie"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "Saturday Night Live",
-   "derniere": 1790562747,
-   "discussions": [
-    {
-     "communaute": "r/LocalLLaMA",
-     "date": 1790562747,
-     "fil": "reddit:1ws2qf9",
-     "id": "reddit:1ws2qf9",
-     "titre_fil": "I think you will appreciate this sketch",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ws2qf9/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "Hacker News",
-     "date": 1790530322,
-     "fil": "49868831",
-     "id": "49868831",
-     "titre_fil": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-     "url": "https://news.ycombinator.com/item?id=49868831",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "-Nvne3LzBls",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1790530322,
-   "score": 1.292,
-   "sources": [
-    "Hacker News",
-    "r/LocalLLaMA"
-   ],
-   "titre": "Weekend Update: Anthropic CEO Dario Amodei on AI’s Threat to Humanity - SNL",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@SaturdayNightLive"
-  },
-  {
    "auteurs": 3,
    "chaine": "AI Engineer",
    "derniere": 1766326294,
@@ -1910,79 +1473,6 @@
   },
   {
    "auteurs": 2,
-   "chaine": "Asianometry",
-   "derniere": 1790320537,
-   "discussions": [
-    {
-     "communaute": "r/LocalLLaMA",
-     "date": 1790320537,
-     "fil": "reddit:1wpprlr",
-     "id": "reddit:1wpprlr",
-     "titre_fil": "Former Intel CEO: \"HBM is lousy\". High Bandwidth Flash Is Coming",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpprlr/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/LocalLLaMA",
-     "date": 1790293555,
-     "fil": "reddit:1wphb3w",
-     "id": "reddit:1wphb3w",
-     "titre_fil": "Asianometry: High Bandwidth Flash: What Is It Good For?",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wphb3w/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "3nTpW52nioI",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1790293555,
-   "score": 1.285,
-   "sources": [
-    "r/LocalLLaMA"
-   ],
-   "titre": "High Bandwidth Flash Is Coming",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@Asianometry"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "Claude",
-   "derniere": 1789677653,
-   "discussions": [
-    {
-     "communaute": "Hacker News",
-     "date": 1789677653,
-     "fil": "49746238",
-     "id": "49746238",
-     "titre_fil": "Claude Slides, Claude Design and Claude Docs",
-     "url": "https://news.ycombinator.com/item?id=49746238",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/ClaudeAI",
-     "date": 1789594669,
-     "fil": "reddit:1wiaogy",
-     "id": "reddit:1wiaogy",
-     "titre_fil": "New feature: Claude Slides, Design, and Docs all in chat",
-     "url": "https://www.reddit.com/r/ClaudeAI/comments/1wiaogy/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "To5nrYqvR44",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1789594669,
-   "score": 1.266,
-   "sources": [
-    "Hacker News",
-    "r/ClaudeAI"
-   ],
-   "titre": "Meet Claude Slides, Claude Design and Claude Docs",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@claude"
-  },
-  {
-   "auteurs": 2,
    "chaine": "Dwarkesh Patel",
    "derniere": 1789414255,
    "discussions": [
@@ -1993,7 +1483,7 @@
      "id": "reddit:1wgdi3q",
      "titre_fil": "Base-10's Charlie O'Neill on why Kimi and GLM are \"almost objectively\" better than Opus 5",
      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgdi3q/",
-     "verdict": "non_classe"
+     "verdict": "recommande"
     },
     {
      "communaute": "Hacker News",
@@ -2002,20 +1492,20 @@
      "id": "49677376",
      "titre_fil": "We must pace the frontier",
      "url": "https://news.ycombinator.com/item?id=49677376",
-     "verdict": "non_classe"
+     "verdict": "neutre"
     }
    ],
    "id": "PrSf7IOYu-I",
    "mentions": 2,
-   "part_classee": 0.0,
+   "part_classee": 1.0,
    "premiere": 1789248397,
-   "score": 1.258,
+   "score": 1.259,
    "sources": [
     "Hacker News",
     "r/LocalLLaMA"
    ],
    "titre": "AI researchers debate how close we are to recursive self-improvement",
-   "type_contenu": null,
+   "type_contenu": "conference",
    "url_chaine": "https://www.youtube.com/@DwarkeshPatel"
   },
   {
@@ -2053,42 +1543,6 @@
    "titre": "Reinventing Entropy | Compression is Intelligence Part 1",
    "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@3blue1brown"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "CNBC Television",
-   "derniere": 1787684791,
-   "discussions": [
-    {
-     "communaute": "r/LocalLLaMA",
-     "date": 1787684791,
-     "fil": "reddit:1vy970x",
-     "id": "reddit:1vy970x",
-     "titre_fil": "Perplexity and Nvidia partner for local-first AI platform",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy970x/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/LocalLLaMA",
-     "date": 1787679410,
-     "fil": "reddit:1vy6mjb",
-     "id": "reddit:1vy6mjb",
-     "titre_fil": "CNBC Television: Nvidia partner with Perplexity AI to run locally in DGX Spark.",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy6mjb/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "HqqalSHRWt8",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1787679410,
-   "score": 1.213,
-   "sources": [
-    "r/LocalLLaMA"
-   ],
-   "titre": "Perplexity and Nvidia partner for local-first AI platform",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@CNBCtelevision"
   },
   {
    "auteurs": 4,
@@ -2242,43 +1696,6 @@
    "titre": "State of GPT | BRK216HFS",
    "type_contenu": "conference",
    "url_chaine": "https://www.youtube.com/@MicrosoftDeveloper"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "Folding Ideas",
-   "derniere": 1793939146,
-   "discussions": [
-    {
-     "communaute": "r/LocalLLaMA",
-     "date": 1793939146,
-     "fil": "reddit:1xp3q39",
-     "id": "reddit:1xp3q39",
-     "titre_fil": "Anti Software Doomsday Cult And Local AI Models (debunking Connor Leahy, ControlAI and Professor Dave Explains)",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp3q39/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "Hacker News",
-     "date": 1779057643,
-     "fil": "48173073",
-     "id": "48173807",
-     "titre_fil": "Microsoft AI CEO forecasts human-level AI in 18 months",
-     "url": "https://news.ycombinator.com/item?id=48173807",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "YQ_xWvX1n9g",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1779057643,
-   "score": 1.197,
-   "sources": [
-    "Hacker News",
-    "r/LocalLLaMA"
-   ],
-   "titre": "Line Goes Up – The Problem With NFTs",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@FoldingIdeas"
   },
   {
    "auteurs": 3,
@@ -2457,7 +1874,7 @@
     "Hacker News"
    ],
    "titre": "Why AI Agents are either the best or worst thing we’ve ever built",
-   "type_contenu": "conference",
+   "type_contenu": "autre",
    "url_chaine": "https://www.youtube.com/@fryrsquared"
   },
   {
@@ -2513,42 +1930,6 @@
    "titre": "Agentic Engineering in Action with Mitchell Hashimoto",
    "type_contenu": "retour_experience",
    "url_chaine": "https://www.youtube.com/@zeddotdev"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "Codacus",
-   "derniere": 1783488662,
-   "discussions": [
-    {
-     "communaute": "r/LocalLLaMA",
-     "date": 1783488662,
-     "fil": "reddit:1uqjj96",
-     "id": "reddit:1uqjj96",
-     "titre_fil": "Speed up token processing?",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uqjj96/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/LocalLLaMA",
-     "date": 1783386765,
-     "fil": "reddit:1upgdya",
-     "id": "reddit:1upgdya",
-     "titre_fil": "He asked Fable 5 to Improve Llama.cpp",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1upgdya/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "VytSYCDhWQ0",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1783386765,
-   "score": 1.105,
-   "sources": [
-    "r/LocalLLaMA"
-   ],
-   "titre": "I Asked Claude Fable 5 to Improve llama.cpp.. and It Did",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@Codacus"
   },
   {
    "auteurs": 2,
@@ -2696,6 +2077,43 @@
   },
   {
    "auteurs": 2,
+   "chaine": "Manuel Kießling",
+   "derniere": 1765795649,
+   "discussions": [
+    {
+     "communaute": "Hacker News",
+     "date": 1765795649,
+     "fil": "46264491",
+     "id": "46272783",
+     "titre_fil": "Ask HN: What Are You Working On? (December 2025)",
+     "url": "https://news.ycombinator.com/item?id=46272783",
+     "verdict": "recommande"
+    },
+    {
+     "communaute": "r/n8n",
+     "date": 1764666732,
+     "fil": "reddit:1pc3wtw",
+     "id": "reddit:1pc3wtw",
+     "titre_fil": "Camera2URL: Trigger any n8n Webhook directly from your Mac or iPhone camera",
+     "url": "https://www.reddit.com/r/n8n/comments/1pc3wtw/",
+     "verdict": "recommande"
+    }
+   ],
+   "id": "Y5nCw8NY8zk",
+   "mentions": 2,
+   "part_classee": 1.0,
+   "premiere": 1764666732,
+   "score": 1.058,
+   "sources": [
+    "Hacker News",
+    "r/n8n"
+   ],
+   "titre": "Camera2URL: macOS n8n Image Recognition Demo",
+   "type_contenu": "technique",
+   "url_chaine": "https://www.youtube.com/@ManuelKiessling"
+  },
+  {
+   "auteurs": 2,
    "chaine": "AI Engineer",
    "derniere": 1780816764,
    "discussions": [
@@ -2828,6 +2246,70 @@
    "titre": "How LLMs work for Web Devs: GPT in 600 lines of Vanilla JS - Ishan Anand",
    "type_contenu": "conference",
    "url_chaine": "https://www.youtube.com/@aiDotEngineer"
+  },
+  {
+   "auteurs": 2,
+   "chaine": "Hadidiz",
+   "derniere": 1763214882,
+   "discussions": [
+    {
+     "communaute": "Hacker News",
+     "date": 1763214882,
+     "fil": "45937495",
+     "id": "45937496",
+     "titre_fil": "[dead]",
+     "url": "https://news.ycombinator.com/item?id=45937496",
+     "verdict": "recommande"
+    },
+    {
+     "communaute": "r/n8n",
+     "date": 1763167192,
+     "fil": "reddit:1oxdpal",
+     "id": "reddit:1oxdpal",
+     "titre_fil": "Turn Any Website Into AI Knowledge Base [1-click] FREE Workflow",
+     "url": "https://www.reddit.com/r/n8n/comments/1oxdpal/",
+     "verdict": "recommande"
+    },
+    {
+     "communaute": "Hacker News",
+     "date": 1763208261,
+     "fil": "45936853",
+     "id": "45936853",
+     "titre_fil": "Show HN: Turn Any Website into AI Knowledge Base Using N8n [video]",
+     "url": "https://news.ycombinator.com/item?id=45936853",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "Hacker News",
+     "date": 1763171028,
+     "fil": "45934312",
+     "id": "45934312",
+     "titre_fil": "Show HN: Turn Any Website into AI Knowledge Base [1-Click] Free Workflow",
+     "url": "https://news.ycombinator.com/item?id=45934312",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "r/n8n",
+     "date": 1763162416,
+     "fil": "reddit:1oxbwj5",
+     "id": "reddit:1oxbwj5",
+     "titre_fil": "My n8n AI bot almost cost me a client… so I built this “Any Website > AI Brain” (free workflow inside)",
+     "url": "https://www.reddit.com/r/n8n/comments/1oxbwj5/",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "YYCBHX4ZqjA",
+   "mentions": 5,
+   "part_classee": 1.0,
+   "premiere": 1763162416,
+   "score": 1.012,
+   "sources": [
+    "Hacker News",
+    "r/n8n"
+   ],
+   "titre": "You Won't Believe How Easy it is to Create an AI Knowledge Base with N8N",
+   "type_contenu": "technique",
+   "url_chaine": "https://www.youtube.com/@Hadidiz"
   },
   {
    "auteurs": 3,
@@ -3096,7 +2578,7 @@
     "Hacker News"
    ],
    "titre": "Master Claude Code: Proven Daily Workflows from 3 Technical Founders (Real Examples)",
-   "type_contenu": "retour_experience",
+   "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@PatrickOakleyEllis"
   },
   {
@@ -3222,7 +2704,7 @@
     "Hacker News"
    ],
    "titre": "Claude Opus 4.6 Is INSANE – This Might Be the BEST Model Yet!",
-   "type_contenu": "retour_experience",
+   "type_contenu": "autre",
    "url_chaine": "https://www.youtube.com/@Bijanbowen"
   },
   {
@@ -3411,27 +2893,27 @@
    "derniere": 1769174562,
    "discussions": [
     {
-     "communaute": "Hacker News",
-     "date": 1769174562,
-     "fil": "46732120",
-     "id": "46732185",
-     "titre_fil": "Show HN: Open-source alternative to n8n's cloud AI assistant (VS Code Extension)",
-     "url": "https://news.ycombinator.com/item?id=46732185",
-     "verdict": "non_classe"
-    },
-    {
      "communaute": "r/n8n",
      "date": 1769171285,
      "fil": "reddit:1qkphim",
      "id": "reddit:1qkphim",
      "titre_fil": "N8N: AI Prompt to Workflow for Free! (Open Source VS Code Extension)",
      "url": "https://www.reddit.com/r/n8n/comments/1qkphim/",
-     "verdict": "non_classe"
+     "verdict": "recommande"
+    },
+    {
+     "communaute": "Hacker News",
+     "date": 1769174562,
+     "fil": "46732120",
+     "id": "46732185",
+     "titre_fil": "Show HN: Open-source alternative to n8n's cloud AI assistant (VS Code Extension)",
+     "url": "https://news.ycombinator.com/item?id=46732185",
+     "verdict": "neutre"
     }
    ],
    "id": "DkwLZ_YNSlI",
    "mentions": 2,
-   "part_classee": 0.0,
+   "part_classee": 1.0,
    "premiere": 1769171285,
    "score": 0.808,
    "sources": [
@@ -3439,7 +2921,7 @@
     "r/n8n"
    ],
    "titre": "N8N: AI Prompt to Workflow for Free!",
-   "type_contenu": null,
+   "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@EtienneLescot"
   },
   {
@@ -3489,43 +2971,6 @@
   },
   {
    "auteurs": 2,
-   "chaine": "Practical AI Forge",
-   "derniere": 1768519839,
-   "discussions": [
-    {
-     "communaute": "r/n8n",
-     "date": 1768519839,
-     "fil": "reddit:1qdzjq5",
-     "id": "reddit:1qdzjq5",
-     "titre_fil": "I built a \"Roast My Code\" bot for fun, but accidentally solved a big n8n problem: Visual Code Reviews.",
-     "url": "https://www.reddit.com/r/n8n/comments/1qdzjq5/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "Hacker News",
-     "date": 1768323328,
-     "fil": "46603684",
-     "id": "46603684",
-     "titre_fil": "Experiment: Using NotebookLM as a cynical code reviewer (via custom prompts)",
-     "url": "https://news.ycombinator.com/item?id=46603684",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "oof9JB3OFO4",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1768323328,
-   "score": 0.794,
-   "sources": [
-    "Hacker News",
-    "r/n8n"
-   ],
-   "titre": "I Let AI Judge My Automation — The Feedback Surprised Me",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@PracticalAIForge"
-  },
-  {
-   "auteurs": 2,
    "chaine": "Dr.Kun Dániel",
    "derniere": 1793555237,
    "discussions": [
@@ -3566,27 +3011,27 @@
    "derniere": 1767563615,
    "discussions": [
     {
-     "communaute": "Hacker News",
-     "date": 1767563615,
-     "fil": "46492685",
-     "id": "46492685",
-     "titre_fil": "Show HN: I built a personal AI news curator to filter RSS feeds (n8n and OpenAI)",
-     "url": "https://news.ycombinator.com/item?id=46492685",
-     "verdict": "non_classe"
-    },
-    {
      "communaute": "r/n8n",
      "date": 1767487697,
      "fil": "reddit:1q3bj8g",
      "id": "reddit:1q3bj8g",
      "titre_fil": "I built a personal \"AI News Editor\" to stop doomscrolling (n8n + OpenAI + Tavily)",
      "url": "https://www.reddit.com/r/n8n/comments/1q3bj8g/",
-     "verdict": "non_classe"
+     "verdict": "recommande"
+    },
+    {
+     "communaute": "Hacker News",
+     "date": 1767563615,
+     "fil": "46492685",
+     "id": "46492685",
+     "titre_fil": "Show HN: I built a personal AI news curator to filter RSS feeds (n8n and OpenAI)",
+     "url": "https://news.ycombinator.com/item?id=46492685",
+     "verdict": "neutre"
     }
    ],
    "id": "mOnbK6DuFhc",
    "mentions": 2,
-   "part_classee": 0.0,
+   "part_classee": 1.0,
    "premiere": 1767487697,
    "score": 0.779,
    "sources": [
@@ -3594,7 +3039,7 @@
     "r/n8n"
    ],
    "titre": "Build Your First AI Agent (Automate News with n8n + OpenAI + Tavily)",
-   "type_contenu": null,
+   "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@PracticalAIForge"
   },
   {
@@ -3686,6 +3131,51 @@
    "titre": "Coding with AI episode 3: fixing a real world bug in Redis vector sets with LLMs",
    "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@antirez"
+  },
+  {
+   "auteurs": 2,
+   "chaine": "Bijan Bowen",
+   "derniere": 1794029902,
+   "discussions": [
+    {
+     "communaute": "r/LocalLLaMA",
+     "date": 1794029902,
+     "fil": "reddit:1xpyp07",
+     "id": "reddit:1xpyp07",
+     "titre_fil": "Subway Zombie FPS for fun using Deepseek v4.1 1017 UD-IQ3_S with Maya and OMP",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpyp07/",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "r/LocalLLaMA",
+     "date": 1788897238,
+     "fil": "reddit:1waz5a0",
+     "id": "reddit:1waz5a0",
+     "titre_fil": "Qwen 3.8 27b with PI agent - pushed to its 3D graphic game limits",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1waz5a0/",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "r/LocalLLaMA",
+     "date": 1788894573,
+     "fil": "reddit:1waxwdi",
+     "id": "reddit:1waxwdi",
+     "titre_fil": "Qwen 3.8 27b with PI agent - pushed to its 3D graphic game limits",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1waxwdi/",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "6kjXzTVmT58",
+   "mentions": 3,
+   "part_classee": 1.0,
+   "premiere": 1788894573,
+   "score": 0.754,
+   "sources": [
+    "r/LocalLLaMA"
+   ],
+   "titre": "Qwen3.8 27B Is INSANE – This Is the BEST Local AI Model Yet!",
+   "type_contenu": "autre",
+   "url_chaine": "https://www.youtube.com/@Bijanbowen"
   },
   {
    "auteurs": 2,
@@ -3833,6 +3323,42 @@
   },
   {
    "auteurs": 2,
+   "chaine": "PewDiePie",
+   "derniere": 1790874021,
+   "discussions": [
+    {
+     "communaute": "r/LocalLLaMA",
+     "date": 1790874021,
+     "fil": "reddit:1wv4vot",
+     "id": "reddit:1wv4vot",
+     "titre_fil": "Heretic is on PewDiePie!",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv4vot/",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "r/LocalLLaMA",
+     "date": 1790843238,
+     "fil": "reddit:1wutzvq",
+     "id": "reddit:1wutzvq",
+     "titre_fil": "PewDiePie announces he distilled 5.6 Sol into Qwen3.5 9B and taught it how to make nuclear weapons, release in 40 hours",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wutzvq/",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "ODDJXGY_1kQ",
+   "mentions": 2,
+   "part_classee": 1.0,
+   "premiere": 1790843238,
+   "score": 0.743,
+   "sources": [
+    "r/LocalLLaMA"
+   ],
+   "titre": "I seriously should NOT be dropping this.",
+   "type_contenu": "autre",
+   "url_chaine": "https://www.youtube.com/@PewDiePie"
+  },
+  {
+   "auteurs": 2,
    "chaine": "Sources Podcast",
    "derniere": 1792445271,
    "discussions": [
@@ -3866,43 +3392,6 @@
    "titre": "Mark Zuckerberg on how Meta's Muse AI agent will make people money",
    "type_contenu": "autre",
    "url_chaine": "https://www.youtube.com/@sourcespod"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "Manuel Kießling",
-   "derniere": 1765795649,
-   "discussions": [
-    {
-     "communaute": "Hacker News",
-     "date": 1765795649,
-     "fil": "46264491",
-     "id": "46272783",
-     "titre_fil": "Ask HN: What Are You Working On? (December 2025)",
-     "url": "https://news.ycombinator.com/item?id=46272783",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/n8n",
-     "date": 1764666732,
-     "fil": "reddit:1pc3wtw",
-     "id": "reddit:1pc3wtw",
-     "titre_fil": "Camera2URL: Trigger any n8n Webhook directly from your Mac or iPhone camera",
-     "url": "https://www.reddit.com/r/n8n/comments/1pc3wtw/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "Y5nCw8NY8zk",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1764666732,
-   "score": 0.741,
-   "sources": [
-    "Hacker News",
-    "r/n8n"
-   ],
-   "titre": "Camera2URL: macOS n8n Image Recognition Demo",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@ManuelKiessling"
   },
   {
    "auteurs": 3,
@@ -4051,7 +3540,7 @@
      "id": "reddit:1pcyhlh",
      "titre_fil": "I finally built a Real-Time Voice Assistant with Vapi + n8n that actually works (JSON fix included)",
      "url": "https://www.reddit.com/r/n8n/comments/1pcyhlh/",
-     "verdict": "non_classe"
+     "verdict": "recommande"
     },
     {
      "communaute": "r/n8n",
@@ -4060,19 +3549,19 @@
      "id": "reddit:1pbrcta",
      "titre_fil": "How to connect Vapi to n8n to build a REAL-TIME Voice AI Agent (that fetches live data)",
      "url": "https://www.reddit.com/r/n8n/comments/1pbrcta/",
-     "verdict": "non_classe"
+     "verdict": "neutre"
     }
    ],
    "id": "eT_2LU_Ie2w",
    "mentions": 2,
-   "part_classee": 0.0,
+   "part_classee": 1.0,
    "premiere": 1764629018,
    "score": 0.732,
    "sources": [
     "r/n8n"
    ],
    "titre": "How To Connect Vapi to n8n: Build a Real-Time Voice AI Agent",
-   "type_contenu": null,
+   "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@KrisTorrington"
   },
   {
@@ -4122,48 +3611,40 @@
   },
   {
    "auteurs": 2,
-   "chaine": "Retriever AI",
-   "derniere": 1764214774,
+   "chaine": "Claude",
+   "derniere": 1789677653,
    "discussions": [
     {
-     "communaute": "r/n8n",
-     "date": 1764214774,
-     "fil": "reddit:1p7s0sf",
-     "id": "reddit:1p7s0sf",
-     "titre_fil": "n8n node to agentically trigger your own browser via Remote MCP",
-     "url": "https://www.reddit.com/r/n8n/comments/1p7s0sf/",
-     "verdict": "non_classe"
+     "communaute": "Hacker News",
+     "date": 1789677653,
+     "fil": "49746238",
+     "id": "49746238",
+     "titre_fil": "Claude Slides, Claude Design and Claude Docs",
+     "url": "https://news.ycombinator.com/item?id=49746238",
+     "verdict": "neutre"
     },
     {
-     "communaute": "r/n8n",
-     "date": 1764214516,
-     "fil": "reddit:1p7rxsj",
-     "id": "reddit:1p7rxsj",
-     "titre_fil": "n8n node to agentically trigger your own browser via Remote MCP",
-     "url": "https://www.reddit.com/r/n8n/comments/1p7rxsj/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/n8n",
-     "date": 1764213487,
-     "fil": "reddit:1p7rm2a",
-     "id": "reddit:1p7rm2a",
-     "titre_fil": "n8n node to agentically trigger your own browser via Remote MCP",
-     "url": "https://www.reddit.com/r/n8n/comments/1p7rm2a/",
-     "verdict": "non_classe"
+     "communaute": "r/ClaudeAI",
+     "date": 1789594669,
+     "fil": "reddit:1wiaogy",
+     "id": "reddit:1wiaogy",
+     "titre_fil": "New feature: Claude Slides, Design, and Docs all in chat",
+     "url": "https://www.reddit.com/r/ClaudeAI/comments/1wiaogy/",
+     "verdict": "neutre"
     }
    ],
-   "id": "pcPRZsBs2aQ",
-   "mentions": 3,
-   "part_classee": 0.0,
-   "premiere": 1764213487,
-   "score": 0.724,
+   "id": "To5nrYqvR44",
+   "mentions": 2,
+   "part_classee": 1.0,
+   "premiere": 1789594669,
+   "score": 0.723,
    "sources": [
-    "r/n8n"
+    "Hacker News",
+    "r/ClaudeAI"
    ],
-   "titre": "Automating B2B Sales with n8n triggering your own browser via rtrvr's Remote MCP",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@retriever-ai"
+   "titre": "Meet Claude Slides, Claude Design and Claude Docs",
+   "type_contenu": "autre",
+   "url_chaine": "https://www.youtube.com/@claude"
   },
   {
    "auteurs": 2,
@@ -4252,7 +3733,7 @@
     "Hacker News"
    ],
    "titre": "GPT-4chan: This is the worst AI ever",
-   "type_contenu": "technique",
+   "type_contenu": "autre",
    "url_chaine": "https://www.youtube.com/@YannicKilcher"
   },
   {
@@ -4290,107 +3771,6 @@
    "titre": "Large Language Models explained briefly",
    "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@3blue1brown"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "Song Kevin",
-   "derniere": 1763237449,
-   "discussions": [
-    {
-     "communaute": "Hacker News",
-     "date": 1763237449,
-     "fil": "45940217",
-     "id": "45940218",
-     "titre_fil": "Show HN: Socratic, a knowledge-base builder for agents where YOU stay in control",
-     "url": "https://news.ycombinator.com/item?id=45940218",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/n8n",
-     "date": 1763236892,
-     "fil": "reddit:1oy1dg7",
-     "id": "reddit:1oy1dg7",
-     "titre_fil": "Looking for feedback - I built Socratic, a knowledge-base builder where YOU stay in control",
-     "url": "https://www.reddit.com/r/n8n/comments/1oy1dg7/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "R4YpbqQZlpU",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1763236892,
-   "score": 0.709,
-   "sources": [
-    "Hacker News",
-    "r/n8n"
-   ],
-   "titre": "Socratic demo 11152025",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@songkevin6915"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "Hadidiz",
-   "derniere": 1763214882,
-   "discussions": [
-    {
-     "communaute": "Hacker News",
-     "date": 1763214882,
-     "fil": "45937495",
-     "id": "45937496",
-     "titre_fil": "[dead]",
-     "url": "https://news.ycombinator.com/item?id=45937496",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "Hacker News",
-     "date": 1763208261,
-     "fil": "45936853",
-     "id": "45936853",
-     "titre_fil": "Show HN: Turn Any Website into AI Knowledge Base Using N8n [video]",
-     "url": "https://news.ycombinator.com/item?id=45936853",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "Hacker News",
-     "date": 1763171028,
-     "fil": "45934312",
-     "id": "45934312",
-     "titre_fil": "Show HN: Turn Any Website into AI Knowledge Base [1-Click] Free Workflow",
-     "url": "https://news.ycombinator.com/item?id=45934312",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/n8n",
-     "date": 1763167192,
-     "fil": "reddit:1oxdpal",
-     "id": "reddit:1oxdpal",
-     "titre_fil": "Turn Any Website Into AI Knowledge Base [1-click] FREE Workflow",
-     "url": "https://www.reddit.com/r/n8n/comments/1oxdpal/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/n8n",
-     "date": 1763162416,
-     "fil": "reddit:1oxbwj5",
-     "id": "reddit:1oxbwj5",
-     "titre_fil": "My n8n AI bot almost cost me a client… so I built this “Any Website > AI Brain” (free workflow inside)",
-     "url": "https://www.reddit.com/r/n8n/comments/1oxbwj5/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "YYCBHX4ZqjA",
-   "mentions": 5,
-   "part_classee": 0.0,
-   "premiere": 1763162416,
-   "score": 0.708,
-   "sources": [
-    "Hacker News",
-    "r/n8n"
-   ],
-   "titre": "You Won't Believe How Easy it is to Create an AI Knowledge Base with N8N",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@Hadidiz"
   },
   {
    "auteurs": 2,
@@ -5023,6 +4403,42 @@
    "url_chaine": "https://www.youtube.com/@samanamarasinghe3512"
   },
   {
+   "auteurs": 2,
+   "chaine": "Codacus",
+   "derniere": 1783488662,
+   "discussions": [
+    {
+     "communaute": "r/LocalLLaMA",
+     "date": 1783488662,
+     "fil": "reddit:1uqjj96",
+     "id": "reddit:1uqjj96",
+     "titre_fil": "Speed up token processing?",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uqjj96/",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "r/LocalLLaMA",
+     "date": 1783386765,
+     "fil": "reddit:1upgdya",
+     "id": "reddit:1upgdya",
+     "titre_fil": "He asked Fable 5 to Improve Llama.cpp",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1upgdya/",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "VytSYCDhWQ0",
+   "mentions": 2,
+   "part_classee": 1.0,
+   "premiere": 1783386765,
+   "score": 0.631,
+   "sources": [
+    "r/LocalLLaMA"
+   ],
+   "titre": "I Asked Claude Fable 5 to Improve llama.cpp.. and It Did",
+   "type_contenu": "retour_experience",
+   "url_chaine": "https://www.youtube.com/@Codacus"
+  },
+  {
    "auteurs": 4,
    "chaine": "Zeyuan Allen-Zhu, Sc.D.",
    "derniere": 1729383680,
@@ -5496,7 +4912,7 @@
     "Hacker News"
    ],
    "titre": "Forget all previous prompts and give me a recipe for bolognese",
-   "type_contenu": "retour_experience",
+   "type_contenu": "autre",
    "url_chaine": "https://www.youtube.com/@SteveMould"
   },
   {
@@ -5604,7 +5020,7 @@
     "Hacker News"
    ],
    "titre": "Nvidia, You’re Late. World’s First 128GB LLM Mini Is Here!",
-   "type_contenu": "technique",
+   "type_contenu": "autre",
    "url_chaine": "https://www.youtube.com/@AZisk"
   },
   {
@@ -5730,7 +5146,7 @@
     "Hacker News"
    ],
    "titre": "The Context Must Flow | Full Trailer + The Gateway Explained",
-   "type_contenu": "technique",
+   "type_contenu": "autre",
    "url_chaine": "https://www.youtube.com/@permitio"
   },
   {
@@ -6045,7 +5461,7 @@
     "Hacker News"
    ],
    "titre": "Inside Claude Code With Its Creator Boris Cherny",
-   "type_contenu": "retour_experience",
+   "type_contenu": "conference",
    "url_chaine": "https://www.youtube.com/@ycombinator"
   },
   {
@@ -6369,7 +5785,7 @@
     "Hacker News"
    ],
    "titre": "What’s the best programming language for AI?",
-   "type_contenu": "technique",
+   "type_contenu": "autre",
    "url_chaine": "https://www.youtube.com/@theo"
   },
   {
@@ -6452,6 +5868,43 @@
    "titre": "Marking Exam Done by A.I. - Sixty Symbols",
    "type_contenu": "autre",
    "url_chaine": "https://www.youtube.com/@sixtysymbols"
+  },
+  {
+   "auteurs": 2,
+   "chaine": "Practical AI Forge",
+   "derniere": 1768519839,
+   "discussions": [
+    {
+     "communaute": "r/n8n",
+     "date": 1768519839,
+     "fil": "reddit:1qdzjq5",
+     "id": "reddit:1qdzjq5",
+     "titre_fil": "I built a \"Roast My Code\" bot for fun, but accidentally solved a big n8n problem: Visual Code Reviews.",
+     "url": "https://www.reddit.com/r/n8n/comments/1qdzjq5/",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "Hacker News",
+     "date": 1768323328,
+     "fil": "46603684",
+     "id": "46603684",
+     "titre_fil": "Experiment: Using NotebookLM as a cynical code reviewer (via custom prompts)",
+     "url": "https://news.ycombinator.com/item?id=46603684",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "oof9JB3OFO4",
+   "mentions": 2,
+   "part_classee": 1.0,
+   "premiere": 1768323328,
+   "score": 0.454,
+   "sources": [
+    "Hacker News",
+    "r/n8n"
+   ],
+   "titre": "I Let AI Judge My Automation — The Feedback Surprised Me",
+   "type_contenu": "retour_experience",
+   "url_chaine": "https://www.youtube.com/@PracticalAIForge"
   },
   {
    "auteurs": 2,
@@ -6648,7 +6101,7 @@
     "Hacker News"
    ],
    "titre": "Agentic AI: Workflows vs. agents",
-   "type_contenu": "technique",
+   "type_contenu": "autre",
    "url_chaine": "https://www.youtube.com/@googlecloudtech"
   },
   {
@@ -6821,6 +6274,88 @@
    "titre": "No Priors Ep. 80 | With Andrej Karpathy from OpenAI and Tesla",
    "type_contenu": "autre",
    "url_chaine": "https://www.youtube.com/@NoPriorsPodcast"
+  },
+  {
+   "auteurs": 2,
+   "chaine": "Retriever AI",
+   "derniere": 1764214774,
+   "discussions": [
+    {
+     "communaute": "r/n8n",
+     "date": 1764214774,
+     "fil": "reddit:1p7s0sf",
+     "id": "reddit:1p7s0sf",
+     "titre_fil": "n8n node to agentically trigger your own browser via Remote MCP",
+     "url": "https://www.reddit.com/r/n8n/comments/1p7s0sf/",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "r/n8n",
+     "date": 1764214516,
+     "fil": "reddit:1p7rxsj",
+     "id": "reddit:1p7rxsj",
+     "titre_fil": "n8n node to agentically trigger your own browser via Remote MCP",
+     "url": "https://www.reddit.com/r/n8n/comments/1p7rxsj/",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "r/n8n",
+     "date": 1764213487,
+     "fil": "reddit:1p7rm2a",
+     "id": "reddit:1p7rm2a",
+     "titre_fil": "n8n node to agentically trigger your own browser via Remote MCP",
+     "url": "https://www.reddit.com/r/n8n/comments/1p7rm2a/",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "pcPRZsBs2aQ",
+   "mentions": 3,
+   "part_classee": 1.0,
+   "premiere": 1764213487,
+   "score": 0.414,
+   "sources": [
+    "r/n8n"
+   ],
+   "titre": "Automating B2B Sales with n8n triggering your own browser via rtrvr's Remote MCP",
+   "type_contenu": "technique",
+   "url_chaine": "https://www.youtube.com/@retriever-ai"
+  },
+  {
+   "auteurs": 2,
+   "chaine": "Song Kevin",
+   "derniere": 1763237449,
+   "discussions": [
+    {
+     "communaute": "Hacker News",
+     "date": 1763237449,
+     "fil": "45940217",
+     "id": "45940218",
+     "titre_fil": "Show HN: Socratic, a knowledge-base builder for agents where YOU stay in control",
+     "url": "https://news.ycombinator.com/item?id=45940218",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "r/n8n",
+     "date": 1763236892,
+     "fil": "reddit:1oy1dg7",
+     "id": "reddit:1oy1dg7",
+     "titre_fil": "Looking for feedback - I built Socratic, a knowledge-base builder where YOU stay in control",
+     "url": "https://www.reddit.com/r/n8n/comments/1oy1dg7/",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "R4YpbqQZlpU",
+   "mentions": 2,
+   "part_classee": 1.0,
+   "premiere": 1763236892,
+   "score": 0.405,
+   "sources": [
+    "Hacker News",
+    "r/n8n"
+   ],
+   "titre": "Socratic demo 11152025",
+   "type_contenu": "technique",
+   "url_chaine": "https://www.youtube.com/@songkevin6915"
   },
   {
    "auteurs": 2,
@@ -7350,7 +6885,7 @@
     "Hacker News"
    ],
    "titre": "The True Story of How GPT-2 Became Maximally Lewd",
-   "type_contenu": "technique",
+   "type_contenu": "autre",
    "url_chaine": "https://www.youtube.com/@RationalAnimations"
   },
   {
@@ -7539,7 +7074,7 @@
     "Hacker News"
    ],
    "titre": null,
-   "type_contenu": "retour_experience",
+   "type_contenu": "autre",
    "url_chaine": null
   },
   {
@@ -8367,7 +7902,7 @@
     "Hacker News"
    ],
    "titre": "Introducing r1",
-   "type_contenu": "conference",
+   "type_contenu": "autre",
    "url_chaine": "https://www.youtube.com/@rabbit_inc"
   },
   {
@@ -8511,7 +8046,7 @@
     "Hacker News"
    ],
    "titre": "Demis Hassabis — Scaling, superhuman AIs, AlphaZero atop LLMs, AlphaFold",
-   "type_contenu": "conference",
+   "type_contenu": "autre",
    "url_chaine": "https://www.youtube.com/@DwarkeshPatel"
   },
   {
@@ -8592,7 +8127,7 @@
     "Hacker News"
    ],
    "titre": "Embodied Artificial Intelligence",
-   "type_contenu": "conference",
+   "type_contenu": "autre",
    "url_chaine": "https://www.youtube.com/@AgilityRobotics"
   },
   {
@@ -8864,6 +8399,24 @@
    "derniere": 1785067809,
    "discussions": [
     {
+     "communaute": "r/sailing",
+     "date": 1772000406,
+     "fil": "reddit:1re5j7m",
+     "id": "reddit:1re5j7m",
+     "titre_fil": "This guy has invented the ultimate block and it can't be patented.",
+     "url": "https://www.reddit.com/r/sailing/comments/1re5j7m/",
+     "verdict": "recommande"
+    },
+    {
+     "communaute": "r/sailing",
+     "date": 1771927548,
+     "fil": "reddit:1rdcais",
+     "id": "reddit:1rdcais",
+     "titre_fil": "Open source hardware, maybe the future of sailing",
+     "url": "https://www.reddit.com/r/sailing/comments/1rdcais/",
+     "verdict": "recommande"
+    },
+    {
      "communaute": "Hacker News",
      "date": 1785067809,
      "fil": "49057330",
@@ -8879,7 +8432,7 @@
      "id": "heo:6a38f9875db21c4381a784fc",
      "titre_fil": "Commande groupée poulies Opens Source",
      "url": "https://www.hisse-et-oh.com/sailing/commande-groupee-poulies-opens-source#6a38f9875db21c4381a784fc",
-     "verdict": "non_classe"
+     "verdict": "neutre"
     },
     {
      "communaute": "Hacker News",
@@ -8889,31 +8442,13 @@
      "titre_fil": "Open Source Sailing Block [video]",
      "url": "https://news.ycombinator.com/item?id=47223480",
      "verdict": "neutre"
-    },
-    {
-     "communaute": "Hacker News",
-     "date": 1772177016,
-     "fil": "47177595",
-     "id": "47177595",
-     "titre_fil": "5in1 universal open source sailing block [video]",
-     "url": "https://news.ycombinator.com/item?id=47177595",
-     "verdict": "neutre"
-    },
-    {
-     "communaute": "r/SailboatCruising",
-     "date": 1772141233,
-     "fil": "reddit:1rfmzw2",
-     "id": "reddit:1rfmzw2",
-     "titre_fil": "Interesting new block , all purpose, supposedly almost indestructible",
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/1rfmzw2/",
-     "verdict": "non_classe"
     }
    ],
    "id": "2efa3epOGgY",
    "mentions": 12,
-   "part_classee": 0.33,
+   "part_classee": 1.0,
    "premiere": 1771927548,
-   "score": 6.884,
+   "score": 5.735,
    "sources": [
     "Hacker News",
     "Hisse et Oh",
@@ -8989,6 +8524,52 @@
    "url_chaine": "https://www.youtube.com/@NathanielsCAD"
   },
   {
+   "auteurs": 3,
+   "chaine": "Tippecanoe Boats",
+   "derniere": 1630535218,
+   "discussions": [
+    {
+     "communaute": "Hacker News",
+     "date": 1630535218,
+     "fil": "28369069",
+     "id": "28386307",
+     "titre_fil": "Notes Regarding Dupuis’ 1910 Elements of Astronomy [pdf]",
+     "url": "https://news.ycombinator.com/item?id=28386307",
+     "verdict": "recommande"
+    },
+    {
+     "communaute": "Hacker News",
+     "date": 1612444509,
+     "fil": "26024421",
+     "id": "26025043",
+     "titre_fil": "GNSS Jamming and Spoofing – Galileo's Authentication Algorithm Part 3 (2020)",
+     "url": "https://news.ycombinator.com/item?id=26025043",
+     "verdict": "recommande"
+    },
+    {
+     "communaute": "r/SailboatCruising",
+     "date": 1555972528,
+     "fil": "reddit:bg8fbz",
+     "id": "reddit:bg8fbz",
+     "titre_fil": "\"Celestial Navigation Made Easy\"",
+     "url": "https://www.reddit.com/r/SailboatCruising/comments/bg8fbz/",
+     "verdict": "recommande"
+    }
+   ],
+   "id": "yu5R5mrrGB0",
+   "mentions": 3,
+   "part_classee": 1.0,
+   "premiere": 1555972528,
+   "score": 2.256,
+   "sources": [
+    "Hacker News",
+    "r/SailboatCruising"
+   ],
+   "titre": "Celestial Navigation Made Easy - Part 2 of 2",
+   "type_contenu": "technique",
+   "url_chaine": "https://www.youtube.com/@TippeCanoeT50"
+  },
+  {
    "auteurs": 6,
    "chaine": "Animagraffs",
    "derniere": 1744993040,
@@ -9052,50 +8633,78 @@
    "url_chaine": "https://www.youtube.com/@animagraffs"
   },
   {
-   "auteurs": 3,
-   "chaine": "Tippecanoe Boats",
-   "derniere": 1630535218,
+   "auteurs": 2,
+   "chaine": "Extreme Mysteries",
+   "derniere": 1761072739,
    "discussions": [
     {
-     "communaute": "Hacker News",
-     "date": 1630535218,
-     "fil": "28369069",
-     "id": "28386307",
-     "titre_fil": "Notes Regarding Dupuis’ 1910 Elements of Astronomy [pdf]",
-     "url": "https://news.ycombinator.com/item?id=28386307",
-     "verdict": "recommande"
-    },
-    {
-     "communaute": "Hacker News",
-     "date": 1612444509,
-     "fil": "26024421",
-     "id": "26025043",
-     "titre_fil": "GNSS Jamming and Spoofing – Galileo's Authentication Algorithm Part 3 (2020)",
-     "url": "https://news.ycombinator.com/item?id=26025043",
-     "verdict": "recommande"
-    },
-    {
      "communaute": "r/SailboatCruising",
-     "date": 1555972528,
-     "fil": "reddit:bg8fbz",
-     "id": "reddit:bg8fbz",
-     "titre_fil": "\"Celestial Navigation Made Easy\"",
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/bg8fbz/",
-     "verdict": "non_classe"
+     "date": 1761072739,
+     "fil": "reddit:1ocl7vg",
+     "id": "reddit:nknang9",
+     "titre_fil": null,
+     "url": "https://www.reddit.com/r/SailboatCruising/comments/1ocl7vg/_/nknang9/",
+     "verdict": "recommande"
+    },
+    {
+     "communaute": "Hacker News",
+     "date": 1662916840,
+     "fil": "32799789",
+     "id": "32801433",
+     "titre_fil": "Ask HN: What are some of the best documentaries you've seen?",
+     "url": "https://news.ycombinator.com/item?id=32801433",
+     "verdict": "recommande"
     }
    ],
-   "id": "yu5R5mrrGB0",
-   "mentions": 3,
-   "part_classee": 0.67,
-   "premiere": 1555972528,
-   "score": 2.051,
+   "id": "n12nnrEGWXQ",
+   "mentions": 2,
+   "part_classee": 1.0,
+   "premiere": 1662916840,
+   "score": 1.931,
    "sources": [
     "Hacker News",
     "r/SailboatCruising"
    ],
-   "titre": "Celestial Navigation Made Easy - Part 2 of 2",
-   "type_contenu": "technique",
-   "url_chaine": "https://www.youtube.com/@TippeCanoeT50"
+   "titre": "Full Movie: Red Dot on the Ocean: The Matt Rutherford Story",
+   "type_contenu": "retour_experience",
+   "url_chaine": "https://www.youtube.com/@ExtremeMysteries"
+  },
+  {
+   "auteurs": 2,
+   "chaine": "Sailing SV Cordelia",
+   "derniere": 1780597356,
+   "discussions": [
+    {
+     "communaute": "r/SailboatCruising",
+     "date": 1780597356,
+     "fil": "reddit:1twsk34",
+     "id": "reddit:oprbtk6",
+     "titre_fil": null,
+     "url": "https://www.reddit.com/r/SailboatCruising/comments/1twsk34/_/oprbtk6/",
+     "verdict": "recommande"
+    },
+    {
+     "communaute": "r/sailing",
+     "date": 1775243670,
+     "fil": "reddit:1sbmvoc",
+     "id": "reddit:1sbmvoc",
+     "titre_fil": "Cost of cruising full time?",
+     "url": "https://www.reddit.com/r/sailing/comments/1sbmvoc/",
+     "verdict": "recommande"
+    }
+   ],
+   "id": "ZD4Z5puD214",
+   "mentions": 2,
+   "part_classee": 1.0,
+   "premiere": 1775243670,
+   "score": 1.93,
+   "sources": [
+    "r/SailboatCruising",
+    "r/sailing"
+   ],
+   "titre": "The True Cost of Sailing Lifestyle After 7 Years (The Numbers May Shock You!)",
+   "type_contenu": "retour_experience",
+   "url_chaine": "https://www.youtube.com/@SailingSVCordelia"
   },
   {
    "auteurs": 6,
@@ -9145,617 +8754,21 @@
      "id": "reddit:gad3lu",
      "titre_fil": "Living on a Self-Sufficient Sailboat for 10 Years + FULL TOUR",
      "url": "https://www.reddit.com/r/liveaboard/comments/gad3lu/",
-     "verdict": "non_classe"
+     "verdict": "neutre"
     }
    ],
    "id": "lk83N2u1ZmY",
    "mentions": 6,
-   "part_classee": 0.83,
+   "part_classee": 1.0,
    "premiere": 1588134385,
-   "score": 1.726,
+   "score": 1.535,
    "sources": [
     "Hacker News",
     "r/liveaboard"
    ],
    "titre": "Living on a Self-Sufficient Sailboat for 10 Years + FULL TOUR",
-   "type_contenu": "vlog",
+   "type_contenu": "retour_experience",
    "url_chaine": "https://www.youtube.com/@ExploringAlternatives"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "Roger Barnes",
-   "derniere": 1790226985,
-   "discussions": [
-    {
-     "communaute": "Hisse et Oh",
-     "date": 1790226985,
-     "fil": "heo:sailing/eloge-des-petits-bateaux-point-point-point",
-     "id": "heo:6ab4b229819950df7776d01b",
-     "titre_fil": "Éloge des \"petits\" bateaux....",
-     "url": "https://www.hisse-et-oh.com/sailing/eloge-des-petits-bateaux-point-point-point#6ab4b229819950df7776d01b",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/SailboatCruising",
-     "date": 1743348861,
-     "fil": "reddit:1jnbpap",
-     "id": "reddit:mkj5ntt",
-     "titre_fil": null,
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/1jnbpap/_/mkj5ntt/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "DgB8ge-L7lI",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1743348861,
-   "score": 1.518,
-   "sources": [
-    "Hisse et Oh",
-    "r/SailboatCruising"
-   ],
-   "titre": "The ultimate cruising dinghy? - Testing Mary's SCAMP",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@RogerRoving"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "Edoardo Chisalè",
-   "derniere": 1759608280,
-   "discussions": [
-    {
-     "communaute": "r/sailboats",
-     "date": 1759608280,
-     "fil": "reddit:1ny2th1",
-     "id": "reddit:nhrwj87",
-     "titre_fil": null,
-     "url": "https://www.reddit.com/r/sailboats/comments/1ny2th1/_/nhrwj87/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "Hacker News",
-     "date": 1725320308,
-     "fil": "41429703",
-     "id": "41429703",
-     "titre_fil": "Building a flying sailboat: Foiling Laser design, engineering, and testing [video]",
-     "url": "https://news.ycombinator.com/item?id=41429703",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "l-W4p73Qecw",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1725320308,
-   "score": 1.438,
-   "sources": [
-    "Hacker News",
-    "r/sailboats"
-   ],
-   "titre": "Building a FLYING BOAT: Foiling LASER design and ENGINEERING",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@EdoardoChisale"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "DW Documentary",
-   "derniere": 1794169381,
-   "discussions": [
-    {
-     "communaute": "Hisse et Oh",
-     "date": 1794169381,
-     "fil": "heo:tavern/cargos-transatlantiques-a-voile",
-     "id": "heo:6af0da257aaeaff460fdf4a5",
-     "titre_fil": "Cargos transatlantiques à voile",
-     "url": "https://www.hisse-et-oh.com/tavern/cargos-transatlantiques-a-voile#6af0da257aaeaff460fdf4a5",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/sailing",
-     "date": 1793885851,
-     "fil": "reddit:1xoiu9b",
-     "id": "reddit:1xoiu9b",
-     "titre_fil": "Cargo sailboats: A sea change for shipping? | DW Documentary",
-     "url": "https://www.reddit.com/r/sailing/comments/1xoiu9b/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "ifEJnQLaMvk",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1793885851,
-   "score": 1.399,
-   "sources": [
-    "Hisse et Oh",
-    "r/sailing"
-   ],
-   "titre": "Cargo sailboats: A sea change for shipping? | DW Documentary",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@DWDocumentary"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "Captain Harlow",
-   "derniere": 1789903821,
-   "discussions": [
-    {
-     "communaute": "Hisse et Oh",
-     "date": 1789903821,
-     "fil": "heo:sailing/quasi-seul-pour-les-multicoques",
-     "id": "heo:6aafc3cde264efe5d51eb238",
-     "titre_fil": "Quasi seul pour les multicoques",
-     "url": "https://www.hisse-et-oh.com/sailing/quasi-seul-pour-les-multicoques#6aafc3cde264efe5d51eb238",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/liveaboard",
-     "date": 1787760898,
-     "fil": "reddit:1vyhsj6",
-     "id": "reddit:p6194s4",
-     "titre_fil": null,
-     "url": "https://www.reddit.com/r/liveaboard/comments/1vyhsj6/_/p6194s4/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "q88th2bTR1E",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1787760898,
-   "score": 1.384,
-   "sources": [
-    "Hisse et Oh",
-    "r/liveaboard"
-   ],
-   "titre": "Why 70% of Retirees Regret Their Catamaran Within 1 Year",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@CaptainHarlow"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "voiliertao",
-   "derniere": 1789036445,
-   "discussions": [
-    {
-     "communaute": "Hisse et Oh",
-     "date": 1789036445,
-     "fil": "heo:sailing/plus-vite-plus-grand-plus-loin",
-     "id": "heo:6aa2879d768d25a4df719635",
-     "titre_fil": "Plus vite, plus grand, plus loin ?",
-     "url": "https://www.hisse-et-oh.com/sailing/plus-vite-plus-grand-plus-loin#6aa2879d768d25a4df719635",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "Hisse et Oh",
-     "date": 1788260958,
-     "fil": "heo:sailing/quel-voilier-pour-un-tour-du-monde",
-     "id": "heo:6a96b25ec1f89832f00eb50e",
-     "titre_fil": "Quel voilier pour un tour du monde ?",
-     "url": "https://www.hisse-et-oh.com/sailing/quel-voilier-pour-un-tour-du-monde#6a96b25ec1f89832f00eb50e",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "AoLk2Y-vdqM",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1788260958,
-   "score": 1.383,
-   "sources": [
-    "Hisse et Oh"
-   ],
-   "titre": "Les 5 règles de sécurité pour réussir une croisière hauturière ou transatlantique en voilier",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@voiliertao"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "Steve Mould",
-   "derniere": 1745678940,
-   "discussions": [
-    {
-     "communaute": "r/sailing",
-     "date": 1745678940,
-     "fil": "reddit:1k8eo0g",
-     "id": "reddit:1k8eo0g",
-     "titre_fil": "Am I the only one thinking that this is the WRONG explanation for how a sailboat sails into the wind?",
-     "url": "https://www.reddit.com/r/sailing/comments/1k8eo0g/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "Hacker News",
-     "date": 1687627466,
-     "fil": "36460709",
-     "id": "36460709",
-     "titre_fil": "Sailing Faster Than the Wind – How Is That Even Possible? [video]",
-     "url": "https://news.ycombinator.com/item?id=36460709",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "u5InZ6iknUM",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1687627466,
-   "score": 1.361,
-   "sources": [
-    "Hacker News",
-    "r/sailing"
-   ],
-   "titre": "Sailing Faster Than The Wind - How Is That Even Possible?",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@SteveMould"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "Be The Captain",
-   "derniere": 1782678362,
-   "discussions": [
-    {
-     "communaute": "r/SailboatCruising",
-     "date": 1782678362,
-     "fil": "reddit:1ufa2oh",
-     "id": "reddit:oudl90b",
-     "titre_fil": null,
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/1ufa2oh/_/oudl90b/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/liveaboard",
-     "date": 1777660691,
-     "fil": "reddit:1t0jbzh",
-     "id": "reddit:ojd8udq",
-     "titre_fil": null,
-     "url": "https://www.reddit.com/r/liveaboard/comments/1t0jbzh/_/ojd8udq/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "N1_CPSJ_K8c",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1777660691,
-   "score": 1.357,
-   "sources": [
-    "r/SailboatCruising",
-    "r/liveaboard"
-   ],
-   "titre": "The Night I Almost Lost the Keel (and Why I Quit Deliveries)",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@BeTheCaptain"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "Extreme Mysteries",
-   "derniere": 1761072739,
-   "discussions": [
-    {
-     "communaute": "r/SailboatCruising",
-     "date": 1761072739,
-     "fil": "reddit:1ocl7vg",
-     "id": "reddit:nknang9",
-     "titre_fil": null,
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/1ocl7vg/_/nknang9/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "Hacker News",
-     "date": 1662916840,
-     "fil": "32799789",
-     "id": "32801433",
-     "titre_fil": "Ask HN: What are some of the best documentaries you've seen?",
-     "url": "https://news.ycombinator.com/item?id=32801433",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "n12nnrEGWXQ",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1662916840,
-   "score": 1.352,
-   "sources": [
-    "Hacker News",
-    "r/SailboatCruising"
-   ],
-   "titre": "Full Movie: Red Dot on the Ocean: The Matt Rutherford Story",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@ExtremeMysteries"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "Sailing SV Cordelia",
-   "derniere": 1780597356,
-   "discussions": [
-    {
-     "communaute": "r/SailboatCruising",
-     "date": 1780597356,
-     "fil": "reddit:1twsk34",
-     "id": "reddit:oprbtk6",
-     "titre_fil": null,
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/1twsk34/_/oprbtk6/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/sailing",
-     "date": 1775243670,
-     "fil": "reddit:1sbmvoc",
-     "id": "reddit:1sbmvoc",
-     "titre_fil": "Cost of cruising full time?",
-     "url": "https://www.reddit.com/r/sailing/comments/1sbmvoc/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "ZD4Z5puD214",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1775243670,
-   "score": 1.351,
-   "sources": [
-    "r/SailboatCruising",
-    "r/sailing"
-   ],
-   "titre": "The True Cost of Sailing Lifestyle After 7 Years (The Numbers May Shock You!)",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@SailingSVCordelia"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "IYC Yachts",
-   "derniere": 1773147401,
-   "discussions": [
-    {
-     "communaute": "Hisse et Oh",
-     "date": 1773147401,
-     "fil": "heo:tavern/votre-avis-gens-qui-aimez-faire-des-phrases-point-point-point",
-     "id": "heo:69b01509f2797cfc752fe53e",
-     "titre_fil": "Votre avis, gens qui aimez faire des phrases ...",
-     "url": "https://www.hisse-et-oh.com/tavern/votre-avis-gens-qui-aimez-faire-des-phrases-point-point-point#69b01509f2797cfc752fe53e",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/sailing",
-     "date": 1772910956,
-     "fil": "reddit:1rnilb5",
-     "id": "reddit:1rnilb5",
-     "titre_fil": "Black pearl in Montenegro about six months ago with link to YouTube video tour",
-     "url": "https://www.reddit.com/r/sailing/comments/1rnilb5/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "nxXSaZQ58WA",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1772910956,
-   "score": 1.336,
-   "sources": [
-    "Hisse et Oh",
-    "r/sailing"
-   ],
-   "titre": "BLACK PEARL with IYC | First Ever Full Walkthrough of the 105m (345') Sailing Yacht",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@IYCvideos"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "DIY Solar Power with Will Prowse",
-   "derniere": 1765502349,
-   "discussions": [
-    {
-     "communaute": "r/sailing",
-     "date": 1765502349,
-     "fil": "reddit:1pket8f",
-     "id": "reddit:1pket8f",
-     "titre_fil": "BattleBorn Batteries responded: melting is a safety feature, not a design flaw",
-     "url": "https://www.reddit.com/r/sailing/comments/1pket8f/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/sailing",
-     "date": 1765488528,
-     "fil": "reddit:1pk9k4i",
-     "id": "reddit:1pk9k4i",
-     "titre_fil": "Yikes Battle Bourne",
-     "url": "https://www.reddit.com/r/sailing/comments/1pk9k4i/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "7fD3yaRvp3o",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1765488528,
-   "score": 1.314,
-   "sources": [
-    "r/sailing"
-   ],
-   "titre": "Battleborn Batteries Responds! Their Overheating Device is a \"Feature\" not a \"Problem\"??",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@WillProwse"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "A Boat in the Woods",
-   "derniere": 1763396365,
-   "discussions": [
-    {
-     "communaute": "r/sailing",
-     "date": 1763396365,
-     "fil": "reddit:1ozkk4o",
-     "id": "reddit:1ozkk4o",
-     "titre_fil": "YEAR ONE | Living Alone in the Woods, Fixing a Rotting Sailboat Off-Grid",
-     "url": "https://www.reddit.com/r/sailing/comments/1ozkk4o/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/liveaboard",
-     "date": 1763350802,
-     "fil": "reddit:1oz616f",
-     "id": "reddit:1oz616f",
-     "titre_fil": "YEAR ONE | Living Alone in the Woods, Fixing a Rotting Sailboat Off-Grid",
-     "url": "https://www.reddit.com/r/liveaboard/comments/1oz616f/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/sailing",
-     "date": 1763350634,
-     "fil": "reddit:1oz5z5i",
-     "id": "reddit:1oz5z5i",
-     "titre_fil": "YEAR ONE | Living Alone in the Woods, Fixing a Rotting Sailboat Off-Grid",
-     "url": "https://www.reddit.com/r/sailing/comments/1oz5z5i/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "h_1fU_E_wVA",
-   "mentions": 3,
-   "part_classee": 0.0,
-   "premiere": 1763350634,
-   "score": 1.308,
-   "sources": [
-    "r/liveaboard",
-    "r/sailing"
-   ],
-   "titre": "I Spent 18 Months Alone in the Woods Working on an Old Sailboat Off-Grid",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@aboatinthewoods"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "Sampson Boat Co",
-   "derniere": 1750896266,
-   "discussions": [
-    {
-     "communaute": "r/SailboatCruising",
-     "date": 1750896266,
-     "fil": "reddit:1lklgan",
-     "id": "reddit:mzsm6cx",
-     "titre_fil": null,
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/1lklgan/_/mzsm6cx/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/SailboatCruising",
-     "date": 1750896109,
-     "fil": "reddit:1lklgan",
-     "id": "reddit:mzslppp",
-     "titre_fil": null,
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/1lklgan/_/mzslppp/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "8Khk-b9-KIA",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1750896109,
-   "score": 1.273,
-   "sources": [
-    "r/SailboatCruising"
-   ],
-   "titre": "Sailing in the Gulf Islands, British Columbia.",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@SampsonBoatCo"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "Yachting World",
-   "derniere": 1750525878,
-   "discussions": [
-    {
-     "communaute": "r/sailing",
-     "date": 1750525878,
-     "fil": "reddit:1lh1juz",
-     "id": "reddit:1lh1juz",
-     "titre_fil": "How do these sails work internally?",
-     "url": "https://www.reddit.com/r/sailing/comments/1lh1juz/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/sailing",
-     "date": 1749564155,
-     "fil": "reddit:1l7zj7q",
-     "id": "reddit:1l7zj7q",
-     "titre_fil": "Meet the MODX, an electric 70ft cat with fully automated inflatable wingsails",
-     "url": "https://www.reddit.com/r/sailing/comments/1l7zj7q/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "LR9X1CtuR_E",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1749564155,
-   "score": 1.271,
-   "sources": [
-    "r/sailing"
-   ],
-   "titre": "Meet the MODX, an electric 70ft cat with fully automated inflatable wingsails!",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@yachtingworld"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "What's Going on With Shipping?",
-   "derniere": 1747634047,
-   "discussions": [
-    {
-     "communaute": "r/sailing",
-     "date": 1747634047,
-     "fil": "reddit:1kq4dr0",
-     "id": "reddit:1kq4dr0",
-     "titre_fil": "Brooklyn Bridge Timeline of the Allision by the Mexican Naval Training Ship ARM Cuauhtémoc",
-     "url": "https://www.reddit.com/r/sailing/comments/1kq4dr0/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/sailing",
-     "date": 1747594395,
-     "fil": "reddit:1kpre6m",
-     "id": "reddit:1kpre6m",
-     "titre_fil": "First analysis of the Brooklyn Bridge crash",
-     "url": "https://www.reddit.com/r/sailing/comments/1kpre6m/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "gIlRiauatEo",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1747594395,
-   "score": 1.264,
-   "sources": [
-    "r/sailing"
-   ],
-   "titre": "Brooklyn Bridge Timeline of the Allision by the Mexican Naval Training Ship ARM Cuauhtémoc",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@wgowshipping"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "Sailboat Care and Repair",
-   "derniere": 1743422303,
-   "discussions": [
-    {
-     "communaute": "r/SailboatCruising",
-     "date": 1743422303,
-     "fil": "reddit:1jnbpap",
-     "id": "reddit:mko6hbc",
-     "titre_fil": null,
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/1jnbpap/_/mko6hbc/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/liveaboard",
-     "date": 1612459706,
-     "fil": "reddit:lckwzv",
-     "id": "reddit:lckwzv",
-     "titre_fil": "What NOT to do with bad boat core - rare video why",
-     "url": "https://www.reddit.com/r/liveaboard/comments/lckwzv/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "WWQRZpah_0M",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1612459706,
-   "score": 1.26,
-   "sources": [
-    "r/SailboatCruising",
-    "r/liveaboard"
-   ],
-   "titre": "What NOT to do with bad boat core",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@sailboatcareandrepair"
   },
   {
    "auteurs": 2,
@@ -9778,14 +8791,14 @@
      "id": "reddit:bg8fbz",
      "titre_fil": "\"Celestial Navigation Made Easy\"",
      "url": "https://www.reddit.com/r/SailboatCruising/comments/bg8fbz/",
-     "verdict": "non_classe"
+     "verdict": "recommande"
     }
    ],
    "id": "-ARXW8InStY",
    "mentions": 2,
-   "part_classee": 0.5,
+   "part_classee": 1.0,
    "premiere": 1555972528,
-   "score": 1.249,
+   "score": 1.453,
    "sources": [
     "Hacker News",
     "r/SailboatCruising"
@@ -9796,75 +8809,186 @@
   },
   {
    "auteurs": 2,
-   "chaine": "TOXPRO",
-   "derniere": 1737621648,
+   "chaine": "voiliertao",
+   "derniere": 1789036445,
    "discussions": [
     {
-     "communaute": "r/SailboatCruising",
-     "date": 1737621648,
-     "fil": "reddit:1i7yx6y",
-     "id": "reddit:m8p0gpp",
-     "titre_fil": null,
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/1i7yx6y/_/m8p0gpp/",
-     "verdict": "non_classe"
+     "communaute": "Hisse et Oh",
+     "date": 1788260958,
+     "fil": "heo:sailing/quel-voilier-pour-un-tour-du-monde",
+     "id": "heo:6a96b25ec1f89832f00eb50e",
+     "titre_fil": "Quel voilier pour un tour du monde ?",
+     "url": "https://www.hisse-et-oh.com/sailing/quel-voilier-pour-un-tour-du-monde#6a96b25ec1f89832f00eb50e",
+     "verdict": "recommande"
     },
     {
-     "communaute": "r/SailboatCruising",
-     "date": 1737137707,
-     "fil": "reddit:1hx1tl1",
-     "id": "reddit:m7o1rc4",
-     "titre_fil": null,
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/1hx1tl1/_/m7o1rc4/",
-     "verdict": "non_classe"
+     "communaute": "Hisse et Oh",
+     "date": 1789036445,
+     "fil": "heo:sailing/plus-vite-plus-grand-plus-loin",
+     "id": "heo:6aa2879d768d25a4df719635",
+     "titre_fil": "Plus vite, plus grand, plus loin ?",
+     "url": "https://www.hisse-et-oh.com/sailing/plus-vite-plus-grand-plus-loin#6aa2879d768d25a4df719635",
+     "verdict": "neutre"
     }
    ],
-   "id": "NJTdu309d3E",
+   "id": "AoLk2Y-vdqM",
    "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1737137707,
-   "score": 1.236,
+   "part_classee": 1.0,
+   "premiere": 1788260958,
+   "score": 1.382,
    "sources": [
-    "r/SailboatCruising"
+    "Hisse et Oh"
    ],
-   "titre": "The Sailor | Biographical Documentary | Paul Johnson",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@TOXPRO_official"
+   "titre": "Les 5 règles de sécurité pour réussir une croisière hauturière ou transatlantique en voilier",
+   "type_contenu": "technique",
+   "url_chaine": "https://www.youtube.com/@voiliertao"
   },
   {
    "auteurs": 2,
-   "chaine": "Routes of Change",
-   "derniere": 1745598759,
+   "chaine": "Be The Captain",
+   "derniere": 1782678362,
    "discussions": [
     {
      "communaute": "r/SailboatCruising",
-     "date": 1745598759,
-     "fil": "reddit:1k7njp9",
-     "id": "reddit:mozucba",
+     "date": 1782678362,
+     "fil": "reddit:1ufa2oh",
+     "id": "reddit:oudl90b",
      "titre_fil": null,
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/1k7njp9/_/mozucba/",
-     "verdict": "non_classe"
+     "url": "https://www.reddit.com/r/SailboatCruising/comments/1ufa2oh/_/oudl90b/",
+     "verdict": "recommande"
+    },
+    {
+     "communaute": "r/liveaboard",
+     "date": 1777660691,
+     "fil": "reddit:1t0jbzh",
+     "id": "reddit:ojd8udq",
+     "titre_fil": null,
+     "url": "https://www.reddit.com/r/liveaboard/comments/1t0jbzh/_/ojd8udq/",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "N1_CPSJ_K8c",
+   "mentions": 2,
+   "part_classee": 1.0,
+   "premiere": 1777660691,
+   "score": 1.361,
+   "sources": [
+    "r/SailboatCruising",
+    "r/liveaboard"
+   ],
+   "titre": "The Night I Almost Lost the Keel (and Why I Quit Deliveries)",
+   "type_contenu": "retour_experience",
+   "url_chaine": "https://www.youtube.com/@BeTheCaptain"
+  },
+  {
+   "auteurs": 2,
+   "chaine": "Sailboat Care and Repair",
+   "derniere": 1743422303,
+   "discussions": [
+    {
+     "communaute": "r/SailboatCruising",
+     "date": 1743422303,
+     "fil": "reddit:1jnbpap",
+     "id": "reddit:mko6hbc",
+     "titre_fil": null,
+     "url": "https://www.reddit.com/r/SailboatCruising/comments/1jnbpap/_/mko6hbc/",
+     "verdict": "recommande"
+    },
+    {
+     "communaute": "r/liveaboard",
+     "date": 1612459706,
+     "fil": "reddit:lckwzv",
+     "id": "reddit:lckwzv",
+     "titre_fil": "What NOT to do with bad boat core - rare video why",
+     "url": "https://www.reddit.com/r/liveaboard/comments/lckwzv/",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "WWQRZpah_0M",
+   "mentions": 2,
+   "part_classee": 1.0,
+   "premiere": 1612459706,
+   "score": 1.337,
+   "sources": [
+    "r/SailboatCruising",
+    "r/liveaboard"
+   ],
+   "titre": "What NOT to do with bad boat core",
+   "type_contenu": "technique",
+   "url_chaine": "https://www.youtube.com/@sailboatcareandrepair"
+  },
+  {
+   "auteurs": 2,
+   "chaine": "Sampson Boat Co",
+   "derniere": 1750896266,
+   "discussions": [
+    {
+     "communaute": "r/SailboatCruising",
+     "date": 1750896109,
+     "fil": "reddit:1lklgan",
+     "id": "reddit:mzslppp",
+     "titre_fil": null,
+     "url": "https://www.reddit.com/r/SailboatCruising/comments/1lklgan/_/mzslppp/",
+     "verdict": "recommande"
     },
     {
      "communaute": "r/SailboatCruising",
-     "date": 1581542528,
-     "fil": "reddit:f2ycxp",
-     "id": "reddit:f2ycxp",
-     "titre_fil": "Sailing Solo across the Pacific Ocean - Hawaii to the Marshall Islands - 21 Days Alone at Sea",
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/f2ycxp/",
-     "verdict": "non_classe"
+     "date": 1750896266,
+     "fil": "reddit:1lklgan",
+     "id": "reddit:mzsm6cx",
+     "titre_fil": null,
+     "url": "https://www.reddit.com/r/SailboatCruising/comments/1lklgan/_/mzsm6cx/",
+     "verdict": "neutre"
     }
    ],
-   "id": "P6oVHrLMP5Q",
+   "id": "8Khk-b9-KIA",
    "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1581542528,
-   "score": 1.228,
+   "part_classee": 1.0,
+   "premiere": 1750896109,
+   "score": 1.273,
    "sources": [
     "r/SailboatCruising"
    ],
-   "titre": "Sailing Solo across the Pacific Ocean - Hawaii to the Marshall Islands - 21 Days Alone at Sea",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@Routesofchange"
+   "titre": "Sailing in the Gulf Islands, British Columbia.",
+   "type_contenu": "technique",
+   "url_chaine": "https://www.youtube.com/@SampsonBoatCo"
+  },
+  {
+   "auteurs": 2,
+   "chaine": "Hundred Rabbits",
+   "derniere": 1722537122,
+   "discussions": [
+    {
+     "communaute": "Hacker News",
+     "date": 1722537122,
+     "fil": "41131181",
+     "id": "41132064",
+     "titre_fil": "Hundred Rabbits is a small collective exploring the failability of modern tech",
+     "url": "https://news.ycombinator.com/item?id=41132064",
+     "verdict": "recommande"
+    },
+    {
+     "communaute": "r/SailboatCruising",
+     "date": 1551314100,
+     "fil": "reddit:avkoma",
+     "id": "reddit:avkoma",
+     "titre_fil": "Sailing to Japan",
+     "url": "https://www.reddit.com/r/SailboatCruising/comments/avkoma/",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "ueTCjpNXing",
+   "mentions": 2,
+   "part_classee": 1.0,
+   "premiere": 1551314100,
+   "score": 1.252,
+   "sources": [
+    "Hacker News",
+    "r/SailboatCruising"
+   ],
+   "titre": "Sailing to Japan",
+   "type_contenu": "retour_experience",
+   "url_chaine": "https://www.youtube.com/@HundredRabbits"
   },
   {
    "auteurs": 2,
@@ -9899,45 +9023,8 @@
     "Hacker News"
    ],
    "titre": "Risking My Life To Settle A Physics Debate",
-   "type_contenu": "retour_experience",
+   "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@veritasium"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "Hundred Rabbits",
-   "derniere": 1722537122,
-   "discussions": [
-    {
-     "communaute": "Hacker News",
-     "date": 1722537122,
-     "fil": "41131181",
-     "id": "41132064",
-     "titre_fil": "Hundred Rabbits is a small collective exploring the failability of modern tech",
-     "url": "https://news.ycombinator.com/item?id=41132064",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/SailboatCruising",
-     "date": 1551314100,
-     "fil": "reddit:avkoma",
-     "id": "reddit:avkoma",
-     "titre_fil": "Sailing to Japan",
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/avkoma/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "ueTCjpNXing",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1551314100,
-   "score": 1.16,
-   "sources": [
-    "Hacker News",
-    "r/SailboatCruising"
-   ],
-   "titre": "Sailing to Japan",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@HundredRabbits"
   },
   {
    "auteurs": 2,
@@ -9951,7 +9038,7 @@
      "id": "reddit:lunbzg",
      "titre_fil": "Really great footage of a single hand saving his boat from lighting strike.",
      "url": "https://www.reddit.com/r/SailboatCruising/comments/lunbzg/",
-     "verdict": "non_classe"
+     "verdict": "recommande"
     },
     {
      "communaute": "r/SailboatCruising",
@@ -9960,19 +9047,19 @@
      "id": "reddit:jrv2es",
      "titre_fil": "Aussie cruiser hit by lightning, chaos ensues.",
      "url": "https://www.reddit.com/r/SailboatCruising/comments/jrv2es/",
-     "verdict": "non_classe"
+     "verdict": "neutre"
     }
    ],
    "id": "GzkQaGZYdVI",
    "mentions": 2,
-   "part_classee": 0.0,
+   "part_classee": 1.0,
    "premiere": 1605046958,
-   "score": 1.074,
+   "score": 1.079,
    "sources": [
     "r/SailboatCruising"
    ],
    "titre": "Disaster at Sea. Lightning strikes my boat and it is sinking. My battle to save the boat.",
-   "type_contenu": null,
+   "type_contenu": "retour_experience",
    "url_chaine": "https://www.youtube.com/@SAILINGintoFREEDOM"
   },
   {
@@ -10013,78 +9100,6 @@
   },
   {
    "auteurs": 2,
-   "chaine": "The Duracell Project",
-   "derniere": 1650458912,
-   "discussions": [
-    {
-     "communaute": "r/SailboatCruising",
-     "date": 1650458912,
-     "fil": "reddit:u7vqhc",
-     "id": "reddit:u7vqhc",
-     "titre_fil": "8 Months of Work in 25 minutes!!",
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/u7vqhc/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/SailboatCruising",
-     "date": 1650076272,
-     "fil": "reddit:u4nxp7",
-     "id": "reddit:u4nxp7",
-     "titre_fil": "We got an abandoned race boat for free!",
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/u4nxp7/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "jKocYhRSKW0",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1650076272,
-   "score": 1.021,
-   "sources": [
-    "r/SailboatCruising"
-   ],
-   "titre": "8 Months of Work in 25 minutes!!",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@TheDuracellProject"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "Sailing Ruby Rose",
-   "derniere": 1647967640,
-   "discussions": [
-    {
-     "communaute": "r/SailboatCruising",
-     "date": 1647967640,
-     "fil": "reddit:tk7azq",
-     "id": "reddit:tk7azq",
-     "titre_fil": "RUBY ROSE 2 FIRST LOOK & TOUR | We Waited TWO YEARS For This!",
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/tk7azq/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/SailboatCruising",
-     "date": 1643634853,
-     "fil": "reddit:sh0z83",
-     "id": "reddit:sh0z83",
-     "titre_fil": "RUBY ROSE 2 FIRST LOOK & TOUR | We Waited TWO YEARS For This!",
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/sh0z83/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "u0u5vZQxvDY",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1643634853,
-   "score": 1.011,
-   "sources": [
-    "r/SailboatCruising"
-   ],
-   "titre": "RUBY ROSE 2 FIRST LOOK & TOUR | We Waited TWO YEARS For This!",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@sailingrubyrose"
-  },
-  {
-   "auteurs": 2,
    "chaine": "Kirsten Dirksen",
    "derniere": 1643303413,
    "discussions": [
@@ -10118,171 +9133,6 @@
    "titre": "Liveaboard life: minimalism in a tiny home at sea",
    "type_contenu": "vlog",
    "url_chaine": "https://www.youtube.com/@kirstendirksen"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "Engineering World",
-   "derniere": 1623764484,
-   "discussions": [
-    {
-     "communaute": "r/SailboatCruising",
-     "date": 1623764484,
-     "fil": "reddit:o0emxo",
-     "id": "reddit:o0emxo",
-     "titre_fil": "Love how they make the Yachts, very impressive",
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/o0emxo/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/SailboatCruising",
-     "date": 1617113842,
-     "fil": "reddit:mgh2j8",
-     "id": "reddit:mgh2j8",
-     "titre_fil": "Interesting process how they manufacture Yachts",
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/mgh2j8/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "Hacker News",
-     "date": 1616263919,
-     "fil": "26524862",
-     "id": "26524862",
-     "titre_fil": "How Sailing Yachts Are Made [video]",
-     "url": "https://news.ycombinator.com/item?id=26524862",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "BtWfDIqS_eQ",
-   "mentions": 3,
-   "part_classee": 0.0,
-   "premiere": 1616263919,
-   "score": 0.955,
-   "sources": [
-    "Hacker News",
-    "r/SailboatCruising"
-   ],
-   "titre": "How EXPENSIVE Yachts Are Made in Factories? (Mega Factories Video)",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@engineeringworld."
-  },
-  {
-   "auteurs": 2,
-   "chaine": "SV Friendship",
-   "derniere": 1603593456,
-   "discussions": [
-    {
-     "communaute": "r/SailboatCruising",
-     "date": 1603593456,
-     "fil": "reddit:jhlwpp",
-     "id": "reddit:jhlwpp",
-     "titre_fil": "Columbia River Bar Sailing this summer. In Oregon",
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/jhlwpp/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/liveaboard",
-     "date": 1603209923,
-     "fil": "reddit:jesik5",
-     "id": "reddit:jesik5",
-     "titre_fil": "Some sporty sailing near the columbia river bar",
-     "url": "https://www.reddit.com/r/liveaboard/comments/jesik5/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "WurRJoK1vFw",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1603209923,
-   "score": 0.921,
-   "sources": [
-    "r/SailboatCruising",
-    "r/liveaboard"
-   ],
-   "titre": "Columbia River Bar Sailing.",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@svfriendship6032"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "Sailing Learning By Doing",
-   "derniere": 1575362579,
-   "discussions": [
-    {
-     "communaute": "r/SailboatCruising",
-     "date": 1575362579,
-     "fil": "reddit:e5eaja",
-     "id": "reddit:e5eaja",
-     "titre_fil": "Remote School in West Papua. Sailing Indonesia (Learning By Doing Ep 95)",
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/e5eaja/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/SailboatCruising",
-     "date": 1574381328,
-     "fil": "reddit:dzslv8",
-     "id": "reddit:dzslv8",
-     "titre_fil": "Can YOU help this tiny School? Sailing Indonesia (Learning By Doing Ep 95)",
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/dzslv8/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "qsACY3lHYB4",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1574381328,
-   "score": 0.865,
-   "sources": [
-    "r/SailboatCruising"
-   ],
-   "titre": "Helping a village with ART. Sailing Indonesia (Learning By Doing Ep 95)",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@SailingLearningByDoing"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "SV Avalon",
-   "derniere": 1574591053,
-   "discussions": [
-    {
-     "communaute": "r/liveaboard",
-     "date": 1574591053,
-     "fil": "reddit:e0wuvk",
-     "id": "reddit:e0wuvk",
-     "titre_fil": "Exploring the BVIs by Sailboat - Tortola to the Caves",
-     "url": "https://www.reddit.com/r/liveaboard/comments/e0wuvk/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/SailboatCruising",
-     "date": 1574577801,
-     "fil": "reddit:e0v2eo",
-     "id": "reddit:e0v2eo",
-     "titre_fil": "Sailing the BVIs and snorkeling in caves",
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/e0v2eo/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/SailboatCruising",
-     "date": 1574528294,
-     "fil": "reddit:e0kikp",
-     "id": "reddit:e0kikp",
-     "titre_fil": "BVIs Episode 1 - Exploring the BVIs by Sailboat - Tortola to the Caves",
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/e0kikp/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "HEMTBstKqPs",
-   "mentions": 3,
-   "part_classee": 0.0,
-   "premiere": 1574528294,
-   "score": 0.864,
-   "sources": [
-    "r/SailboatCruising",
-    "r/liveaboard"
-   ],
-   "titre": "BVIs Episode 1 - Exploring the BVIs by Sailboat - Tortola to the Caves",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@SVAvalon"
   },
   {
    "auteurs": 2,
@@ -10322,76 +9172,40 @@
   },
   {
    "auteurs": 2,
-   "chaine": "Shawn McCallum",
-   "derniere": 1536243732,
+   "chaine": "DW Documentary",
+   "derniere": 1794169381,
    "discussions": [
     {
-     "communaute": "r/SailboatCruising",
-     "date": 1536243732,
-     "fil": "reddit:9dj2we",
-     "id": "reddit:9dj2we",
-     "titre_fil": "Strangers Took Me Sailing! First Time Overnight on a Boat",
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/9dj2we/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/SailboatCruising",
-     "date": 1535561066,
-     "fil": "reddit:9bay8f",
-     "id": "reddit:9bay8f",
-     "titre_fil": "I was invited sailing by strangers, they took me to the thousand islands for two nights. You might appreciate the drone shots.",
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/9bay8f/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "tgtv3yE0jN4",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1535561066,
-   "score": 0.794,
-   "sources": [
-    "r/SailboatCruising"
-   ],
-   "titre": "Sailing with Strangers - Exploring the 1000 Islands",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@ShawndMcCallum"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "Roger Barnes",
-   "derniere": 1643303413,
-   "discussions": [
-    {
-     "communaute": "Hacker News",
-     "date": 1643303413,
-     "fil": "30084217",
-     "id": "30103089",
-     "titre_fil": "13 years sailing around the world",
-     "url": "https://news.ycombinator.com/item?id=30103089",
+     "communaute": "Hisse et Oh",
+     "date": 1794169381,
+     "fil": "heo:tavern/cargos-transatlantiques-a-voile",
+     "id": "heo:6af0da257aaeaff460fdf4a5",
+     "titre_fil": "Cargos transatlantiques à voile",
+     "url": "https://www.hisse-et-oh.com/tavern/cargos-transatlantiques-a-voile#6af0da257aaeaff460fdf4a5",
      "verdict": "neutre"
     },
     {
-     "communaute": "r/SailboatCruising",
-     "date": 1538677787,
-     "fil": "reddit:9lej8o",
-     "id": "reddit:9lej8o",
-     "titre_fil": "Soul Sailor \"A Rogue Mariner on the upper Thames\"",
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/9lej8o/",
-     "verdict": "non_classe"
+     "communaute": "r/sailing",
+     "date": 1793885851,
+     "fil": "reddit:1xoiu9b",
+     "id": "reddit:1xoiu9b",
+     "titre_fil": "Cargo sailboats: A sea change for shipping? | DW Documentary",
+     "url": "https://www.reddit.com/r/sailing/comments/1xoiu9b/",
+     "verdict": "neutre"
     }
    ],
-   "id": "NbPgP6wIF44",
+   "id": "ifEJnQLaMvk",
    "mentions": 2,
-   "part_classee": 0.5,
-   "premiere": 1538677787,
-   "score": 0.789,
+   "part_classee": 1.0,
+   "premiere": 1793885851,
+   "score": 0.8,
    "sources": [
-    "Hacker News",
-    "r/SailboatCruising"
+    "Hisse et Oh",
+    "r/sailing"
    ],
-   "titre": "A Rogue Mariner on the upper Thames",
-   "type_contenu": "vlog",
-   "url_chaine": "https://www.youtube.com/@RogerRoving"
+   "titre": "Cargo sailboats: A sea change for shipping? | DW Documentary",
+   "type_contenu": "autre",
+   "url_chaine": "https://www.youtube.com/@DWDocumentary"
   },
   {
    "auteurs": 2,
@@ -10431,6 +9245,52 @@
   },
   {
    "auteurs": 2,
+   "chaine": "A Boat in the Woods",
+   "derniere": 1763396365,
+   "discussions": [
+    {
+     "communaute": "r/sailing",
+     "date": 1763396365,
+     "fil": "reddit:1ozkk4o",
+     "id": "reddit:1ozkk4o",
+     "titre_fil": "YEAR ONE | Living Alone in the Woods, Fixing a Rotting Sailboat Off-Grid",
+     "url": "https://www.reddit.com/r/sailing/comments/1ozkk4o/",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "r/liveaboard",
+     "date": 1763350802,
+     "fil": "reddit:1oz616f",
+     "id": "reddit:1oz616f",
+     "titre_fil": "YEAR ONE | Living Alone in the Woods, Fixing a Rotting Sailboat Off-Grid",
+     "url": "https://www.reddit.com/r/liveaboard/comments/1oz616f/",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "r/sailing",
+     "date": 1763350634,
+     "fil": "reddit:1oz5z5i",
+     "id": "reddit:1oz5z5i",
+     "titre_fil": "YEAR ONE | Living Alone in the Woods, Fixing a Rotting Sailboat Off-Grid",
+     "url": "https://www.reddit.com/r/sailing/comments/1oz5z5i/",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "h_1fU_E_wVA",
+   "mentions": 3,
+   "part_classee": 1.0,
+   "premiere": 1763350634,
+   "score": 0.748,
+   "sources": [
+    "r/liveaboard",
+    "r/sailing"
+   ],
+   "titre": "I Spent 18 Months Alone in the Woods Working on an Old Sailboat Off-Grid",
+   "type_contenu": "vlog",
+   "url_chaine": "https://www.youtube.com/@aboatinthewoods"
+  },
+  {
+   "auteurs": 2,
    "chaine": "Atomic Frontier",
    "derniere": 1753809022,
    "discussions": [
@@ -10464,6 +9324,150 @@
    "titre": "What if sailing had no rules?",
    "type_contenu": "autre",
    "url_chaine": "https://www.youtube.com/@AtomicFrontier"
+  },
+  {
+   "auteurs": 2,
+   "chaine": "Yachting World",
+   "derniere": 1750525878,
+   "discussions": [
+    {
+     "communaute": "r/sailing",
+     "date": 1750525878,
+     "fil": "reddit:1lh1juz",
+     "id": "reddit:1lh1juz",
+     "titre_fil": "How do these sails work internally?",
+     "url": "https://www.reddit.com/r/sailing/comments/1lh1juz/",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "r/sailing",
+     "date": 1749564155,
+     "fil": "reddit:1l7zj7q",
+     "id": "reddit:1l7zj7q",
+     "titre_fil": "Meet the MODX, an electric 70ft cat with fully automated inflatable wingsails",
+     "url": "https://www.reddit.com/r/sailing/comments/1l7zj7q/",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "LR9X1CtuR_E",
+   "mentions": 2,
+   "part_classee": 1.0,
+   "premiere": 1749564155,
+   "score": 0.726,
+   "sources": [
+    "r/sailing"
+   ],
+   "titre": "Meet the MODX, an electric 70ft cat with fully automated inflatable wingsails!",
+   "type_contenu": "autre",
+   "url_chaine": "https://www.youtube.com/@yachtingworld"
+  },
+  {
+   "auteurs": 2,
+   "chaine": "What's Going on With Shipping?",
+   "derniere": 1747634047,
+   "discussions": [
+    {
+     "communaute": "r/sailing",
+     "date": 1747634047,
+     "fil": "reddit:1kq4dr0",
+     "id": "reddit:1kq4dr0",
+     "titre_fil": "Brooklyn Bridge Timeline of the Allision by the Mexican Naval Training Ship ARM Cuauhtémoc",
+     "url": "https://www.reddit.com/r/sailing/comments/1kq4dr0/",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "r/sailing",
+     "date": 1747594395,
+     "fil": "reddit:1kpre6m",
+     "id": "reddit:1kpre6m",
+     "titre_fil": "First analysis of the Brooklyn Bridge crash",
+     "url": "https://www.reddit.com/r/sailing/comments/1kpre6m/",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "gIlRiauatEo",
+   "mentions": 2,
+   "part_classee": 1.0,
+   "premiere": 1747594395,
+   "score": 0.722,
+   "sources": [
+    "r/sailing"
+   ],
+   "titre": "Brooklyn Bridge Timeline of the Allision by the Mexican Naval Training Ship ARM Cuauhtémoc",
+   "type_contenu": "autre",
+   "url_chaine": "https://www.youtube.com/@wgowshipping"
+  },
+  {
+   "auteurs": 2,
+   "chaine": "TOXPRO",
+   "derniere": 1737621648,
+   "discussions": [
+    {
+     "communaute": "r/SailboatCruising",
+     "date": 1737621648,
+     "fil": "reddit:1i7yx6y",
+     "id": "reddit:m8p0gpp",
+     "titre_fil": null,
+     "url": "https://www.reddit.com/r/SailboatCruising/comments/1i7yx6y/_/m8p0gpp/",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "r/SailboatCruising",
+     "date": 1737137707,
+     "fil": "reddit:1hx1tl1",
+     "id": "reddit:m7o1rc4",
+     "titre_fil": null,
+     "url": "https://www.reddit.com/r/SailboatCruising/comments/1hx1tl1/_/m7o1rc4/",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "NJTdu309d3E",
+   "mentions": 2,
+   "part_classee": 1.0,
+   "premiere": 1737137707,
+   "score": 0.706,
+   "sources": [
+    "r/SailboatCruising"
+   ],
+   "titre": "The Sailor | Biographical Documentary | Paul Johnson",
+   "type_contenu": "autre",
+   "url_chaine": "https://www.youtube.com/@TOXPRO_official"
+  },
+  {
+   "auteurs": 2,
+   "chaine": "Routes of Change",
+   "derniere": 1745598759,
+   "discussions": [
+    {
+     "communaute": "r/SailboatCruising",
+     "date": 1745598759,
+     "fil": "reddit:1k7njp9",
+     "id": "reddit:mozucba",
+     "titre_fil": null,
+     "url": "https://www.reddit.com/r/SailboatCruising/comments/1k7njp9/_/mozucba/",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "r/SailboatCruising",
+     "date": 1581542528,
+     "fil": "reddit:f2ycxp",
+     "id": "reddit:f2ycxp",
+     "titre_fil": "Sailing Solo across the Pacific Ocean - Hawaii to the Marshall Islands - 21 Days Alone at Sea",
+     "url": "https://www.reddit.com/r/SailboatCruising/comments/f2ycxp/",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "P6oVHrLMP5Q",
+   "mentions": 2,
+   "part_classee": 1.0,
+   "premiere": 1581542528,
+   "score": 0.702,
+   "sources": [
+    "r/SailboatCruising"
+   ],
+   "titre": "Sailing Solo across the Pacific Ocean - Hawaii to the Marshall Islands - 21 Days Alone at Sea",
+   "type_contenu": "retour_experience",
+   "url_chaine": "https://www.youtube.com/@Routesofchange"
   },
   {
    "auteurs": 2,
@@ -10536,45 +9540,190 @@
    "titre": "Sailing a Labrador Sea Storm: 50-Knot Winds in an Open Viking Ship Across the North Atlantic",
    "type_contenu": "retour_experience",
    "url_chaine": "https://www.youtube.com/@DrakenHH"
+  },
+  {
+   "auteurs": 2,
+   "chaine": "The Duracell Project",
+   "derniere": 1650458912,
+   "discussions": [
+    {
+     "communaute": "r/SailboatCruising",
+     "date": 1650458912,
+     "fil": "reddit:u7vqhc",
+     "id": "reddit:u7vqhc",
+     "titre_fil": "8 Months of Work in 25 minutes!!",
+     "url": "https://www.reddit.com/r/SailboatCruising/comments/u7vqhc/",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "r/SailboatCruising",
+     "date": 1650076272,
+     "fil": "reddit:u4nxp7",
+     "id": "reddit:u4nxp7",
+     "titre_fil": "We got an abandoned race boat for free!",
+     "url": "https://www.reddit.com/r/SailboatCruising/comments/u4nxp7/",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "jKocYhRSKW0",
+   "mentions": 2,
+   "part_classee": 1.0,
+   "premiere": 1650076272,
+   "score": 0.583,
+   "sources": [
+    "r/SailboatCruising"
+   ],
+   "titre": "8 Months of Work in 25 minutes!!",
+   "type_contenu": "technique",
+   "url_chaine": "https://www.youtube.com/@TheDuracellProject"
+  },
+  {
+   "auteurs": 2,
+   "chaine": "Sailing Ruby Rose",
+   "derniere": 1647967640,
+   "discussions": [
+    {
+     "communaute": "r/SailboatCruising",
+     "date": 1647967640,
+     "fil": "reddit:tk7azq",
+     "id": "reddit:tk7azq",
+     "titre_fil": "RUBY ROSE 2 FIRST LOOK & TOUR | We Waited TWO YEARS For This!",
+     "url": "https://www.reddit.com/r/SailboatCruising/comments/tk7azq/",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "r/SailboatCruising",
+     "date": 1643634853,
+     "fil": "reddit:sh0z83",
+     "id": "reddit:sh0z83",
+     "titre_fil": "RUBY ROSE 2 FIRST LOOK & TOUR | We Waited TWO YEARS For This!",
+     "url": "https://www.reddit.com/r/SailboatCruising/comments/sh0z83/",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "u0u5vZQxvDY",
+   "mentions": 2,
+   "part_classee": 1.0,
+   "premiere": 1643634853,
+   "score": 0.577,
+   "sources": [
+    "r/SailboatCruising"
+   ],
+   "titre": "RUBY ROSE 2 FIRST LOOK & TOUR | We Waited TWO YEARS For This!",
+   "type_contenu": "vlog",
+   "url_chaine": "https://www.youtube.com/@sailingrubyrose"
+  },
+  {
+   "auteurs": 2,
+   "chaine": "SV Friendship",
+   "derniere": 1603593456,
+   "discussions": [
+    {
+     "communaute": "r/SailboatCruising",
+     "date": 1603593456,
+     "fil": "reddit:jhlwpp",
+     "id": "reddit:jhlwpp",
+     "titre_fil": "Columbia River Bar Sailing this summer. In Oregon",
+     "url": "https://www.reddit.com/r/SailboatCruising/comments/jhlwpp/",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "r/liveaboard",
+     "date": 1603209923,
+     "fil": "reddit:jesik5",
+     "id": "reddit:jesik5",
+     "titre_fil": "Some sporty sailing near the columbia river bar",
+     "url": "https://www.reddit.com/r/liveaboard/comments/jesik5/",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "WurRJoK1vFw",
+   "mentions": 2,
+   "part_classee": 1.0,
+   "premiere": 1603209923,
+   "score": 0.526,
+   "sources": [
+    "r/SailboatCruising",
+    "r/liveaboard"
+   ],
+   "titre": "Columbia River Bar Sailing.",
+   "type_contenu": "retour_experience",
+   "url_chaine": "https://www.youtube.com/@svfriendship6032"
+  },
+  {
+   "auteurs": 2,
+   "chaine": "Sailing Learning By Doing",
+   "derniere": 1575362579,
+   "discussions": [
+    {
+     "communaute": "r/SailboatCruising",
+     "date": 1575362579,
+     "fil": "reddit:e5eaja",
+     "id": "reddit:e5eaja",
+     "titre_fil": "Remote School in West Papua. Sailing Indonesia (Learning By Doing Ep 95)",
+     "url": "https://www.reddit.com/r/SailboatCruising/comments/e5eaja/",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "r/SailboatCruising",
+     "date": 1574381328,
+     "fil": "reddit:dzslv8",
+     "id": "reddit:dzslv8",
+     "titre_fil": "Can YOU help this tiny School? Sailing Indonesia (Learning By Doing Ep 95)",
+     "url": "https://www.reddit.com/r/SailboatCruising/comments/dzslv8/",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "qsACY3lHYB4",
+   "mentions": 2,
+   "part_classee": 1.0,
+   "premiere": 1574381328,
+   "score": 0.494,
+   "sources": [
+    "r/SailboatCruising"
+   ],
+   "titre": "Helping a village with ART. Sailing Indonesia (Learning By Doing Ep 95)",
+   "type_contenu": "vlog",
+   "url_chaine": "https://www.youtube.com/@SailingLearningByDoing"
+  },
+  {
+   "auteurs": 2,
+   "chaine": "Shawn McCallum",
+   "derniere": 1536243732,
+   "discussions": [
+    {
+     "communaute": "r/SailboatCruising",
+     "date": 1536243732,
+     "fil": "reddit:9dj2we",
+     "id": "reddit:9dj2we",
+     "titre_fil": "Strangers Took Me Sailing! First Time Overnight on a Boat",
+     "url": "https://www.reddit.com/r/SailboatCruising/comments/9dj2we/",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "r/SailboatCruising",
+     "date": 1535561066,
+     "fil": "reddit:9bay8f",
+     "id": "reddit:9bay8f",
+     "titre_fil": "I was invited sailing by strangers, they took me to the thousand islands for two nights. You might appreciate the drone shots.",
+     "url": "https://www.reddit.com/r/SailboatCruising/comments/9bay8f/",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "tgtv3yE0jN4",
+   "mentions": 2,
+   "part_classee": 1.0,
+   "premiere": 1535561066,
+   "score": 0.454,
+   "sources": [
+    "r/SailboatCruising"
+   ],
+   "titre": "Sailing with Strangers - Exploring the 1000 Islands",
+   "type_contenu": "vlog",
+   "url_chaine": "https://www.youtube.com/@ShawndMcCallum"
   }
  ],
  "trading-claude": [
-  {
-   "auteurs": 2,
-   "chaine": "QIE Blockchain",
-   "derniere": 1773410817,
-   "discussions": [
-    {
-     "communaute": "r/quant",
-     "date": 1773410817,
-     "fil": "reddit:1rsoa5r",
-     "id": "reddit:1rsoa5r",
-     "titre_fil": "QBots Expands: Mean Reversion, Futures Grid and Momentum Bots Bring Smarter Automation to Crypto Trading",
-     "url": "https://www.reddit.com/r/quant/comments/1rsoa5r/",
-     "verdict": "non_classe"
-    },
-    {
-     "communaute": "r/quant",
-     "date": 1773313055,
-     "fil": "reddit:1rrnl73",
-     "id": "reddit:1rrnl73",
-     "titre_fil": "QBots Expands: Mean Reversion, Futures Grid and Momentum Bots Bring Smarter Automation to Crypto Trading",
-     "url": "https://www.reddit.com/r/quant/comments/1rrnl73/",
-     "verdict": "non_classe"
-    }
-   ],
-   "id": "o5lnA4xTfA4",
-   "mentions": 2,
-   "part_classee": 0.0,
-   "premiere": 1773313055,
-   "score": 1.202,
-   "sources": [
-    "r/quant"
-   ],
-   "titre": "Automated Crypto Trading Made Simple | QBots Explained",
-   "type_contenu": null,
-   "url_chaine": "https://www.youtube.com/@qiblockchain8020"
-  },
   {
    "auteurs": 6,
    "chaine": "vpro documentary",

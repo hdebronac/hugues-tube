@@ -2919,6 +2919,12 @@
    "verdict": "neutre"
   }
  },
+ "agents-ia:44711702": {
+  "WQcsCbM9Fgs": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
  "agents-ia:44750885": {
   "6eBSHbLKuN0": {
    "type_contenu": "technique",
@@ -3439,6 +3445,30 @@
    "verdict": "neutre"
   }
  },
+ "agents-ia:45934312": {
+  "YYCBHX4ZqjA": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45936853": {
+  "YYCBHX4ZqjA": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:45937496": {
+  "YYCBHX4ZqjA": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:45940218": {
+  "R4YpbqQZlpU": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
  "agents-ia:45955207": {
   "ipRvjS7q1DI": {
    "type_contenu": "conference",
@@ -3542,6 +3572,12 @@
  "agents-ia:46269022": {
   "5ESJH1NLMLs": {
    "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:46272783": {
+  "Y5nCw8NY8zk": {
+   "type_contenu": "technique",
    "verdict": "recommande"
   }
  },
@@ -3651,6 +3687,12 @@
    "verdict": "recommande"
   }
  },
+ "agents-ia:46492685": {
+  "mOnbK6DuFhc": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
  "agents-ia:46510011": {
   "mNLWtM3Iya4": {
    "type_contenu": "conference",
@@ -3715,6 +3757,12 @@
  },
  "agents-ia:46597781": {
   "_6C9nMvQsGU": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46603684": {
+  "oof9JB3OFO4": {
    "type_contenu": "retour_experience",
    "verdict": "neutre"
   }
@@ -3815,6 +3863,12 @@
    "verdict": "recommande"
   },
   "zxMjOqM7DFs": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:46732185": {
+  "DkwLZ_YNSlI": {
    "type_contenu": "technique",
    "verdict": "neutre"
   }
@@ -4807,6 +4861,12 @@
    "verdict": "hors_sujet"
   }
  },
+ "agents-ia:48173807": {
+  "YQ_xWvX1n9g": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
  "agents-ia:48189076": {
   "1sd26pWhfmg": {
    "type_contenu": "conference",
@@ -5555,6 +5615,12 @@
    "verdict": "hors_sujet"
   }
  },
+ "agents-ia:49677376": {
+  "PrSf7IOYu-I": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
  "agents-ia:49678897": {
   "i30jVPqQeOM": {
    "type_contenu": "autre",
@@ -5597,6 +5663,12 @@
    "verdict": "hors_sujet"
   }
  },
+ "agents-ia:49746238": {
+  "To5nrYqvR44": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
  "agents-ia:49791532": {
   "Cjntrqhn8pk": {
    "type_contenu": "conference",
@@ -5637,6 +5709,12 @@
    "verdict": "hors_sujet"
   },
   "v9XJWBZBzq4": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49868831": {
+  "-Nvne3LzBls": {
    "type_contenu": "autre",
    "verdict": "hors_sujet"
   }
@@ -5751,6 +5829,12 @@
    "verdict": "neutre"
   }
  },
+ "agents-ia:49942970": {
+  "9tfGn3isfZU": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
  "agents-ia:49947678": {
   "NnV_cWeoo5Q": {
    "type_contenu": "conference",
@@ -5788,6 +5872,12 @@
  "agents-ia:49989812": {
   "Cjntrqhn8pk": {
    "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:49990896": {
+  "R_ErmTs7g9I": {
+   "type_contenu": "autre",
    "verdict": "hors_sujet"
   }
  },
@@ -5851,6 +5941,12 @@
    "verdict": "hors_sujet"
   }
  },
+ "agents-ia:50058490": {
+  "EIBcfbPT3_I": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
  "agents-ia:50072505": {
   "3TYT1QfdfsM": {
    "type_contenu": "autre",
@@ -5879,6 +5975,18 @@
   "NnV_cWeoo5Q": {
    "type_contenu": "conference",
    "verdict": "neutre"
+  }
+ },
+ "agents-ia:50136126": {
+  "cNm4zyUtWj0": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:50137043": {
+  "jexzLkZ50FU": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
   }
  },
  "agents-ia:50142251": {
@@ -6091,6 +6199,406 @@
    "verdict": "neutre"
   }
  },
+ "agents-ia:reddit:1oxbwj5": {
+  "YYCBHX4ZqjA": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:reddit:1oxdpal": {
+  "YYCBHX4ZqjA": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:reddit:1oy1dg7": {
+  "R4YpbqQZlpU": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:reddit:1p7rm2a": {
+  "pcPRZsBs2aQ": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:reddit:1p7rxsj": {
+  "pcPRZsBs2aQ": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:reddit:1p7s0sf": {
+  "pcPRZsBs2aQ": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:reddit:1pbrcta": {
+  "eT_2LU_Ie2w": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:reddit:1pc3wtw": {
+  "Y5nCw8NY8zk": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:reddit:1pcyhlh": {
+  "eT_2LU_Ie2w": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:reddit:1pwedev": {
+  "WQcsCbM9Fgs": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:reddit:1pwkqus": {
+  "WQcsCbM9Fgs": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:reddit:1q3bj8g": {
+  "mOnbK6DuFhc": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:reddit:1qdzjq5": {
+  "oof9JB3OFO4": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:reddit:1qkphim": {
+  "DkwLZ_YNSlI": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:reddit:1qxy3sy": {
+  "ZPiDvUL4B7o": {
+   "type_contenu": "retour_experience",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:reddit:1qxyic9": {
+  "ZPiDvUL4B7o": {
+   "type_contenu": "retour_experience",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:reddit:1r6q5pb": {
+  "ZPiDvUL4B7o": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:reddit:1r82lx7": {
+  "ZPiDvUL4B7o": {
+   "type_contenu": "retour_experience",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:reddit:1r9iazv": {
+  "ZPiDvUL4B7o": {
+   "type_contenu": "retour_experience",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:reddit:1rabibx": {
+  "ZPiDvUL4B7o": {
+   "type_contenu": "retour_experience",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:reddit:1rcccpw": {
+  "ZPiDvUL4B7o": {
+   "type_contenu": "retour_experience",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:reddit:1rdf5g2": {
+  "ZPiDvUL4B7o": {
+   "type_contenu": "retour_experience",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:reddit:1rgu9p3": {
+  "ZPiDvUL4B7o": {
+   "type_contenu": "retour_experience",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:reddit:1upgdya": {
+  "VytSYCDhWQ0": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:reddit:1uqjj96": {
+  "VytSYCDhWQ0": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:reddit:1vhv8ka": {
+  "87DyyMV0kCY": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:reddit:1vy6mjb": {
+  "HqqalSHRWt8": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:reddit:1vy970x": {
+  "HqqalSHRWt8": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:reddit:1waxwdi": {
+  "6kjXzTVmT58": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:reddit:1waz5a0": {
+  "6kjXzTVmT58": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:reddit:1wgdi3q": {
+  "PrSf7IOYu-I": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:reddit:1wheklp": {
+  "0YdsvCJXeic": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:reddit:1wiaogy": {
+  "To5nrYqvR44": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:reddit:1wnkrt8": {
+  "6kjXzTVmT58": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:reddit:1wo8ljg": {
+  "0YdsvCJXeic": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:reddit:1wphb3w": {
+  "3nTpW52nioI": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:reddit:1wpprlr": {
+  "3nTpW52nioI": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:reddit:1ws2qf9": {
+  "-Nvne3LzBls": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:reddit:1wukf5d": {
+  "DlTNN0gvkLM": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:reddit:1wutzvq": {
+  "ODDJXGY_1kQ": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:reddit:1wv4vot": {
+  "ODDJXGY_1kQ": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:reddit:1wvch3j": {
+  "oBE-lhubQ2k": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:reddit:1wvu7ks": {
+  "9tfGn3isfZU": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:reddit:1wvx5o6": {
+  "tKrVYOUvrtA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:reddit:1wxz2j8": {
+  "R_ErmTs7g9I": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:reddit:1wxz63d": {
+  "R_ErmTs7g9I": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:reddit:1wzd6kf": {
+  "7xTGNNLPyMI": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:reddit:1wzlkkr": {
+  "3TNpOD6bov8": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:reddit:1wzp5tr": {
+  "3TNpOD6bov8": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:reddit:1x0xoul": {
+  "0YdsvCJXeic": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:reddit:1x10fht": {
+  "en0GuyhieQk": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:reddit:1x15fgv": {
+  "tKrVYOUvrtA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:reddit:1x1bh06": {
+  "en0GuyhieQk": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:reddit:1x1r6qd": {
+  "3TNpOD6bov8": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:reddit:1x1rk4o": {
+  "GweKOBSJvEY": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:reddit:1x25j0n": {
+  "GweKOBSJvEY": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:reddit:1x33luj": {
+  "oBE-lhubQ2k": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:reddit:1x463ox": {
+  "EIBcfbPT3_I": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:reddit:1x713h7": {
+  "jexzLkZ50FU": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:reddit:1x9wftg": {
+  "cNm4zyUtWj0": {
+   "type_contenu": "conference",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:reddit:1xkaqk0": {
+  "cFdoXn6yvE4": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:reddit:1xki7po": {
+  "cFdoXn6yvE4": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:reddit:1xp3q39": {
+  "IP8SlZLRnWc": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "KSXm_KCMR60": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "XW4D6NguJmA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "YQ_xWvX1n9g": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "bk-nQ7HF6k4": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:reddit:1xpyp07": {
+  "6kjXzTVmT58": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
  "navigation-hauturiere:12029776": {
   "QPKKQnijnsM": {
    "type_contenu": "autre",
@@ -6229,6 +6737,12 @@
    "verdict": "hors_sujet"
   }
  },
+ "navigation-hauturiere:26524862": {
+  "BtWfDIqS_eQ": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
  "navigation-hauturiere:28117940": {
   "jyQwgBAaBag": {
    "type_contenu": "autre",
@@ -6301,6 +6815,12 @@
    "verdict": "hors_sujet"
   }
  },
+ "navigation-hauturiere:32801433": {
+  "n12nnrEGWXQ": {
+   "type_contenu": "retour_experience",
+   "verdict": "recommande"
+  }
+ },
  "navigation-hauturiere:33325985": {
   "yCsgoLc_fzI": {
    "type_contenu": "autre",
@@ -6371,6 +6891,12 @@
    "verdict": "neutre"
   }
  },
+ "navigation-hauturiere:36460709": {
+  "u5InZ6iknUM": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
  "navigation-hauturiere:37081921": {
   "4n3txSCoKn0": {
    "type_contenu": "autre",
@@ -6419,6 +6945,18 @@
   "cun0DGZ6-sk": {
    "type_contenu": "autre",
    "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:41132064": {
+  "ueTCjpNXing": {
+   "type_contenu": "retour_experience",
+   "verdict": "recommande"
+  }
+ },
+ "navigation-hauturiere:41429703": {
+  "l-W4p73Qecw": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
   }
  },
  "navigation-hauturiere:41453119": {
@@ -6565,6 +7103,452 @@
   "wnjyusAgk8I": {
    "type_contenu": "autre",
    "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:heo:69b01509f2797cfc752fe53e": {
+  "nxXSaZQ58WA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:heo:6a38f9875db21c4381a784fc": {
+  "2efa3epOGgY": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  },
+  "FUfpG95js4U": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:heo:6a96b25ec1f89832f00eb50e": {
+  "AoLk2Y-vdqM": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "navigation-hauturiere:heo:6aa2879d768d25a4df719635": {
+  "AoLk2Y-vdqM": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:heo:6aafc3cde264efe5d51eb238": {
+  "q88th2bTR1E": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:heo:6ab4b229819950df7776d01b": {
+  "CJzhO5yoaGw": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "DgB8ge-L7lI": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  },
+  "Ft1kE_S_rP8": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:heo:6af0da257aaeaff460fdf4a5": {
+  "ifEJnQLaMvk": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:1k8eo0g": {
+  "u5InZ6iknUM": {
+   "type_contenu": "technique",
+   "verdict": "critique"
+  }
+ },
+ "navigation-hauturiere:reddit:1kpre6m": {
+  "gIlRiauatEo": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:1kq4dr0": {
+  "gIlRiauatEo": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:1l7zj7q": {
+  "LR9X1CtuR_E": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:1lh1juz": {
+  "LR9X1CtuR_E": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:1oz5z5i": {
+  "h_1fU_E_wVA": {
+   "type_contenu": "vlog",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:1oz616f": {
+  "h_1fU_E_wVA": {
+   "type_contenu": "vlog",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:1ozkk4o": {
+  "h_1fU_E_wVA": {
+   "type_contenu": "vlog",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:1pk9k4i": {
+  "7fD3yaRvp3o": {
+   "type_contenu": "autre",
+   "verdict": "critique"
+  }
+ },
+ "navigation-hauturiere:reddit:1pket8f": {
+  "7fD3yaRvp3o": {
+   "type_contenu": "autre",
+   "verdict": "critique"
+  }
+ },
+ "navigation-hauturiere:reddit:1rdcais": {
+  "2efa3epOGgY": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "navigation-hauturiere:reddit:1rdt0zw": {
+  "2efa3epOGgY": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:1re5j7m": {
+  "2efa3epOGgY": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "navigation-hauturiere:reddit:1re8c5t": {
+  "2efa3epOGgY": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:1ref6hl": {
+  "2efa3epOGgY": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:1ret3s8": {
+  "2efa3epOGgY": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:1rfmzw2": {
+  "2efa3epOGgY": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:1rnilb5": {
+  "nxXSaZQ58WA": {
+   "type_contenu": "vlog",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:1sbmvoc": {
+  "ZD4Z5puD214": {
+   "type_contenu": "retour_experience",
+   "verdict": "recommande"
+  }
+ },
+ "navigation-hauturiere:reddit:1xoiu9b": {
+  "ifEJnQLaMvk": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:6v86xq": {
+  "5aqUqUr7xRg": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:7e1h7g": {
+  "5aqUqUr7xRg": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:95hiwb": {
+  "9BHKAh5-wzQ": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:98y3pt": {
+  "9BHKAh5-wzQ": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:9bay8f": {
+  "tgtv3yE0jN4": {
+   "type_contenu": "vlog",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:9dj2we": {
+  "tgtv3yE0jN4": {
+   "type_contenu": "vlog",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:9lej8o": {
+  "NbPgP6wIF44": {
+   "type_contenu": "vlog",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:reddit:avkoma": {
+  "ueTCjpNXing": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:bg8fbz": {
+  "-ARXW8InStY": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  },
+  "yu5R5mrrGB0": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "navigation-hauturiere:reddit:c65vt9": {
+  "YX7Rgt7MeWg": {
+   "type_contenu": "vlog",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:c665fg": {
+  "YX7Rgt7MeWg": {
+   "type_contenu": "vlog",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:dzslv8": {
+  "qsACY3lHYB4": {
+   "type_contenu": "vlog",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:e0kikp": {
+  "HEMTBstKqPs": {
+   "type_contenu": "vlog",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:e0v2eo": {
+  "HEMTBstKqPs": {
+   "type_contenu": "vlog",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:reddit:e0wuvk": {
+  "HEMTBstKqPs": {
+   "type_contenu": "vlog",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:e5eaja": {
+  "qsACY3lHYB4": {
+   "type_contenu": "vlog",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:f2ycxp": {
+  "P6oVHrLMP5Q": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:f5b23o": {
+  "YX7Rgt7MeWg": {
+   "type_contenu": "vlog",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:f5b5tu": {
+  "YX7Rgt7MeWg": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:gad3lu": {
+  "lk83N2u1ZmY": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:jesik5": {
+  "WurRJoK1vFw": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:jhlwpp": {
+  "WurRJoK1vFw": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:jrv2es": {
+  "GzkQaGZYdVI": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:lckwzv": {
+  "WWQRZpah_0M": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:lunbzg": {
+  "Df-XCtfU9kw": {
+   "type_contenu": "retour_experience",
+   "verdict": "recommande"
+  },
+  "GzkQaGZYdVI": {
+   "type_contenu": "retour_experience",
+   "verdict": "recommande"
+  }
+ },
+ "navigation-hauturiere:reddit:m7o1rc4": {
+  "NJTdu309d3E": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:m8p0gpp": {
+  "NJTdu309d3E": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:mgh2j8": {
+  "BtWfDIqS_eQ": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:reddit:mkj5ntt": {
+  "DgB8ge-L7lI": {
+   "type_contenu": "retour_experience",
+   "verdict": "recommande"
+  }
+ },
+ "navigation-hauturiere:reddit:mko6hbc": {
+  "WWQRZpah_0M": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "navigation-hauturiere:reddit:mozucba": {
+  "P6oVHrLMP5Q": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:mzslppp": {
+  "8Khk-b9-KIA": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "navigation-hauturiere:reddit:mzsm6cx": {
+  "8Khk-b9-KIA": {
+   "type_contenu": "vlog",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:nhrwj87": {
+  "l-W4p73Qecw": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:reddit:nknang9": {
+  "n12nnrEGWXQ": {
+   "type_contenu": "retour_experience",
+   "verdict": "recommande"
+  }
+ },
+ "navigation-hauturiere:reddit:o0emxo": {
+  "BtWfDIqS_eQ": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:reddit:ojd8udq": {
+  "N1_CPSJ_K8c": {
+   "type_contenu": "retour_experience",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:oprbtk6": {
+  "ZD4Z5puD214": {
+   "type_contenu": "retour_experience",
+   "verdict": "recommande"
+  }
+ },
+ "navigation-hauturiere:reddit:oudl90b": {
+  "N1_CPSJ_K8c": {
+   "type_contenu": "retour_experience",
+   "verdict": "recommande"
+  }
+ },
+ "navigation-hauturiere:reddit:p6194s4": {
+  "q88th2bTR1E": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:sh0z83": {
+  "u0u5vZQxvDY": {
+   "type_contenu": "vlog",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:tk7azq": {
+  "u0u5vZQxvDY": {
+   "type_contenu": "vlog",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:u4nxp7": {
+  "jKocYhRSKW0": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:u7vqhc": {
+  "jKocYhRSKW0": {
+   "type_contenu": "vlog",
+   "verdict": "neutre"
   }
  },
  "trading-claude:1301469": {
@@ -7251,6 +8235,18 @@
   "hKcOkWzj0_s": {
    "type_contenu": "conference",
    "verdict": "neutre"
+  }
+ },
+ "trading-claude:reddit:1rrnl73": {
+  "o5lnA4xTfA4": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "trading-claude:reddit:1rsoa5r": {
+  "o5lnA4xTfA4": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
   }
  }
 }
