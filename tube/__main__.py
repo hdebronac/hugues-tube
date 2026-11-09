@@ -3,10 +3,11 @@
 from __future__ import annotations
 
 import argparse
+import os
 import sys
 import time
 
-from . import classement, collecte_hn, enrichissement, score, site
+from . import classement, collecte_heo, collecte_hn, collecte_reddit, enrichissement, score, site
 from .commun import DOSSIER_DONNEES, charger_interets, ecrire_json, lire_json
 
 
@@ -14,6 +15,8 @@ def main(argv: list[str] | None = None) -> int:
     p = argparse.ArgumentParser(prog="tube")
     p.add_argument("etape", choices=["collecte", "classement", "site", "tout"], nargs="?", default="tout")
     p.add_argument("--interet", help="limiter à un centre d'intérêt (son id)")
+    p.add_argument("--sources", default="hn,reddit,heo",
+                   help="sources à collecter, séparées par des virgules (hn, reddit, heo)")
     args = p.parse_args(argv)
 
     maintenant = int(time.time())
@@ -24,13 +27,31 @@ def main(argv: list[str] | None = None) -> int:
             print(f"Centre d'intérêt inconnu : {args.interet}", file=sys.stderr)
             return 2
 
+    sources = set(args.sources.split(","))
+    collecter = args.etape in ("collecte", "tout")
+    # Budgets en minutes, partagés à parts égales entre centres d'intérêt : l'exécution GitHub est
+    # coupée à 120 min et le classement doit encore tourner après la collecte.
+    budget_reddit = float(os.environ.get("HUGUES_TUBE_BUDGET_REDDIT", "40")) * 60 / len(interets)
+    budget_heo = float(os.environ.get("HUGUES_TUBE_BUDGET_HEO", "25")) * 60
+
     elements = {}
     for i in interets:
-        if args.etape in ("collecte", "tout"):
+        elements[i.id] = {}
+        if collecter and "hn" in sources:
             print(f"Collecte Hacker News — {i.titre}", file=sys.stderr)
-            elements[i.id] = collecte_hn.collecter(i, maintenant)
+            elements[i.id].update(collecte_hn.collecter(i, maintenant))
         else:
-            elements[i.id] = lire_json(DOSSIER_DONNEES / "hn" / f"{i.id}.json", {"elements": {}})["elements"]
+            elements[i.id].update(lire_json(DOSSIER_DONNEES / "hn" / f"{i.id}.json", {"elements": {}})["elements"])
+        if collecter and "reddit" in sources and i.brut.get("reddit"):
+            print(f"Collecte Reddit — {i.titre}", file=sys.stderr)
+            elements[i.id].update(collecte_reddit.collecter(i, time.monotonic() + budget_reddit, maintenant))
+        else:
+            elements[i.id].update(lire_json(DOSSIER_DONNEES / "reddit" / f"{i.id}.json", {"elements": {}})["elements"])
+        if collecter and "heo" in sources and i.brut.get("hisse_et_oh"):
+            print(f"Collecte Hisse et Oh — {i.titre}", file=sys.stderr)
+            elements[i.id].update(collecte_heo.collecter(i, time.monotonic() + budget_heo, maintenant))
+        else:
+            elements[i.id].update(lire_json(DOSSIER_DONNEES / "heo" / f"{i.id}.json", {"elements": {}})["elements"])
 
     if args.etape == "collecte":
         return 0

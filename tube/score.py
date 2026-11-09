@@ -82,8 +82,11 @@ def classer_videos(interet: Interet, elements: dict, classements: dict, videos: 
             "derniere": max(el["date"] for el, _, _ in liste),
             "type_contenu": max(set(types), key=types.count) if types else None,
             "part_classee": round(classees / len(liste), 2),
+            "sources": sorted({el.get("communaute", "Hacker News") for el, _, _ in liste}),
             "discussions": [{"id": el["id"], "fil": el["fil"], "titre_fil": el.get("titre_fil"),
-                             "date": el["date"], "verdict": v}
+                             "date": el["date"], "verdict": v,
+                             "communaute": el.get("communaute", "Hacker News"),
+                             "url": el.get("url") or f"https://news.ycombinator.com/item?id={el['id']}"}
                             for el, v, _ in discussions[:5]],
         })
     resultats.sort(key=lambda r: (-r["score"], r["id"]))

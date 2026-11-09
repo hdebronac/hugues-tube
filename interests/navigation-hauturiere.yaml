@@ -21,3 +21,8 @@ consigne_classement: >-
   Vidéo sur la navigation à voile au large : traversées océaniques, sécurité, météo marine,
   préparation et entretien du voilier, navigation (dont astronomique), vie à bord.
   Hors sujet : régates télévisées seules, croisières en paquebot, sujets sans rapport avec la mer.
+reddit:
+  subreddits: [sailing, sailboats, liveaboard, SailboatCruising]
+# Forum francophone. « tavern » est la section de discussion libre : Claude écarte le hors-sujet.
+hisse_et_oh:
+  sections: [sailing, tavern]

@@ -21,3 +21,5 @@ consigne_classement: >-
   gestion du risque, microstructure, exécution, usage des LLM ou de Claude pour trader.
   Les vidéos qui promettent des gains faciles comptent comme « critique » si le commentaire
   les dénonce, et « hors_sujet » si elles relèvent du marketing pur.
+reddit:
+  subreddits: [algotrading, quant, quantfinance]

@@ -56,7 +56,8 @@ SCHEMA = {
     "additionalProperties": False,
 }
 
-SYSTEME = """Tu tries des liens YouTube cités dans des commentaires de Hacker News pour un site \
+SYSTEME = """Tu tries des liens YouTube cités dans des commentaires de communautés en ligne \
+(Hacker News, Reddit, le forum de voile Hisse et Oh ; en anglais ou en français) pour un site \
 qui recense les vidéos que les passionnés d'un sujet se recommandent.
 
 Pour chaque vidéo citée, donne :
@@ -76,7 +77,8 @@ def cle(interet_id: str, element_id: str) -> str:
 
 
 def _message(interet: Interet, el: dict, videos: dict) -> str:
-    lignes = [f"Sujet : {interet.titre}. {interet.consigne_classement}", ""]
+    lignes = [f"Sujet : {interet.titre}. {interet.consigne_classement}", "",
+              f"Communauté : {el.get('communaute', 'Hacker News')}"]
     if el.get("titre_fil"):
         lignes.append(f"Fil de discussion : {el['titre_fil']}")
     lignes += ["Commentaire :", el["texte"] or "(article sans texte)", "", "Vidéos citées :"]

@@ -96,3 +96,23 @@ def http_json(url: str, params: dict | None = None, essais: int = 4, pause: floa
                 continue
             raise
     return None, None
+
+
+def http_texte(url: str, essais: int = 3, pause: float = 5.0) -> tuple[int | None, str | None]:
+    """GET d'une page HTML, mêmes reprises que http_json."""
+    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    for tentative in range(essais):
+        try:
+            with urllib.request.urlopen(req, timeout=60) as r:
+                return r.status, r.read().decode("utf-8", errors="replace")
+        except urllib.error.HTTPError as e:
+            if e.code in (429, 500, 502, 503, 504) and tentative < essais - 1:
+                time.sleep(pause * 2 ** tentative)
+                continue
+            return e.code, None
+        except (urllib.error.URLError, TimeoutError):
+            if tentative < essais - 1:
+                time.sleep(pause * 2 ** tentative)
+                continue
+            return None, None
+    return None, None

@@ -67,7 +67,7 @@ function rendre(){
    <a class="titre" href="https://www.youtube.com/watch?v=${v.id}" target="_blank" rel="noopener">${esc(v.titre)||'Vidéo YouTube '+v.id}</a>
    <div class="chaine">${esc(v.chaine)||'&nbsp;'}</div>
    <div class="meta"><span>${v.auteurs} recommandeur${v.auteurs>1?'s':''}</span><span>${an(v.premiere)===an(v.derniere)?an(v.premiere):an(v.premiere)+'–'+an(v.derniere)}</span>${v.type_contenu?`<span>${esc(v.type_contenu.replace('_',' '))}</span>`:''}</div>
-   <details><summary>${v.mentions} mention${v.mentions>1?'s':''} sur Hacker News</summary><ul>${v.discussions.map(d=>`<li><a href="https://news.ycombinator.com/item?id=${d.id}" target="_blank" rel="noopener">${esc(d.titre_fil)||'discussion'}</a> · ${an(d.date)} · ${V[d.verdict]||d.verdict}</li>`).join('')}</ul></details>
+   <details><summary>${v.mentions} mention${v.mentions>1?'s':''} · ${esc((v.sources||['Hacker News']).join(', '))}</summary><ul>${v.discussions.map(d=>`<li><a href="${esc(d.url||'https://news.ycombinator.com/item?id='+d.id)}" target="_blank" rel="noopener">${esc(d.titre_fil)||'discussion'}</a> · ${esc(d.communaute||'Hacker News')} · ${an(d.date)} · ${V[d.verdict]||d.verdict}</li>`).join('')}</ul></details>
    </div></li>`).join(''):'<p class="vide">Aucune vidéo ne correspond.</p>';
 }
 [q,tri,ty].forEach(e=>e.addEventListener('input',rendre));rendre();
@@ -87,8 +87,10 @@ def _page(titre: str, corps: str, description: str, script: str = "") -> str:
 
 
 def _pied(maj: str) -> str:
-    return (f'<footer>Vidéos que les membres de <a href="https://news.ycombinator.com">Hacker News</a> '
-            f'se recommandent, classées par nombre d\'auteurs distincts. Mise à jour du {maj}.</footer>')
+    return ('<footer>Vidéos que les membres de <a href="https://news.ycombinator.com">Hacker News</a>, '
+            'de Reddit (via l\'archive <a href="https://arctic-shift.photon-reddit.com">Arctic Shift</a>) '
+            'et du forum <a href="https://www.hisse-et-oh.com">Hisse et Oh</a> se recommandent, classées '
+            f'par nombre d\'auteurs distincts. Mise à jour du {maj}.</footer>')
 
 
 def construire(resultats: dict[str, list[dict]], interets: list[Interet], maintenant: int) -> None:
