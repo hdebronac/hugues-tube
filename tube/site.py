@@ -53,7 +53,7 @@ const g=document.getElementById('grille'),q=document.getElementById('q'),tri=doc
       ty=document.getElementById('type'),n=document.getElementById('n');
 const esc=s=>(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const an=t=>new Date(t*1000).getFullYear();
-const V={recommande:'recommande',neutre:'cite',critique:'critique',non_classe:'non classé'};
+const V={recommande:'recommandé',neutre:'cité',critique:'critiqué',non_classe:'non classé'};
 function rendre(){
   const t=q.value.trim().toLowerCase();
   let l=D.filter(v=>!t||(v.titre||'').toLowerCase().includes(t)||(v.chaine||'').toLowerCase().includes(t));

@@ -9,7 +9,7 @@
    "plus_recent": 1794197469
   },
   "quant|posts": {
-   "plus_ancien": 1769329203,
+   "plus_ancien": 1765211114,
    "plus_recent": 1794207644
   }
  },
@@ -1247,6 +1247,22 @@
     "fbPfoH_Iiug"
    ]
   },
+  "reddit:1pjf0tx": {
+   "auteur": "reddit:memlabs",
+   "communaute": "r/quant",
+   "date": 1765401854,
+   "fil": "reddit:1pjf0tx",
+   "id": "reddit:1pjf0tx",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=aQlR_fxrThM",
+   "titre_fil": "Annanay Kapila: Quant Trader, Tower Research, Flow Traders, QFEX, YC | Memlabs Podcast #1",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1pjf0tx/",
+   "videos": [
+    "aQlR_fxrThM"
+   ]
+  },
   "reddit:1pjf251": {
    "auteur": "reddit:memlabs",
    "communaute": "r/algotrading",
@@ -1261,6 +1277,54 @@
    "url": "https://www.reddit.com/r/algotrading/comments/1pjf251/",
    "videos": [
     "aQlR_fxrThM"
+   ]
+  },
+  "reddit:1pjfmiq": {
+   "auteur": "reddit:memlabs",
+   "communaute": "r/quant",
+   "date": 1765403298,
+   "fil": "reddit:1pjfmiq",
+   "id": "reddit:1pjfmiq",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=aQlR_fxrThM",
+   "titre_fil": "Podcast with a ex Tower Research Quant Trader",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1pjfmiq/",
+   "videos": [
+    "aQlR_fxrThM"
+   ]
+  },
+  "reddit:1pjsb7l": {
+   "auteur": "reddit:Phamcanh459",
+   "communaute": "r/quant",
+   "date": 1765441031,
+   "fil": "reddit:1pjsb7l",
+   "id": "reddit:1pjsb7l",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/9k7ZdK7W1dY?si=_2S_l3GsMz-hGNRJ\n[removed]",
+   "titre_fil": "An approach to building a robust crypto trading model with 19+ features and overfitting controls (Python/LightGBM).",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1pjsb7l/",
+   "videos": [
+    "9k7ZdK7W1dY"
+   ]
+  },
+  "reddit:1pl93wu": {
+   "auteur": "reddit:STFWG",
+   "communaute": "r/quant",
+   "date": 1765589448,
+   "fil": "reddit:1pl93wu",
+   "id": "reddit:1pl93wu",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/wLobFDhqfHc?si=xWkYPz8dgy6kBgKI\nHere you go quantitatives",
+   "titre_fil": "All Models",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1pl93wu/",
+   "videos": [
+    "wLobFDhqfHc"
    ]
   },
   "reddit:1po7w8e": {
