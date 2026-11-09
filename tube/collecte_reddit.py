@@ -29,12 +29,15 @@ CHAMPS = {
 AUTEURS_IGNORES = {"[deleted]", "AutoModerator", "[removed]"}
 
 
-def _page(type_: str, subreddit: str, avant: int) -> list[dict] | None:
+def _page(type_: str, subreddit: str, avant: int | None = None,
+          apres: int | None = None) -> list[dict] | None:
+    params = {"subreddit": subreddit, "limit": "auto", "fields": CHAMPS[type_]}
+    if apres is not None:
+        params |= {"after": apres, "sort": "asc"}
+    else:
+        params |= {"before": avant, "sort": "desc"}
     for tentative in range(5):
-        code, corps = http_json(f"{API}/{type_}/search", {
-            "subreddit": subreddit, "before": avant, "sort": "desc",
-            "limit": "auto", "fields": CHAMPS[type_],
-        })
+        code, corps = http_json(f"{API}/{type_}/search", params)
         time.sleep(PAUSE)
         if code == 200 and corps and corps.get("data") is not None:
             return corps["data"]
@@ -89,51 +92,62 @@ def collecter(interet: Interet, echeance: float, maintenant: int | None = None) 
     elements = etat["elements"]
     plancher = interet.depuis_ts
 
-    for subreddit in conf["subreddits"]:
-        for type_ in ("posts", "comments"):
-            cle = f"{subreddit}|{type_}"
-            c = etat["curseurs"].setdefault(cle, {"plus_recent": None, "plus_ancien": None})
-            n_avant = len(elements)
-            # 1. Rattrapage : du présent jusqu'au plus récent déjà vu. 2. Historique : vers le plancher.
-            fenetres = []
-            if c["plus_recent"] is not None:
-                fenetres.append(("rattrapage", maintenant + 1, c["plus_recent"]))
-            if c["plus_ancien"] is None:
-                fenetres.append(("historique", maintenant + 1, plancher))
-            elif c["plus_ancien"] > plancher:
-                fenetres.append(("historique", c["plus_ancien"], plancher))
-            for nature, avant, borne in fenetres:
-                recent_vu = None
-                while avant > borne and time.monotonic() < echeance:
-                    page = _page(type_, subreddit, avant)
-                    if page is None:
-                        print(f"  [reddit] r/{subreddit} {type_} : service indisponible, reprise au "
-                              f"prochain passage", file=sys.stderr)
-                        break
-                    if not page:
-                        avant = borne
-                        break
-                    for d in page:
-                        el = _element(type_, subreddit, d)
-                        if el and int(d["created_utc"]) >= plancher:
-                            elements.setdefault(el["id"], el)
-                    plus_vieux = min(int(d["created_utc"]) for d in page)
-                    plus_jeune = max(int(d["created_utc"]) for d in page)
-                    recent_vu = max(recent_vu or 0, plus_jeune)
-                    if c["plus_recent"] is None:
-                        c["plus_recent"] = plus_jeune
-                    # Une page dont tout tient dans la même seconde bouclerait : on recule d'une seconde.
-                    avant = plus_vieux if plus_vieux < avant else avant - 1
-                    if nature == "historique":
-                        c["plus_ancien"] = max(avant, plancher)
-                    ecrire_json(chemin, etat)
-                # Un rattrapage interrompu laisserait un trou entre son point d'arrêt et l'ancien
-                # « plus récent » : on n'avance ce repère que si la fenêtre a été parcourue en entier.
-                if nature == "rattrapage" and avant <= borne and recent_vu:
-                    c["plus_recent"] = max(c["plus_recent"], recent_vu)
-            etat_txt = ("complet" if c["plus_ancien"] is not None and c["plus_ancien"] <= plancher
-                        else "à poursuivre")
-            print(f"  [reddit] r/{subreddit} {type_} : +{len(elements) - n_avant} ({etat_txt})",
-                  file=sys.stderr)
+    flux = []
+    for entree in conf["subreddits"]:
+        # « ClaudeAI » ou « {nom: ClaudeAI, types: [posts]} » pour un subreddit trop actif.
+        nom, types = (entree, ("posts", "comments")) if isinstance(entree, str) else (
+            entree["nom"], tuple(entree.get("types", ("posts", "comments"))))
+        flux += [(nom, t) for t in types]
+    for n, (subreddit, type_) in enumerate(flux):
+        # Parts égales du temps restant : sans cela, un subreddit très actif consommerait tout
+        # le budget et les suivants ne seraient jamais parcourus.
+        echeance_flux = time.monotonic() + max(0.0, echeance - time.monotonic()) / (len(flux) - n)
+        cle = f"{subreddit}|{type_}"
+        c = etat["curseurs"].setdefault(cle, {"plus_recent": None, "plus_ancien": None})
+        n_avant = len(elements)
+
+        def garder(page, type_=type_, subreddit=subreddit):
+            for d in page:
+                el = _element(type_, subreddit, d)
+                if el and int(d["created_utc"]) >= plancher:
+                    elements.setdefault(el["id"], el)
+
+        # 1. Rattrapage, dans l'ordre chronologique : le repère « plus récent » avance page après
+        #    page, un passage interrompu reprend donc exactement où il s'est arrêté.
+        while c["plus_recent"] is not None and time.monotonic() < echeance_flux:
+            page = _page(type_, subreddit, apres=c["plus_recent"])
+            if not page:
+                break  # à jour, ou service indisponible
+            garder(page)
+            plus_jeune = max(int(d["created_utc"]) for d in page)
+            c["plus_recent"] = plus_jeune if plus_jeune > c["plus_recent"] else c["plus_recent"] + 1
+            ecrire_json(chemin, etat)
+            if len(page) < 100:
+                break
+
+        # 2. Historique, du plus récent vers le plancher : les données qui pèsent le plus d'abord.
+        avant = c["plus_ancien"] if c["plus_ancien"] is not None else maintenant + 1
+        while avant > plancher and time.monotonic() < echeance_flux:
+            page = _page(type_, subreddit, avant=avant)
+            if page is None:
+                print(f"  [reddit] r/{subreddit} {type_} : service indisponible, reprise au "
+                      f"prochain passage", file=sys.stderr)
+                break
+            if not page:
+                avant = plancher
+            else:
+                garder(page)
+                plus_vieux = min(int(d["created_utc"]) for d in page)
+                if c["plus_recent"] is None:
+                    c["plus_recent"] = max(int(d["created_utc"]) for d in page)
+                # Une page dont tout tient dans la même seconde bouclerait : on recule d'une seconde.
+                avant = plus_vieux if plus_vieux < avant else avant - 1
+            c["plus_ancien"] = max(avant, plancher)
+            ecrire_json(chemin, etat)
+
+        etat_txt = ("complet" if c["plus_ancien"] is not None and c["plus_ancien"] <= plancher
+                    else "à poursuivre")
+        print(f"  [reddit] r/{subreddit} {type_} : +{len(elements) - n_avant} ({etat_txt})",
+              file=sys.stderr)
     ecrire_json(chemin, etat)
     return elements

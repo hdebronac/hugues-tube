@@ -24,4 +24,9 @@ consigne_classement: >-
   logiciel. Hors sujet : actualité IA générale sans contenu pratique, musique, divertissement.
 # Le subreddit fait office de filtre thématique : toutes les vidéos qui y sont citées comptent.
 reddit:
-  subreddits: [ClaudeAI, AI_Agents, n8n, LocalLLaMA]
+  # Les trois premiers sont trop actifs pour suivre leurs commentaires chaque semaine : posts seuls.
+  subreddits:
+    - {nom: ClaudeAI, types: [posts]}
+    - {nom: AI_Agents, types: [posts]}
+    - {nom: LocalLLaMA, types: [posts]}
+    - n8n
