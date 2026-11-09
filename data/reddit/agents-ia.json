@@ -1,8 +1,16 @@
 {
  "curseurs": {
+  "AI_Agents|posts": {
+   "plus_ancien": 1781253373,
+   "plus_recent": 1794208469
+  },
   "ClaudeAI|posts": {
    "plus_ancien": 1788391943,
    "plus_recent": 1794210310
+  },
+  "LocalLLaMA|posts": {
+   "plus_ancien": 1793521458,
+   "plus_recent": 1794209156
   }
  },
  "elements": {
@@ -6733,6 +6741,22 @@
     "-g6hYVec1Uo"
    ]
   },
+  "reddit:1xl90rr": {
+   "auteur": "reddit:matthewhaynesonline",
+   "communaute": "r/LocalLLaMA",
+   "date": 1793554292,
+   "fil": "reddit:1xl90rr",
+   "id": "reddit:1xl90rr",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/LocalLLaMA/comments/1xl90rr/coding_is_solved_exclusions_apply/\nGood news, everyone! [Having been inspired to revolutionize the field of computer science](https://finance.yahoo.com/sectors/technology/articles/elon-musk-coding-top-job-163850758.html), I can now report that *coding is solved!* Sure, only if you care about x86 Linux binaries that print and exit, but \"big journeys\" and \"small steps\" and what not.\n\n[CRAP (Compiler Replacement for Assembling Programs)](https://huggingface.co/matthewhaynesonline/gemma-4-E2B-it-crap-1.1) is a Gemma 4 E2B fine tune that takes prompts like `generate a Linux x86_64 binary that prints 'boop'` and emits a working ELF binary (as hex, most of the time, every time). See, since programs end up as a binary anyway, why not just skip the middleman and write the binary itself? No compiler, no assembler, no tool calls. [v1.1 is out with improved multi turn and out of distribution performance](https://huggingface.co/matthewhaynesonline/gemma-4-E2B-it-crap-1.1). Trust me, I know, this is super important work.  \n\n\nhttps://i.redd.it/gngsbvezc1zh1.png\n\n  \n**v1.1 eval numbers for the nerds** (eval is scored on behavior: the binary has to run, print the right string and exit with the right code):\n\n* Held out legacy set: 20/23, same as [v1](https://huggingface.co/collections/matthewhaynesonline/crap)\n* Novel strings: 26/40 ([v1](https://huggingface.co/collections/matthewhaynesonline/crap): 8/40)\n* Multi turn (\\~3 turns): 10/12 ([v1 […]",
+   "titre_fil": "Coding is solved* (exclusions apply)",
+   "type": "article",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl90rr/",
+   "videos": [
+    "55IBMzFQNYU"
+   ]
+  },
   "reddit:1xlac48": {
    "auteur": "reddit:Efficient_Bee2333",
    "communaute": "r/ClaudeAI",
@@ -6828,6 +6852,54 @@
    "videos": [
     "DRaGsWHVf6E",
     "WlFo1FejPJ8"
+   ]
+  },
+  "reddit:1xll5ir": {
+   "auteur": "reddit:wren6991",
+   "communaute": "r/LocalLLaMA",
+   "date": 1793585485,
+   "fil": "reddit:1xll5ir",
+   "id": "reddit:1xll5ir",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=y5YKL75e78Y",
+   "titre_fil": "The Rise of GLM and China’s Zhipu AI",
+   "type": "article",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xll5ir/",
+   "videos": [
+    "y5YKL75e78Y"
+   ]
+  },
+  "reddit:1xln2sl": {
+   "auteur": "reddit:Thrumpwart",
+   "communaute": "r/LocalLLaMA",
+   "date": 1793591377,
+   "fil": "reddit:1xln2sl",
+   "id": "reddit:1xln2sl",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/YbIX2AWCqB8?si=0Jp_-2IA2Z71mj2i",
+   "titre_fil": "GMKtec Evo X5 - AMD Gorgon Halo - 192 GB of LPDDR5",
+   "type": "article",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xln2sl/",
+   "videos": [
+    "YbIX2AWCqB8"
+   ]
+  },
+  "reddit:1xlo0yj": {
+   "auteur": "reddit:shravanrevanna",
+   "communaute": "r/LocalLLaMA",
+   "date": 1793594426,
+   "fil": "reddit:1xlo0yj",
+   "id": "reddit:1xlo0yj",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/77NGUSj_GAE?si=Ry5FA3Ad1m9IGg3b\n[removed]",
+   "titre_fil": "My LLM now plays Chrome Dino at full speed by planning ahead",
+   "type": "article",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlo0yj/",
+   "videos": [
+    "77NGUSj_GAE"
    ]
   },
   "reddit:1xlq128": {
@@ -6958,6 +7030,22 @@
     "MhgjcmgJ7LE"
    ]
   },
+  "reddit:1xm4zwi": {
+   "auteur": "reddit:unchikuso",
+   "communaute": "r/LocalLLaMA",
+   "date": 1793643650,
+   "fil": "reddit:1xm4zwi",
+   "id": "reddit:1xm4zwi",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=vDmjw-c_R2k",
+   "titre_fil": "My F-You To Sam Altman",
+   "type": "article",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm4zwi/",
+   "videos": [
+    "vDmjw-c_R2k"
+   ]
+  },
   "reddit:1xm5kjc": {
    "auteur": "reddit:ZeonisLow",
    "communaute": "r/ClaudeAI",
@@ -7037,6 +7125,22 @@
    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmohfc/",
    "videos": [
     "g9xoKm5DEeU"
+   ]
+  },
+  "reddit:1xmqn8b": {
+   "auteur": "reddit:jckrs32",
+   "communaute": "r/LocalLLaMA",
+   "date": 1793705746,
+   "fil": "reddit:1xmqn8b",
+   "id": "reddit:1xmqn8b",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=Ok6QdZHCcI8\n[removed]",
+   "titre_fil": "Revolut self-hosts GLM 5.3 on 56 x B200 for $ 0.30/Mtoks",
+   "type": "article",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmqn8b/",
+   "videos": [
+    "Ok6QdZHCcI8"
    ]
   },
   "reddit:1xmso3k": {
@@ -7183,6 +7287,22 @@
     "6ojNZRs53qs"
    ]
   },
+  "reddit:1xnv93y": {
+   "auteur": "reddit:mycall",
+   "communaute": "r/LocalLLaMA",
+   "date": 1793815556,
+   "fil": "reddit:1xnv93y",
+   "id": "reddit:1xnv93y",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=vSCYL8ySh9g",
+   "titre_fil": "Dory - NVIDIA's Looped Transformer",
+   "type": "article",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnv93y/",
+   "videos": [
+    "vSCYL8ySh9g"
+   ]
+  },
   "reddit:1xnw8bt": {
    "auteur": "reddit:Alchemist483",
    "communaute": "r/ClaudeAI",
@@ -7295,6 +7415,22 @@
     "rofXWF4ujRg"
    ]
   },
+  "reddit:1xoji3b": {
+   "auteur": "reddit:Ok-Director4174",
+   "communaute": "r/LocalLLaMA",
+   "date": 1793887587,
+   "fil": "reddit:1xoji3b",
+   "id": "reddit:1xoji3b",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://v.redd.it/nwt7nx6mwszh1\nI'm the developer of Kokon, a local photo editor around Qwen-Image 2.1 Turbo (on stable-diffusion.cpp, and on its own engine on Macs). I posted it here a few weeks ago. 0.12 adds a Layers lab: click objects in any image, get each one on its own layer with the background behind it repainted, then move them around or export a PSD.\n\nQwen-Image 2.1 has no layer output, so this is a pipeline around an edit model:\n\n1. **Select**: you click, MobileSAM (ONNX, CPU, 44 MB) gives the mask. Click again for a bigger part.\n2. **Cut out**: Fast is a matting model on the CPU (a few seconds per object). Quality asks Qwen to redraw the edge, for hair and fur.\n3. **Fill**: a masked Qwen-Image edit repaints what was behind the object, so the plate has no holes. This is the expensive step: about 15–25 s per object on an RTX 5070 Ti, one to two minutes on an M2 Pro.\n4. **Blend into scene** (optional): after you move things, Kokon reads where each object stands (you can correct it) and one more edit redraws contact shadows and reflections, as a layer you can turn down.\n\nWhat still fails, honestly:\n\n* the fill sometimes invents a new object where a large one was (remove a big person, get a different person);\n* touching people and crowds get merged or split;\n* the hidden part of an object behind another one is never completed;\n* Blend often doesn't work yet; whole-scene blends work better than per-object ones.\n\nAn 8-step model only takes so much steering. I'd rather sh […]",
+   "titre_fil": "Getting editable layers out of Qwen-Image 2.1, a model that only edits: what works, what still fails (local, open source) Kokon",
+   "type": "article",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoji3b/",
+   "videos": [
+    "eGr9yYe7NVc"
+   ]
+  },
   "reddit:1xom0ii": {
    "auteur": "reddit:kanapitsas",
    "communaute": "r/ClaudeAI",
@@ -7325,6 +7461,42 @@
    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xordr8/",
    "videos": [
     "7PbWnQQt-zA"
+   ]
+  },
+  "reddit:1xow94y": {
+   "auteur": "reddit:Thrumpwart",
+   "communaute": "r/LocalLLaMA",
+   "date": 1793917554,
+   "fil": "reddit:1xow94y",
+   "id": "reddit:1xow94y",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/Ty4lTwykmKY?si=AHdNUF1I2nGkL3Bu",
+   "titre_fil": "Level1Techs - The CUDA hour is Late. Also, Who Made the R9700 this fast?",
+   "type": "article",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xow94y/",
+   "videos": [
+    "Ty4lTwykmKY"
+   ]
+  },
+  "reddit:1xp3q39": {
+   "auteur": "reddit:Galactic_Neighbour",
+   "communaute": "r/LocalLLaMA",
+   "date": 1793939146,
+   "fil": "reddit:1xp3q39",
+   "id": "reddit:1xp3q39",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/LocalLLaMA/comments/1xp3q39/anti_software_doomsday_cult_and_local_ai_models/\nSoftware grifters are not a new thing, but lately it's starting to become kinda dangerous and I think that we urgently need to do something about this as a community. It's no longer just an ex-\\[*insert tech company name*\\] employee warning us about the dangers of AI to sell books kinda [grift](https://www.youtube.com/watch?v=bk-nQ7HF6k4). Or some guy on YouTube pretending that blockchain is just [a conspiracy](https://www.youtube.com/watch?v=YQ_xWvX1n9g) designed to steal your money. I'm sure you've seen some of them before. But now those people are proposing new regulation. There are multiple well funded lobbyist organizations trying to convince the public and politicians to give the government control over AI. Those people's job is to go on podcasts and lie to the public about computer science. They spread misinformation about language models to convince everyone that AI will soon get out of control. [They even pay content creators](https://www.uniladtech.com/news/ai/yourubers-secretly-paid-make-you-afraid-ai-481492-20261006) ([alt link](https://www.yahoo.com/news/us/articles/youtube-influencers-paid-spread-ai-110000075.html)) to produce scary sounding videos. They invent (usually pretty vague) science fiction scenarios, so that they can pretend that software is a big scary weapon ([kinda reminds me of something](https://en.wikipedia.org/wiki/Export_of_cryptography_from_th […]",
+   "titre_fil": "Anti Software Doomsday Cult And Local AI Models (debunking Connor Leahy, ControlAI and Professor Dave Explains)",
+   "type": "article",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp3q39/",
+   "videos": [
+    "bk-nQ7HF6k4",
+    "YQ_xWvX1n9g",
+    "XW4D6NguJmA",
+    "KSXm_KCMR60",
+    "IP8SlZLRnWc"
    ]
   },
   "reddit:1xpeijg": {
@@ -7407,6 +7579,22 @@
     "33aOBxGulMQ"
    ]
   },
+  "reddit:1xpyp07": {
+   "auteur": "reddit:MLDataScientist",
+   "communaute": "r/LocalLLaMA",
+   "date": 1794029902,
+   "fil": "reddit:1xpyp07",
+   "id": "reddit:1xpyp07",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://v.redd.it/xlwjjjnxk40i1\n inspired by Bijan Bowen's video - Subway FPS [test](https://youtu.be/6kjXzTVmT58?t=1035).\n\nHardware details: RTX 5090, 256GB DDR4 3200Mhz 8 channel, AMD EPYC 7532 CPU (32 core).\n\nSoftware: backend is Maya 1.1.55, harness is OMP v18.17.0.\n\nModel quant: Deepseek v4.1 1017 UD-IQ3\\_S latest UD3.1 quant from Unsloth. \n\nMy prompt was very simple:\n\n    I want you to create a single html file with a detailed subway station 3d scene, fps controls, zombie enemies, tracers, recoil, muzzle flash, high details. build it with three.jsI want you to create a single html file with a detailed subway station 3d scene, fps controls, zombie enemies, tracers, recoil, muzzle flash, high details. build it with three.js\n\nYou can see at the end of the video some token stats. In short, total generated tokens were 180k. The model ran at 30t/s with 2k t/s PP at 10k context but then went down to \\~20 t/s near 180k context. Note that stock llama.cpp only reaches 10t/s TG and 120t/s PP.\n\nThis model and harness tools are amazing. Just a year ago we could not even image having such a model locally. Yet, here we are!",
+   "titre_fil": "Subway Zombie FPS for fun using Deepseek v4.1 1017 UD-IQ3_S with Maya and OMP",
+   "type": "article",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpyp07/",
+   "videos": [
+    "6kjXzTVmT58"
+   ]
+  },
   "reddit:1xpz4o7": {
    "auteur": "reddit:ArchAngelAries",
    "communaute": "r/ClaudeAI",
@@ -7421,6 +7609,22 @@
    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpz4o7/",
    "videos": [
     "P9iKEC1qNhg"
+   ]
+  },
+  "reddit:1xq1yji": {
+   "auteur": "reddit:opoot_",
+   "communaute": "r/LocalLLaMA",
+   "date": 1794042068,
+   "fil": "reddit:1xq1yji",
+   "id": "reddit:1xq1yji",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/LJa_k2JyFsk?si=X1M5VvLFwOrNc6ld",
+   "titre_fil": "Qwen 4 Preview",
+   "type": "article",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq1yji/",
+   "videos": [
+    "LJa_k2JyFsk"
    ]
   },
   "reddit:1xq3fsf": {
@@ -7519,6 +7723,22 @@
     "wesrpFLIlAI"
    ]
   },
+  "reddit:1xr4nng": {
+   "auteur": "reddit:Sidran",
+   "communaute": "r/LocalLLaMA",
+   "date": 1794160885,
+   "fil": "reddit:1xr4nng",
+   "id": "reddit:1xr4nng",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=nv5_PH2uPVI",
+   "titre_fil": "Is This the End of LLMs? This Stanford Paper Could Make Nvidia's Memory Chips Unnecessary",
+   "type": "article",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr4nng/",
+   "videos": [
+    "nv5_PH2uPVI"
+   ]
+  },
   "reddit:1xr88vb": {
    "auteur": "reddit:Round_Worldliness766",
    "communaute": "r/ClaudeAI",
@@ -7533,6 +7753,38 @@
    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr88vb/",
    "videos": [
     "BBa3kIVbj6k"
+   ]
+  },
+  "reddit:1xr9hxb": {
+   "auteur": "reddit:darklordfireape",
+   "communaute": "r/LocalLLaMA",
+   "date": 1794172899,
+   "fil": "reddit:1xr9hxb",
+   "id": "reddit:1xr9hxb",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=rXFV1ivDe6c\nFound this video and thought the discussion was interesting. I've been using a vector DB in front of a local wiki I setup to allow a model to cleanly access the wiki and have better context. It works well, but definitely not suitable for all use cases. The discussion here might help folks determine what is best for their Local project and save you some overhead or help you tune it right.    \n  \n **For discussion: What are you using with your local model/harness to give it access to info?**   \n  \n  \nNo affiliation with poster/channel. They seem to have some other good topics as well.",
+   "titre_fil": "Are Vector Databases Still Needed? RAG, AI Agents & Search",
+   "type": "article",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr9hxb/",
+   "videos": [
+    "rXFV1ivDe6c"
+   ]
+  },
+  "reddit:1xrai3x": {
+   "auteur": "reddit:Individual-Dot5488",
+   "communaute": "r/LocalLLaMA",
+   "date": 1794175532,
+   "fil": "reddit:1xrai3x",
+   "id": "reddit:1xrai3x",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/Zvu5cHlH9gM\nUnderrated youtube channel, thought this would be nice to share given its open source uses local ai. Does anyone own one?",
+   "titre_fil": "Really cool 3d video on how the microduck ai robot works",
+   "type": "article",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrai3x/",
+   "videos": [
+    "Zvu5cHlH9gM"
    ]
   },
   "reddit:1xrde8j": {

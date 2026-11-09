@@ -1,5 +1,37 @@
 {
  "elements": {
+  "heo:6016ef9cc1c6450ecde605db": {
+   "auteur": "heo:courtox56",
+   "communaute": "Hisse et Oh",
+   "date": 1612115868,
+   "fil": "heo:sailing/retours-dexperiences-sur-lusage-davalon-offshore-2",
+   "id": "heo:6016ef9cc1c6450ecde605db",
+   "mots": [],
+   "source": "hisse_et_oh",
+   "texte": "Bonsoir,\nla version d'Avalong Routing est disponible pour les machines Apple.\nL'ajout important est la prise en compte du tirant d'eau du bateau pour le calcul de la route. On peut choisir la « Profondeur minimum » où on veut naviguer.\nMoi qui adore naviguer sur l'estran, c'est un vrai plaisir.\n Si on a peur des cailloux on peut fixer 1 2 3 5 ou 10m d'eau sous sa quille, en rapport aux sondes des cartes SHOM. \n Il ne manque plus que le respect des balises latérales et cardinale pour avoir un logiciel presque parfait. N'oubliez pas que c'est le skipper qui décide au final de sa route. Avalon est là pour stimuler votre curiosité et vous proposer des alternatives  plus rapides à vos navigations classiques.\n\nN'hésitez à suivre les cours gratuits avec l'outil vidéo ZOOM, même si vous n'utilisez pas Avalon. Les 2 Février (18:00 à 19:00 heure ) et 3 Février 2021 (13:00 à 14:00 heure) \n\nUne présentatiuon de l'utilisation de cette option est disponible sur Youtube.",
+   "titre_fil": "Retours d’expériences sur l’usage d’Avalon Offshore (2)",
+   "type": "commentaire",
+   "url": "https://www.hisse-et-oh.com/sailing/retours-dexperiences-sur-lusage-davalon-offshore-2#6016ef9cc1c6450ecde605db",
+   "videos": [
+    "1nh6Swm8Lyc"
+   ]
+  },
+  "heo:64c2ba5f71d6946fc92dae24": {
+   "auteur": "heo:Avalon_Routeur",
+   "communaute": "Hisse et Oh",
+   "date": 1690483295,
+   "fil": "heo:sailing/retours-dexperiences-sur-lusage-davalon-offshore-2",
+   "id": "heo:64c2ba5f71d6946fc92dae24",
+   "mots": [],
+   "source": "hisse_et_oh",
+   "texte": "@fleurdeselno\nNous venons de publier une vidéo sur youtube pour expliquer les solutions au problème que vous avez rencontré sur le calcul de route entre Noirmoutier et l'ile d'Yeu. \nSi vous avez des questions, vous pouvez nous contacter en direct. Je vous donnerai mon tel par email.\n\nVoir ici:\n\n```",
+   "titre_fil": "Retours d’expériences sur l’usage d’Avalon Offshore (2)",
+   "type": "commentaire",
+   "url": "https://www.hisse-et-oh.com/sailing/retours-dexperiences-sur-lusage-davalon-offshore-2#64c2ba5f71d6946fc92dae24",
+   "videos": [
+    "L96SVRS0o9E"
+   ]
+  },
   "heo:65414d3871d6949dfe207f77": {
    "auteur": "heo:Sarkis",
    "communaute": "Hisse et Oh",
@@ -16,6 +48,38 @@
     "tlvjnMNMi7c"
    ]
   },
+  "heo:67c1dbb8a8290ed44c9e70a1": {
+   "auteur": "heo:Avalon_Routeur",
+   "communaute": "Hisse et Oh",
+   "date": 1740757944,
+   "fil": "heo:sailing/retours-dexperiences-sur-lusage-davalon-offshore-2",
+   "id": "heo:67c1dbb8a8290ed44c9e70a1",
+   "mots": [],
+   "source": "hisse_et_oh",
+   "texte": "Pour ceux qui ont des difficultés à tester les cartes vectorielles, voici un tutoriel vidéo qui explique comment:\n- Créer un compte Avalon Cloud\n- Télécharger un pack carto d'essai gratuit\n- Visualiser la carto chargée",
+   "titre_fil": "Retours d’expériences sur l’usage d’Avalon Offshore (2)",
+   "type": "commentaire",
+   "url": "https://www.hisse-et-oh.com/sailing/retours-dexperiences-sur-lusage-davalon-offshore-2#67c1dbb8a8290ed44c9e70a1",
+   "videos": [
+    "8slSiNsqQ0Q"
+   ]
+  },
+  "heo:68a8aa41101ac128dbcb1491": {
+   "auteur": "heo:Avalon_Routeur",
+   "communaute": "Hisse et Oh",
+   "date": 1755884097,
+   "fil": "heo:sailing/retours-dexperiences-sur-lusage-davalon-offshore-2",
+   "id": "heo:68a8aa41101ac128dbcb1491",
+   "mots": [],
+   "source": "hisse_et_oh",
+   "texte": "La version 7.2 d'Avalon Offshore est sortie. Plus d'informations sur notre site ici:\n\nwww.avalon-routing.com[...]rtie-2/ \n\nOu la vidéo youtube correspondante:",
+   "titre_fil": "Retours d’expériences sur l’usage d’Avalon Offshore (2)",
+   "type": "commentaire",
+   "url": "https://www.hisse-et-oh.com/sailing/retours-dexperiences-sur-lusage-davalon-offshore-2#68a8aa41101ac128dbcb1491",
+   "videos": [
+    "hlXKZdzl3Gw"
+   ]
+  },
   "heo:68c775ddc0b4c542dec178cd": {
    "auteur": "heo:jusliensmt",
    "communaute": "Hisse et Oh",
@@ -30,6 +94,70 @@
    "url": "https://www.hisse-et-oh.com/sailing/recit-dune-navigation-dans-le-pacifique#68c775ddc0b4c542dec178cd",
    "videos": [
     "4YvLH4ykZZk"
+   ]
+  },
+  "heo:68eccff19614306d89202662": {
+   "auteur": "heo:Avalon_Routeur",
+   "communaute": "Hisse et Oh",
+   "date": 1760350193,
+   "fil": "heo:sailing/retours-dexperiences-sur-lusage-davalon-offshore-2",
+   "id": "heo:68eccff19614306d89202662",
+   "mots": [],
+   "source": "hisse_et_oh",
+   "texte": "Sortie de la version 7.2.1 sur iOS. Version Android prévue cette semaine. Cette version apporte une fonction nouvelle permettant de decider si la route calculée est justifiée par un gain de temps suffisant par rapport à la distance additionnelle à parcourir. Cette possibilité s'adresse principalement aux régatiers.\n\nPlus d'information ici:\nwww.avalon-routing.com[...]-7-2-1/ \n\nOu directement sur le tutoriel vidéo youtube:",
+   "titre_fil": "Retours d’expériences sur l’usage d’Avalon Offshore (2)",
+   "type": "commentaire",
+   "url": "https://www.hisse-et-oh.com/sailing/retours-dexperiences-sur-lusage-davalon-offshore-2#68eccff19614306d89202662",
+   "videos": [
+    "4_1cn2PSzYg"
+   ]
+  },
+  "heo:699c7151e32f76a2a102c41f": {
+   "auteur": "heo:Avalon_Routeur",
+   "communaute": "Hisse et Oh",
+   "date": 1771860305,
+   "fil": "heo:sailing/retours-dexperiences-sur-lusage-davalon-offshore-2",
+   "id": "heo:699c7151e32f76a2a102c41f",
+   "mots": [],
+   "source": "hisse_et_oh",
+   "texte": "Avec nos excuses pour le leger retard, la version 8 est aussi disponible pour les utilisateurs Android. Vous la trouverez sur Google Play et pouvez mettre à jour votre version actuelle, gratuitement bien sur.\n\nOn vient de faire une courte vidéo de présentation d'Avalon V8 (moins de 60 sec) sur youtube.",
+   "titre_fil": "Retours d’expériences sur l’usage d’Avalon Offshore (2)",
+   "type": "commentaire",
+   "url": "https://www.hisse-et-oh.com/sailing/retours-dexperiences-sur-lusage-davalon-offshore-2#699c7151e32f76a2a102c41f",
+   "videos": [
+    "_DbysFmBbRg"
+   ]
+  },
+  "heo:69c64609152ec654b9a1cbcf": {
+   "auteur": "heo:Avalon_Routeur",
+   "communaute": "Hisse et Oh",
+   "date": 1774601737,
+   "fil": "heo:sailing/retours-dexperiences-sur-lusage-davalon-offshore-2",
+   "id": "heo:69c64609152ec654b9a1cbcf",
+   "mots": [],
+   "source": "hisse_et_oh",
+   "texte": "Nous sommes obligés de revoir l'ensemble de nos tutoriels vidéos pour les adapter à la Version 8 dont l'ergonomie est fondamentalement différente: \"minimum d'icones et commandes/affichage en clair\".\nVoici le premièr de ces tutoriels sur le routage en mode simplifié.",
+   "titre_fil": "Retours d’expériences sur l’usage d’Avalon Offshore (2)",
+   "type": "commentaire",
+   "url": "https://www.hisse-et-oh.com/sailing/retours-dexperiences-sur-lusage-davalon-offshore-2#69c64609152ec654b9a1cbcf",
+   "videos": [
+    "Xo65GSoAEYs"
+   ]
+  },
+  "heo:69f1dad1621ba89e64b08792": {
+   "auteur": "heo:Avalon_Routeur",
+   "communaute": "Hisse et Oh",
+   "date": 1777457873,
+   "fil": "heo:sailing/retours-dexperiences-sur-lusage-davalon-offshore-2",
+   "id": "heo:69f1dad1621ba89e64b08792",
+   "mots": [],
+   "source": "hisse_et_oh",
+   "texte": "La version 8.0.5 est sortie sur l'AppStore. Elle sera dans Google Play dans la semaine du 4 Mai.\nCette version apporte: \n\nL’utilisation d’une source combinée Arome HD + Arpège permet au navigateur de ne plus avoir à choisir entre Arome HD et Arpège. Avalon utilise en priorité les données Arome HD, puis bascule automatiquement sur Arpège lorsque cela est nécessaire (fin de l’horizon de prévision Arome ou sortie de la zone géographique couverte par Arome).\n\nIdem pour Arome Outremer (Antilles, Polynesie et Nouvelle Calédonie) qui sont maintenant intégrés avec Arpège Monde\n\nMême principe avec l'agrégation des 7 zones de courants Ifremer dont la précision varie de 250 m à 2 km: Atlantique 2 km, Gascogne 700 m, Manche Est 250 m, Manche Ouest 250 m, Finistére 250 m, BZH Sud 250 m et Aquitaine 250 m \n\nUne menu \"Gestion des POI\" est maintenant disponible dans la menu \"Gestion des Routes\"\n\nUne vidéo explicative a été créée sur YouTube",
+   "titre_fil": "Retours d’expériences sur l’usage d’Avalon Offshore (2)",
+   "type": "commentaire",
+   "url": "https://www.hisse-et-oh.com/sailing/retours-dexperiences-sur-lusage-davalon-offshore-2#69f1dad1621ba89e64b08792",
+   "videos": [
+    "Z3_R4BnyWCA"
    ]
   },
   "heo:6a8d3d6980bdc00cbbd11f13": {
@@ -64,6 +192,102 @@
     "7wvTCYIjqY0"
    ]
   },
+  "heo:6aafc3cde264efe5d51eb238": {
+   "auteur": "heo:creek",
+   "communaute": "Hisse et Oh",
+   "date": 1789903821,
+   "fil": "heo:sailing/quasi-seul-pour-les-multicoques",
+   "id": "heo:6aafc3cde264efe5d51eb238",
+   "mots": [],
+   "source": "hisse_et_oh",
+   "texte": "Je sais pas si ces données statistiques sont vraies , et je me méfie des vidéos bullshit AI, mais cette video affiche que 70% des retraités qui achetennt des catas regrettent leur achat au bout d'un an.\nLa raison principale semble être une sous-estimation des frais d'usage et d'entretien de grands bateaux , et pire pour les catas, une surestimation de leurs capacités physiques pour le gérer, etc, après un achat déjà très lourd. Et bien sûr, des abandons de projets en route, comme ça arrive beaucoup pour les bateaux.\n Avec forcément des pertes financières costauds et beaucoup de difficultés à les revendre sur le marché actuel.",
+   "titre_fil": "Quasi seul pour les multicoques",
+   "type": "commentaire",
+   "url": "https://www.hisse-et-oh.com/sailing/quasi-seul-pour-les-multicoques#6aafc3cde264efe5d51eb238",
+   "videos": [
+    "q88th2bTR1E"
+   ]
+  },
+  "heo:6ab11ab52324538615d2ba36": {
+   "auteur": "heo:Panoramix_bzh",
+   "communaute": "Hisse et Oh",
+   "date": 1789991605,
+   "fil": "heo:sailing/quasi-seul-pour-les-multicoques",
+   "id": "heo:6ab11ab52324538615d2ba36",
+   "mots": [],
+   "source": "hisse_et_oh",
+   "texte": "Il y a un multi qui me fait trop rêver : clcboats.com[...]ic-proa \n\nFaut quand même avoir envie de passer 2 ou 3 ans à construire en rentrant du boulot.... mais pour explorer la Bretagne en mode \"glamping\" ça fait quand même envie !",
+   "titre_fil": "Quasi seul pour les multicoques",
+   "type": "commentaire",
+   "url": "https://www.hisse-et-oh.com/sailing/quasi-seul-pour-les-multicoques#6ab11ab52324538615d2ba36",
+   "videos": [
+    "e3N0fiQllTw"
+   ]
+  },
+  "heo:6ab7a2528a797bd916f28df6": {
+   "auteur": "heo:Avalon_Routeur",
+   "communaute": "Hisse et Oh",
+   "date": 1790419538,
+   "fil": "heo:sailing/retours-dexperiences-sur-lusage-davalon-offshore-2",
+   "id": "heo:6ab7a2528a797bd916f28df6",
+   "mots": [],
+   "source": "hisse_et_oh",
+   "texte": "Nous venons de sortir un tutoriel vidéo sur les amèliorations appportées par la version 8.1\n- Génération d'un bulletin de croisière par IA\n- Amèlioration des polaires standard avec 5 jeux de voiles par défaut (Grand Voile + Genois/Trinquette/Spi Asy/Spi/ Code 0\n- Affichage de la gite et de la réduction de voilure sur l'ensemble de la croière. Auparavant, cette possibilité n'était possible que pour les polaires créées par Avalon VPP \nLa video est sur youtube:",
+   "titre_fil": "Retours d’expériences sur l’usage d’Avalon Offshore (2)",
+   "type": "commentaire",
+   "url": "https://www.hisse-et-oh.com/sailing/retours-dexperiences-sur-lusage-davalon-offshore-2#6ab7a2528a797bd916f28df6",
+   "videos": [
+    "EyhFjf-VDVU"
+   ]
+  },
+  "heo:6ad0fb71d67877b75179b054": {
+   "auteur": "heo:fxvt",
+   "communaute": "Hisse et Oh",
+   "date": 1792080753,
+   "fil": "heo:sailing/pilote-automatique-sur-un-tabur-320",
+   "id": "heo:6ad0fb71d67877b75179b054",
+   "mots": [],
+   "source": "hisse_et_oh",
+   "texte": "Hello,\nVoici un système simple et sympa de régulateur d'allure:\n\nAmicalement.\nFX",
+   "titre_fil": "Pilote automatique sur un Tabur 320 ?",
+   "type": "commentaire",
+   "url": "https://www.hisse-et-oh.com/sailing/pilote-automatique-sur-un-tabur-320#6ad0fb71d67877b75179b054",
+   "videos": [
+    "FQNBlrg0VyI"
+   ]
+  },
+  "heo:6ad200783145ac8d758d0178": {
+   "auteur": "heo:Pierre3",
+   "communaute": "Hisse et Oh",
+   "date": 1792147576,
+   "fil": "heo:sailing/journal-de-bord-gota-canal-et-norvege",
+   "id": "heo:6ad200783145ac8d758d0178",
+   "mots": [],
+   "source": "hisse_et_oh",
+   "texte": "Toujours un plaisir les vidéos de cette chaîne YT. Je me permets de les relayer ici.",
+   "titre_fil": "Journal de bord - Göta canal & Norvège",
+   "type": "commentaire",
+   "url": "https://www.hisse-et-oh.com/sailing/journal-de-bord-gota-canal-et-norvege#6ad200783145ac8d758d0178",
+   "videos": [
+    "yQhsat0HxYQ"
+   ]
+  },
+  "heo:6ad200dfa04bc663778d08e0": {
+   "auteur": "heo:Pierre3",
+   "communaute": "Hisse et Oh",
+   "date": 1792147679,
+   "fil": "heo:sailing/journal-de-bord-gota-canal-et-norvege",
+   "id": "heo:6ad200dfa04bc663778d08e0",
+   "mots": [],
+   "source": "hisse_et_oh",
+   "texte": "De la Norvège aux îles Shetlland...",
+   "titre_fil": "Journal de bord - Göta canal & Norvège",
+   "type": "commentaire",
+   "url": "https://www.hisse-et-oh.com/sailing/journal-de-bord-gota-canal-et-norvege#6ad200dfa04bc663778d08e0",
+   "videos": [
+    "NkpjsUKgR0w"
+   ]
+  },
   "heo:6adbd7cb08d1edad068afbb3": {
    "auteur": "heo:Now",
    "communaute": "Hisse et Oh",
@@ -78,6 +302,135 @@
    "url": "https://www.hisse-et-oh.com/sailing/ya-pas-le-feu-au-lac-nouveau-heo-et-a-la-recherche-de-conseils#6adbd7cb08d1edad068afbb3",
    "videos": [
     "GKhBhPa__oo"
+   ]
+  },
+  "heo:6adfe0ece9efd92de73b4267": {
+   "auteur": "heo:LeMoko",
+   "communaute": "Hisse et Oh",
+   "date": 1793057004,
+   "fil": "heo:sailing/remplacement-paliers-slash-roulements-de-meche-de-safran",
+   "id": "heo:6adfe0ece9efd92de73b4267",
+   "mots": [],
+   "source": "hisse_et_oh",
+   "texte": "Bonjour Uist\n\nSi ta bague supérieur est du Jefa pas de raison que la bague du bas soit autre.\nTu as très certainement un palier auto alignant en bas\nCurieusement il est mieux d'avoir du jeu .... a l'inverse si elle devient dur c'est souvent la corrosion de la bague alu qui comprime la bague \"nylon\"\nVoir lien pour exemple de démontage.\n\nLe Moko",
+   "titre_fil": "Remplacement paliers / roulements de méche de safran",
+   "type": "commentaire",
+   "url": "https://www.hisse-et-oh.com/sailing/remplacement-paliers-slash-roulements-de-meche-de-safran#6adfe0ece9efd92de73b4267",
+   "videos": [
+    "mBPYATWiuio"
+   ]
+  },
+  "heo:6ae0e876baa252cebf00ed85": {
+   "auteur": "heo:pepere",
+   "communaute": "Hisse et Oh",
+   "date": 1793124470,
+   "fil": "heo:sailing/transatlantique-passer-par-le-cap-vert-ou-pas",
+   "id": "heo:6ae0e876baa252cebf00ed85",
+   "mots": [],
+   "source": "hisse_et_oh",
+   "texte": "Il y a bien d’autres endroits que Mindelo …",
+   "titre_fil": "Transatlantique, passer par le Cap Vert ou pas?",
+   "type": "commentaire",
+   "url": "https://www.hisse-et-oh.com/sailing/transatlantique-passer-par-le-cap-vert-ou-pas#6ae0e876baa252cebf00ed85",
+   "videos": [
+    "5Fy5P2IQMkE"
+   ]
+  },
+  "heo:6ae1bce4f5e5857923011736": {
+   "auteur": "heo:Flotant",
+   "communaute": "Hisse et Oh",
+   "date": 1793178852,
+   "fil": "heo:sailing/boucle-en-baltique-2026",
+   "id": "heo:6ae1bce4f5e5857923011736",
+   "mots": [],
+   "source": "hisse_et_oh",
+   "texte": "Bonjour,\nJ'ai fait 3 petits films de mon tours de baltique 2026. Comme j'ai bien profité des conseils et inspiration sur le site à mon tour de partager. Je mets le parcours en short et le 1 er. Si un énième film est de trop, ce que je comprendrais, je m'arrête là.\nd'abord le short\n\npremière partie",
+   "titre_fil": "boucle en baltique 2026",
+   "type": "commentaire",
+   "url": "https://www.hisse-et-oh.com/sailing/boucle-en-baltique-2026#6ae1bce4f5e5857923011736",
+   "videos": [
+    "5jUW87RbC54",
+    "S4HMsozCqaM"
+   ]
+  },
+  "heo:6ae2430fbaa252cebf012d02": {
+   "auteur": "heo:Thomas_75",
+   "communaute": "Hisse et Oh",
+   "date": 1793213199,
+   "fil": "heo:sailing/nouvel-imoca-groupe-dubreuil",
+   "id": "heo:6ae2430fbaa252cebf012d02",
+   "mots": [],
+   "source": "hisse_et_oh",
+   "texte": "Vidéo de présentation du nouvel Imoca : \n\nCette catégorie m'a toujours fait rêver et a toujours été une source d'inspiration pour la préparation de mes voiliers mais alors la... quand l'imoca de Desjoyeaux a été mi a l'eau en 2007 j'etais fasciné.  Je dois devenir vieux mais ca ne me fait plus du tout envie.\nCaméra, IA, Joystick, cockpit complètement fermé aucun de ces équipements ne m'attire pour la navigation.\n\nIl sera certainement magnifique a voir naviguer lors du départ de dimanche.",
+   "titre_fil": "Nouvel Imoca Groupe Dubreuil",
+   "type": "commentaire",
+   "url": "https://www.hisse-et-oh.com/sailing/nouvel-imoca-groupe-dubreuil#6ae2430fbaa252cebf012d02",
+   "videos": [
+    "IgJy6iyVMts"
+   ]
+  },
+  "heo:6ae2fce1d04b707d8700670d": {
+   "auteur": "heo:Now",
+   "communaute": "Hisse et Oh",
+   "date": 1793260769,
+   "fil": "heo:sailing/fil-de-partage-petites-astuces-et-trucs-pratiques-partie-2",
+   "id": "heo:6ae2fce1d04b707d8700670d",
+   "mots": [],
+   "source": "hisse_et_oh",
+   "texte": "Hello,\n\nNettoyage, lubrification de la gorge du mat pour la GV (sans grimper au mat)\n\nC'est pas de moi et c'est pas nouveau, on à tous essayer ce genres de choses pour que la GV monte facilement, mais c'est une illustration d'une des techniques possibles.",
+   "titre_fil": "Fil de partage : petites astuces et trucs pratiques (Partie 2)",
+   "type": "commentaire",
+   "url": "https://www.hisse-et-oh.com/sailing/fil-de-partage-petites-astuces-et-trucs-pratiques-partie-2#6ae2fce1d04b707d8700670d",
+   "videos": [
+    "4DcMeecOyE0"
+   ]
+  },
+  "heo:6ae3904c6575ce69dc0062dd": {
+   "auteur": "heo:Now",
+   "communaute": "Hisse et Oh",
+   "date": 1793298508,
+   "fil": "heo:sailing/route-du-rhum-a-71-ans",
+   "id": "heo:6ae3904c6575ce69dc0062dd",
+   "mots": [],
+   "source": "hisse_et_oh",
+   "texte": "Hello,\n\nUne interview rafraichissante de Charlie Capelle qui part pour sa 7eme Route du Rhum à 71 ans toujours sur A Capella! \nLe duo de doyens de cette course mythique. Un discours plein de lucidité et d'humilité.\n\nEnjoy ...",
+   "titre_fil": "Route du Rhum à 71 ans",
+   "type": "commentaire",
+   "url": "https://www.hisse-et-oh.com/sailing/route-du-rhum-a-71-ans#6ae3904c6575ce69dc0062dd",
+   "videos": [
+    "m2CFh3YPQa8"
+   ]
+  },
+  "heo:6ae4a327e6c7d9226454b23f": {
+   "auteur": "heo:Flotant",
+   "communaute": "Hisse et Oh",
+   "date": 1793368871,
+   "fil": "heo:sailing/boucle-en-baltique-2026",
+   "id": "heo:6ae4a327e6c7d9226454b23f",
+   "mots": [],
+   "source": "hisse_et_oh",
+   "texte": "Voici la 2 ème video tirer de mon périple. c'est un condensé de mon polarstep. Car imaginez bien qu'en 4 mois j'ai beaucoup de photos et vidéos, et je ne voudrais pas faire une soirée diapo !!!!",
+   "titre_fil": "boucle en baltique 2026",
+   "type": "commentaire",
+   "url": "https://www.hisse-et-oh.com/sailing/boucle-en-baltique-2026#6ae4a327e6c7d9226454b23f",
+   "videos": [
+    "wUu01Tyr7pA"
+   ]
+  },
+  "heo:6ae8e767264ecb61cfa58ff3": {
+   "auteur": "heo:tang-nard",
+   "communaute": "Hisse et Oh",
+   "date": 1793648487,
+   "fil": "heo:sailing/acces-a-barneville",
+   "id": "heo:6ae8e767264ecb61cfa58ff3",
+   "mots": [],
+   "source": "hisse_et_oh",
+   "texte": "Sortie de Barneville peu de temps après l'ouverture, et entrée à Portbail à la voile au près.\n\nPortbail est plus technique mais quand on connaît, on peut jouer avec le contre-courant. \nBarneville, à part attendre, il n'y a pas grand chose à faire.",
+   "titre_fil": "Acces à barneville",
+   "type": "commentaire",
+   "url": "https://www.hisse-et-oh.com/sailing/acces-a-barneville#6ae8e767264ecb61cfa58ff3",
+   "videos": [
+    "bfVvl7rtuSI"
    ]
   },
   "heo:6aead22e8f850441e70a0354": {
@@ -98,10 +451,28 @@
   }
  },
  "fils": {
+  "sailing/acces-a-barneville": {
+   "vu_le": 1794210486
+  },
+  "sailing/achat-dun-bateau-a-letranger": {
+   "vu_le": 1794210486
+  },
   "sailing/achat-feeling-920": {
    "vu_le": 1794210486
   },
   "sailing/achat-gibsea-234-demande-davis": {
+   "vu_le": 1794210486
+  },
+  "sailing/ais-en-emission-ne-marche-pas": {
+   "vu_le": 1794210486
+  },
+  "sailing/ais-virtuel-avec-marine-traffic": {
+   "vu_le": 1794210486
+  },
+  "sailing/ajouter-un-passe-drisse-dans-le-mat": {
+   "vu_le": 1794210486
+  },
+  "sailing/alternative-aux-anses-darlet": {
    "vu_le": 1794210486
   },
   "sailing/amenagement-sangria-1": {
@@ -113,16 +484,46 @@
   "sailing/antifouling-matrice-dure-2": {
    "vu_le": 1794210486
   },
+  "sailing/app-de-suivi-de-travaux-slash-entretien": {
+   "vu_le": 1794210486
+  },
+  "sailing/appli-simulateur-de-manoeuvre-de-port-pour-voiliers-opensource": {
+   "vu_le": 1794210486
+  },
   "sailing/atlas-des-courants-de-marees": {
    "vu_le": 1794210486
   },
+  "sailing/attalia-32-ou-melody": {
+   "vu_le": 1794210486
+  },
+  "sailing/autre-simulateur": {
+   "vu_le": 1794210486
+  },
+  "sailing/avis-slash-retours-dexperience-sur-sigma-41": {
+   "vu_le": 1794210486
+  },
   "sailing/bateaux-bepox-7": {
+   "vu_le": 1794210486
+  },
+  "sailing/batteries-en-parallele-differentes": {
+   "vu_le": 1794210486
+  },
+  "sailing/batteries-lithium-dois-je-vraiment-installer-lorion-xs": {
+   "vu_le": 1794210486
+  },
+  "sailing/bavaria-30-cruiser-quelles-autres-options": {
    "vu_le": 1794210486
   },
   "sailing/besoin-davis-jeanneau-sangria": {
    "vu_le": 1794210486
   },
   "sailing/boiserie-dufour-2800-vernis-ou-huile": {
+   "vu_le": 1794210486
+  },
+  "sailing/boucle-en-baltique-2026": {
+   "vu_le": 1794210486
+  },
+  "sailing/boulons-de-quille-sunrise": {
    "vu_le": 1794210486
   },
   "sailing/brise-de-mer-31-2": {
@@ -134,10 +535,31 @@
   "sailing/camera-video-sous-coque-point-point-point": {
    "vu_le": 1794210486
   },
+  "sailing/carte-de-micronesie": {
+   "vu_le": 1794210486
+  },
   "sailing/categorie-de-navigation-pour-bateau-ancien": {
    "vu_le": 1794210486
   },
+  "sailing/cest-de-losmose": {
+   "vu_le": 1794210486
+  },
+  "sailing/changer-le-mmsi-sur-une-vhf-navicom-rt550": {
+   "vu_le": 1794210486
+  },
   "sailing/chantier-mexique-cote-ouest": {
+   "vu_le": 1794210486
+  },
+  "sailing/chariot-et-rail-de-foc-et-solent-sur-jeanneau-rush": {
+   "vu_le": 1794210486
+  },
+  "sailing/chauffage-a-air-pulse-sur-first-31-point-7": {
+   "vu_le": 1794210486
+  },
+  "sailing/chauffe-eau-12": {
+   "vu_le": 1794210486
+  },
+  "sailing/choisir-mon-futur-trimaran": {
    "vu_le": 1794210486
   },
   "sailing/choix-dun-bateau-pour-un-tour-deurope-du-nord-en-solitaire-et-equipage-reduit": {
@@ -146,16 +568,46 @@
   "sailing/choix-hors-bord-15cv-remotorisation-cata": {
    "vu_le": 1794210486
   },
+  "sailing/comment-coincer-son-ecoute-sur-un-deriveur": {
+   "vu_le": 1794210486
+  },
   "sailing/coppercoat-version-diy-point-point-point": {
    "vu_le": 1794210486
   },
   "sailing/courants-sur-navionics": {
    "vu_le": 1794210486
   },
+  "sailing/courbe-de-charge-lifepo4-et-chargeur-cristec-cps2": {
+   "vu_le": 1794210486
+  },
+  "sailing/course-au-large-en-mediterranee-type-la-loro-piana-giraglia-qui-peut-me-renseigner-point-point-point": {
+   "vu_le": 1794210486
+  },
   "sailing/d1-30-600-h-fume": {
    "vu_le": 1794210486
   },
+  "sailing/dans-les-planchers-du-dufour-2800-a-quoi-ca-sert": {
+   "vu_le": 1794210486
+  },
+  "sailing/delphia-33-point-3-meche-de-safran": {
+   "vu_le": 1794210486
+  },
+  "sailing/demarrage-a-froid-regime-ralenti-md2020": {
+   "vu_le": 1794210486
+  },
   "sailing/demarreur-slash-clic-clic-slash-solution": {
+   "vu_le": 1794210486
+  },
+  "sailing/demontage-tambour-denrouleur-facnor-ti200": {
+   "vu_le": 1794210486
+  },
+  "sailing/demonter-les-safrans-dun-maldive-32": {
+   "vu_le": 1794210486
+  },
+  "sailing/derive-qui-se-met-de-travers-et-qui-se-bloque-feeling-850-dl": {
+   "vu_le": 1794210486
+  },
+  "sailing/detection-des-cibles-ais-par-onwa-ks200a": {
    "vu_le": 1794210486
   },
   "sailing/dictionnaire-marin": {
@@ -164,10 +616,28 @@
   "sailing/dimensionnement-et-usure-dun-arbre-dhelice": {
    "vu_le": 1794210486
   },
+  "sailing/diy-soft-padeyes": {
+   "vu_le": 1794210486
+  },
+  "sailing/django-750-polaires": {
+   "vu_le": 1794210486
+  },
+  "sailing/dufour-30-classic-en-solo": {
+   "vu_le": 1794210486
+  },
+  "sailing/dufour-t7-ou-pas": {
+   "vu_le": 1794210486
+  },
   "sailing/eclate-denrouleur-de-gv-mat-zpar": {
    "vu_le": 1794210486
   },
   "sailing/effondrement-du-marche-des-voiliers-aux-etats-unis-et-chez-nous": {
+   "vu_le": 1794210486
+  },
+  "sailing/emplacement-de-la-sonde-de-temperature-dans-un-frigo": {
+   "vu_le": 1794210486
+  },
+  "sailing/enfoncement-de-la-coque-delamination-reparation": {
    "vu_le": 1794210486
   },
   "sailing/enrouleur-de-genois-facnor-first-31-point-7": {
@@ -176,34 +646,79 @@
   "sailing/enrouleur-facnor-flatdeck": {
    "vu_le": 1794210486
   },
+  "sailing/entree-au-mexique-cote-pacifique": {
+   "vu_le": 1794210486
+  },
   "sailing/eolienne-reversible-hydrogenerateur-duogen-3-de-atmb": {
    "vu_le": 1794210486
   },
   "sailing/epontille-de-melody": {
    "vu_le": 1794210486
   },
+  "sailing/epuisement-et-vie-a-bord-au-long-cours": {
+   "vu_le": 1794210486
+  },
   "sailing/etancheite-tube-de-jaumiere": {
+   "vu_le": 1794210486
+  },
+  "sailing/etap-32-s": {
+   "vu_le": 1794210486
+  },
+  "sailing/eteindre-opencpn-openplotter": {
+   "vu_le": 1794210486
+  },
+  "sailing/etoile-heoclub-first-35-2": {
    "vu_le": 1794210486
   },
   "sailing/fabrication-dun-sac-de-pont": {
    "vu_le": 1794210486
   },
+  "sailing/fil-de-partage-petites-astuces-et-trucs-pratiques-partie-2": {
+   "vu_le": 1794210486
+  },
   "sailing/fissure-skeg-feeling-920": {
+   "vu_le": 1794210486
+  },
+  "sailing/fixation-du-frein-de-bome-walder": {
+   "vu_le": 1794210486
+  },
+  "sailing/florence-arthaud-route-du-rhum": {
+   "vu_le": 1794210486
+  },
+  "sailing/fourrage-des-aussiere-situation-extreme": {
+   "vu_le": 1794210486
+  },
+  "sailing/gestionnaire-thermostat-frigo": {
    "vu_le": 1794210486
   },
   "sailing/ggr-2026-en-virtuel": {
    "vu_le": 1794210486
   },
+  "sailing/girouette-sans-fil-nasa-clipper": {
+   "vu_le": 1794210486
+  },
   "sailing/golden-globe-race-ggr-2026-2027-3": {
    "vu_le": 1794210486
   },
+  "sailing/gps-nav-et-co-defaillant-chez-vous-aussi": {
+   "vu_le": 1794210486
+  },
   "sailing/hivernage-pyrenees-orientales-et-aude": {
+   "vu_le": 1794210486
+  },
+  "sailing/hivernage-stockholm": {
    "vu_le": 1794210486
   },
   "sailing/ia-et-routage-sur-gemini": {
    "vu_le": 1794210486
   },
   "sailing/il-est-mort-mon-victron": {
+   "vu_le": 1794210486
+  },
+  "sailing/infos-chaps-35-dans-voile-magazine-et-voiles-et-voiliers": {
+   "vu_le": 1794210486
+  },
+  "sailing/installation-bout-dehors-sur-first-305": {
    "vu_le": 1794210486
   },
   "sailing/je-possede-un-ange-de-mer-avec-un-rc80d-et-je-rech": {
@@ -215,16 +730,40 @@
   "sailing/jester-challenge-2027-slash-2028": {
    "vu_le": 1794210486
   },
+  "sailing/journal-de-bord-gota-canal-et-norvege": {
+   "vu_le": 1794210486
+  },
+  "sailing/lancelin-albatros-ou-cousin-dyneestar": {
+   "vu_le": 1794210486
+  },
   "sailing/le-belem-a-saint-nazaire-pour-la-refection-de-sa-coque-en-acier": {
    "vu_le": 1794210486
   },
   "sailing/le-biloup-765": {
    "vu_le": 1794210486
   },
+  "sailing/le-tour-du-monde-du-beligou-1966-1968-site-remis-a-jour-plus-de-400-photos-kodachrome-depoque": {
+   "vu_le": 1794210486
+  },
+  "sailing/longueur-de-lestrope-dun-tourmentin": {
+   "vu_le": 1794210486
+  },
   "sailing/macoui-application-de-meteo-et-routage-gratuite-2": {
    "vu_le": 1794210486
   },
+  "sailing/mat-casse-cherche-mat-first-22-25-evasion-22-brio-etap": {
+   "vu_le": 1794210486
+  },
   "sailing/mat-recherche-suite-casse-jollenkreuzer-15": {
+   "vu_le": 1794210486
+  },
+  "sailing/milles-sabords-1": {
+   "vu_le": 1794210486
+  },
+  "sailing/moody-45-ds-tour-du-monde": {
+   "vu_le": 1794210486
+  },
+  "sailing/mouillage-en-solo-guindeau-manuel": {
    "vu_le": 1794210486
   },
   "sailing/navigation-bijagos": {
@@ -233,16 +772,43 @@
   "sailing/navtex-et-raspberry": {
    "vu_le": 1794210486
   },
+  "sailing/noeud-papillon": {
+   "vu_le": 1794210486
+  },
   "sailing/notice-moteur-rc16d": {
+   "vu_le": 1794210486
+  },
+  "sailing/nouveau-pilote-de-barre-franche-navimpulse-alternative-point-point-point": {
+   "vu_le": 1794210486
+  },
+  "sailing/nouvel-imoca-groupe-dubreuil": {
    "vu_le": 1794210486
   },
   "sailing/oceanis-343-gte": {
    "vu_le": 1794210486
   },
+  "sailing/odometre-analogique": {
+   "vu_le": 1794210486
+  },
   "sailing/opencpn-liaison-wifi-pc-tablette-donnees-recues-mais-non-affichees": {
    "vu_le": 1794210486
   },
+  "sailing/ouvrages-voile-et-voiliers": {
+   "vu_le": 1794210486
+  },
+  "sailing/partage-dexperiences-sur-lappli-tziboat-sur-android-et-ios": {
+   "vu_le": 1794210486
+  },
   "sailing/partage-dexperiences-sur-lusage-de-lapplication-navimetrix-2": {
+   "vu_le": 1794210486
+  },
+  "sailing/patin-damure-pour-spi-slash-votre-avis": {
+   "vu_le": 1794210486
+  },
+  "sailing/peinture-et-antifouling-2": {
+   "vu_le": 1794210486
+  },
+  "sailing/pen-duick-4-slash-manureva": {
    "vu_le": 1794210486
   },
   "sailing/pied-de-mat-feeling-920": {
@@ -251,13 +817,28 @@
   "sailing/pile-a-combustible-21": {
    "vu_le": 1794210486
   },
+  "sailing/pilote-automatique-sur-un-tabur-320": {
+   "vu_le": 1794210486
+  },
+  "sailing/polaire-bavaria-c-42": {
+   "vu_le": 1794210486
+  },
   "sailing/pompe-electrique-pour-deriveur": {
+   "vu_le": 1794210486
+  },
+  "sailing/pompe-vidange-d-huile-md-2030": {
    "vu_le": 1794210486
   },
   "sailing/ports-sympathiques-bretagne-nord": {
    "vu_le": 1794210486
   },
+  "sailing/pots-antifouling-date-de-peremption": {
+   "vu_le": 1794210486
+  },
   "sailing/prise-de-compression-md2020": {
+   "vu_le": 1794210486
+  },
+  "sailing/prise-en-main-dun-foxtrot-jouet-17": {
    "vu_le": 1794210486
   },
   "sailing/prise-usb-a-ou-usb-c": {
@@ -266,13 +847,43 @@
   "sailing/probleme-fonctionnement-starlink-standard-4": {
    "vu_le": 1794210486
   },
+  "sailing/probleme-open-cpn-encore-point-point-point": {
+   "vu_le": 1794210486
+  },
   "sailing/probleme-pilote-auto-raymarine-sea-talk-nmea": {
+   "vu_le": 1794210486
+  },
+  "sailing/puces-mille-sabords-2026": {
+   "vu_le": 1794210486
+  },
+  "sailing/pynav-telecommande-pypilot-et-centrale-nmea": {
    "vu_le": 1794210486
   },
   "sailing/qtvlm-logiciel-de-cartographie-meteo-et-routage-21": {
    "vu_le": 1794210486
   },
+  "sailing/qualite-cristal-capote-de-descente-1": {
+   "vu_le": 1794210486
+  },
+  "sailing/quasi-seul-pour-les-multicoques": {
+   "vu_le": 1794210486
+  },
   "sailing/que-pensez-vous-des-gv-sur-enrouleur": {
+   "vu_le": 1794210486
+  },
+  "sailing/quel-bateau-est-ce-voile-aviron-550": {
+   "vu_le": 1794210486
+  },
+  "sailing/quel-gilet-pour-le-voile-aviron": {
+   "vu_le": 1794210486
+  },
+  "sailing/quel-type-de-chauffage-choisir-pour-mon-voilier": {
+   "vu_le": 1794210486
+  },
+  "sailing/question-aux-specialistes-de-raymarine-i60-point-point-point": {
+   "vu_le": 1794210486
+  },
+  "sailing/qui-a-deja-supprime-un-propulseur-detrave": {
    "vu_le": 1794210486
   },
   "sailing/qui-est-proprietaire-dun-trimaran-drop-26-ou-challenge-30": {
@@ -287,13 +898,46 @@
   "sailing/recensement-des-romanee": {
    "vu_le": 1794210486
   },
+  "sailing/recherche-conseils-toilette-marinnrm69": {
+   "vu_le": 1794210486
+  },
   "sailing/recit-dune-navigation-dans-le-pacifique": {
+   "vu_le": 1794210486
+  },
+  "sailing/refection-dun-roof-en-teck": {
+   "vu_le": 1794210486
+  },
+  "sailing/refection-plancher-voilier": {
+   "vu_le": 1794210486
+  },
+  "sailing/reflexions-sur-navigation-au-grand-large": {
    "vu_le": 1794210486
   },
   "sailing/regulateur-dallure-atoms-17": {
    "vu_le": 1794210486
   },
+  "sailing/remise-en-etat-dun-dufour-2800": {
+   "vu_le": 1794210486
+  },
+  "sailing/remplacement-paliers-slash-roulements-de-meche-de-safran": {
+   "vu_le": 1794210486
+  },
+  "sailing/repartiteur-de-charge-42": {
+   "vu_le": 1794210486
+  },
+  "sailing/reservoir-gazole-sun-fizz": {
+   "vu_le": 1794210486
+  },
+  "sailing/retour-dexperience-radar-furuno-wifi-drs4w": {
+   "vu_le": 1794210486
+  },
+  "sailing/retours-dexperiences-sur-lusage-davalon-offshore-2": {
+   "vu_le": 1794210486
+  },
   "sailing/rincage-de-la-chaine-et-lancre": {
+   "vu_le": 1794210486
+  },
+  "sailing/rm-880-barre-dure": {
    "vu_le": 1794210486
   },
   "sailing/route-du-rhum-2026-suivre-la-course-2": {
@@ -302,19 +946,58 @@
   "sailing/route-du-rhum-2026-voir-le-depart-et-suivre-la-course": {
    "vu_le": 1794210486
   },
+  "sailing/route-du-rhum-a-71-ans": {
+   "vu_le": 1794210486
+  },
+  "sailing/rule-mate-1100-ne-signale-pas-la-detection-deau-sur-le-fil-manuel-blanc-marron": {
+   "vu_le": 1794210486
+  },
+  "sailing/sancerre-mediterranee": {
+   "vu_le": 1794210486
+  },
+  "sailing/securite-dans-le-secteur-du-venezuela-et-du-sud-de-larc-antillais": {
+   "vu_le": 1794210486
+  },
+  "sailing/serie-sur-le-vendee-globe-sur-francetv": {
+   "vu_le": 1794210486
+  },
+  "sailing/silent-blocks-ellebogen": {
+   "vu_le": 1794210486
+  },
   "sailing/simulateur-polonais-de-manoeuvre-de-port": {
+   "vu_le": 1794210486
+  },
+  "sailing/sondage-quel-est-votre-bassin-de-navigation-prefere": {
+   "vu_le": 1794210486
+  },
+  "sailing/sonde-temperature-yanmar-3ym": {
+   "vu_le": 1794210486
+  },
+  "sailing/stervenn-mk2-qui-part-au-lof": {
    "vu_le": 1794210486
   },
   "sailing/stratification-port-saint-louis-du-rhone-chez-navy-service-avis-sur-professionnel": {
    "vu_le": 1794210486
   },
+  "sailing/sujet-sensible-la-clim": {
+   "vu_le": 1794210486
+  },
+  "sailing/super-mistral-amel": {
+   "vu_le": 1794210486
+  },
   "sailing/telecommande-pour-pilote-auto-ev100": {
+   "vu_le": 1794210486
+  },
+  "sailing/tempete-alderney": {
    "vu_le": 1794210486
   },
   "sailing/tensiometre-greement-conseil-pour-achat-eventuel": {
    "vu_le": 1794210486
   },
   "sailing/tissu-voile-tyra-tec-thinner-lighter-stronger": {
+   "vu_le": 1794210486
+  },
+  "sailing/transatlantique-passer-par-le-cap-vert-ou-pas": {
    "vu_le": 1794210486
   },
   "sailing/transformation-coque-egal-proprietaire-sur-catamaran": {
@@ -326,10 +1009,40 @@
   "sailing/un-pogo-de-50-pour-la-croisiere-hauturiere": {
    "vu_le": 1794210486
   },
+  "sailing/une-tres-bonne-veste-de-quart": {
+   "vu_le": 1794210486
+  },
+  "sailing/usure-chaine-de-mouillage": {
+   "vu_le": 1794210486
+  },
+  "sailing/utiliser-des-voiles-prevue-pour-un-mat-de-9-m-50-sur-un-mat-de-10-m-50-et-prolonger-un-etai-portant-un-enrouleur": {
+   "vu_le": 1794210486
+  },
+  "sailing/utilisez-vous-le-routage": {
+   "vu_le": 1794210486
+  },
+  "sailing/vdo-logic-jai-un-probleme-sur-laererien-plus-precisement-la-girouette-qui-est-devenue-folle-apres-un-orage": {
+   "vu_le": 1794210486
+  },
+  "sailing/vis-pointeau-inox-m8-bloquee-dans-le-tourteau-daccouplement": {
+   "vu_le": 1794210486
+  },
+  "sailing/voilerie-a-tanger": {
+   "vu_le": 1794210486
+  },
+  "sailing/voilier-a-tt-faire-solide-fiable-voyage-solo-autour-de-30k": {
+   "vu_le": 1794210486
+  },
+  "sailing/voilier-detruit-a-lanzarote": {
+   "vu_le": 1794210486
+  },
   "sailing/voiliers-scandinaves-et-nordiques-performants": {
    "vu_le": 1794210486
   },
   "sailing/volvo-2003-et-inverseur-ms2b": {
+   "vu_le": 1794210486
+  },
+  "sailing/vous-avez-un-gib-sea-77-point-point-point": {
    "vu_le": 1794210486
   },
   "sailing/ya-pas-le-feu-au-lac-nouveau-heo-et-a-la-recherche-de-conseils": {
