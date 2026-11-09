@@ -1,49 +1,49 @@
 {
  "curseurs": {
-  "Anthropic youtube|comment": 1794128318,
-  "Anthropic youtube|story": 1794128318,
-  "Anthropic youtu|comment": 1794128318,
-  "Anthropic youtu|story": 1794128318,
-  "Claude youtube|comment": 1794128318,
-  "Claude youtube|story": 1794128318,
-  "Claude youtu|comment": 1794128318,
-  "Claude youtu|story": 1794128318,
-  "LLM youtube|comment": 1794128318,
-  "LLM youtube|story": 1794128318,
-  "LLM youtu|comment": 1794128318,
-  "LLM youtu|story": 1794128318,
-  "MCP youtube|comment": 1794128318,
-  "MCP youtube|story": 1794128318,
-  "MCP youtu|comment": 1794128318,
-  "MCP youtu|story": 1794128318,
-  "RAG youtube|comment": 1794128318,
-  "RAG youtube|story": 1794128318,
-  "RAG youtu|comment": 1794128318,
-  "RAG youtu|story": 1794128318,
-  "agent youtube|comment": 1794128318,
-  "agent youtube|story": 1794128318,
-  "agent youtu|comment": 1794128318,
-  "agent youtu|story": 1794128318,
-  "agentic youtube|comment": 1794128318,
-  "agentic youtube|story": 1794128318,
-  "agentic youtu|comment": 1794128318,
-  "agentic youtu|story": 1794128318,
-  "agents youtube|comment": 1794128318,
-  "agents youtube|story": 1794128318,
-  "agents youtu|comment": 1794128318,
-  "agents youtu|story": 1794128318,
-  "automation youtube|comment": 1794128318,
-  "automation youtube|story": 1794128318,
-  "automation youtu|comment": 1794128318,
-  "automation youtu|story": 1794128318,
-  "n8n youtube|comment": 1794128318,
-  "n8n youtube|story": 1794128318,
-  "n8n youtu|comment": 1794128318,
-  "n8n youtu|story": 1794128318,
-  "prompt youtube|comment": 1794128318,
-  "prompt youtube|story": 1794128318,
-  "prompt youtu|comment": 1794128318,
-  "prompt youtu|story": 1794128318
+  "Anthropic youtube|comment": 1794229121,
+  "Anthropic youtube|story": 1794229121,
+  "Anthropic youtu|comment": 1794229121,
+  "Anthropic youtu|story": 1794229121,
+  "Claude youtube|comment": 1794229121,
+  "Claude youtube|story": 1794229121,
+  "Claude youtu|comment": 1794229121,
+  "Claude youtu|story": 1794229121,
+  "LLM youtube|comment": 1794229121,
+  "LLM youtube|story": 1794229121,
+  "LLM youtu|comment": 1794229121,
+  "LLM youtu|story": 1794229121,
+  "MCP youtube|comment": 1794229121,
+  "MCP youtube|story": 1794229121,
+  "MCP youtu|comment": 1794229121,
+  "MCP youtu|story": 1794229121,
+  "RAG youtube|comment": 1794229121,
+  "RAG youtube|story": 1794229121,
+  "RAG youtu|comment": 1794229121,
+  "RAG youtu|story": 1794229121,
+  "agent youtube|comment": 1794229121,
+  "agent youtube|story": 1794229121,
+  "agent youtu|comment": 1794229121,
+  "agent youtu|story": 1794229121,
+  "agentic youtube|comment": 1794229121,
+  "agentic youtube|story": 1794229121,
+  "agentic youtu|comment": 1794229121,
+  "agentic youtu|story": 1794229121,
+  "agents youtube|comment": 1794229121,
+  "agents youtube|story": 1794229121,
+  "agents youtu|comment": 1794229121,
+  "agents youtu|story": 1794229121,
+  "automation youtube|comment": 1794229121,
+  "automation youtube|story": 1794229121,
+  "automation youtu|comment": 1794229121,
+  "automation youtu|story": 1794229121,
+  "n8n youtube|comment": 1794229121,
+  "n8n youtube|story": 1794229121,
+  "n8n youtu|comment": 1794229121,
+  "n8n youtu|story": 1794229121,
+  "prompt youtube|comment": 1794229121,
+  "prompt youtube|story": 1794229121,
+  "prompt youtu|comment": 1794229121,
+  "prompt youtu|story": 1794229121
  },
  "elements": {
   "34210819": {
@@ -85848,6 +85848,115 @@
     "Ych6pvLMKCU",
     "RmfNUM2CbbM",
     "aCIN-t3VxJ0"
+   ]
+  },
+  "50411893": {
+   "auteur": "totetsu",
+   "date": 1794132578,
+   "fil": "50411467",
+   "id": "50411893",
+   "mots": [
+    "agent",
+    "agents"
+   ],
+   "texte": "I think It needs to be as diverse as people .. If agents are to become our constant \"muse\" like companions, I want the wiring of the brain of mine to be as wired as possible.. Why not juggling chain saws in orbit.. https://www.youtube.com/watch?v=JcJSW7Rprio&t=17s",
+   "titre_fil": "Agent memory needs its OpenTelemetry moment",
+   "type": "commentaire",
+   "videos": [
+    "JcJSW7Rprio"
+   ]
+  },
+  "50411956": {
+   "auteur": "waximabbax",
+   "date": 1794133240,
+   "fil": "50376975",
+   "id": "50411956",
+   "mots": [
+    "agent"
+   ],
+   "texte": "Right now the only Agent that fully supports Computer Control both natively and in background on same machine is TheGitAI Coding Agent. It also has similar one for MacOS. Here is a video on that:\n\nhttps://www.youtube.com/watch?v=p_-pIIIpNXY",
+   "titre_fil": "Ask HN: Any way to have inbuild second screen for AI to control",
+   "type": "commentaire",
+   "videos": [
+    "p_-pIIIpNXY"
+   ]
+  },
+  "50413425": {
+   "auteur": "lroe",
+   "date": 1794146242,
+   "fil": "50413425",
+   "id": "50413425",
+   "mots": [
+    "Anthropic"
+   ],
+   "texte": "Anthropic Let an Outsider Check Its AI Progress. Here's What We Can't See",
+   "titre_fil": "Anthropic Let an Outsider Check Its AI Progress. Here's What We Can't See",
+   "type": "article",
+   "videos": [
+    "oFuoPEtIqWg"
+   ]
+  },
+  "50413806": {
+   "auteur": "tradertanmay",
+   "date": 1794149278,
+   "fil": "50413806",
+   "id": "50413806",
+   "mots": [
+    "agent",
+    "agents"
+   ],
+   "texte": "The Missing Undo Button for Coding Agents [video]",
+   "titre_fil": "The Missing Undo Button for Coding Agents [video]",
+   "type": "article",
+   "videos": [
+    "BT1Mo-fD-g0"
+   ]
+  },
+  "50419530": {
+   "auteur": "ramigb",
+   "date": 1794185322,
+   "fil": "50417407",
+   "id": "50419530",
+   "mots": [
+    "Claude",
+    "agent",
+    "agents"
+   ],
+   "texte": "I've been working on Epoptes, an open-source tool that lets me run coding agents (Claude, Codex, Pi, Antigravity) autonomously for long periods while still being able to monitor and steer their work.\n\nIt started because I wanted to get back into making games, a hobby I've struggled to find time for over the years. I wanted to give agents a goal, let them work for hours, and come back to something I can actually try and give feedback on.\n\nI've since used it for game development, research, and building other tools, with some runs lasting over 20 hours.\n\nIt's still early and rough around the edges, but I'm having a lot of fun with it!\n\nhttps://ramigb.github.io/epoptes/\nAnd some footage of a game I am building -mainly- with Epoptes \nhttps://www.youtube.com/watch?v=1UEOr8B4Yfg",
+   "titre_fil": "Ask HN: What are you working on? (November 2026)",
+   "type": "commentaire",
+   "videos": [
+    "1UEOr8B4Yfg"
+   ]
+  },
+  "50422387": {
+   "auteur": "wmil",
+   "date": 1794210372,
+   "fil": "50417407",
+   "id": "50422387",
+   "mots": [
+    "MCP"
+   ],
+   "texte": "Still working on my Minecraft MCP project. The models have good image analysis now so I'm feeding them topographic maps of the terrain and they build using Starlark scripts.\n\nThis keeps the tool calls low and it's fast enough to work in voice mode.\n\nhttps://www.youtube.com/watch?v=FxZU1DuSEGg",
+   "titre_fil": "Ask HN: What are you working on? (November 2026)",
+   "type": "commentaire",
+   "videos": [
+    "FxZU1DuSEGg"
+   ]
+  },
+  "50424423": {
+   "auteur": "passwordoops",
+   "date": 1794225677,
+   "fil": "50418975",
+   "id": "50424423",
+   "mots": [
+    "Anthropic"
+   ],
+   "texte": "The substack linked below only looks into one tiny sliver of the off-sheet circular financing that dwarfs even the most optimistic revenue growth, but it's a good place to start to understand why this is a bubble and that, yes, Anthropic is in fact \"losing gigantic amounts of money\":\n\n\"Boom and bust is not about revenue. To find that kind of risk, start by reading the balance sheet... [The 2008] bust came from off-balance-sheet instruments.\"\n\nhttps://kennyfraser.substack.com/p/anthropic-ipo-part-one-where-to-look\n\nPatrick Boyle goes into a deep dive that's well worth the watch:\n\nhttps://youtu.be/Ic1Jf7VlXRM?si=DjiP6LVdEykBlWwU",
+   "titre_fil": "I'm not convinced the AI bubble exists",
+   "type": "commentaire",
+   "videos": [
+    "Ic1Jf7VlXRM"
    ]
   }
  }
