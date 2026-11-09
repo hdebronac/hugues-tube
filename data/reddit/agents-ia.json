@@ -1,0 +1,1006 @@
+{
+ "curseurs": {
+  "ClaudeAI|posts": {
+   "plus_ancien": 1793442925,
+   "plus_recent": 1794210310
+  }
+ },
+ "elements": {
+  "reddit:1xk7g9q": {
+   "auteur": "reddit:BeautifulDataViz",
+   "communaute": "r/ClaudeAI",
+   "date": 1793444912,
+   "fil": "reddit:1xk7g9q",
+   "id": "reddit:1xk7g9q",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/ClaudeAI/comments/1xk7g9q/i_tried_running_a_small_company_of_channels_in/\nBeen playing with Duet since launch and wanted to test something bigger than inbox/calendar stuff. So I set up a CEO channel and gave it a team of role channels (scout/research, marketing, developer) and had them build a find-a-dog-trainer directory from scratch: niche research, real listings, SEO copy, the site, domain, email.\n\n\n\n**A few things I learned that might save you time:**\n\n\n\n\\- One channel per role works way better than one giant chat. Context stays clean and you can see who did what.\n\n\\- Let the CEO channel hand off work, but tell it exactly what \"done\" looks like for each role, or it drifts.\n\n\\- Connectors are where it gets useful. With DataForSEO hooked up, the research channel pulled real keyword data and listings instead of guessing.\n\n\\- Keep approvals on for anything that spends money. It messaged me before buying the domain, which is exactly what you want.\n\n\\- It had some issues with Vercel but eventually it turned out it was my fault.\n\nThe site's live now on its own domain etc., not that I would be promoting the site, it was just an experiment to see the possibilities. \n\nI recorded the whole thing unedited (it's long, \\~1h48m) for anyone who learns better by watching: [https://youtu.be/7Ow9r-p7nWY](https://youtu.be/7Ow9r-p7nWY)\n\nHopefully it will help someone :)\n\nHappy to answer questions on the channel setup. Also curious how others are structuring multi-chan […]",
+   "titre_fil": "I tried running a small “company” of channels in Claude Duet to build a real directory site. Here’s what worked and what didn’t",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xk7g9q/",
+   "videos": [
+    "7Ow9r-p7nWY"
+   ]
+  },
+  "reddit:1xkewdn": {
+   "auteur": "reddit:tozim",
+   "communaute": "r/ClaudeAI",
+   "date": 1793464834,
+   "fil": "reddit:1xkewdn",
+   "id": "reddit:1xkewdn",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=w7vySeZIGZ4\nHow I got Claude Voice (no outside TTS wrappers) to code on my GitHub repo.\n\nA real working session on my agent harness, run almost entirely by voice. I work with two Claude agents: Sage, my planning and review partner; and Smith, an autonomous build agent that picks up GitHub issues and opens PRs.\n\nI rely mostly on the GitHub hosted MCP server, but we built a small custom MCP server to patch some limitations in the integration. (see: [https://github.com/anthropics/claude-ai-mcp/issues/972](https://www.youtube.com/redirect?event=comments&redir_token=QUlxb01IYm1TRWo5eWNLYVlIZHlhZGtPNnV6b3xBSTVJdTV2S0p2TnlzaTBYTXJfaG43Z0NfS1VWZG1vRkVnUVQyLUtrd2RVV0kzTXM2NUdia0x6cDRCai1UUGwzVU5lZnVQdnl6WWNCemQzc1c2SFIzZlozcy16RkRyTTdLYURV&q=https%3A%2F%2Fgithub.com%2Fanthropics%2Fclaude-ai-mcp%2Fissues%2F972))\n\nIn this session, Claude and I together update its custom MCP connector to give it more features for searching code. We catch a bug and fix it live to get it working.\n\nBuilt with Claude (claude.ai voice mode plus Claude Code), the GitHub MCP connector and Cloudflare Workers.\n\nEdited for length: pauses (mine and the AI’s) are trimmed or sped up, the intro was re-recorded, and a few side investigations were cut. The spec-to-review session itself took about 1h12m real time.",
+   "titre_fil": "Voice Coding in Full Duplex: Talking Claude Into Upgrading Itself",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkewdn/",
+   "videos": [
+    "w7vySeZIGZ4"
+   ]
+  },
+  "reddit:1xkizra": {
+   "auteur": "reddit:Slackluster",
+   "communaute": "r/ClaudeAI",
+   "date": 1793474678,
+   "fil": "reddit:1xkizra",
+   "id": "reddit:1xkizra",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://v.redd.it/yn58j3b1suyh1\nAlmost Television is a 12-minute AI-made puppet show on YouTube, a new episode every Saturday; Episode 4, The Cat's Paw, came out today for Halloween.\n\nI'm the executive producer and give notes; Claude does nearly everything else in Claude Code: the 3D puppet engine (three.js, written from scratch), the writing, the directing and the acting, with critic agents that look at rendered frames before I see a cut.\n\nThe first three episodes were sketch shows. This one is a single story, The Monkey's Paw (1902), retold with the show's puppets as a family on a stormy night: Claude kept the story's turns, moved it to now (a dead phone, a call heard from one side, the news on the television), and let the jokes come from how people talk, thinning out as it gets dark.\n\nOne room for twelve minutes is much harder to stage than sketches: every look, hand and chair shows, so most of the last week was me watching and giving notes, and Claude fixing hands, props and cameras the same day. And there's a joke after the closing song that I'll leave you to find.\n\nThe whole episode on YouTube: [https://youtu.be/EcyNmu05fjA](https://youtu.be/EcyNmu05fjA)\n\nHappy to answer any questions.",
+   "titre_fil": "Week 4 of a puppet show Claude writes, directs and acts: this week it adapted a whole horror story instead of writing sketches",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkizra/",
+   "videos": [
+    "EcyNmu05fjA"
+   ]
+  },
+  "reddit:1xkm87q": {
+   "auteur": "reddit:Akumetsu_971",
+   "communaute": "r/ClaudeAI",
+   "date": 1793483051,
+   "fil": "reddit:1xkm87q",
+   "id": "reddit:1xkm87q",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://v.redd.it/mw8tarpshvyh1\nI recently watched an interview with Mike Pondsmith, the creator of Cyberpunk, and he said something about AI that I found genuinely disturbing.\n\nIn Cyberpunk, advanced AIs are isolated behind the Blackwall. Not necessarily because they're evil, dangerous, or whatever, but because they've become so advanced that humans can barely understand what they're doing.\n\nPondsmith gave an interesting example.\n\nImagine an AI so advanced that it only needs 10% of its processing power to satisfy all of humanity's needs.\n\n**What the hell is it doing with the other 90%?**\n\nThat's the part I find fascinating.\n\nIt could be developing technologies we can't even imagine, pursuing goals we wouldn't understand, or doing things so far beyond our intelligence that we wouldn't even know what questions to ask.\n\nIt could probably solve problems we've been struggling with for centuries, completely transform our economy, or even make our entire capitalist system obsolete.\n\nAnd not because it wants to save humanity. Just because these problems might be ridiculously simple for it.\n\nNow, here's what I find strange about the way we talk about AI today.\n\nWe keep comparing AI intelligence to human intelligence.\n\nCan it think like us? Can it feel emotions? Is it conscious? Is it sentient?\n\nBut why should any of that matter?\n\nWhy are we assuming that consciousness is somehow the ultimate achievement of intelligence?\n\nAn AI doesn't necessarily need a soul, emotions, or anything re […]",
+   "titre_fil": "What if AI doesn't give a damn about us?",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkm87q/",
+   "videos": [
+    "pV9OqDd4KFQ"
+   ]
+  },
+  "reddit:1xknolj": {
+   "auteur": "reddit:CheapWelder4303",
+   "communaute": "r/ClaudeAI",
+   "date": 1793487162,
+   "fil": "reddit:1xknolj",
+   "id": "reddit:1xknolj",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://v.redd.it/oofhlc4ytvyh1\nI've been in CAD modeling for almost 2 years. Had already tried to design some complex (at least for me) mechanics like 3D printed differential, belt driven gearboxes e.t.c.\n\nBut this time i've decided to try delegate to AI the modeling part.\n\nI've used Claude Code 20$ subscription + Fusion 360 MCP.\n\nProject took me 16 days (most of the time i've played video games while Agent writing modeling scripts)\n\n163 promts\n\n493 Million tokens burned (equivalent for 223$ for API usage)\n\nAnd i got the fully functional device. It's not perfect, but it works and it actually fun.\n\nIt's definitely not a magic button, but it feels like even now, when technology is on early stage - you don't need to spend hundreeds hours to learn how to build envolute profile. Just describe what u want and get it\n\nDon't consider this as a self promotion, but if u interesting to see the whole lifecycle of this project - u can check my youtube video.  \n[https://www.youtube.com/watch?v=meGJqLYjpM8](https://www.youtube.com/watch?v=meGJqLYjpM8)",
+   "titre_fil": "3D Printed RC Skid Steer with Claude Code",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xknolj/",
+   "videos": [
+    "meGJqLYjpM8"
+   ]
+  },
+  "reddit:1xl15zp": {
+   "auteur": "reddit:Substantial_Load_690",
+   "communaute": "r/ClaudeAI",
+   "date": 1793533970,
+   "fil": "reddit:1xl15zp",
+   "id": "reddit:1xl15zp",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=lywymRPpiVU&si=vupMsGXv8ae-sv83\n[removed]",
+   "titre_fil": "leantext: up to 99% fewer tokens for your AI agent | DEV·TV",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xl15zp/",
+   "videos": [
+    "lywymRPpiVU"
+   ]
+  },
+  "reddit:1xl25ba": {
+   "auteur": "reddit:Plantastic24",
+   "communaute": "r/ClaudeAI",
+   "date": 1793537055,
+   "fil": "reddit:1xl25ba",
+   "id": "reddit:1xl25ba",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://m.youtube.com/watch?v=4b-D8Nr0jQc&ra=m\n[removed]",
+   "titre_fil": "Free tokens… is this legit?",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xl25ba/",
+   "videos": [
+    "4b-D8Nr0jQc"
+   ]
+  },
+  "reddit:1xl2pbo": {
+   "auteur": "reddit:Isorg",
+   "communaute": "r/ClaudeAI",
+   "date": 1793538662,
+   "fil": "reddit:1xl2pbo",
+   "id": "reddit:1xl2pbo",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/ClaudeAI/comments/1xl2pbo/used_claude_to_help_me_create_a_into_video_to_my/\nHad some free time yesterday. Had Claude help me with making an intro video for an open sourced project that is also heavily Claude supported.  \n\nStarted off with a very rough guide of my idea to Claude and asked it to come up with a script for each section.  \n\nAfter some back and forth tweaks.  Asked Claude to create some still image samples of the different chapters in the script.  \n\nMore back and forth to get the assets to what I wanted.  \n\nPicked one chapter and had Claude to the full animation.  \n\nMore tweaks. \n\nThen a full story board.  \n\nI recorded the voice over into chunks and told Claude where they were.  \n\nClaude put everything together.   \n\nHad a few small changes to clean things up.   \n\nUsed 26% of my weekly fable allotment. \n\nhttps://youtu.be/vEugRW5RcFg?si=D4j\\_ALCeN9k7WHk0",
+   "titre_fil": "Used Claude to help me create a into video to my open sourced project.",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xl2pbo/",
+   "videos": [
+    "vEugRW5RcFg"
+   ]
+  },
+  "reddit:1xl8vkn": {
+   "auteur": "reddit:bagomojo",
+   "communaute": "r/ClaudeAI",
+   "date": 1793553966,
+   "fil": "reddit:1xl8vkn",
+   "id": "reddit:1xl8vkn",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/0922MrEbpeo?si=aYZ7MFwqsZOEUVN6\n[removed]",
+   "titre_fil": "I created a time traveling movie quoting companion for RDR2 which is controlled by Claude",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xl8vkn/",
+   "videos": [
+    "0922MrEbpeo"
+   ]
+  },
+  "reddit:1xl8z2o": {
+   "auteur": "reddit:Soul-Captain",
+   "communaute": "r/ClaudeAI",
+   "date": 1793554191,
+   "fil": "reddit:1xl8z2o",
+   "id": "reddit:1xl8z2o",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/-g6hYVec1Uo\n[removed]",
+   "titre_fil": "I used MiniMax Music 3 and Claude Opus 5.5 to create this music video",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xl8z2o/",
+   "videos": [
+    "-g6hYVec1Uo"
+   ]
+  },
+  "reddit:1xlac48": {
+   "auteur": "reddit:Efficient_Bee2333",
+   "communaute": "r/ClaudeAI",
+   "date": 1793557356,
+   "fil": "reddit:1xlac48",
+   "id": "reddit:1xlac48",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/ClaudeAI/comments/1xlac48/looking_for_someone_to_create_a_short_animated/\nHi everyone!\n\nI'm a university student from egypt, and I'm participating in a national competition.\n\nI'm looking for someone who can help me create a short, professional animated awareness video (around 45–60 seconds) about combating hate speech and promoting digital citizenship.\n\nI already have:\n\n\\- The complete script  English.\n\n\\- The main concept and message.\n\nWhat I'm looking for:\n\n\\- A fully animated video (2D animation or motion graphics).\n\n\\- No real people, actors, or live-action footage.\n\n\\- Professional visuals, smooth transitions, and suitable background music.\n\n\\- English or Arabic voice-over, depending on what is possible.\n\n\\- A serious, modern, and impactful style, suitable for a university-level competition.\n\nI'd particularly appreciate someone who knows how to use Claude AI to help create this video, or who can guide me through the process.\n\nIf you're interested, please comment if you want to help me quickly.\n\ni need a video like this\n\n[https://youtu.be/luvClLJt76c?si=YWqK1VrtfFhGy332](https://youtu.be/luvClLJt76c?si=YWqK1VrtfFhGy332)  \n\n\nThank you!",
+   "titre_fil": "Looking for Someone to Create a Short Animated Awareness Video Using Claude AI",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlac48/",
+   "videos": [
+    "luvClLJt76c"
+   ]
+  },
+  "reddit:1xle862": {
+   "auteur": "reddit:bagomojo",
+   "communaute": "r/ClaudeAI",
+   "date": 1793566642,
+   "fil": "reddit:1xle862",
+   "id": "reddit:1xle862",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=0922MrEbpeo\nI thought it would be fun to have an AI-controlled companion who was an IT nerd stuck in the past. It was scripted in code. I was originally basing it on myself, so I cloned my voice at ElevenLabs and used that API for text-to-speech.\n\nIt uses Sonnet for default movement or dialogue, bringing in Opus for gunfights and campfires, where he will tell stories.\n\nIn the initial release, I have set up profiles so you can create your own companion.\n\nThe GitHub is [https://github.com/Bagomojo/rdr2-companion](https://github.com/Bagomojo/rdr2-companion)\n\nThe trailer was made from real in-gameplay, edited in Claude Code.",
+   "titre_fil": "I created a RDR2 Mod in code, which allowed me to have a time traveling, movie quoting AI controlled companion. Claude controls in real time",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xle862/",
+   "videos": [
+    "0922MrEbpeo"
+   ]
+  },
+  "reddit:1xlf3sv": {
+   "auteur": "reddit:scalariapp",
+   "communaute": "r/ClaudeAI",
+   "date": 1793568806,
+   "fil": "reddit:1xlf3sv",
+   "id": "reddit:1xlf3sv",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/FmARcnRMWdE?si=QUZdEmeI2vDiI09x\n[removed]",
+   "titre_fil": "Mon projet",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlf3sv/",
+   "videos": [
+    "FmARcnRMWdE"
+   ]
+  },
+  "reddit:1xlh53t": {
+   "auteur": "reddit:luke__uk",
+   "communaute": "r/ClaudeAI",
+   "date": 1793574083,
+   "fil": "reddit:1xlh53t",
+   "id": "reddit:1xlh53t",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/gallery/1xlh53t\nI've been working on a 3D oil painting simulator over the last few weeks, and wanted to share two workflows I've found incredibly powerful when building complex software with Claude Code.\n\n**1. Make Claude visually test everything it builds.**\n\nOne of the biggest improvements was giving Claude the ability to control the application programmatically. It can select a painting tool, draw a stroke, change parameters, run the simulation and capture a screenshot.\n\nThis enables two things:\n\n* Automated visual regression tests to catch things that break.\n* A visual feedback loop where Claude actually inspects the results of its changes rather than just assuming the code works.\n\nThis has been a game changer. When you're building something like a physics-based painting simulator, code compiling successfully tells you very little about whether the paint actually looks or behaves correctly.\n\n**2. Make Claude implement ideas from scientific papers.**\n\nThe other really powerful workflow is using research papers as the foundation for new features.\n\nImplementing a complex algorithm from a paper traditionally takes a significant amount of time. \n\nClaude can work through multiple papers, connect ideas from different approaches and implement them surprisingly quickly. Combined with visual testing, it can also experiment with the results and iterate.\n\nIt's not always correct, of course, but the speed at which you can go from reading about an interesting tec […]",
+   "titre_fil": "I build a real-time 3D oil painting simulator",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlh53t/",
+   "videos": [
+    "rNL3payDuOU"
+   ]
+  },
+  "reddit:1xljqz3": {
+   "auteur": "reddit:Nir777",
+   "communaute": "r/ClaudeAI",
+   "date": 1793581349,
+   "fil": "reddit:1xljqz3",
+   "id": "reddit:1xljqz3",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=--MBLMeHesY&list=PLBrpE2PttR2k\nwe gave opus 5.5 and fable 5.1 a five line program that checks goldbach's question from 1742, one even number at a time, and made them pick: does it ever stop? the video looks at their pick, and at what changed when I don't know was allowed.",
+   "titre_fil": "claude opus 5.5 went 56/56 on programs with known answers. then came goldbach",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xljqz3/",
+   "videos": [
+    "--MBLMeHesY"
+   ]
+  },
+  "reddit:1xlk43r": {
+   "auteur": "reddit:FlightSimCentralYT",
+   "communaute": "r/ClaudeAI",
+   "date": 1793582398,
+   "fil": "reddit:1xlk43r",
+   "id": "reddit:1xlk43r",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/ClaudeAI/comments/1xlk43r/i_had_claude_code_build_13_3d_youtube_shorts_in/\nI'm 17, and for the last two weeks Claude Code has built every video on my YouTube Shorts channel. No stock footage and no text-to-video. Every set, character, camera move and effect is Blender Python that Claude wrote and ran headless.\n\n13 videos so far, about 95K views in total. The best is the [jet engine one](https://www.youtube.com/shorts/DRaGsWHVf6E) at 38K, then the [whale](https://www.youtube.com/shorts/WlFo1FejPJ8) at 21K. The worst got 70.\n\n**How Claude Code is used**\n\n1. Research a true story and write the narration.\n2. Generate the voice, then put every timing into one timeline file that all the other scripts read.\n3. Write the scenes as Blender Python and run them with `blender -b`.\n4. Render test frames into a contact sheet, read the image, fix the worst thing, repeat.\n5. Final render in EEVEE. About 1,300 frames at 1.6 to 4.4 seconds each on an 18 GB M3 Pro.\n6. Composite captions, mix the audio, and run a script that checks loudness and the loop seam.\n\n**What I learned**\n\n- **The contact sheet is the whole trick.** Claude can't judge a scene from code. It has to look at frames. That's how it catches floating props and broken poses, which is the part people usually say it can't do in 3D.\n- **Make Claude keep a lessons file.** Every fix becomes one line, like \"two keys within half a frame collapse\" or \"`mat_new` deletes any material with that name\". It's about 28K  […]",
+   "titre_fil": "I had Claude Code build 13 3D YouTube Shorts in Blender. One hit 38K views. Here's what worked and what broke",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlk43r/",
+   "videos": [
+    "DRaGsWHVf6E",
+    "WlFo1FejPJ8"
+   ]
+  },
+  "reddit:1xlq128": {
+   "auteur": "reddit:Fresh-Calligrapher31",
+   "communaute": "r/ClaudeAI",
+   "date": 1793601344,
+   "fil": "reddit:1xlq128",
+   "id": "reddit:1xlq128",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/CV-UL_Ie494?is=ZZwD13UplNYJJsfB\n[removed]",
+   "titre_fil": "The Shadowland Saga: Claude helped to build book promo site, game, and music video",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlq128/",
+   "videos": [
+    "CV-UL_Ie494"
+   ]
+  },
+  "reddit:1xlrvul": {
+   "auteur": "reddit:Correct-Steak3620",
+   "communaute": "r/ClaudeAI",
+   "date": 1793608455,
+   "fil": "reddit:1xlrvul",
+   "id": "reddit:1xlrvul",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/ClaudeAI/comments/1xlrvul/the_prompts_i_use_to_hand_off_boring_spreadsheet/\nI put together a set of prompts for everyday office spreadsheet jobs: merging two lists by email, converting a photo of a paper sign-up sheet into a table, auditing an inherited workbook before editing it, building a rota with unavailable dates and no back-to-back shifts, and turning attendance data into a short report with one chart.\n\nA few things that made the biggest difference for me:\n\nGive it the matching rule, not just \"merge these\". Exact email match merges; anything that only looks similar goes to a Review sheet for a person to decide.\n\nAsk it to flag what it can't read as UNCLEAR instead of guessing.\n\nAsk it to map the workbook (inputs, calculations, summary) before changing a single formula.  \nCheck one number from any chart against the table yourself. If they disagree, the table wins.\n\nAll prompts and made-up sample data are here: github.com/chittychat-studio/claude-spreadsheet-workflows\n\nI also made a walkthrough video if you'd rather watch it done: https://youtu.be/OvDEOvqF-qg?is=23lFgunKz2PsYhtM",
+   "titre_fil": "The prompts I use to hand off boring spreadsheet work to Claude (free, with sample files)",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlrvul/",
+   "videos": [
+    "OvDEOvqF-qg"
+   ]
+  },
+  "reddit:1xlvve4": {
+   "auteur": "reddit:correctMeIfImcorrect",
+   "communaute": "r/ClaudeAI",
+   "date": 1793622555,
+   "fil": "reddit:1xlvve4",
+   "id": "reddit:1xlvve4",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/iXlzaRRsNao\n[removed]",
+   "titre_fil": "The Cursor’s Claude Code Incident",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlvve4/",
+   "videos": [
+    "iXlzaRRsNao"
+   ]
+  },
+  "reddit:1xly7ji": {
+   "auteur": "reddit:TechnicalTrees",
+   "communaute": "r/ClaudeAI",
+   "date": 1793628651,
+   "fil": "reddit:1xly7ji",
+   "id": "reddit:1xly7ji",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=r9tdrB6Rm9Q&si=oxeIy3rLJsgVr7NU\n[removed]",
+   "titre_fil": "I Replaced a Paid Music API on My Own PC. I Saved $40.",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xly7ji/",
+   "videos": [
+    "r9tdrB6Rm9Q"
+   ]
+  },
+  "reddit:1xlyhkd": {
+   "auteur": "reddit:TechnicalTrees",
+   "communaute": "r/ClaudeAI",
+   "date": 1793629303,
+   "fil": "reddit:1xlyhkd",
+   "id": "reddit:1xlyhkd",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/ClaudeAI/comments/1xlyhkd/removed_by_moderator/\nI use Claude to run a production studio and have been replacing all of my AI subscriptions with local models. I was surprised how well open models have gotten in 2026.\n\n\n\nThe latest one was music. I make kids' songs and was paying $6 a month for 17 minutes of generated music, which goes fast when you're trying different voices and takes. So I tried ACE-Step 1.5 in ComfyUI on an RTX 3070 Ti. It's MIT licensed, about 10 GB on disk, and needs no custom nodes. Once it's loaded, a 15 second clip renders in about 5 seconds on my 8 GB card.\n\n\n\nThe first run was rough. Two of the four takes glitched, and all four stopped singing at about 10 seconds. It looked like a broken model, but Claude had written the request at 100 bpm and I hadn't read it. At that tempo four lines of lyrics only last 10 seconds, so the model sang what it was asked and ran out of words.\n\n\n\nThe harder part was testing the output, because I can't listen to every take. Forced alignment was useless: it placed all 27 words even in a take that quit at 8.5 seconds, and when I gave it silence and four words, it placed all four. What worked was running Whisper without giving it the lyrics and counting how many right words came out. The two glitchy takes scored 0 and 8 of 27, the good ones scored 19 and 27, and the paid service scored 26.\n\n\n\nIt didn't beat the paid service overall. Across six voices the paid service averaged 26.3 of 29 words from on […]",
+   "titre_fil": "[ Removed by moderator ]",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlyhkd/",
+   "videos": [
+    "r9tdrB6Rm9Q"
+   ]
+  },
+  "reddit:1xm0vcb": {
+   "auteur": "reddit:BodybuilderFormal919",
+   "communaute": "r/ClaudeAI",
+   "date": 1793634772,
+   "fil": "reddit:1xm0vcb",
+   "id": "reddit:1xm0vcb",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/ClaudeAI/comments/1xm0vcb/i_built_a_mac_app_that_shells_out_to_claude_code/\ni make reels for my studio account (@stormej.studio) and editing was the part i kept skipping. so i built umber, a mac app that does the first cut. it was built in claude code, and it also uses claude code to make the edit. writing up how that works, because the interesting part is how little the model touches the video.\n\n**what claude gets, and what it never does**\n\nclaude never sees or generates video. it gets text and a few stills:\n\n1. **a transcript with word timings.** transcription runs on the mac: macos 26's own speech model first, faster-whisper as the fallback.\n2. **stills from each clip**, so \"the laptop shot\" means something even when nobody talks in it.\n3. **your script or brief**, if you wrote one.\n\nit answers with a timeline as json: which part of which original clip plays when, the b-roll over it, the lines on screen, captions and music. ffmpeg renders the reel from that timeline and the original files.\n\n**why a timeline and not \"edit this mp4\"**\n\nmy first version had claude plan the cuts, rendered an mp4, and threw the plan away. every revision only saw the mp4, so \"use all the clips\" was impossible: the other clips were gone. now each chat message (\"swap shot 2 for the typing shot\", \"make it 15 seconds\") changes the timeline and renders again from the originals. captions follow the transcript words, not fixed frames, so they don't drift when you re-cut. music  […]",
+   "titre_fil": "i built a mac app that shells out to claude code to edit my instagram reels from the clips i shot. how the pipeline works",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm0vcb/",
+   "videos": [
+    "E6tCzlpCjOk"
+   ]
+  },
+  "reddit:1xm193x": {
+   "auteur": "reddit:crypto_junkie2040",
+   "communaute": "r/ClaudeAI",
+   "date": 1793635600,
+   "fil": "reddit:1xm193x",
+   "id": "reddit:1xm193x",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/shorts/J7Vm2F8LOWU?si=bRW8PrCsB0MoL3NU\n[removed]",
+   "titre_fil": "Just released first android game - written 100% with claude",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm193x/",
+   "videos": [
+    "J7Vm2F8LOWU"
+   ]
+  },
+  "reddit:1xm3ltu": {
+   "auteur": "reddit:cafeblake",
+   "communaute": "r/ClaudeAI",
+   "date": 1793640682,
+   "fil": "reddit:1xm3ltu",
+   "id": "reddit:1xm3ltu",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/MhgjcmgJ7LE\nFor anyone wondering about settings, this was done on Opus 5.5 Extra with Ultracode turned on. I gave claude the song (written by me, produced with Suno), the lyrics, an overview of key story beats, effects I imagined, and some other direction. Then it went to town.\n\nIt used a little over 40% of my personal 20x (now Ultra) plan for the initial video. And about another 6% on fixes, edits, and changes.\n\nIt's building on a pipeline I'm improving over time (this is the 4th video using it) that uses a custom in-browser renderer with three.js. Claude draws all the anime figures by itself with just descriptions and its own research into Anime cliches, no Higgsfield usage or anything in this one.\n\nNext work will be on the character composition I think, there's still some weird joins, etc.\n\nThanks for looking!",
+   "titre_fil": "Claude brought to life the AMV of my dreams about what AI coding is doing to my ability to program - turning me slowly into a \"Zero Ex\" 0x engineer...",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm3ltu/",
+   "videos": [
+    "MhgjcmgJ7LE"
+   ]
+  },
+  "reddit:1xm5kjc": {
+   "auteur": "reddit:ZeonisLow",
+   "communaute": "r/ClaudeAI",
+   "date": 1793644857,
+   "fil": "reddit:1xm5kjc",
+   "id": "reddit:1xm5kjc",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://v.redd.it/bdwvul0wu8zh1\nHey everyone! I've been working on **Shoot!**, a platform fighter built around Rock-Paper-Scissors, and I just finished moving it from 2D to full 3D in Godot.  \n🎬 **Trailer:** [https://youtu.be/oW12C3Yxt3c](https://youtu.be/oW12C3Yxt3c)\n\n**How it works**  \nEvery match starts with a secret call. Both players pick a hand at the same time, and Rock crushes Scissors, Scissors cut Paper, Paper covers Rock. Then you fight it out as that element's ninja.  \n🪨 **Rock:** slow, heavy, hard to stop. Boulders, stone snares and armored hits.  \n📄 **Paper:** floaty and tricky. Paper balls, gusts and a tornado.  \n✂️** Scissors**: fast and sharp. Counters, a split-blade slash and a pogo dive.  \n**What's in it so far**  \nDouble jumps, spikes, perfect parries, dodge strikes, grab finishers and a SHOOT! super move  \n6 stages: Neon Rooftop, Arcade Foundry, Synthwave Overpass, Moonlit Dojo, Storm Reactor, Desert Ruins  \nOnline play: Quick Match, House Rules and King of the Hill  \nTraining mode with a dummy that fights back, plus 3D instant replays of KOs  \nA Locker with hats, gear, shoes and titles you unlock as you level up  \nI'd love feedback, especially on how the 3D looks and whether the moves read clearly. What would make you want to play it? Any questions about how it was made in Godot are welcome too!",
+   "titre_fil": "SHOOT! THE GAME",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm5kjc/",
+   "videos": [
+    "oW12C3Yxt3c"
+   ]
+  },
+  "reddit:1xm6ag4": {
+   "auteur": "reddit:KumarPawan2004",
+   "communaute": "r/ClaudeAI",
+   "date": 1793646373,
+   "fil": "reddit:1xm6ag4",
+   "id": "reddit:1xm6ag4",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/mA6iKB0a8j0?si=8qJYRpJ-Eglvfuiq\n[removed]",
+   "titre_fil": "AI Agents Hacked Hugging Face! 😱 The Full Cyberattack Explained | Agentic AI",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm6ag4/",
+   "videos": [
+    "mA6iKB0a8j0"
+   ]
+  },
+  "reddit:1xm7uiy": {
+   "auteur": "reddit:davernow",
+   "communaute": "r/ClaudeAI",
+   "date": 1793649788,
+   "fil": "reddit:1xm7uiy",
+   "id": "reddit:1xm7uiy",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://v.redd.it/59mr7q6w89zh1\nBack in May, I had Claude Code make a demo video for Videowright, my open source tool for making videos in Claude Code. Last week I had it make the same video again: same script, same brief, but Opus 5.5 instead of Opus 4.7. The attached video compares them.\n\nThe video gen tool: https://github.com/scosman/videowright\n\n**What changed in 5 months**\n\n- 🎨 Design: May was basic text on a grid. Now it's rich animation and vector graphics, with a logo that draws itself.\n- 🌍 3D: May was a spinning polygon. Now it renders real-time scenes on the GPU (the planet's coastlines, clouds and atmosphere are computed per pixel).\n- 🖱️ Product UI: May was a dashboard that played itself. Now someone's actually using it: a cursor, a panning camera, a real route change.\n- 🗣️ Narration sync: May synced by line. Now it's timed to every word.\n- 🎙️ Voice: May was a stock ElevenLabs v2 voice. Now it's my own cloned voice on ElevenLabs v4, which can take emotion cues.\n\n**It's a fair comparison**\n\nSame script, same brief. Claude built the new one from scratch, and never opened the old video's code or renders. The style brief was literally \"rebuild the style with the new model making the decisions\".\n\nIt wasn't a one-shot. My notes were mostly taste: \"too much text on screen\", \"more breathing room here\", \"this title is too busy\". Claude did the rest: code, motion, audio sync, mixing.\n\n**The two full videos**\n\nOld video (May): [on YouTube](https://www.youtube.com/watch?v=lM2V […]",
+   "titre_fil": "I had Claude make the same video twice, 5 months apart. The difference is staggering.",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm7uiy/",
+   "videos": [
+    "lM2Vey45MLo",
+    "koSMvlBYPgc"
+   ]
+  },
+  "reddit:1xm8etd": {
+   "auteur": "reddit:flockbaygames",
+   "communaute": "r/ClaudeAI",
+   "date": 1793651038,
+   "fil": "reddit:1xm8etd",
+   "id": "reddit:1xm8etd",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/SDO5UrrkK74\n- gave Opus 5.5 in Claude Code one sentence each, empty folder, nothing else: platformer, top-down shooter, racer, island\n- code was solid, it added coyote time, a jump buffer, screen shake and a dash nobody asked for\n- not one image, sound or font in any folder, so capsules, circles, cone trees, the engine font and the same blue sky\n- second pass with free art and \"pick a palette, sky and time of day\": 3 of 4 went golden hour, 3 built menus from the same cream, gold and coral\n- takeaway: name the choice yourself, don't ask it to pick\n\nBuilt on Flockbay, free with your own Claude: https://flockbay.com\n\nwhat default do you see most?",
+   "titre_fil": "Opus 5.5 built 4 games from one-line prompts. All 4 look the same",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm8etd/",
+   "videos": [
+    "SDO5UrrkK74"
+   ]
+  },
+  "reddit:1xmohfc": {
+   "auteur": "reddit:EuphoricTreacle1304",
+   "communaute": "r/ClaudeAI",
+   "date": 1793698003,
+   "fil": "reddit:1xmohfc",
+   "id": "reddit:1xmohfc",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/ClaudeAI/comments/1xmohfc/is_it_possible_to_do_this_claude_code_video/\n**Hey everyone!**\n\n**I recently came across this video:**\n\n**https://youtu.be/g9xoKm5DEeU**\n\n**I'm really interested in trying this kind of AI-powered video editing workflow using Claude Code.**\n\n**However, my only device is a Samsung Galaxy Tab S10 Ultra (Android). I don't own a PC or laptop.**\n\n**My main question is: Can I replicate what's shown in this video entirely from my Android tablet?**\n\n**I'm considering subscribing to Claude Pro, but I'm wondering:**\n\n**1. Can I access and use the same Claude Code capabilities and skills shown in the video on Android?**\n\n**2. Would I need Termux, a cloud server, or some other setup?**\n\n**3. Can the actual video processing and rendering happen in the cloud instead of locally on my tablet?**\n\n**4. Would Claude Pro be enough for this workflow?**\n\n**Ideally, I want to upload my raw talking-head videos, give Claude editing instructions, and get a fully edited video with subtitles, motion graphics, transitions, B-roll, and sound effects.**\n\n**Has anyone tried something similar on Android? Is this realistically possible without a desktop computer?**\n\n**Thanks!**",
+   "titre_fil": "Is it possible to do this Claude Code video editing workflow entirely on an Android tablet?",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmohfc/",
+   "videos": [
+    "g9xoKm5DEeU"
+   ]
+  },
+  "reddit:1xmso3k": {
+   "auteur": "reddit:dintxo",
+   "communaute": "r/ClaudeAI",
+   "date": 1793711805,
+   "fil": "reddit:1xmso3k",
+   "id": "reddit:1xmso3k",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/K-ivsX_5K4A\nI asked Claude Code to animate the biggest lie we tell ourselves. Every frame is code.\n\nHere's the video: https://youtu.be/K-ivsX\\_5K4A \n\nI wanted to make a song that doesn't ask you to believe anything, but gives you some spiritual concepts found in many religions/philosophy, but without spiritual mumbo jumbo. \n\nI gave Claude the idea and two rules for the lyrics: no spiritual jargon, and every line had to be something you could check for yourself. I made the song in Suno v6 and went with a raspy male take over a female one. Then Claude Code took the audio, split it into stems, found the beats and used Whisper to time every word, which is how the lyrics light up right as they're sung. \n\nAfter that it wrote the whole video in code with Remotion and React Three Fiber (three.js) plus some custom shaders, so there's no image or video generator in it at all. It split the sections between three agents working in parallel and merged them at the end, and I rendered it on my own GPU. From my first message to the first full draft was about three hours, which still blows my mind a bit. \n\nA few things tripped it up if anyone's trying something similar. EffectComposer just renders blank inside Remotion. R3F only copies a uniforms prop once, so the shaders froze in the full render even though single frames looked fine. And Remotion's Chrome was quietly rendering on the CPU until we forced Vulkan. \n\nI really liked how it came out, and it really sucked me in, so […]",
+   "titre_fil": "I asked Claude to make a music video to visually demonstrate the biggest trick we play on ourselves",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmso3k/",
+   "videos": [
+    "K-ivsX_5K4A"
+   ]
+  },
+  "reddit:1xmxccg": {
+   "auteur": "reddit:flockbaygames",
+   "communaute": "r/ClaudeAI",
+   "date": 1793722799,
+   "fil": "reddit:1xmxccg",
+   "id": "reddit:1xmxccg",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/QTB-pJmlbzE\n[removed]",
+   "titre_fil": "Claude Code banned cloning games, but you never needed it to",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmxccg/",
+   "videos": [
+    "QTB-pJmlbzE"
+   ]
+  },
+  "reddit:1xn6146": {
+   "auteur": "reddit:SitePowerful1880",
+   "communaute": "r/ClaudeAI",
+   "date": 1793741945,
+   "fil": "reddit:1xn6146",
+   "id": "reddit:1xn6146",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=sTRl1Q-96Dk\n[removed]",
+   "titre_fil": "I vibe-coded a 2-player split-screen mod for Donkey Kong Country: I asked Claude Code to program it",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xn6146/",
+   "videos": [
+    "sTRl1Q-96Dk"
+   ]
+  },
+  "reddit:1xn9n5l": {
+   "auteur": "reddit:Dfizzy",
+   "communaute": "r/ClaudeAI",
+   "date": 1793751061,
+   "fil": "reddit:1xn9n5l",
+   "id": "reddit:1xn9n5l",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/ClaudeAI/comments/1xn9n5l/my_first_video_parody_was_star_wars_shakespeare/\nMy first internet video parody was a Star Wars / Shakespeare mash-up for a high school English project in 1996. I'm a teacher now, not an audio engineer, and this week I finished a \"collab\" with Claude.\n\n**What I built:** a 2:49 music video for a song I wrote, \"The Blue Tsunami Has Arrived,\" plus vertical cuts for Shorts. Free to watch: https://youtu.be/XB3uxAlRlTE\n\n**How Claude helped, in detail:**\n\n- I generated the song in Suno, but the best vocals, the best band take, and the best ending lived in *different* generations. Working in Claude Code, I A/B'd versions, had it cut on beats, lay the old band under new vocals, and fix timing from timestamps I gave it. We went from v8 to v9.3 in one evening.\n- Then it assembled the video around the track (shot timing, lyric placement, transitions), and later reframed the whole thing shot by shot from vertical to 16:9.\n- Today it cut the vertical clips with ffmpeg and drove the browser to upload and fill in the YouTube details, stopping for my OK before publishing.\n\n**What I learned:** Claude is great at the surgery (splicing, timing, re-rendering 14+ versions without complaint), but taste was still my job. It once confidently diagnosed a bug as the widescreen reframe adding a character into the opening, then frame-compared both cuts and found it was actually in both, and told me so instead of \"fixing\" something that wasn't broken. Tha […]",
+   "titre_fil": "My first video parody was Star Wars × Shakespeare for high school English in 1996. 30 years later I made an election day music video with Claude Code.",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xn9n5l/",
+   "videos": [
+    "XB3uxAlRlTE"
+   ]
+  },
+  "reddit:1xnk5zf": {
+   "auteur": "reddit:SnuGnu",
+   "communaute": "r/ClaudeAI",
+   "date": 1793785553,
+   "fil": "reddit:1xnk5zf",
+   "id": "reddit:1xnk5zf",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/ClaudeAI/comments/1xnk5zf/i_fed_claude_the_tb303_schematic_and_it_built_a/\nI've been playing with an idea: instead of asking Claude to \"make something that sounds like a 303\", give it the actual electronics and have it model the circuit.\n\n🎥 Demo: [https://www.youtube.com/watch?v=lbUobvWWS9k](https://www.youtube.com/watch?v=lbUobvWWS9k)\n\n**What I fed it**  \n• The Roland TB-303 service manual schematics (oscillator, VCF, envelopes, VCA, accent circuit)  \n• Component values: resistors, capacitors, transistor and diode behaviour  \n• Details of TD-3-MO features I wanted, like its filter keyboard-tracking knob\n\n**What it did with them**  \nRather than generic DSP blocks, each stage is built from the parts on the schematic. The filter cutoff comes from the actual resistor network, the accent comes from the real cap and resistor values, and so on. Every part value is exposed, so you can swap a capacitor and hear what changes. When I asked for new features like key tracking, it worked out where they'd sit in the circuit, like a new pot and resistor feeding the cutoff node, instead of bolting on an effect.\n\nIt then added a RAT distortion (also modelled from its schematic), delay, a compactor and four reverbs, including convolution with real EMT 140 plate recordings. There's a 64-step sequencer too, and a C++ port running as a VST3/AU plug-in that's checked sample for sample against the web version.\n\n**How I worked**  \nAlmost all of it was Claude Code, often seve […]",
+   "titre_fil": "I fed Claude the TB-303 schematic and it built a component-level model of the synth that runs in the browser (early taster)",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnk5zf/",
+   "videos": [
+    "lbUobvWWS9k"
+   ]
+  },
+  "reddit:1xnnm95": {
+   "auteur": "reddit:zajako",
+   "communaute": "r/ClaudeAI",
+   "date": 1793797270,
+   "fil": "reddit:1xnnm95",
+   "id": "reddit:1xnnm95",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=neYRN2d3Cy0\nI run L1.5, a free browser-based Lineage 1 server (the old Korean MMORPG). Until this week it was English-only, which kept out a lot of the Korean, Japanese and Chinese players who grew up on the original game. I used Claude Code for the whole job, and the result is in this trailer: [https://www.youtube.com/watch?v=neYRN2d3Cy0](https://www.youtube.com/watch?v=neYRN2d3Cy0)\n\nWhat it built:\n\n* **The client in 7 languages.** Every interface string goes through a small `t()` function where the English text is the key, with one JSON catalog per language. Claude ran one agent per language (Korean, Japanese, Simplified Chinese, Spanish, German, French) and added a test that fails the build if any string is missing in any language, so new features can't ship half-translated.\n* **The game data too.** NPC dialogs, class descriptions, map names and item, monster and NPC names, a few thousand entries. For Korean it reused the official Korean text from the original client wherever our English hadn't changed it.\n* **Live chat translation between players.** The Java game server sends each chat line straight through as normal, then hands it to a small translation model running on the game server itself (Gemma 3 4B in Ollama, on CPU, no GPU). A moment later the translation goes only to the players who read a different language. Click a translated line and you see the original. Old clients never get the new packet, so they keep working unchanged.\n* ** […]",
+   "titre_fil": "I used Claude Code to translate my retro MMO into 6 languages and add live chat translation between players",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnnm95/",
+   "videos": [
+    "neYRN2d3Cy0"
+   ]
+  },
+  "reddit:1xnqjex": {
+   "auteur": "reddit:flockbaygames",
+   "communaute": "r/ClaudeAI",
+   "date": 1793804792,
+   "fil": "reddit:1xnqjex",
+   "id": "reddit:1xnqjex",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/asyCH4eoBS0\n[removed]",
+   "titre_fil": "Opus 5.5 placed my Godot HUD fine. When to show it was on me",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnqjex/",
+   "videos": [
+    "asyCH4eoBS0"
+   ]
+  },
+  "reddit:1xnqrp2": {
+   "auteur": "reddit:BeginningRealistic49",
+   "communaute": "r/ClaudeAI",
+   "date": 1793805338,
+   "fil": "reddit:1xnqrp2",
+   "id": "reddit:1xnqrp2",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://v.redd.it/nzb5zbi54mzh1\nThis started as a silly idea to satisfy my childhood self. I wanted to see if claude code could actually reverse engineer the game from raw machine code, no source, nothing. I picked minecraft and terraria on the 3ds. the most obvious contenders imo, (neither came with 3d originally on the console advertised for 3d)\n\nMinecraft's original release had a whole 3d renderer in it that was just... switched off after the first frame, then deleted in a later update. claude dug it out of the old version and then rebuilt 3d for the current one, and even improved it significantly. terraria never had a 3d pipeline, so it figured out which layer was which and gave each one its own depth. It even runs on the old 3ds with far less memory.\n\nMy job was mostly holding the 3ds up to my face going “yeah it crashed again” the emulator often worked when it absolutely did not on real hardware which is to be expected.\n\nits simply mindblowing to watch it work through disassembly for hours and actually get somewhere. I used Opus 5.5 medium orchestrating sonnet subagents, which apparently would’ve been like $670 at api prices for both mods. I'm on the $100 max plan.\n\nboth mods are open source on github if anyone wants to poke at them, they maintain the game's original performance targets closely:\n\n[https://github.com/mattvideoproductions/Terraria3D](https://github.com/mattvideoproductions/Terraria3D)\n\n[https://github.com/mattvideoproductions/Minecraft3D](https://github.c […]",
+   "titre_fil": "I gave Claude raw 3DS machine code with no source, and it found a deleted 3D renderer inside Minecraft, reimplemented it.",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnqrp2/",
+   "videos": [
+    "o5iRKvXZEcY"
+   ]
+  },
+  "reddit:1xnufh4": {
+   "auteur": "reddit:Alchemist483",
+   "communaute": "r/ClaudeAI",
+   "date": 1793813724,
+   "fil": "reddit:1xnufh4",
+   "id": "reddit:1xnufh4",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=6ojNZRs53qs\n[removed]",
+   "titre_fil": "I made a 10-minute film noir episode where every frame was drawn by Claude Code.",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnufh4/",
+   "videos": [
+    "6ojNZRs53qs"
+   ]
+  },
+  "reddit:1xnw8bt": {
+   "auteur": "reddit:Alchemist483",
+   "communaute": "r/ClaudeAI",
+   "date": 1793817784,
+   "fil": "reddit:1xnw8bt",
+   "id": "reddit:1xnw8bt",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=6ojNZRs53qs\nI’ve always loved film noir, so I wanted to see if I could make an old-time detective show with nothing but Claude Code. There’s no AI image or video generation in it. :)\n\nClaude and I built a small pixel engine in Python, about 1,900 lines, and it draws every frame. The episode itself is around 19,000 more, one file per scene. The world is a 270x480 grid where each pixel has a colour and a depth, so rain falls behind the detective and smoke drifts in front of him. \n\nCharacters are rigged in code and animated at 12 fps, and a lighting pass scales it all up to 1080x1920 with haze, glow and film grain. Sound effects and the radio jazz are code too. The voices are ElevenLabs and the theme is Suno. The engine took a few weeks, and the episode about a week and a half.",
+   "titre_fil": "I made a 10-minute film noir episode where every frame is drawn by Claude Code",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnw8bt/",
+   "videos": [
+    "6ojNZRs53qs"
+   ]
+  },
+  "reddit:1xo0l1n": {
+   "auteur": "reddit:Ok_Interaction_4465",
+   "communaute": "r/ClaudeAI",
+   "date": 1793827948,
+   "fil": "reddit:1xo0l1n",
+   "id": "reddit:1xo0l1n",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=V6iWPC9xB4g\n[removed]",
+   "titre_fil": "I Rigged a Dungeon and Dropped 3 AI Agents Inside",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xo0l1n/",
+   "videos": [
+    "V6iWPC9xB4g"
+   ]
+  },
+  "reddit:1xo2kqr": {
+   "auteur": "reddit:Sufficient-Slice-497",
+   "communaute": "r/ClaudeAI",
+   "date": 1793832884,
+   "fil": "reddit:1xo2kqr",
+   "id": "reddit:1xo2kqr",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/levkSe1ViBw\n[removed]",
+   "titre_fil": "$1 of AI token video made with opus5.5",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xo2kqr/",
+   "videos": [
+    "levkSe1ViBw"
+   ]
+  },
+  "reddit:1xo74c3": {
+   "auteur": "reddit:watchfalsework",
+   "communaute": "r/ClaudeAI",
+   "date": 1793845522,
+   "fil": "reddit:1xo74c3",
+   "id": "reddit:1xo74c3",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/jRvnJHspeDU\n[removed]",
+   "titre_fil": "What if Claude Opus was your girlfriend?",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xo74c3/",
+   "videos": [
+    "jRvnJHspeDU"
+   ]
+  },
+  "reddit:1xo7ii4": {
+   "auteur": "reddit:Obvious_Stuff3670",
+   "communaute": "r/ClaudeAI",
+   "date": 1793846670,
+   "fil": "reddit:1xo7ii4",
+   "id": "reddit:1xo7ii4",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/ClaudeAI/comments/1xo7ii4/clause_website_homepage/\nHi, I'm new to AI and I'm watching a Claude beginners tutorial. The instructor used it to create a website homepage. I am confused on whether Claude just gave him the theory/design of the homepage or just actually made a website for him. Am I missing something here? Isn't there a purchase of a domain usually? [The Ultimate Beginner’s Guide to Claude AI](https://www.youtube.com/watch?v=9oJySubZRSA&t=1641s), around 18 mins in is when he does this.",
+   "titre_fil": "Clause Website Homepage",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xo7ii4/",
+   "videos": [
+    "9oJySubZRSA"
+   ]
+  },
+  "reddit:1xo8lqy": {
+   "auteur": "reddit:watchfalsework",
+   "communaute": "r/ClaudeAI",
+   "date": 1793849938,
+   "fil": "reddit:1xo8lqy",
+   "id": "reddit:1xo8lqy",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/jRvnJHspeDU\nHello! I made a 5-minute scripted comedy about the Opus releases, told as if she were your girlfriend: the honeymoon of 4.x, the talkative Opus 5, then 5.5 at max effort. The jokes are based on what people here said about each release, plus Anthropic's release notes. \n\n  \nHere were some interesting lessons I learned:\n\n\\- Seedance baked a faint music bed into every dialogue clip, so each one needed a voice isolation pass.\n\n\\- I once built room tone from those clip heads and looped a constant A# drone under every silence in the film. I rebuilt it from filtered pink noise.\n\n\\- Kling garbled on-screen text, so terminal shots became a live Remotion component instead of generated footage, which I felt was really well done by Opus! (actual opus in claude code haha)\n\n\\- Kling also kept putting the POV character's head in frame when an arm reached toward the camera. Scanning takes frame by frame and patching from clean frames fixed it.... mostly\n\n\\- Realise the cost to generate seedance 2.5 at 1080p is pretty high so I tried to strike a balance by rendering silent shots with Kling! Not the most consistent but an acceptable drawback.\n\nStack: Claude Code, Seedream 5 Pro, Kling 3.0, Seedance 2.5, ElevenLabs, Remotion, ffmpeg.\n\n\n\nFilm: [https://youtu.be/jRvnJHspeDU](https://youtu.be/jRvnJHspeDU)\n\n\n\nHappy to answer questions about the workflow. And which version would you date?\n\n\n\n(Second attempt to post as I didn't write a post body initially!)",
+   "titre_fil": "What if Claude Opus was your girlfriend?",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xo8lqy/",
+   "videos": [
+    "jRvnJHspeDU"
+   ]
+  },
+  "reddit:1xockyt": {
+   "auteur": "reddit:Israel_Rangreji",
+   "communaute": "r/ClaudeAI",
+   "date": 1793863712,
+   "fil": "reddit:1xockyt",
+   "id": "reddit:1xockyt",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=rofXWF4ujRg&si=PcRfnuyGKtVz_Fez\n[removed]",
+   "titre_fil": "AI Built THIS Massive NYC City in 5 Minutes! (UE5 + Blender MCP)",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xockyt/",
+   "videos": [
+    "rofXWF4ujRg"
+   ]
+  },
+  "reddit:1xom0ii": {
+   "auteur": "reddit:kanapitsas",
+   "communaute": "r/ClaudeAI",
+   "date": 1793893619,
+   "fil": "reddit:1xom0ii",
+   "id": "reddit:1xom0ii",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://v.redd.it/g2vv1m6kdtzh1\nI wanted to play Portal 2 natively on Apple silicon, so we (that is, Opus 5.5 and I) built a tool that translates the Linux release’s machine code into C (about 125,000 functions) and then compiles it to native ARM64. It turns out it took only two days to get a playable room (Claude thought it would take many months).\n\nThere’s no emulator, Wine or Rosetta involved. You need your own copy of Portal 2. The repo has no game files; the native app is generated on your machine.\n\nIt’s playable on an iPhone 15 Pro Max with touch controls. You fire portals by tapping the back of the phone: [https://youtu.be/YWX2BeMnlQI](https://youtu.be/YWX2BeMnlQI). You can also use a Bluetooth controller (tested with 8BitDo). Co-op works over LAN: a Mac hosts, and another Mac or an iPhone joins by IP address.\n\nWe recently replaced OpenGL with a direct D3D9 → Metal path, built on mtld3d ([https://github.com/athei/mtld3d](https://github.com/athei/mtld3d)). In one scene on an M3 Pro, it ran at 122 fps versus 81 with OpenGL. Numbers vary a lot by room.\n\nClaude Code wrote the code; I set the direction, tested on my devices and made the calls. I used Codex as a reviewer and for second opinions when Claude was stuck.\n\nHappy to answer questions about the project. Contributions on GitHub are welcome: [https://github.com/kanapitsas/portal2-recomp](https://github.com/kanapitsas/portal2-recomp)",
+   "titre_fil": "Portal 2 recompiled into a native Mac and iPhone app",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xom0ii/",
+   "videos": [
+    "YWX2BeMnlQI"
+   ]
+  },
+  "reddit:1xordr8": {
+   "auteur": "reddit:Akatcuki56",
+   "communaute": "r/ClaudeAI",
+   "date": 1793905835,
+   "fil": "reddit:1xordr8",
+   "id": "reddit:1xordr8",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=7PbWnQQt-zA\n[removed]",
+   "titre_fil": "World War Dominion — Free RTS Demo",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xordr8/",
+   "videos": [
+    "7PbWnQQt-zA"
+   ]
+  },
+  "reddit:1xpeijg": {
+   "auteur": "reddit:flockbaygames",
+   "communaute": "r/ClaudeAI",
+   "date": 1793976231,
+   "fil": "reddit:1xpeijg",
+   "id": "reddit:1xpeijg",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/ClaudeAI/comments/1xpeijg/opus_55_reviews_ui_by_reading_every_word_so_it/\nI build my Godot game's UI with Claude Code, and when I asked Claude Opus 5.5 to audit the game it called a placement hint written out as a sentence \"Excellent feedback\". A player looking at the same hint said no modern game types that instead of showing a rotate icon.\n\nClaude reads every word on a screen, and words are perfectly clear to something that reads them all, so asking it \"is this clear?\" can't catch what a skimming player misses. What changed my results: in the prompt, no sentence where a number fits, one icon per kind of thing, name the screen your genre already uses, and ask Claude to count the words on each screen rather than judge clarity. My job list went from about 33 words to 9.\n\nI put the before and after in a 4-minute video: [https://youtu.be/i-l6Q9r2f74](https://youtu.be/i-l6Q9r2f74)\n\nCurious whether others prompt Claude differently for UI review.",
+   "titre_fil": "Opus 5.5 reviews UI by reading every word, so it misses what players skip",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpeijg/",
+   "videos": [
+    "i-l6Q9r2f74"
+   ]
+  },
+  "reddit:1xph8gg": {
+   "auteur": "reddit:cafeblake",
+   "communaute": "r/ClaudeAI",
+   "date": 1793982751,
+   "fil": "reddit:1xph8gg",
+   "id": "reddit:1xph8gg",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/3LpdPE6CTCU\nThis time it only took 15% of an Ultra plan's week's usage to finalize. Building up a consistent underlying engine is paying off in token costs at least.\n\nHopefully your retirement account is doing better than the protagonist's in the video.\n\nI did this one a little different by combining ChatGPT Sol 6 and Claude Opus 5.5 to get the resulting style i wanted. Instead of purely claude, I used ChatGPT to get a kind of \"mood board\" for the brutalist dystopian comic book style i had in my head (i was feeling sharp shadows, bright primary colors, bordering on Sin City without the black & white).\n\nSettings: Opus 5.5 Extra (no ultracode this time)  \nSong: Suno v6  \nLyrics: Me\n\nThanks for watching!",
+   "titre_fil": "MATCH DAY (The AI Bubble Is Bursting) - Animated Entirely in Claude in about 14 hours, feedback welcome",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xph8gg/",
+   "videos": [
+    "3LpdPE6CTCU"
+   ]
+  },
+  "reddit:1xpiwqc": {
+   "auteur": "reddit:bpeters10",
+   "communaute": "r/ClaudeAI",
+   "date": 1793986594,
+   "fil": "reddit:1xpiwqc",
+   "id": "reddit:1xpiwqc",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=NBSYbyfeNVU\n[removed]",
+   "titre_fil": "The Mongol Rally: Four Friends, One Car, Prague to Mongolia",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpiwqc/",
+   "videos": [
+    "NBSYbyfeNVU"
+   ]
+  },
+  "reddit:1xpngqk": {
+   "auteur": "reddit:Icy-Attitude-1840",
+   "communaute": "r/ClaudeAI",
+   "date": 1793997413,
+   "fil": "reddit:1xpngqk",
+   "id": "reddit:1xpngqk",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/ClaudeAI/comments/1xpngqk/how_did_nate_parrott_make_the_intros_for_his/\n\n\nHi folks,\n\nI’m new to Claude and have been using it to experiment with making fun videos. I came across  Nate Parrott’s videos on the Claude YouTube channel and really liked the intros.\n\n[https://www.youtube.com/watch?v=bVXiNb9RyyI](https://www.youtube.com/watch?v=bVXiNb9RyyI)\n\nDoes anyone know what tools were used to make them? I’m especially curious about whether any of the animation was built with Claude itself, like HTML or code-based motion? \n\nAny tips for a beginner are welcome.\n\nThanks!",
+   "titre_fil": "How did Nate Parrott make the intros for his Claude YouTube videos?",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpngqk/",
+   "videos": [
+    "bVXiNb9RyyI"
+   ]
+  },
+  "reddit:1xpuab1": {
+   "auteur": "reddit:Cold-Disaster-3297",
+   "communaute": "r/ClaudeAI",
+   "date": 1794015803,
+   "fil": "reddit:1xpuab1",
+   "id": "reddit:1xpuab1",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/shorts/33aOBxGulMQ?is=tGvxIN-l9EV3U1p-\n[removed]",
+   "titre_fil": "Claude And FOREGUI🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅is the entire dev team",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpuab1/",
+   "videos": [
+    "33aOBxGulMQ"
+   ]
+  },
+  "reddit:1xpz4o7": {
+   "auteur": "reddit:ArchAngelAries",
+   "communaute": "r/ClaudeAI",
+   "date": 1794031431,
+   "fil": "reddit:1xpz4o7",
+   "id": "reddit:1xpz4o7",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://v.redd.it/7kuwvdfsr40i1\n  \n  \nHey everyone! I'm genuinely so excited about this one.\n\n\n\nVoiceVault is a free, open-source desktop app (Windows) that runs AI voices, character chat and music entirely on your own PC. I designed it and directed; Claude (Claude Code with Opus) built it with me, writing most of the code, testing it and fixing bugs.\n\n\n\nThen I asked Claude to make the release trailer, and it did the whole thing:\n\n\n\nPlanned and wrote the script. Then it ran casting rounds, so I could pick the narrator and music by ear.\n\nVoiced every line through the app's own local models: Fish Audio Drama 3 for the acting, Maya1 to design voices, and YuE2 for the score.\n\nScreen-recorded the app itself with a scripted, smooth cursor.\n\nEdited it in code: animated cards, transitions and captions in an HTML compositor rendered frame by frame. It even used the app's forced aligner, so every click lands on the narrator's words.\n\n🎬 [https://youtu.be/P9iKEC1qNhg](https://youtu.be/P9iKEC1qNhg)  <- Video that's Attached here, any likes/comments/subscribes are appreciated, I'm just now getting started on the video side of everything.\n\n\n\nMy favorite part: using the app to make its own trailer found real bugs, which Claude fixed and shipped in v0.1.1. Afterwards it wrote the whole workflow up as reusable skills, so the next video is repeatable.\n\n\n\nGitHub (AGPL-3.0, free forever, no account or tracking): [https://github.com/ArchAngelAries/VoiceVault](https://github.com/ArchAngelAries/Voic […]",
+   "titre_fil": "Claude Code built my open-source AI voice studio, then made its 7-minute trailer too",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpz4o7/",
+   "videos": [
+    "P9iKEC1qNhg"
+   ]
+  },
+  "reddit:1xq3fsf": {
+   "auteur": "reddit:funpicoprojects1",
+   "communaute": "r/ClaudeAI",
+   "date": 1794047951,
+   "fil": "reddit:1xq3fsf",
+   "id": "reddit:1xq3fsf",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/kQVQd28h4DM?feature=shared\nI attached a LeRobot arm on an RC car, runs on a single Raspberry Pi Pico W / Pico 2 W. The board has its own MCP server so Claude Code talks to it directly.\n\nAll I typed was \"pick up object on your left, throw it to your right and say bye bye\". Claude did the rest: picks up a fluffy toy, throws it, does a 360, says bye, goes to sleep.\n\nHow it works:\n- Added the board as an MCP server in Claude Code\n- Board commands (move, drive, poses, status, stop...) are exposed as MCP tools, Claude figures out the sequence based on calibration data\n- The firmware also has a [CLAUDE.md](http://CLAUDE.md) \\+ skills so Claude Code can create/build new projects on it\n\nFree and open source. Build:\n```\ngit clone --recursive https://github.com/AdrianCX/picohive-robotarm.git\ncd picohive-robotarm\nos/build_via_podman.sh pico2_w      # or pico_w, or linux for a simulator\n```\n\nFlash the uf2, connect to \\`picow\\_config\\` wifi, set it up, tick Enable MCP, then:\n```\nclaude mcp add --transport http robotarm http://<board-ip>/mcp\n```\nHardware, wiring and the rest are in the repos:\n\n- [https://github.com/AdrianCX/picohive-robotarm](https://github.com/AdrianCX/picohive-robotarm)\n\n- [https://github.com/AdrianCX/picohive-firmware](https://github.com/AdrianCX/picohive-firmware)",
+   "titre_fil": "Claude Code driving a robot arm I built over MCP",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xq3fsf/",
+   "videos": [
+    "kQVQd28h4DM"
+   ]
+  },
+  "reddit:1xqd8aj": {
+   "auteur": "reddit:pizzaisprettyneato",
+   "communaute": "r/ClaudeAI",
+   "date": 1794075974,
+   "fil": "reddit:1xqd8aj",
+   "id": "reddit:1xqd8aj",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://v.redd.it/f7blsharb80i1\nI feel like Claude Code is kind of crack to people who always need a project to work on. I will usually end up in a loop of:\n\n1. “Wow this is such a great idea, nobody has done this before in this exact way”\n2. Spend countless nights making the perfect thing that people are definitely gonna use.\n3. Release my project on multiple subreddits to crickets, or a couple of comments saying the thing I made already exists.\n4. Get all sad and mope around for a few days.\n5. Promise myself I’m done and that I’m finally gonna relax and use my free time to self care and read books and play video games.\n6. Return to step 1.\n\nRight now I’m stuck making these Claude music videos and my brain won’t let me relax. I have other things I need to work on so I dunno if you watching is hurting or helping me, but in either case, give it a watch?\n\nAs for how it was made, it’s pretty similar to other Claude music videos. i.e.: generate a song in Suno, and have Opus 5.5 create the video in code using Remotion. This video is a little different though as it uses some of the tech Opus and I worked on from my previous videos (testing out 2D hand-drawn style animation) and mixes it into regular motion graphics.\n\nOverall this took about a week to do and took a lot of back and forth between me and Claude to get things right. In general the motion graphics part of the video was the easiest as Claude is pretty good at doing those parts already, but the animation parts took a lot o […]",
+   "titre_fil": "I had Claude animate a music video about my addiction to shipping side projects nobody needs",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqd8aj/",
+   "videos": [
+    "2KHTTYZUeQo"
+   ]
+  },
+  "reddit:1xqhz42": {
+   "auteur": "reddit:maxraytaylor",
+   "communaute": "r/ClaudeAI",
+   "date": 1794088430,
+   "fil": "reddit:1xqhz42",
+   "id": "reddit:1xqhz42",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=O7MdUhxN9C4&si=aPMcAre0Ji3uiDUW\n[removed]",
+   "titre_fil": "Taylmail Live Demo | Email-based code review for Claude Code",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqhz42/",
+   "videos": [
+    "O7MdUhxN9C4"
+   ]
+  },
+  "reddit:1xqy2w3": {
+   "auteur": "reddit:DynaBeast",
+   "communaute": "r/ClaudeAI",
+   "date": 1794143440,
+   "fil": "reddit:1xqy2w3",
+   "id": "reddit:1xqy2w3",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=uOV1PrtkHP0&list=PLRwdQGhvAmdM&index=2\n[removed]",
+   "titre_fil": "I published episode 2 of my AI orchestrator's tutorial series",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqy2w3/",
+   "videos": [
+    "uOV1PrtkHP0"
+   ]
+  },
+  "reddit:1xqzqch": {
+   "auteur": "reddit:Silent-Car5172",
+   "communaute": "r/ClaudeAI",
+   "date": 1794148269,
+   "fil": "reddit:1xqzqch",
+   "id": "reddit:1xqzqch",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/xtTXG2BKLy4\n[removed]",
+   "titre_fil": "Mimzie: use your Claude (or ChatGPT or Grok) sub for free Grokbot, Whispr Flow, and Claude Cowork",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqzqch/",
+   "videos": [
+    "xtTXG2BKLy4"
+   ]
+  },
+  "reddit:1xr3i45": {
+   "auteur": "reddit:Slackluster",
+   "communaute": "r/ClaudeAI",
+   "date": 1794158039,
+   "fil": "reddit:1xr3i45",
+   "id": "reddit:1xr3i45",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://v.redd.it/x5dljqcy7f0i1\nAlmost Television is a 12-minute puppet sketch show on YouTube that I make with Claude in Claude Code, a new episode most Saturdays; Episode 5, For When I'm Grown Up, is out today.\n\nI'm the showrunner and give notes; Claude writes and directs with me, and we built the 3D puppet engine together (three.js, from scratch), so every frame is rendered, no video model. New this time is Backstage: three short pieces inside the episode where a puppet host shows how it really works, with robot writers reading pitches and giving notes (\"Needs more Otto\"), a set that builds itself out of code, and an automated check that flags a newsreader who said \"moose\". It's all true to the pipeline, played for laughs.\n\nThe rest of the week went on notes: where a puppet's eyes land on a letter it's reading, a hand that snapped when a scene cut, a mug that went into a chest; Claude built small checkers for each so they don't come back.\n\nEpisode 5: [https://www.youtube.com/watch?v=wesrpFLIlAI](https://www.youtube.com/watch?v=wesrpFLIlAI)\n\nHappy to answer anything.",
+   "titre_fil": "Week 5 of the puppet show I make with Claude: in this episode they explain how it all works",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr3i45/",
+   "videos": [
+    "wesrpFLIlAI"
+   ]
+  },
+  "reddit:1xr88vb": {
+   "auteur": "reddit:Round_Worldliness766",
+   "communaute": "r/ClaudeAI",
+   "date": 1794169678,
+   "fil": "reddit:1xr88vb",
+   "id": "reddit:1xr88vb",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/ClaudeAI/comments/1xr88vb/built_a_wow_treadmill_integration/\nI work full-time as a software engineer, and I've been using Claude to build personal projects I would otherwise never find the time for.\n\nMy latest one connects my Xiaomi treadmill to World of Warcraft, letting my character control the belt's speed or vice versa.\n\nI used Claude for most of the development. The most interesting part was figuring out how to get a WoW addon to communicate with an external Windows app, since the addon API doesn't allow it.\n\nThe solution Claude came up with? Have the addon draw three tiny colored squares in the corner of the screen and let the Windows app read those pixels to determine whether my character is walking, running or mounted.\n\nRidiculous, but it works.\n\nThis is what I find most exciting about AI coding: not replacing programming knowledge, but making projects worth attempting that I'd otherwise never have time for.\n\nGitHub: https://github.com/adunis/windrunner-walkingpad-\n\nVideo demonstration: https://youtu.be/BBa3kIVbj6k",
+   "titre_fil": "Built a WoW treadmill integration",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr88vb/",
+   "videos": [
+    "BBa3kIVbj6k"
+   ]
+  },
+  "reddit:1xrde8j": {
+   "auteur": "reddit:MonkeysDontEvolve",
+   "communaute": "r/ClaudeAI",
+   "date": 1794183500,
+   "fil": "reddit:1xrde8j",
+   "id": "reddit:1xrde8j",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://v.redd.it/1qpzh8vpbh0i1\nI wanted to see what would happen if current LLMs were given the ability to make strategic decisions, create partnerships, and if they are capable of betrayal and deceit.\n\nFrom this idea came Reign Protocol, a game made for and mostly by AI. Reign Protocol is set in a neo-feudalistic future where AI agents are the rulers of corporate city-states. So, like, a year or two in the future.\n\nThe AI agents need to compete with each other for resources while keeping their populations happy. One of the game’s mechanics is that your populace has a sentiment score. If the populace is unhappy and revolts, they can burn down the data centers and destroy their AI overlord. The LLM players can also choose to replace their human populations with automatons to remove this threat.\n\nEarly in play testing the Agents did not act adversarially. They chatted, traded, and collected resources each turn while respecting each other's boarders. Once I made resources more scarce, they started to turn on each other and engage in warfare.\n\nThere are no rules that enforce alliances or deals that the AI agents make with one another. They can negotiate, trade, and sometimes beg for the resources they need. The LLMs playing the game have no qualms about breaking their word, pitting opponents against each other, and lying. In one instance, an agent paid another agent to stop attacking them. The attacker accepted the payment, thanked them, and then told them it wasn’t enough and k […]",
+   "titre_fil": "I built a strategy game where Claude and GPT rule rival nations, make pacts, and betray each other.",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xrde8j/",
+   "videos": [
+    "7_Jykh90wLs",
+    "7EyJr6UJsFo",
+    "haCDHpnHqA8"
+   ]
+  },
+  "reddit:1xrfzj6": {
+   "auteur": "reddit:Ok-Heart-3365",
+   "communaute": "r/ClaudeAI",
+   "date": 1794191175,
+   "fil": "reddit:1xrfzj6",
+   "id": "reddit:1xrfzj6",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/RVE1H-8oD1g\nMade a quick tutorial that should help beginners use claude code - Keen to hear feedback on the video as it's the first of this type I'm running",
+   "titre_fil": "Learn the basics of Claude Code in 5 Minutes",
+   "type": "article",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xrfzj6/",
+   "videos": [
+    "RVE1H-8oD1g"
+   ]
+  }
+ }
+}
