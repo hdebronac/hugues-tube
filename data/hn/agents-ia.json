@@ -1,49 +1,49 @@
 {
  "curseurs": {
-  "Anthropic youtube|comment": 1794229121,
-  "Anthropic youtube|story": 1794229121,
-  "Anthropic youtu|comment": 1794229121,
-  "Anthropic youtu|story": 1794229121,
-  "Claude youtube|comment": 1794229121,
-  "Claude youtube|story": 1794229121,
-  "Claude youtu|comment": 1794229121,
-  "Claude youtu|story": 1794229121,
-  "LLM youtube|comment": 1794229121,
-  "LLM youtube|story": 1794229121,
-  "LLM youtu|comment": 1794229121,
-  "LLM youtu|story": 1794229121,
-  "MCP youtube|comment": 1794229121,
-  "MCP youtube|story": 1794229121,
-  "MCP youtu|comment": 1794229121,
-  "MCP youtu|story": 1794229121,
-  "RAG youtube|comment": 1794229121,
-  "RAG youtube|story": 1794229121,
-  "RAG youtu|comment": 1794229121,
-  "RAG youtu|story": 1794229121,
-  "agent youtube|comment": 1794229121,
-  "agent youtube|story": 1794229121,
-  "agent youtu|comment": 1794229121,
-  "agent youtu|story": 1794229121,
-  "agentic youtube|comment": 1794229121,
-  "agentic youtube|story": 1794229121,
-  "agentic youtu|comment": 1794229121,
-  "agentic youtu|story": 1794229121,
-  "agents youtube|comment": 1794229121,
-  "agents youtube|story": 1794229121,
-  "agents youtu|comment": 1794229121,
-  "agents youtu|story": 1794229121,
-  "automation youtube|comment": 1794229121,
-  "automation youtube|story": 1794229121,
-  "automation youtu|comment": 1794229121,
-  "automation youtu|story": 1794229121,
-  "n8n youtube|comment": 1794229121,
-  "n8n youtube|story": 1794229121,
-  "n8n youtu|comment": 1794229121,
-  "n8n youtu|story": 1794229121,
-  "prompt youtube|comment": 1794229121,
-  "prompt youtube|story": 1794229121,
-  "prompt youtu|comment": 1794229121,
-  "prompt youtu|story": 1794229121
+  "Anthropic youtube|comment": 1794833521,
+  "Anthropic youtube|story": 1794833521,
+  "Anthropic youtu|comment": 1794833521,
+  "Anthropic youtu|story": 1794833521,
+  "Claude youtube|comment": 1794833521,
+  "Claude youtube|story": 1794833521,
+  "Claude youtu|comment": 1794833521,
+  "Claude youtu|story": 1794833521,
+  "LLM youtube|comment": 1794833521,
+  "LLM youtube|story": 1794833521,
+  "LLM youtu|comment": 1794833521,
+  "LLM youtu|story": 1794833521,
+  "MCP youtube|comment": 1794833521,
+  "MCP youtube|story": 1794833521,
+  "MCP youtu|comment": 1794833521,
+  "MCP youtu|story": 1794833521,
+  "RAG youtube|comment": 1794833521,
+  "RAG youtube|story": 1794833521,
+  "RAG youtu|comment": 1794833521,
+  "RAG youtu|story": 1794833521,
+  "agent youtube|comment": 1794833521,
+  "agent youtube|story": 1794833521,
+  "agent youtu|comment": 1794833521,
+  "agent youtu|story": 1794833521,
+  "agentic youtube|comment": 1794833521,
+  "agentic youtube|story": 1794833521,
+  "agentic youtu|comment": 1794833521,
+  "agentic youtu|story": 1794833521,
+  "agents youtube|comment": 1794833521,
+  "agents youtube|story": 1794833521,
+  "agents youtu|comment": 1794833521,
+  "agents youtu|story": 1794833521,
+  "automation youtube|comment": 1794833521,
+  "automation youtube|story": 1794833521,
+  "automation youtu|comment": 1794833521,
+  "automation youtu|story": 1794833521,
+  "n8n youtube|comment": 1794833521,
+  "n8n youtube|story": 1794833521,
+  "n8n youtu|comment": 1794833521,
+  "n8n youtu|story": 1794833521,
+  "prompt youtube|comment": 1794833521,
+  "prompt youtube|story": 1794833521,
+  "prompt youtu|comment": 1794833521,
+  "prompt youtu|story": 1794833521
  },
  "elements": {
   "34210819": {
@@ -85957,6 +85957,806 @@
    "type": "commentaire",
    "videos": [
     "Ic1Jf7VlXRM"
+   ]
+  },
+  "50427934": {
+   "auteur": "shayan_abbas",
+   "date": 1794242198,
+   "fil": "50427934",
+   "id": "50427934",
+   "mots": [
+    "agent",
+    "agents"
+   ],
+   "texte": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
+   "titre_fil": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
+   "type": "article",
+   "videos": [
+    "V2MOhJYFqIE"
+   ]
+  },
+  "50430052": {
+   "auteur": "waximabbax",
+   "date": 1794251080,
+   "fil": "50430051",
+   "id": "50430052",
+   "mots": [
+    "agent"
+   ],
+   "texte": "Hi!\nInitially we started TheGitAI as CLI only Agent but now it has Desktop App as well with its builtin IDE.\n\nCLI/Desktop App is fully supported on Linux/MacOS/Windows.\n\nApart from Desktop App, another major important feature is full native Computer Control through vision on Linux and MacOS which works through both Desktop App and CLI Agent.\n\nLinux Community was always left behind when it came to computer control by Coding Agent so we ensured that it works on most famous linux distros and fully supports both Wayland/X11.\n\nOur Computer Control has a headless/background feature which when selected works in the background but still in front of you through a preview window. This helps particularly in cases when you are also working on the same machine and want to use your mouse and keyboard when the model is working.\n\nIf you wanna know more about this, you can see that here:\n\nhttps://thegit.ai/docs/computer-control/overview\n\nHere is one min demo video for computer control:\n\nhttps://www.youtube.com/watch?v=2K3klt4DNYc\n\nIf there are any missing features or something you would want us to add, please feel free to contact me:\n\nhttps://thegit.ai/report\n\nThanks a lot.",
+   "titre_fil": "[dead]",
+   "type": "commentaire",
+   "videos": [
+    "2K3klt4DNYc"
+   ]
+  },
+  "50430687": {
+   "auteur": "mottiden",
+   "date": 1794253090,
+   "fil": "50430687",
+   "id": "50430687",
+   "mots": [
+    "Claude"
+   ],
+   "texte": "Claude Fable 5.2 designs a working voice assistant [video]",
+   "titre_fil": "Claude Fable 5.2 designs a working voice assistant [video]",
+   "type": "article",
+   "videos": [
+    "vdYynH177h0"
+   ]
+  },
+  "50430997": {
+   "auteur": "shevy-java",
+   "date": 1794254178,
+   "fil": "50427362",
+   "id": "50430997",
+   "mots": [
+    "agent"
+   ],
+   "texte": "The bigger take-away is that relying on US companies here,\nis very risky. Canada understands this. Europe does not (at\nthe least most politicians in Europe do not understand the\nproblem). I'd almost suggest canadian politicians to help\nrun the EU for a while, just to fix numerous issues that\narise due to a lack of understanding. Canadians really \nunderstand the problem domain soooooo much better than \nEuropans. This also includes a nuclear arsenal - both the\nEU and Canada need their own arsenal (details need to be\nmapped out, of course, but just blindly relying on the\nUSA is a losing option; you can see it now with Ukraine,\nwhere the USA blackmails Ukraine to give up territory.\nAgent Krasnov is doing his dirty deed and will get billions\nfrom the mini Darth Vader in Russia. Yuri explained this\nin 1984: https://www.youtube.com/watch?v=9apDnRRSOCk and\nhe was spot on. A shame he is not among us anymore, unlike\nPutin).",
+   "titre_fil": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+   "type": "commentaire",
+   "videos": [
+    "9apDnRRSOCk"
+   ]
+  },
+  "50431256": {
+   "auteur": "gb2d_hn",
+   "date": 1794255136,
+   "fil": "50431256",
+   "id": "50431256",
+   "mots": [
+    "agentic"
+   ],
+   "texte": "Show HN: EtherPK Notes – An Agentic Kanban Board from Your Markdown Tasks [video]",
+   "titre_fil": "Show HN: EtherPK Notes – An Agentic Kanban Board from Your Markdown Tasks [video]",
+   "type": "article",
+   "videos": [
+    "6RpNgH8-Dsc"
+   ]
+  },
+  "50434914": {
+   "auteur": "morgyn-io",
+   "date": 1794274088,
+   "fil": "50434914",
+   "id": "50434914",
+   "mots": [
+    "Claude"
+   ],
+   "texte": "I asked Claude to interview itself",
+   "titre_fil": "I asked Claude to interview itself",
+   "type": "article",
+   "videos": [
+    "_wYr3FexNIM"
+   ]
+  },
+  "50439744": {
+   "auteur": "lroe",
+   "date": 1794315849,
+   "fil": "50439744",
+   "id": "50439744",
+   "mots": [
+    "LLM"
+   ],
+   "texte": "The Data Structure Making LLMs Faster: Radix Trees [video]",
+   "titre_fil": "The Data Structure Making LLMs Faster: Radix Trees [video]",
+   "type": "article",
+   "videos": [
+    "fraojkzW7MM"
+   ]
+  },
+  "50442224": {
+   "auteur": "dolmen",
+   "date": 1794326484,
+   "fil": "50434310",
+   "id": "50442224",
+   "mots": [
+    "LLM"
+   ],
+   "texte": "> I tried recording it with my phone, but it doesn't pick anything up.\n\nDoesn't pick anything or doesn't pick anything that you can hear back? Might still be worth giving for processing to an LLM as some nerd is able to locate a webcam location from the recorded sound and date [1].\n\n[1] https://www.youtube.com/shorts/4CEHH2WyRKs",
+   "titre_fil": "Locating the source of a mysterious beep",
+   "type": "commentaire",
+   "videos": [
+    "4CEHH2WyRKs"
+   ]
+  },
+  "50444535": {
+   "auteur": "brlewis",
+   "date": 1794336785,
+   "fil": "50443812",
+   "id": "50444535",
+   "mots": [
+    "agent"
+   ],
+   "texte": ">Pretty soon no one is going to read any of the code AI produces and that's a scary thought.\n\nThis is a misconception. Have your favorite agent summarize this video for you: https://www.youtube.com/live/zcLPGC-tvgk?si=YR68aHlFESD053bh",
+   "titre_fil": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+   "type": "commentaire",
+   "videos": [
+    "zcLPGC-tvgk"
+   ]
+  },
+  "50444789": {
+   "auteur": "vik0",
+   "date": 1794337798,
+   "fil": "50443812",
+   "id": "50444789",
+   "mots": [
+    "agent"
+   ],
+   "texte": ">>Pretty soon no one is going to read any of the code AI produces and that's a scary thought.\n\n>This is a misconception. Have your favorite agent *summarize this video for you*: https://www.youtube.com/live/zcLPGC-tvgk?si=YR68aHlFESD053bh\n\nI can't tell if you're joking here",
+   "titre_fil": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+   "type": "commentaire",
+   "videos": [
+    "zcLPGC-tvgk"
+   ]
+  },
+  "50445758": {
+   "auteur": "kolchinski",
+   "date": 1794342003,
+   "fil": "50445758",
+   "id": "50445758",
+   "mots": [
+    "Claude",
+    "LLM",
+    "agent",
+    "agents"
+   ],
+   "texte": "Show HN: Zeus – Claude Code for AI voice agents",
+   "titre_fil": "Show HN: Zeus – Claude Code for AI voice agents",
+   "type": "article",
+   "videos": [
+    "kIqp37udd6s"
+   ]
+  },
+  "50447378": {
+   "auteur": "ryansakhala",
+   "date": 1794350855,
+   "fil": "50447378",
+   "id": "50447378",
+   "mots": [
+    "LLM"
+   ],
+   "texte": "LLM inference, visually explained: why a 13B model reads 26 GB per token",
+   "titre_fil": "LLM inference, visually explained: why a 13B model reads 26 GB per token",
+   "type": "article",
+   "videos": [
+    "R3meYJU7wEg"
+   ]
+  },
+  "50447712": {
+   "auteur": "selljamhere",
+   "date": 1794352803,
+   "fil": "50447712",
+   "id": "50447712",
+   "mots": [
+    "agent",
+    "agents"
+   ],
+   "texte": "GoSF: I cloned my CTO and now write better go code with agents [video]",
+   "titre_fil": "GoSF: I cloned my CTO and now write better go code with agents [video]",
+   "type": "article",
+   "videos": [
+    "iSWdbs0qKPQ"
+   ]
+  },
+  "50448400": {
+   "auteur": "evan_whitehouse",
+   "date": 1794357850,
+   "fil": "50448400",
+   "id": "50448400",
+   "mots": [
+    "Anthropic",
+    "LLM"
+   ],
+   "texte": "Show HN: Rystic – Stateful Local Simulators of Slack, GitHub and Linear",
+   "titre_fil": "Show HN: Rystic – Stateful Local Simulators of Slack, GitHub and Linear",
+   "type": "article",
+   "videos": [
+    "qwin0LAeaeU"
+   ]
+  },
+  "50448544": {
+   "auteur": "somenameforme",
+   "date": 1794359103,
+   "fil": "50433659",
+   "id": "50448544",
+   "mots": [
+    "LLM"
+   ],
+   "texte": "In game (or UI) development animation isn't just what you might think of with things like moving. I tried to allude to this in the parenthesis, but any sort of transitionary state for something is an animation. The walking animation is irrelevant in terms of making the combat feel 'weighty'. I imagine most people didn't even notice it - I certainly didn't, even though it's very much a 'once you see it, you can't unsee it' thing.\n\nBut when making a combat game there's a million subtle things going on that the game gets very right to actually make it feel like the hits have weight - the flashes, text, and other aspects all have subtle animations in them that make them feel good the hitbox triggers at exactly the right moment meaning it's a tight fit, and much more. These are things many human studios screw up. It's really hard to make combat feel good, and this game does it.\n\nFor some context, Streets of Rage 4 [1] was a very well received beat-em-up. So that's pretty much the top tier for the genre. And yeah it's obviously better than this game, but the gap is not huge, and that's borderline absurd when considering that this was a one-shot LLM generated game. And that gap could easily be closed with some refinement from a single developer - in this case our rando uncle. Interesting times ahead.\n\n[1] - https://www.youtube.com/watch?v=rLvbwNAFGRQ",
+   "titre_fil": "Fable 5.2 one-shotted my nephew's dream game",
+   "type": "commentaire",
+   "videos": [
+    "rLvbwNAFGRQ"
+   ]
+  },
+  "50449972": {
+   "auteur": "simoncion",
+   "date": 1794374089,
+   "fil": "50447074",
+   "id": "50449972",
+   "mots": [
+    "Anthropic"
+   ],
+   "texte": "I rather like how the folks squabbling about the stats about the report stockpile are ignoring the stats about OSS Scanner. [0] The >50% false positive rate for Curl agrees with Greg K-H's report from this year [1] of a very high false positive rate from Glasswing/Fable. And -as he mentioned in his talk- people refused to pay money for Qualys because its 20% false positive rate was way too high. The only way you're going to get folks to pay for Anthropic's vulnerability scanners is if they're either incapable of understanding the details about its performance or they don't give any fucks about saturating their bug-fixers with garbage reports.\n\n[0] <https://www.vulncheck.com/blog/anthropic-glasswing-november-update#anthropics-pivot-to-oss-scanner>\n\n[1] <https://www.youtube.com/watch?v=NnV_cWeoo5Q>",
+   "titre_fil": "Tracking Anthropic-discovered vulnerabilities",
+   "type": "commentaire",
+   "videos": [
+    "NnV_cWeoo5Q"
+   ]
+  },
+  "50450860": {
+   "auteur": "quysala12",
+   "date": 1794384291,
+   "fil": "50450860",
+   "id": "50450860",
+   "mots": [
+    "Claude"
+   ],
+   "texte": "How to export Claude chat to word without losing formatting [video]",
+   "titre_fil": "How to export Claude chat to word without losing formatting [video]",
+   "type": "article",
+   "videos": [
+    "C7NIpkOyc-4"
+   ]
+  },
+  "50452542": {
+   "auteur": "dragonelite",
+   "date": 1794399369,
+   "fil": "50452074",
+   "id": "50452542",
+   "mots": [
+    "LLM"
+   ],
+   "texte": "Andrew already opened up about using LLMs for finding bugs but it will be done after they covered all other bug finding methods. This opening up came from what the sqlite guys presented about using LLMs for finding bugs and the zig compiler team hinted at following the same bug squashing route that the sqlite guys followed.\n\nIt's was in a presentation given at the tigerbeetle guys event.\n\nsource: https://youtu.be/zwi5b5xSsKA?t=1774",
+   "titre_fil": "The Zig project is going nowhere",
+   "type": "commentaire",
+   "videos": [
+    "zwi5b5xSsKA"
+   ]
+  },
+  "50454625": {
+   "auteur": "brownrout",
+   "date": 1794411186,
+   "fil": "50454625",
+   "id": "50454625",
+   "mots": [
+    "Anthropic",
+    "LLM",
+    "MCP"
+   ],
+   "texte": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+   "titre_fil": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+   "type": "article",
+   "videos": [
+    "BFfbXAwRq98"
+   ]
+  },
+  "50455472": {
+   "auteur": "moondistance",
+   "date": 1794415520,
+   "fil": "50455472",
+   "id": "50455472",
+   "mots": [
+    "Anthropic"
+   ],
+   "texte": "Anthropic IPO – Dario Amodei [video]",
+   "titre_fil": "Anthropic IPO – Dario Amodei [video]",
+   "type": "article",
+   "videos": [
+    "eynv5VR9qos"
+   ]
+  },
+  "50455811": {
+   "auteur": "alanjm23",
+   "date": 1794417116,
+   "fil": "50455811",
+   "id": "50455811",
+   "mots": [
+    "MCP",
+    "agent",
+    "agents",
+    "automation"
+   ],
+   "texte": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+   "titre_fil": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+   "type": "article",
+   "videos": [
+    "Bi4jci7rgHo"
+   ]
+  },
+  "50456646": {
+   "auteur": "lroe",
+   "date": 1794421329,
+   "fil": "50456646",
+   "id": "50456646",
+   "mots": [
+    "LLM"
+   ],
+   "texte": "Inside Llama.cpp: How Local LLMs Run on Your Hardware [video]",
+   "titre_fil": "Inside Llama.cpp: How Local LLMs Run on Your Hardware [video]",
+   "type": "article",
+   "videos": [
+    "saXrLnzWTD0"
+   ]
+  },
+  "50457150": {
+   "auteur": "looofooo0",
+   "date": 1794423863,
+   "fil": "50457150",
+   "id": "50457150",
+   "mots": [
+    "Claude"
+   ],
+   "texte": "Claude Reverse Engineered my 32-year-old Jeep and Started Controlling it",
+   "titre_fil": "Claude Reverse Engineered my 32-year-old Jeep and Started Controlling it",
+   "type": "article",
+   "videos": [
+    "WPj3aQ-xxpI"
+   ]
+  },
+  "50460015": {
+   "auteur": "_diyar",
+   "date": 1794437561,
+   "fil": "50458900",
+   "id": "50460015",
+   "mots": [
+    "agent",
+    "agentic",
+    "agents"
+   ],
+   "texte": "Yes, but this type of stuff compounds. Moreover, the fact that agents are now the lowest friction interface for this stuff makes it a potential double-whammy.\n\nA similar example discussed recently on the podcast ”The Real Eisman Playbook”[0] illustrates the point: Many retail investors have trading accounts with some cash sitting idle. The brokers earn a healthy margin by investing that cash into short-term money market funds (MMF).\n\nNow obviously, the diligent investors could easily buy the MMFs and pocket the profit themselves. However, many of them are lazy or don’t care. But now with agentic access, even the laziest user can optimize their short-term cash holdings, which might cost the brokers relying on this income dearly.\n\n  [0] https://youtu.be/y45yqiCdfI4?si=TzVcAb0mXjdXObUs&t=490",
+   "titre_fil": "United Airlines bans AI agents from booking flights on behalf of travelers",
+   "type": "commentaire",
+   "videos": [
+    "y45yqiCdfI4"
+   ]
+  },
+  "50460481": {
+   "auteur": "arbayi",
+   "date": 1794439768,
+   "fil": "50460481",
+   "id": "50460481",
+   "mots": [
+    "Claude"
+   ],
+   "texte": "Fable 5.2 or Opus? When to use each model in Claude Code [video]",
+   "titre_fil": "Fable 5.2 or Opus? When to use each model in Claude Code [video]",
+   "type": "article",
+   "videos": [
+    "C33hJGt-ySg"
+   ]
+  },
+  "50463399": {
+   "auteur": "envoked",
+   "date": 1794461364,
+   "fil": "50463399",
+   "id": "50463399",
+   "mots": [
+    "Claude"
+   ],
+   "texte": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+   "titre_fil": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+   "type": "article",
+   "videos": [
+    "WPj3aQ-xxpI"
+   ]
+  },
+  "50465608": {
+   "auteur": "unglaublich",
+   "date": 1794481946,
+   "fil": "50458900",
+   "id": "50465608",
+   "mots": [
+    "agent",
+    "agents"
+   ],
+   "texte": "The misunderstanding is that they're not selling flights, they're mainly selling insurances and credit cards. The valuation of some airlines' loyalty programs is higher than their company valuation. That is: operating flights comes at a loss. Flights are just the bait, and then the process is designed to extract maximum value from the caught human through phsychological tricks. Agents are not so suspectible to those tricks, so the airline doesn't make enough money.\n\nMust see by Wendover Productions: https://www.youtube.com/watch?v=ggUduBmvQ_4",
+   "titre_fil": "United Airlines bans AI agents from booking flights on behalf of travelers",
+   "type": "commentaire",
+   "videos": [
+    "ggUduBmvQ_4"
+   ]
+  },
+  "50465839": {
+   "auteur": "IanXavier",
+   "date": 1794484051,
+   "fil": "50465839",
+   "id": "50465839",
+   "mots": [
+    "Claude"
+   ],
+   "texte": "I made a 60 second product film for my Mac app in code with Claude Fable 5.2 [video]",
+   "titre_fil": "I made a 60 second product film for my Mac app in code with Claude Fable 5.2 [video]",
+   "type": "article",
+   "videos": [
+    "Gn8TtG_synM"
+   ]
+  },
+  "50470051": {
+   "auteur": "ndiddy",
+   "date": 1794501181,
+   "fil": "50465829",
+   "id": "50470051",
+   "mots": [
+    "Claude"
+   ],
+   "texte": "One interesting thing from their presentation (especially given recent events): They claim to have used Mythos to port Claude from running on nVIDIA GPUs to running on AMD GPUs in just 3 days, with basically no human intervention. If this is true, it significantly reduces nVIDIA's moat regarding GPU compute. https://youtu.be/eynv5VR9qos?t=1230",
+   "titre_fil": "Anthropic IPO",
+   "type": "commentaire",
+   "videos": [
+    "eynv5VR9qos"
+   ]
+  },
+  "50471281": {
+   "auteur": "alirezamshi",
+   "date": 1794505883,
+   "fil": "50471281",
+   "id": "50471281",
+   "mots": [
+    "LLM",
+    "RAG",
+    "agent",
+    "agents"
+   ],
+   "texte": "Show HN: Kapso – Iterative learning from enterprise data",
+   "titre_fil": "Show HN: Kapso – Iterative learning from enterprise data",
+   "type": "article",
+   "videos": [
+    "W4FHlza1fRs"
+   ]
+  },
+  "50473419": {
+   "auteur": "dennis3124",
+   "date": 1794514071,
+   "fil": "50473419",
+   "id": "50473419",
+   "mots": [
+    "agent",
+    "agents"
+   ],
+   "texte": "Show HN: Mudroom – Unified inbox for support requests",
+   "titre_fil": "Show HN: Mudroom – Unified inbox for support requests",
+   "type": "article",
+   "videos": [
+    "GFafCfwqNf4"
+   ]
+  },
+  "50476013": {
+   "auteur": "TutleCpt",
+   "date": 1794526757,
+   "fil": "50476012",
+   "id": "50476013",
+   "mots": [
+    "Claude"
+   ],
+   "texte": "claude plugin marketplace add /home/micro/dev-local-docker-claudeai/blip\n\nclaude plugin install blip@blip\n\n/blip custom ~/Downloads/Telemetry_typing_snippet.wav\n\nYou'll have to find the audio clip above, but this might help https://www.youtube.com/watch?v=xhQAH9jwdxI.\n\nAsk Claude to trim it down and convert to wav.",
+   "titre_fil": "The Hunt for Claude October",
+   "type": "commentaire",
+   "videos": [
+    "xhQAH9jwdxI"
+   ]
+  },
+  "50476694": {
+   "auteur": "Bender",
+   "date": 1794531155,
+   "fil": "50476694",
+   "id": "50476694",
+   "mots": [
+    "Anthropic"
+   ],
+   "texte": "Fable 5.2 just revealed how shady Anthropic is [video]",
+   "titre_fil": "Fable 5.2 just revealed how shady Anthropic is [video]",
+   "type": "article",
+   "videos": [
+    "4BnLL7tUGmI"
+   ]
+  },
+  "50479432": {
+   "auteur": "pcthrowaway",
+   "date": 1794553311,
+   "fil": "50468888",
+   "id": "50479432",
+   "mots": [
+    "LLM"
+   ],
+   "texte": "I have about 12 of these Rifbar Mixpads saved up: https://rifbar.com/product-mixpro\n\nThey have a color LCD display that looks unnecessarily good considering what it does. You can see an example of one of the animations at the 52s mark in this video https://www.youtube.com/watch?v=peNyiLt5SKk&t=52s\n\nI've got no idea what's inside of it yet but I'm open to tinkering if someone can walk me through it\n\nI doubt any vape is powerful enough to run any LLM on its own, but idk if it's possible to run one on a cluster of vapes.",
+   "titre_fil": "I'm making LLMs work on small and old devices",
+   "type": "commentaire",
+   "videos": [
+    "peNyiLt5SKk"
+   ]
+  },
+  "50483706": {
+   "auteur": "Joel_Mckay",
+   "date": 1794578883,
+   "fil": "50482992",
+   "id": "50483706",
+   "mots": [
+    "LLM"
+   ],
+   "texte": "Radeon AI PRO R9700 32G gpu with the recent CUDA-free LLM software... now punches way above its budget class.  They are cheap as most folks haven't figured out the recent performance hacks yet.\n\nThey are still everywhere, and who cares if it takes 14 hours instead of 6 hours if the task gets done.  =3\n\nhttps://www.youtube.com/watch?v=Ty4lTwykmKY\n\nhttps://www.pugetsystems.com/labs/articles/amd-radeon-ai-pro-r9700-dual-gpu-ai-inference-performance/",
+   "titre_fil": "Jensen Huang Admitted He Was Facing an \"Avalanche\" of Excess Wafers and Memory",
+   "type": "commentaire",
+   "videos": [
+    "Ty4lTwykmKY"
+   ]
+  },
+  "50483712": {
+   "auteur": "streetfighter64",
+   "date": 1794578913,
+   "fil": "50481220",
+   "id": "50483712",
+   "mots": [
+    "automation"
+   ],
+   "texte": "You take a clockmaker who's used to working with hand-operated lathes, mills etc. and let him work for a few years using CNC versions. For sure he'll probably be worse at using the traditional machines when he comes back to them, but that doesn't mean he's any dumber or worse at making clocks. He's just out of practice, same as if he'd have spent a few years staffing a convenience store or anything else.\n\nThat seems to be precisely what your study shows as well, though I only read the summary. Say the AI lowered the endoscopists' workload by (for illustration) 20%, so they got 20% less practice per unit of time, which made them have a performance that was 20% worse in the trial. I would expect the same to happen if they got assigned to do paperwork for 20% of their time as well.\n\nI'm not trying to be argumentative, perhaps we're in agreement here, I'm just clarifying my point.\n\nThere's a famous talk about the importance of knowing when to use which level of automation, and maintaining currency at all levels you expect to need to use: https://youtube.com/watch?v=5ESJH1NLMLs",
+   "titre_fil": "Claude Is Down",
+   "type": "commentaire",
+   "videos": [
+    "5ESJH1NLMLs"
+   ]
+  },
+  "50484306": {
+   "auteur": "alexela",
+   "date": 1794581280,
+   "fil": "50484306",
+   "id": "50484306",
+   "mots": [
+    "Claude",
+    "MCP"
+   ],
+   "texte": "Show HN: Clozemaster MCP server that turns class notes into cloze sentences",
+   "titre_fil": "Show HN: Clozemaster MCP server that turns class notes into cloze sentences",
+   "type": "article",
+   "videos": [
+    "mN1eZl0hKTQ"
+   ]
+  },
+  "50484657": {
+   "auteur": "Bender",
+   "date": 1794582515,
+   "fil": "50483480",
+   "id": "50484657",
+   "mots": [
+    "Anthropic"
+   ],
+   "texte": "Grok will refuse to create any offensive security related code which in my opinion is the right balance.  I do not believe Anthropic is about protecting their image [1] but rather up-selling enterprise features.\n\nAlso there is no need to trick anything.  There are a myriad of abliterated models that will not refuse anything and will help anyone write malicious things or learn to do malicious things.\n\n[1] - https://www.youtube.com/watch?v=4BnLL7tUGmI",
+   "titre_fil": "Eli Lilly CEO pushes back on Dario Amodei's medical claims",
+   "type": "commentaire",
+   "videos": [
+    "4BnLL7tUGmI"
+   ]
+  },
+  "50486368": {
+   "auteur": "telekid",
+   "date": 1794589363,
+   "fil": "50486368",
+   "id": "50486368",
+   "mots": [
+    "agent",
+    "agents"
+   ],
+   "texte": "Bootstrapping: First public demo of my \"cloud devboxes for agents\" product [video]",
+   "titre_fil": "Bootstrapping: First public demo of my \"cloud devboxes for agents\" product [video]",
+   "type": "article",
+   "videos": [
+    "d8-HvYyh6q4"
+   ]
+  },
+  "50487094": {
+   "auteur": "gmmachine",
+   "date": 1794592210,
+   "fil": "50487094",
+   "id": "50487094",
+   "mots": [
+    "Claude"
+   ],
+   "texte": "Reverse-engineering and tuning a 1994 Jeep ECU with Claude and a $3 Arduino [video]",
+   "titre_fil": "Reverse-engineering and tuning a 1994 Jeep ECU with Claude and a $3 Arduino [video]",
+   "type": "article",
+   "videos": [
+    "WPj3aQ-xxpI"
+   ]
+  },
+  "50490582": {
+   "auteur": "matt_d",
+   "date": 1794607414,
+   "fil": "50490582",
+   "id": "50490582",
+   "mots": [
+    "agent"
+   ],
+   "texte": "DSPy vs. LangGraph: AI Agent Frameworks Explained – Stanford CS329Z [video]",
+   "titre_fil": "DSPy vs. LangGraph: AI Agent Frameworks Explained – Stanford CS329Z [video]",
+   "type": "article",
+   "videos": [
+    "q0Q-Hy8TTps"
+   ]
+  },
+  "50493408": {
+   "auteur": "interestica",
+   "date": 1794626132,
+   "fil": "50489641",
+   "id": "50493408",
+   "mots": [
+    "agent"
+   ],
+   "texte": "Press conference\nhttps://www.youtube.com/live/M1WhY3qcJjE?si=KUFvgHO-EepCi1v6\n\nNotably, the problem was described as \"routers overloaded with data\".  When directly questioned if this could be a cyber attack or rogue ai agent the Sec/Homeland responded \"there's nothing completely certain now.\"",
+   "titre_fil": "FAA issues national ground stop",
+   "type": "commentaire",
+   "videos": [
+    "M1WhY3qcJjE"
+   ]
+  },
+  "50495998": {
+   "auteur": "troupo",
+   "date": 1794654104,
+   "fil": "50474959",
+   "id": "50495998",
+   "mots": [
+    "LLM"
+   ],
+   "texte": "> The most fascinating part of this wave of LLM reverse engineering is seeing how many weird and poor choices were lying in plain sight.\n\n\"The S in IoT stands for security\" has been a joke for 20 years now.\n\nIt's always been in plain sight. There's a whole search engine dedicated to it: https://www.shodan.io/ (since 2009)\n\nI highly recommend this talk from 14 years ago: https://youtu.be/5cWck_xcH64?is=O4zCafVz-6eXRYES",
+   "titre_fil": "Reverse engineering my Coway air purifier to ditch the cloud",
+   "type": "commentaire",
+   "videos": [
+    "5cWck_xcH64"
+   ]
+  },
+  "50496313": {
+   "auteur": "shevy-java",
+   "date": 1794657470,
+   "fil": "50484658",
+   "id": "50496313",
+   "mots": [
+    "LLM"
+   ],
+   "texte": "This is a strange take though, because ... if AI can\nproduce working software, such as a linux kernel\nreplacement or a replacement for MS office, why would\nany human be required? And if it does not work right\nnow, what if in 5 years?\n\nQuality may be an issue but one could assume that any\nmodels will be improved. Complexity in the software \nitself is not really a huge issue for any good LLMs,\nso I don't understand this take he presents as \"humans\nwill always be better\". It's like standing on the Titanic\nand saying \"nothing to see here\" while it is sinking, just\nas in the old movie Naked Gun (https://www.youtube.com/watch?v=NuAKnbIr6TE).",
+   "titre_fil": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+   "type": "commentaire",
+   "videos": [
+    "NuAKnbIr6TE"
+   ]
+  },
+  "50496635": {
+   "auteur": "Lum2",
+   "date": 1794660729,
+   "fil": "50377661",
+   "id": "50496635",
+   "mots": [
+    "agent"
+   ],
+   "texte": "Concerning the JFK assassination, maybe in Germany there's a majority that is \"okay\" with the \"LHO did it alone\" claim. But only among people who are not interested in the case, of course. As for the USA, I'm sure (and have seen that claim made repeatedly) that the majority think there was a conspiracy of some sort, i.e. no \"lone assassin\".\n\n« 80% confidence JFK »\n\nLHO was set up as a patsy. There was a conspiracy for LBJ to take over, who had been forced upon JFK as a VP (via blackmail: if you don't accept then SHTF wrt to your \"extramarital activities\" which will destroy your candidacy). Many people were involved in the conspiracy, including part of the Secret Service (his bodyguards). There were a lot of shooters from various angles and places. They hit governor Connally and possibly an SS agent and also JFK but only at the neck.\n\nYou can see that in the Zapruder film, which clearly shows the lethal shot coming from the front. But even so, the Zapruder film has been altered to hide a most damning fact: Seeing as the shooters hadn't managed to kill the president in the slow-moving limousine, the driver (SS) brought it to a complete halt (multiple witnesses) to offer JFK as a sitting duck. And that worked, the final shot blew his brains out.\n\nThey then altered the evidence (the body) to make sure it didn't flatly contradict the LHO story they were going to tell. But there is proof for this manipulation taking place.\n\nFind the Youtube channel \"David Lifton on JFK\" (595 subscr […]",
+   "titre_fil": "Uranium cubes reveal why the German nuclear project failed",
+   "type": "commentaire",
+   "videos": [
+    "niTwvtokYf0"
+   ]
+  },
+  "50500787": {
+   "auteur": "rmason",
+   "date": 1794690218,
+   "fil": "50500787",
+   "id": "50500787",
+   "mots": [
+    "agent"
+   ],
+   "texte": "The Home Repo: The effortless multi-repo agent setup (9 min video)",
+   "titre_fil": "The Home Repo: The effortless multi-repo agent setup (9 min video)",
+   "type": "article",
+   "videos": [
+    "hWe-j78vNpc"
+   ]
+  },
+  "50502453": {
+   "auteur": "yogthos",
+   "date": 1794701266,
+   "fil": "50502453",
+   "id": "50502453",
+   "mots": [
+    "LLM"
+   ],
+   "texte": "DeepSeek's New LLM Engine Just Made GPUs 3x More Valuable [video]",
+   "titre_fil": "DeepSeek's New LLM Engine Just Made GPUs 3x More Valuable [video]",
+   "type": "article",
+   "videos": [
+    "2K_Rm8cho1I"
+   ]
+  },
+  "50503511": {
+   "auteur": "vbCrLf",
+   "date": 1794710958,
+   "fil": "50503511",
+   "id": "50503511",
+   "mots": [
+    "prompt"
+   ],
+   "texte": "ChatMate: Remote Prompt Execution on AI Assistants Through Sandbox Escaping [video]",
+   "titre_fil": "ChatMate: Remote Prompt Execution on AI Assistants Through Sandbox Escaping [video]",
+   "type": "article",
+   "videos": [
+    "MspRSCAb6uI"
+   ]
+  },
+  "50508610": {
+   "auteur": "libria",
+   "date": 1794762753,
+   "fil": "50463399",
+   "id": "50508610",
+   "mots": [
+    "Claude"
+   ],
+   "texte": "https://www.youtube.com/watch?v=WPj3aQ-xxpI&t=275s\n\n> Claude suggested that it would run the fuel pump on its own. Um and I said, \"Hey, if you can do that, why not? I don't think you can do that.\" And it started priming the fuel rail and it kept priming it and kept priming it. The fuel pump was on for about 10 seconds and I started to freak out uh and requested it to stop because that was the first time that Claude had actually done something inside of the computer to have a change.\n\nAlthough we've seen this play out with handing cloud keys to Claude and it just going off on its own, seeing it poke around and make physical, real-world changes in its clumsy, cavalier way is both awesome and terrifying.",
+   "titre_fil": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+   "type": "commentaire",
+   "videos": [
+    "WPj3aQ-xxpI"
+   ]
+  },
+  "50509807": {
+   "auteur": "walidhadri",
+   "date": 1794770581,
+   "fil": "50509807",
+   "id": "50509807",
+   "mots": [
+    "LLM"
+   ],
+   "texte": "In 19 Minutes, You will understand 10 years of LLMs [video]",
+   "titre_fil": "In 19 Minutes, You will understand 10 years of LLMs [video]",
+   "type": "article",
+   "videos": [
+    "cLWAiVIVr4U"
+   ]
+  },
+  "50510675": {
+   "auteur": "iLemming",
+   "date": 1794776258,
+   "fil": "50507553",
+   "id": "50510675",
+   "mots": [
+    "LLM"
+   ],
+   "texte": "> I’m curious what the difference is between that and having pinned windows in Ubuntu\n\nThe difference is the text consumption. Can you easily retrieve any text you're seeing on the screen into your editor?\n\nInserting any piece of text I see on the screen into my notes? A couple of keystrokes. I can grab text in any form, even if it's a frame in a YT video - I'd just select the area, snapshot it - Emacs OCRs the text out of it, which takes milliseconds. I fully control the playback of said video directly from my editor - rewind, pause, mute, speed up, extract transcript, etc. It is enormously liberating and empowering.\n\nI have complete and utter control over text - I can send a query to an LLM in the middle of typing this very comment, without ever missing a beat. I can ask for anything - fact-check it, spell check it, reword it, explain it, give me different variations of the same sentence. I can replace part of it with diffing in-place. I can even start changing the behavior of Emacs itself, right there on the spot.\n\nI can directly grab any part of the log of a process running in the terminal. Grep through it, semantically search through it with an LLM, whatever. Similarly, I can directly grab a piece of any text in Emacs and send it over to another app, e.g., as a command to run in the terminal.\n\n> Everything You describe is possible without emacs\n\nEverything is possible with Turing-complete languages, but Turing-completeness is a trap. It's all about affordability. What Em […]",
+   "titre_fil": "Emacs Is My Browser",
+   "type": "commentaire",
+   "videos": [
+    "BDn8ak-8yIs"
+   ]
+  },
+  "50515910": {
+   "auteur": "sideway",
+   "date": 1794823572,
+   "fil": "50515910",
+   "id": "50515910",
+   "mots": [
+    "Anthropic"
+   ],
+   "texte": "Tao Lin (Anthropic): \"Pretty Much All Humans Will Be Permanently Unemployable\" [video]",
+   "titre_fil": "Tao Lin (Anthropic): \"Pretty Much All Humans Will Be Permanently Unemployable\" [video]",
+   "type": "article",
+   "videos": [
+    "OPZCQk8jF-I"
    ]
   }
  }

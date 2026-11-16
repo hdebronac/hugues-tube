@@ -1,36 +1,36 @@
 {
  "curseurs": {
   "SailboatCruising|comments": {
-   "plus_ancien": 1695079808,
-   "plus_recent": 1794195607
+   "plus_ancien": 1660536212,
+   "plus_recent": 1794796636
   },
   "SailboatCruising|posts": {
    "plus_ancien": 1167609600,
-   "plus_recent": 1794229428
+   "plus_recent": 1794815069
   },
   "liveaboard|comments": {
-   "plus_ancien": 1757366426,
-   "plus_recent": 1794176156
+   "plus_ancien": 1751993303,
+   "plus_recent": 1794798626
   },
   "liveaboard|posts": {
    "plus_ancien": 1167609600,
-   "plus_recent": 1794228131
+   "plus_recent": 1794777555
   },
   "sailboats|comments": {
-   "plus_ancien": 1749019491,
-   "plus_recent": 1794217496
+   "plus_ancien": 1745750854,
+   "plus_recent": 1794737456
   },
   "sailboats|posts": {
    "plus_ancien": 1167609600,
-   "plus_recent": 1794216599
+   "plus_recent": 1794825721
   },
   "sailing|comments": {
-   "plus_ancien": 1790514453,
-   "plus_recent": 1794210494
+   "plus_ancien": 1789953479,
+   "plus_recent": 1794828728
   },
   "sailing|posts": {
-   "plus_ancien": 1732920462,
-   "plus_recent": 1794228606
+   "plus_ancien": 1725131386,
+   "plus_recent": 1794830730
   }
  },
  "elements": {
@@ -2308,6 +2308,118 @@
     "dI2VT9l2BU8"
    ]
   },
+  "reddit:19sd7zv9i7mtg": {
+   "auteur": "reddit:WaterFox612",
+   "communaute": "r/sailing",
+   "date": 1794212205,
+   "fil": "reddit:1xrjji3",
+   "id": "reddit:19sd7zv9i7mtg",
+   "mots": [],
+   "source": "reddit",
+   "texte": "I think this is a great video for basic sailing theory. And its focused on upwind sailing\n\nhttps://youtu.be/trwcNk8EeH0?si=keTbj4BxC4zukt2E",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/sailing/comments/1xrjji3/_/19sd7zv9i7mtg/",
+   "videos": [
+    "trwcNk8EeH0"
+   ]
+  },
+  "reddit:19sdhtt6o7bcy": {
+   "auteur": "reddit:pdq_sailor",
+   "communaute": "r/sailing",
+   "date": 1794225431,
+   "fil": "reddit:1xrjji3",
+   "id": "reddit:19sdhtt6o7bcy",
+   "mots": [],
+   "source": "reddit",
+   "texte": "[https://www.youtube.com/shorts/dFUMCS-OWNk](https://www.youtube.com/shorts/dFUMCS-OWNk)",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/sailing/comments/1xrjji3/_/19sdhtt6o7bcy/",
+   "videos": [
+    "dFUMCS-OWNk"
+   ]
+  },
+  "reddit:19sen2pmvets2": {
+   "auteur": "reddit:Crazy_Wild_Optimist",
+   "communaute": "r/sailing",
+   "date": 1794280917,
+   "fil": "reddit:1xrjji3",
+   "id": "reddit:19sen2pmvets2",
+   "mots": [],
+   "source": "reddit",
+   "texte": "Wait!  How did you post that?  I tried to post a link to how sails and wings work and it was rejected as  a vlog.  \n\nI'll try again\nhttps://www.youtube.com/watch?v=OrakM_jiXLQ",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/sailing/comments/1xrjji3/_/19sen2pmvets2/",
+   "videos": [
+    "OrakM_jiXLQ"
+   ]
+  },
+  "reddit:19sfc8gh6zvpc": {
+   "auteur": "reddit:TR64ever",
+   "communaute": "r/sailing",
+   "date": 1794314762,
+   "fil": "reddit:1xrjji3",
+   "id": "reddit:19sfc8gh6zvpc",
+   "mots": [],
+   "source": "reddit",
+   "texte": "Good video here with CGI animation of wind and water flow.  It’s on sail trim but it will show you exactly what forces are in play when you sail (and how to sail faster): https://youtu.be/FteHvGKfFTo?is=Y6NSKJUTBrrH-aWy",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/sailing/comments/1xrjji3/_/19sfc8gh6zvpc/",
+   "videos": [
+    "FteHvGKfFTo"
+   ]
+  },
+  "reddit:19shultuxsc3l": {
+   "auteur": "reddit:markph0204",
+   "communaute": "r/sailing",
+   "date": 1794436331,
+   "fil": "reddit:1xrjji3",
+   "id": "reddit:19shultuxsc3l",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/UJ9YHngOHYE?is=NMzySQj9c4TUe7MN\n\nAlways liked this video.",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/sailing/comments/1xrjji3/_/19shultuxsc3l/",
+   "videos": [
+    "UJ9YHngOHYE"
+   ]
+  },
+  "reddit:19slk7ylfxbes": {
+   "auteur": "reddit:frankenpoopies",
+   "communaute": "r/sailing",
+   "date": 1794616071,
+   "fil": "reddit:1xvnveu",
+   "id": "reddit:19slk7ylfxbes",
+   "mots": [],
+   "source": "reddit",
+   "texte": "Maybe fast fwd through a couple of these and watch what he uses.  https://youtu.be/Vn1PXFxa-qQ?si=--dJWTg1iv3n9X1h",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/sailing/comments/1xvnveu/_/19slk7ylfxbes/",
+   "videos": [
+    "Vn1PXFxa-qQ"
+   ]
+  },
+  "reddit:19smyol1qpbdv": {
+   "auteur": "reddit:Sawyer2025",
+   "communaute": "r/sailing",
+   "date": 1794683953,
+   "fil": "reddit:1xw6iol",
+   "id": "reddit:19smyol1qpbdv",
+   "mots": [],
+   "source": "reddit",
+   "texte": "He is no Captain Ron.  [https://www.youtube.com/watch?v=8alNxLjCBJc](https://www.youtube.com/watch?v=8alNxLjCBJc)",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/sailing/comments/1xw6iol/_/19smyol1qpbdv/",
+   "videos": [
+    "8alNxLjCBJc"
+   ]
+  },
   "reddit:1ae1cxj": {
    "auteur": "reddit:Nervous-Government58",
    "communaute": "r/SailboatCruising",
@@ -2996,6 +3108,246 @@
     "-T1g-IxB5DQ"
    ]
   },
+  "reddit:1f6p2te": {
+   "auteur": "reddit:Bottom_Up_Boats",
+   "communaute": "r/sailing",
+   "date": 1725224500,
+   "fil": "reddit:1f6p2te",
+   "id": "reddit:1f6p2te",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/gqGjquF75pA",
+   "titre_fil": "Sending our J109 through the Surf !!!",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1f6p2te/",
+   "videos": [
+    "gqGjquF75pA"
+   ]
+  },
+  "reddit:1f7l0f6": {
+   "auteur": "reddit:SkyMarshal",
+   "communaute": "r/sailing",
+   "date": 1725319079,
+   "fil": "reddit:1f7l0f6",
+   "id": "reddit:1f7l0f6",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=l-W4p73Qecw",
+   "titre_fil": "Building a FLYING BOAT: Foiling LASER design and ENIGINEERING",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1f7l0f6/",
+   "videos": [
+    "l-W4p73Qecw"
+   ]
+  },
+  "reddit:1f7p6rm": {
+   "auteur": "reddit:Mrgod2u82",
+   "communaute": "r/sailing",
+   "date": 1725331240,
+   "fil": "reddit:1f7p6rm",
+   "id": "reddit:1f7p6rm",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/5AZ4pIH5NhE?si=_h2IJXimZgx0x8ZB\n[removed]",
+   "titre_fil": "Some beer can racing on Lake Ontario :)",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1f7p6rm/",
+   "videos": [
+    "5AZ4pIH5NhE"
+   ]
+  },
+  "reddit:1f7reg8": {
+   "auteur": "reddit:arbitrageME",
+   "communaute": "r/sailing",
+   "date": 1725338338,
+   "fil": "reddit:1f7reg8",
+   "id": "reddit:1f7reg8",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/sailing/comments/1f7reg8/where_can_i_find_a_windrider_rave_or_convince_me/\n[Windrider Rave foiling](https://www.youtube.com/watch?v=n3MiqBUTFhE)\n\nI've been looking for a Rave for weeks, but there just isn't a big market. I have some keelboat and canoe sailing experience, but I crave adventure and excitement and want to be screaming across the bay at like 15 or 20kt.\n\nWhat I'm looking for:\n\n* low passenger count. Sailing solo or with a friend\n\n* fast and exciting\n\n* trailerable and can be stored at home\n\n* relatively cheap (<$5k. moths and UFO's and Waspz are all >$10k)\n\n* [Preferred] launched from ramp or beach\n\nAnd I think the Windrider Rave checks all those boxes, but they're just so hard to find! I'm not a huge fan of the foot pedal rudder, but that's the only thing I'm wary of.\n\nAny spoilers or flies in the ointment I should be aware of?",
+   "titre_fil": "Where can I find a Windrider Rave OR convince me to not get a Windrider Rave",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1f7reg8/",
+   "videos": [
+    "n3MiqBUTFhE"
+   ]
+  },
+  "reddit:1f8drml": {
+   "auteur": "reddit:NauticaNews1",
+   "communaute": "r/sailing",
+   "date": 1725404205,
+   "fil": "reddit:1f8drml",
+   "id": "reddit:1f8drml",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/aQAXcX6na_E?si=1LGIWfQVLSbQxx0Q\n[removed]",
+   "titre_fil": "THUNDERBOLTS AND LIGHTNING IN AMERICA’S CUP",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1f8drml/",
+   "videos": [
+    "aQAXcX6na_E"
+   ]
+  },
+  "reddit:1f9a1in": {
+   "auteur": "reddit:SailingSVSlowRide",
+   "communaute": "r/sailing",
+   "date": 1725498564,
+   "fil": "reddit:1f9a1in",
+   "id": "reddit:1f9a1in",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/oz2GaP8mNSk?si=fMjC2fpht-l-Z8_p",
+   "titre_fil": "Our Sailing Trip Went Off Course ... Literally",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1f9a1in/",
+   "videos": [
+    "oz2GaP8mNSk"
+   ]
+  },
+  "reddit:1f9boao": {
+   "auteur": "reddit:Several_Note",
+   "communaute": "r/sailing",
+   "date": 1725503392,
+   "fil": "reddit:1f9boao",
+   "id": "reddit:1f9boao",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/vk42MkVYwF8?si=MdtUT5b1JUrUp8qB",
+   "titre_fil": "Thank you Alaska for the best fishing in the world!",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1f9boao/",
+   "videos": [
+    "vk42MkVYwF8"
+   ]
+  },
+  "reddit:1f9ce1n": {
+   "auteur": "reddit:findahomefindajob",
+   "communaute": "r/sailing",
+   "date": 1725505506,
+   "fil": "reddit:1f9ce1n",
+   "id": "reddit:1f9ce1n",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/HrAP8FGRJ6E?si=eyQuYJ4kvlPRfOJO",
+   "titre_fil": "This is what it’s all about, being a true sea man.",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1f9ce1n/",
+   "videos": [
+    "HrAP8FGRJ6E"
+   ]
+  },
+  "reddit:1favmj0": {
+   "auteur": "reddit:AppropriateRoom7129",
+   "communaute": "r/sailing",
+   "date": 1725672717,
+   "fil": "reddit:1favmj0",
+   "id": "reddit:1favmj0",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/p__Tr8LVsO4?si=PB08mNuJmEwwRpTe\n[removed]",
+   "titre_fil": "2024 Newport Bermuda Race ",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1favmj0/",
+   "videos": [
+    "p__Tr8LVsO4"
+   ]
+  },
+  "reddit:1fbffr4": {
+   "auteur": "reddit:toaster404",
+   "communaute": "r/sailing",
+   "date": 1725738373,
+   "fil": "reddit:1fbffr4",
+   "id": "reddit:1fbffr4",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/sailing/comments/1fbffr4/warwick_colling_universal_hull_thoughts/\n[Universal Sail - stability and power - YouTube](https://www.youtube.com/watch?v=R_TEDjFCKJM&t=2s)This video is rather compelling.  The combination of narrow effective beam, planing surface, light weight, and low-resistance sail seem to work easily.   Any experience, thoughts?  I couldn't find a plan, but there's enough images to design something along these lines!",
+   "titre_fil": "Warwick Colling Universal Hull?  Thoughts?",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1fbffr4/",
+   "videos": [
+    "R_TEDjFCKJM"
+   ]
+  },
+  "reddit:1fcab5a": {
+   "auteur": "reddit:SailingSVSlowRide",
+   "communaute": "r/sailing",
+   "date": 1725834925,
+   "fil": "reddit:1fcab5a",
+   "id": "reddit:1fcab5a",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/LXfbGk8yzJI?si=LASGbiIFblONrclu",
+   "titre_fil": "Sailing through Wind, Rain, and Waves on our Journey Home",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1fcab5a/",
+   "videos": [
+    "LXfbGk8yzJI"
+   ]
+  },
+  "reddit:1fcw3ap": {
+   "auteur": "reddit:LoopyFA",
+   "communaute": "r/sailing",
+   "date": 1725905319,
+   "fil": "reddit:1fcw3ap",
+   "id": "reddit:1fcw3ap",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/sailing/comments/1fcw3ap/after_repair_advice/\nHey I’m fixing a small hole in my boat and could use some advice on the finishing after the repair. My plan is to follow this video pretty much exactly:\n\nhttps://youtu.be/4XoeGV2KhGc?feature=shared\n\nThe basic rundown is he lays some fiberglass in resin, then repair putty for dips, then waxed gel coat, and finally some fairing compound. I’m wondering if after doing all of that should my next step just be to paint? I was thinking I would just sand and put on a new gel coat/paint for the rest of the boat while I’m at it but when looking it up I read you’re not supposed to put gelcoat on top of fairing compound and am just unsure of the proper steps since I’m new at that. Putting a new coat of paint and making it look pretty isn’t essential I just want this sailable, so if anyone could point me in the right direction that’d be amazing thanks.",
+   "titre_fil": "After repair advice ",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1fcw3ap/",
+   "videos": [
+    "4XoeGV2KhGc"
+   ]
+  },
+  "reddit:1fduoof": {
+   "auteur": "reddit:tpurves",
+   "communaute": "r/sailing",
+   "date": 1726006982,
+   "fil": "reddit:1fduoof",
+   "id": "reddit:1fduoof",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/sailing/comments/1fduoof/how_are_portstarboard_rules_applied_when_one_or/\nQuestion inspired by watching this old video of pre-start maneuvers in the 2000 Americas cup. ( https://www.youtube.com/watch?v=5MMsE_2WiTQ ). No rules or penalties were called in this specific race.\n\n But you could have these scenarios in match or fleet racing where a boat is maneuvering backwards, maybe even by backing a sail to one side. If you push your boom or jib out to port-side to backwind it, are you now sailing on Port or Starboard tack?",
+   "titre_fil": "How are port/starboard rules applied when one or both boats are sailing backwards?",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1fduoof/",
+   "videos": [
+    "5MMsE_2WiTQ"
+   ]
+  },
+  "reddit:1fez2pm": {
+   "auteur": "reddit:khl3o",
+   "communaute": "r/sailing",
+   "date": 1726136213,
+   "fil": "reddit:1fez2pm",
+   "id": "reddit:1fez2pm",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=4SyqJn-e2q0&t=11s&ab_channel=SailGP",
+   "titre_fil": "Wing failure in Bermuda training | SailGP",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1fez2pm/",
+   "videos": [
+    "4SyqJn-e2q0"
+   ]
+  },
+  "reddit:1fhanm9": {
+   "auteur": "reddit:Lostnfoundr",
+   "communaute": "r/sailing",
+   "date": 1726400858,
+   "fil": "reddit:1fhanm9",
+   "id": "reddit:1fhanm9",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/-VWq-D5Ps-4?si=c50z-gAJe7549IS7\n[removed]",
+   "titre_fil": "Electric Sailing - Day 2 of our 3 Day Father and Son Cruise",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1fhanm9/",
+   "videos": [
+    "-VWq-D5Ps-4"
+   ]
+  },
   "reddit:1fhao4i": {
    "auteur": "reddit:Lostnfoundr",
    "communaute": "r/SailboatCruising",
@@ -3012,6 +3364,118 @@
     "-VWq-D5Ps-4"
    ]
   },
+  "reddit:1fhapzq": {
+   "auteur": "reddit:Lostnfoundr",
+   "communaute": "r/sailing",
+   "date": 1726401113,
+   "fil": "reddit:1fhapzq",
+   "id": "reddit:1fhapzq",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/-VWq-D5Ps-4?si=c50z-gAJe7549IS7\n[removed]",
+   "titre_fil": "Electric Sailing - Day 2 of our 3 Day Father and Son Cruise",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1fhapzq/",
+   "videos": [
+    "-VWq-D5Ps-4"
+   ]
+  },
+  "reddit:1fhf8gm": {
+   "auteur": "reddit:Dull-Credit-897",
+   "communaute": "r/sailing",
+   "date": 1726414269,
+   "fil": "reddit:1fhf8gm",
+   "id": "reddit:1fhf8gm",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=Ys7L5rFN4PA",
+   "titre_fil": "What Happened To Our New Catamaran?",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1fhf8gm/",
+   "videos": [
+    "Ys7L5rFN4PA"
+   ]
+  },
+  "reddit:1fhgqrb": {
+   "auteur": "reddit:michigician",
+   "communaute": "r/sailing",
+   "date": 1726418066,
+   "fil": "reddit:1fhgqrb",
+   "id": "reddit:1fhgqrb",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/3Kky87FtkJY?si=T1BMSYfGgp_f1XSg",
+   "titre_fil": "Explications du fonctionnement de Baluchon Partie 2: La cabine , épisode 50",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1fhgqrb/",
+   "videos": [
+    "3Kky87FtkJY"
+   ]
+  },
+  "reddit:1fi4ngm": {
+   "auteur": "reddit:caeru1ean",
+   "communaute": "r/sailing",
+   "date": 1726493343,
+   "fil": "reddit:1fi4ngm",
+   "id": "reddit:1fi4ngm",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/sailing/comments/1fi4ngm/what_its_like_to_live_on_a_boat_in_boston_during/\nI've been cruising in the tropics for 3 years and am considering heading up the East Coast of the US for the first time, [just came across this video that's making me reconsider!](https://www.youtube.com/watch?v=PqaPe4HiUtg)",
+   "titre_fil": "What it's like to live on a boat in Boston during the winter",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1fi4ngm/",
+   "videos": [
+    "PqaPe4HiUtg"
+   ]
+  },
+  "reddit:1fiax9c": {
+   "auteur": "reddit:mamasemamasamusernam",
+   "communaute": "r/sailing",
+   "date": 1726508596,
+   "fil": "reddit:1fiax9c",
+   "id": "reddit:1fiax9c",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/uALuy4auuJg?si=Zq8b_SOvzs3jj2kE",
+   "titre_fil": "\"HO'I I KA PIKO / voyage journal 6/7\" Just found these guys, incredible voyage. worth a watch ",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1fiax9c/",
+   "videos": [
+    "uALuy4auuJg"
+   ]
+  },
+  "reddit:1fib0nv": {
+   "auteur": "reddit:AirVAir",
+   "communaute": "r/sailing",
+   "date": 1726508830,
+   "fil": "reddit:1fib0nv",
+   "id": "reddit:1fib0nv",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/fNQ7pRovuME",
+   "titre_fil": "A Happy Cal 20",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1fib0nv/",
+   "videos": [
+    "fNQ7pRovuME"
+   ]
+  },
+  "reddit:1fjnj2z": {
+   "auteur": "reddit:This_Is_The_End",
+   "communaute": "r/sailing",
+   "date": 1726646365,
+   "fil": "reddit:1fjnj2z",
+   "id": "reddit:1fjnj2z",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/BwhcA2tbwik",
+   "titre_fil": " Preparing a 120 Year Old Tall Ship for a Round Britain Voyage ",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1fjnj2z/",
+   "videos": [
+    "BwhcA2tbwik"
+   ]
+  },
   "reddit:1fjr70a": {
    "auteur": "reddit:AirVAir",
    "communaute": "r/sailboats",
@@ -3026,6 +3490,86 @@
    "url": "https://www.reddit.com/r/sailboats/comments/1fjr70a/",
    "videos": [
     "fNQ7pRovuME"
+   ]
+  },
+  "reddit:1fjvl2f": {
+   "auteur": "reddit:No_Werewolf_8855",
+   "communaute": "r/sailing",
+   "date": 1726673235,
+   "fil": "reddit:1fjvl2f",
+   "id": "reddit:1fjvl2f",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=jrb4Jw7E9Oo",
+   "titre_fil": "Made a video about the history of the America Cup, let me know what you think of it!",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1fjvl2f/",
+   "videos": [
+    "jrb4Jw7E9Oo"
+   ]
+  },
+  "reddit:1fk25ul": {
+   "auteur": "reddit:diekthx-",
+   "communaute": "r/sailing",
+   "date": 1726689790,
+   "fil": "reddit:1fk25ul",
+   "id": "reddit:1fk25ul",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/6zDnvwogPIc?feature=shared",
+   "titre_fil": "On a scale 1-10 how blown is my start",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1fk25ul/",
+   "videos": [
+    "6zDnvwogPIc"
+   ]
+  },
+  "reddit:1fl0xy6": {
+   "auteur": "reddit:BenefitOfTheDoubt_01",
+   "communaute": "r/sailing",
+   "date": 1726796795,
+   "fil": "reddit:1fl0xy6",
+   "id": "reddit:1fl0xy6",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/puqyUqTrl-U?si=r0_EZF_0p-cXAwaS\nI've been watching the YT sailing channel Alluring Arctic Sailing lately and I really like the open interior of their vessel, specifically the open living area behind the stairs. \n\nHas anyone seen any other sailboats with this design? \n\nThis specific boat and floorplan (Garcia Nouanni 44) seems to be incredibly rare.",
+   "titre_fil": "Alternative sailboats with open living area like the Nouanni 44?",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1fl0xy6/",
+   "videos": [
+    "puqyUqTrl-U"
+   ]
+  },
+  "reddit:1fl5kia": {
+   "auteur": "reddit:This_Is_The_End",
+   "communaute": "r/sailing",
+   "date": 1726813533,
+   "fil": "reddit:1fl5kia",
+   "id": "reddit:1fl5kia",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/_XUCLosyjHg",
+   "titre_fil": " Explaining the Junk Rig  - a 39 foot ketch ",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1fl5kia/",
+   "videos": [
+    "_XUCLosyjHg"
+   ]
+  },
+  "reddit:1fl6nd5": {
+   "auteur": "reddit:UserFromDK",
+   "communaute": "r/sailing",
+   "date": 1726818479,
+   "fil": "reddit:1fl6nd5",
+   "id": "reddit:1fl6nd5",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/sailing/comments/1fl6nd5/silverrudder_2024_live_streaming_from_the/\nApprox. 360 singlehanded sailors start now. \n\n[https://www.youtube.com/watch?v=5gWEi3aSL8o](https://www.youtube.com/watch?v=5gWEi3aSL8o)",
+   "titre_fil": "Silverrudder 2024 - Live streaming from the starting line now",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1fl6nd5/",
+   "videos": [
+    "5gWEi3aSL8o"
    ]
   },
   "reddit:1fmzq29": {
@@ -3060,6 +3604,38 @@
     "jJnY6Qmxx54"
    ]
   },
+  "reddit:1frcgmy": {
+   "auteur": "reddit:This_Is_The_End",
+   "communaute": "r/sailing",
+   "date": 1727523888,
+   "fil": "reddit:1frcgmy",
+   "id": "reddit:1frcgmy",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/XY3nZ94r_RU",
+   "titre_fil": "The Draken - A Viking Ship (Northwest Maritime)",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1frcgmy/",
+   "videos": [
+    "XY3nZ94r_RU"
+   ]
+  },
+  "reddit:1frxcv4": {
+   "auteur": "reddit:TomorrowHeadStudio",
+   "communaute": "r/sailing",
+   "date": 1727588098,
+   "fil": "reddit:1frxcv4",
+   "id": "reddit:1frxcv4",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=DBhzZv_PT4I",
+   "titre_fil": "Hey sailing mates, we've been developing an emotional adventure game with deep emphasis on sailing mechanics. Here is the Announcement Trailer of WILL: Follow The Light.  \n",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1frxcv4/",
+   "videos": [
+    "DBhzZv_PT4I"
+   ]
+  },
   "reddit:1frxdef": {
    "auteur": "reddit:TomorrowHeadStudio",
    "communaute": "r/SailboatCruising",
@@ -3074,6 +3650,102 @@
    "url": "https://www.reddit.com/r/SailboatCruising/comments/1frxdef/",
    "videos": [
     "DBhzZv_PT4I"
+   ]
+  },
+  "reddit:1fsvd11": {
+   "auteur": "reddit:FlatBread8169",
+   "communaute": "r/sailing",
+   "date": 1727702387,
+   "fil": "reddit:1fsvd11",
+   "id": "reddit:1fsvd11",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/a3yVZJuXWvc?si=db9PcHlhtiXg-3F3",
+   "titre_fil": "मांस खाने वाले लोग इस Video को जरूर देखें | Sant Rampal Ji Satsang | SATLOK ASHRAM",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1fsvd11/",
+   "videos": [
+    "a3yVZJuXWvc"
+   ]
+  },
+  "reddit:1ftywtu": {
+   "auteur": "reddit:Balmerhippie",
+   "communaute": "r/sailing",
+   "date": 1727816244,
+   "fil": "reddit:1ftywtu",
+   "id": "reddit:1ftywtu",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=6zDnvwogPIc",
+   "titre_fil": "So many things to look out for you forget to look forward",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1ftywtu/",
+   "videos": [
+    "6zDnvwogPIc"
+   ]
+  },
+  "reddit:1ftz1t7": {
+   "auteur": "reddit:diekthx-",
+   "communaute": "r/sailing",
+   "date": 1727816588,
+   "fil": "reddit:1ftz1t7",
+   "id": "reddit:1ftz1t7",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/_wFX5PQTTJo",
+   "titre_fil": "What is it with J-boats running into things?",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1ftz1t7/",
+   "videos": [
+    "_wFX5PQTTJo"
+   ]
+  },
+  "reddit:1fwvemk": {
+   "auteur": "reddit:lutherdriggers",
+   "communaute": "r/sailing",
+   "date": 1728148730,
+   "fil": "reddit:1fwvemk",
+   "id": "reddit:1fwvemk",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=Z9ru2QPuehY",
+   "titre_fil": "Clean your boat speed paddlewheel sensor.  I finally learnt that I can clean my boat speed sensor while the boat is in the water.",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1fwvemk/",
+   "videos": [
+    "Z9ru2QPuehY"
+   ]
+  },
+  "reddit:1fwxswe": {
+   "auteur": "reddit:BitterStatus9",
+   "communaute": "r/sailing",
+   "date": 1728155315,
+   "fil": "reddit:1fwxswe",
+   "id": "reddit:1fwxswe",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/sailing/comments/1fwxswe/vintage_olympic_races_on_youtube/\nLove these old videos posted by IYRS...\n\n\n\n[https://youtu.be/2A1hHTfad9E?si=KtmNaQWXUWqGcmef](https://youtu.be/2A1hHTfad9E?si=KtmNaQWXUWqGcmef)",
+   "titre_fil": "Vintage Olympic races on YouTube",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1fwxswe/",
+   "videos": [
+    "2A1hHTfad9E"
+   ]
+  },
+  "reddit:1fxjzkc": {
+   "auteur": "reddit:itsdrbacon",
+   "communaute": "r/sailing",
+   "date": 1728230886,
+   "fil": "reddit:1fxjzkc",
+   "id": "reddit:1fxjzkc",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/sailing/comments/1fxjzkc/rm1060_walkthrough/\n[RM1060 walkthrough](https://youtu.be/Ntp0q8fuVaE)\n\nlets see if this links...",
+   "titre_fil": "RM1060 walkthrough",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1fxjzkc/",
+   "videos": [
+    "Ntp0q8fuVaE"
    ]
   },
   "reddit:1fzh1zf": {
@@ -3092,6 +3764,22 @@
     "HDgsPZw1u3U"
    ]
   },
+  "reddit:1g0eb8s": {
+   "auteur": "reddit:richieboooy",
+   "communaute": "r/sailing",
+   "date": 1728549897,
+   "fil": "reddit:1g0eb8s",
+   "id": "reddit:1g0eb8s",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/sailing/comments/1g0eb8s/sailing_youtube_channel_from_new_zealand/\nhttps://youtu.be/JUaUsB-l0Yk?si=Yi1Q2uZ1ojyDupkq\n\nThis channel is cool, love the footage and the story telling.\n\nBit of a hidden gem 👌",
+   "titre_fil": "Sailing YouTube channel From New Zealand ",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1g0eb8s/",
+   "videos": [
+    "JUaUsB-l0Yk"
+   ]
+  },
   "reddit:1g0rm2n": {
    "auteur": "reddit:LakesideProduction",
    "communaute": "r/liveaboard",
@@ -3106,6 +3794,70 @@
    "url": "https://www.reddit.com/r/liveaboard/comments/1g0rm2n/",
    "videos": [
     "VtInoejWQ2o"
+   ]
+  },
+  "reddit:1g0zpxw": {
+   "auteur": "reddit:Ahlarict",
+   "communaute": "r/sailing",
+   "date": 1728613899,
+   "fil": "reddit:1g0zpxw",
+   "id": "reddit:1g0zpxw",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=UyINn3mNR88",
+   "titre_fil": "FYI for other fans - There's a new GGR documentary free on YouTube",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1g0zpxw/",
+   "videos": [
+    "UyINn3mNR88"
+   ]
+  },
+  "reddit:1g31agr": {
+   "auteur": "reddit:AndrejPraselj",
+   "communaute": "r/sailing",
+   "date": 1728857676,
+   "fil": "reddit:1g31agr",
+   "id": "reddit:1g31agr",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/VZBOyEbwd_c",
+   "titre_fil": "On this timelapse you can really see what Barcolana regatta is. 1700 sailingboats! ",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1g31agr/",
+   "videos": [
+    "VZBOyEbwd_c"
+   ]
+  },
+  "reddit:1g5ncx7": {
+   "auteur": "reddit:maloRchrd",
+   "communaute": "r/sailing",
+   "date": 1729159319,
+   "fil": "reddit:1g5ncx7",
+   "id": "reddit:1g5ncx7",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/sailing/comments/1g5ncx7/spécial_morning/\nhttps://youtu.be/t_r1f5au_64?si=R5TzxWs0L-8GD8T8",
+   "titre_fil": "Spécial morning",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1g5ncx7/",
+   "videos": [
+    "t_r1f5au_64"
+   ]
+  },
+  "reddit:1g5zx81": {
+   "auteur": "reddit:From_Gaming_w_Love",
+   "communaute": "r/sailing",
+   "date": 1729195229,
+   "fil": "reddit:1g5zx81",
+   "id": "reddit:1g5zx81",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/YSp3Mnq3i74?si=xcDh3IXWncAUod8Q",
+   "titre_fil": "West Coast Sailing and Whale Watching 2024 video compilation: British Columbia / San Juan Islands ",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1g5zx81/",
+   "videos": [
+    "YSp3Mnq3i74"
    ]
   },
   "reddit:1g79o37": {
@@ -3140,6 +3892,54 @@
     "NF7LUIomXKA"
    ]
   },
+  "reddit:1g95xa3": {
+   "auteur": "reddit:diekthx-",
+   "communaute": "r/sailing",
+   "date": 1729558672,
+   "fil": "reddit:1g95xa3",
+   "id": "reddit:1g95xa3",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/DA0kyx_bAVI",
+   "titre_fil": "More from Middle Sea - with bonus crash jibe",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1g95xa3/",
+   "videos": [
+    "DA0kyx_bAVI"
+   ]
+  },
+  "reddit:1ga7p17": {
+   "auteur": "reddit:Illustrious_Bat896",
+   "communaute": "r/sailing",
+   "date": 1729681135,
+   "fil": "reddit:1ga7p17",
+   "id": "reddit:1ga7p17",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://m.youtube.com/watch?v=pAxasA7iq0k",
+   "titre_fil": "30 KNOT 18 FOOTER POV SENDS!! (Sixt Spring Series Race 1 - Highlights)",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1ga7p17/",
+   "videos": [
+    "pAxasA7iq0k"
+   ]
+  },
+  "reddit:1gasn7t": {
+   "auteur": "reddit:Worldly_Look1649",
+   "communaute": "r/sailing",
+   "date": 1729738148,
+   "fil": "reddit:1gasn7t",
+   "id": "reddit:1gasn7t",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/MqrBsXZ9iA0\n[removed]",
+   "titre_fil": "Rapido 60",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1gasn7t/",
+   "videos": [
+    "MqrBsXZ9iA0"
+   ]
+  },
   "reddit:1gasopk": {
    "auteur": "reddit:Worldly_Look1649",
    "communaute": "r/SailboatCruising",
@@ -3154,6 +3954,54 @@
    "url": "https://www.reddit.com/r/SailboatCruising/comments/1gasopk/",
    "videos": [
     "MqrBsXZ9iA0"
+   ]
+  },
+  "reddit:1gaya67": {
+   "auteur": "reddit:Admirable-Spinach-38",
+   "communaute": "r/sailing",
+   "date": 1729761020,
+   "fil": "reddit:1gaya67",
+   "id": "reddit:1gaya67",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/MqrBsXZ9iA0",
+   "titre_fil": "Rapido 60 cruisers version",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1gaya67/",
+   "videos": [
+    "MqrBsXZ9iA0"
+   ]
+  },
+  "reddit:1gbkd90": {
+   "auteur": "reddit:drdaystromgaming",
+   "communaute": "r/sailing",
+   "date": 1729824651,
+   "fil": "reddit:1gbkd90",
+   "id": "reddit:1gbkd90",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=hDC5VwRUw38",
+   "titre_fil": "I am digitizing some old 8mm films, I am trying to get a rough date and I figured someone here could date it from this boat show, any insight is appreciated!",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1gbkd90/",
+   "videos": [
+    "hDC5VwRUw38"
+   ]
+  },
+  "reddit:1gc2vj0": {
+   "auteur": "reddit:overthehillhat",
+   "communaute": "r/sailing",
+   "date": 1729885399,
+   "fil": "reddit:1gc2vj0",
+   "id": "reddit:1gc2vj0",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/sailing/comments/1gc2vj0/another_insufferable_americas_cup_posting/\nDennis Conner has a prediction ::\n\n[https://www.youtube.com/watch?v=vJfm3GZjTeY](https://www.youtube.com/watch?v=vJfm3GZjTeY)",
+   "titre_fil": "Another insufferable America's Cup Posting",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1gc2vj0/",
+   "videos": [
+    "vJfm3GZjTeY"
    ]
   },
   "reddit:1gck50a": {
@@ -3172,6 +4020,38 @@
     "ife7Erp8ywc"
    ]
   },
+  "reddit:1gewuhr": {
+   "auteur": "reddit:ovideos",
+   "communaute": "r/sailing",
+   "date": 1730214401,
+   "fil": "reddit:1gewuhr",
+   "id": "reddit:1gewuhr",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/sailing/comments/1gewuhr/centerboard_up_for_heavy_weather_better_than_keel/\nIn this video ([This Boat has a Superpower @ 1:45](https://youtu.be/drU265apaZU?si=JT6SwBaFaJmTpynw&t=102)) the owner of Alubat yachts claims surfing down waves in heavy weather in his boats with centerboard up is safer than in a normal keel boat. Unclear if he is comparing it to a fin keel or a full keel, half keel etc.\n\nIn the book Heavy Weather Sailing (latest edition) it's noted that full keel boats were less likely to broach when surfing down waves than fin kill or other types of boats (raised centerboards were not discussed I don't think).\n\nIn my simple understanding, I would expect surfing big waves with less keel (as per what he seems to be saying in video) would be more dangerous, not less dangerous.   Seems like you would risk getting flipped if the boat gets broadside at all because you have comparatively nothing below you to counteract.   Is he just saying the boat will turn back downwind quicker after sails luff?  \n\nCurious if anyone has any thoughts!  Or been in rough weather and raised your centerboard?",
+   "titre_fil": "Centerboard up for heavy weather? Better than keel?",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1gewuhr/",
+   "videos": [
+    "drU265apaZU"
+   ]
+  },
+  "reddit:1gf2stc": {
+   "auteur": "reddit:fragglerock",
+   "communaute": "r/sailing",
+   "date": 1730229200,
+   "fil": "reddit:1gf2stc",
+   "id": "reddit:1gf2stc",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=HnUVBnIT9FQ",
+   "titre_fil": "Pip Hare | Vendée Globe 2024 Dock Tour Part 1",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1gf2stc/",
+   "videos": [
+    "HnUVBnIT9FQ"
+   ]
+  },
   "reddit:1gfoet4": {
    "auteur": "reddit:Spirited-Weather-814",
    "communaute": "r/liveaboard",
@@ -3188,6 +4068,279 @@
     "YVtHBsPX000"
    ]
   },
+  "reddit:1gfy34p": {
+   "auteur": "reddit:1231313",
+   "communaute": "r/sailing",
+   "date": 1730324358,
+   "fil": "reddit:1gfy34p",
+   "id": "reddit:1gfy34p",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=R37IiGR-7NY",
+   "titre_fil": "My friend sailed alone from Hawaii to San Francisco earlier this year, and just finished putting together this delightful video of his journey",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1gfy34p/",
+   "videos": [
+    "R37IiGR-7NY"
+   ]
+  },
+  "reddit:1gh84fh": {
+   "auteur": "reddit:boredwalksYT",
+   "communaute": "r/sailing",
+   "date": 1730475043,
+   "fil": "reddit:1gh84fh",
+   "id": "reddit:1gh84fh",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/_uI4grUHPEY",
+   "titre_fil": "The Hamilton to Royal Naval Dockyard Bermuda Ferry  | by Boat",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1gh84fh/",
+   "videos": [
+    "_uI4grUHPEY"
+   ]
+  },
+  "reddit:1giqzsx": {
+   "auteur": "reddit:Maerica",
+   "communaute": "r/sailing",
+   "date": 1730651868,
+   "fil": "reddit:1giqzsx",
+   "id": "reddit:1giqzsx",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/suj9QUlIx2M?si=s28gXGU10h3wEPcc\n[removed]",
+   "titre_fil": "Leaky hatches fix !!",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1giqzsx/",
+   "videos": [
+    "suj9QUlIx2M"
+   ]
+  },
+  "reddit:1gj56m4": {
+   "auteur": "reddit:Full-Nectarine9697",
+   "communaute": "r/sailing",
+   "date": 1730690984,
+   "fil": "reddit:1gj56m4",
+   "id": "reddit:1gj56m4",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/YVtHBsPX000\n[removed]",
+   "titre_fil": "My very good friend is restoring an old sailboat",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1gj56m4/",
+   "videos": [
+    "YVtHBsPX000"
+   ]
+  },
+  "reddit:1gjc4j7": {
+   "auteur": "reddit:OSHKI89",
+   "communaute": "r/sailing",
+   "date": 1730720097,
+   "fil": "reddit:1gjc4j7",
+   "id": "reddit:1gjc4j7",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=BBVBYhpcpgU&si=9ob7IFkMansR8AfE",
+   "titre_fil": "Allegro 27 Sailboat",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1gjc4j7/",
+   "videos": [
+    "BBVBYhpcpgU"
+   ]
+  },
+  "reddit:1gkesra": {
+   "auteur": "reddit:temcdonagh",
+   "communaute": "r/sailing",
+   "date": 1730834301,
+   "fil": "reddit:1gkesra",
+   "id": "reddit:1gkesra",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=ojq01taU0EU&si=mmJbY16Q_gp2kjgf",
+   "titre_fil": "HOW TO FIX GELCOAT STRESS CRACKS",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1gkesra/",
+   "videos": [
+    "ojq01taU0EU"
+   ]
+  },
+  "reddit:1gkmra5": {
+   "auteur": "reddit:SOC_FreeDiver",
+   "communaute": "r/sailing",
+   "date": 1730855640,
+   "fil": "reddit:1gkmra5",
+   "id": "reddit:1gkmra5",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=E7RlnEaGx0g",
+   "titre_fil": "Wing on Wing on Wing in the Sea of Cortez",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1gkmra5/",
+   "videos": [
+    "E7RlnEaGx0g"
+   ]
+  },
+  "reddit:1goycuu": {
+   "auteur": "reddit:casablanca_1942",
+   "communaute": "r/sailing",
+   "date": 1731347565,
+   "fil": "reddit:1goycuu",
+   "id": "reddit:1goycuu",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/sailing/comments/1goycuu/gone_with_the_wynns_electrolysis_issues/\n[https://www.youtube.com/watch?v=Bd8etSI68AE](https://www.youtube.com/watch?v=Bd8etSI68AE)\n\nThe Wynn’s are having severe electrolysis issues with their new boat – even the anchor was affected. Is their boat supposed to be an experimental boat designed to demonstrate the bleeding edge? Or, is it a “production” boat using proven (albeit newish) technologies?\n\nIf the latter, then HH Catamarans has abysmal quality control. If the former, then perhaps the design/build deficiencies are understandable, but the boat looks to be a total loss; HH Catamarans will need to go back to the drawing board.\n\nIn either event the Wynn’s should retain a lawyer and seek to recover their funds. Since they are a sailing channel and now no boat, they may be able to seek damages.",
+   "titre_fil": "Gone with the Wynns – Electrolysis Issues",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1goycuu/",
+   "videos": [
+    "Bd8etSI68AE"
+   ]
+  },
+  "reddit:1gp47mk": {
+   "auteur": "reddit:vepkenez",
+   "communaute": "r/sailing",
+   "date": 1731361670,
+   "fil": "reddit:1gp47mk",
+   "id": "reddit:1gp47mk",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=PrQ41KZ8zmg",
+   "titre_fil": "Did you know sailing can actually be decent exercise?",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1gp47mk/",
+   "videos": [
+    "PrQ41KZ8zmg"
+   ]
+  },
+  "reddit:1gq961s": {
+   "auteur": "reddit:Single_Rich_1244",
+   "communaute": "r/sailing",
+   "date": 1731490370,
+   "fil": "reddit:1gq961s",
+   "id": "reddit:1gq961s",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/T2adSrfHZRg?si=jG8_TGCua-RoIXeA\nHi everyone ! \n\nI am not a sailer but I’m a long time watcher of a few sailing YouTubers like sailing la vagabonde and Gone with the Wynns. \n\nIf anyone knows of gone with the wynns you might know they’ve had some horrible luck with their new\n 2023 HH44 Sailing Catamaran.\nMost recently their lithium batteries nearly exploded, their boat is literally corroding at an insane rate because the boat had been overcharged from the very start.\n\nI am incredibly curious to hear from experienced sailers and those who have worked alongside boats and their thoughts about this boat because I am legitimately concerned that HH let the boat leave the yard. \n\nI’d love to hear back from you !",
+   "titre_fil": "Gone with the wynns",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1gq961s/",
+   "videos": [
+    "T2adSrfHZRg"
+   ]
+  },
+  "reddit:1gtb2i9": {
+   "auteur": "reddit:TradeApe",
+   "communaute": "r/sailing",
+   "date": 1731840614,
+   "fil": "reddit:1gtb2i9",
+   "id": "reddit:1gtb2i9",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/sailing/comments/1gtb2i9/vendee_globe/\nMy favorite offshore sailing competition, the [Vendee Globe](https://www.youtube.com/watch?v=7UwV4R4IqZk), has kicked off last weekend. I can't be the only dude who's watching :D\n\n[Current ranking](https://www.vendeeglobe.org/classement)\n\n[Chart](https://www.vendeeglobe.org/cartographie)\n\n70+ days off offshore racing! I'm rooting for the Swiss. If a Frenchman (or woman) has to win, I'm rooting for Le Cam and Clarisse Cremer. If you've never heard about the race, here's a great [documentary](https://youtu.be/puIgYu7q7ck?si=24XxoikdPqrnilQ7) by Alex Thomson.",
+   "titre_fil": "Vendee Globe!!",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1gtb2i9/",
+   "videos": [
+    "7UwV4R4IqZk",
+    "puIgYu7q7ck"
+   ]
+  },
+  "reddit:1gu1lo9": {
+   "auteur": "reddit:Illustrious_Bat896",
+   "communaute": "r/sailing",
+   "date": 1731924911,
+   "fil": "reddit:1gu1lo9",
+   "id": "reddit:1gu1lo9",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://m.youtube.com/watch?si=bwC58HiwtKl7Bcct&v=fU3um_Z6UNs&feature=youtu.be",
+   "titre_fil": "18ft Skiff 30 Knot Carnage Highlights Reel",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1gu1lo9/",
+   "videos": [
+    "fU3um_Z6UNs"
+   ]
+  },
+  "reddit:1gu2yv9": {
+   "auteur": "reddit:Illustrious_Bat896",
+   "communaute": "r/sailing",
+   "date": 1731930659,
+   "fil": "reddit:1gu2yv9",
+   "id": "reddit:1gu2yv9",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://m.youtube.com/watch?v=fU3um_Z6UNs&fbclid=IwZXh0bgNhZW0CMTEAAR3kjP8RsDYc-ZlP6MZ7oLYykj0RRk68nlx-Q1R0zGWrulfVV8PdpKUXv1M_aem_HnXcAUjm68pTyf930-_BZw\n[removed]",
+   "titre_fil": "18ft Skiff 30 Knot Carnage Highlights Reel",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1gu2yv9/",
+   "videos": [
+    "fU3um_Z6UNs"
+   ]
+  },
+  "reddit:1gucpvo": {
+   "auteur": "reddit:Illustrious_Bat896",
+   "communaute": "r/sailing",
+   "date": 1731956950,
+   "fil": "reddit:1gucpvo",
+   "id": "reddit:1gucpvo",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://m.youtube.com/watch?v=fU3um_Z6UNs",
+   "titre_fil": "18ft Skiff 30 Knot Carnage",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1gucpvo/",
+   "videos": [
+    "fU3um_Z6UNs"
+   ]
+  },
+  "reddit:1gufab4": {
+   "auteur": "reddit:Wise_Use1012",
+   "communaute": "r/sailing",
+   "date": 1731963322,
+   "fil": "reddit:1gufab4",
+   "id": "reddit:1gufab4",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://m.youtube.com/watch?time_continue=37&v=7Y1Ab9ZS70w&embeds_referring_euri=https%3A%2F%2Fwww.google.com%2F&source_ve_path=MTM5MTE3LDIzODUx",
+   "titre_fil": "Here’s a safety video for you sailing virgins out there that think safety is a joke",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1gufab4/",
+   "videos": [
+    "7Y1Ab9ZS70w"
+   ]
+  },
+  "reddit:1guff2v": {
+   "auteur": "reddit:Wise_Use1012",
+   "communaute": "r/sailing",
+   "date": 1731963646,
+   "fil": "reddit:1guff2v",
+   "id": "reddit:1guff2v",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://m.youtube.com/watch?v=ocCsSX2bYB0&pp=ygUaR3J1ZXNvbWUgYm9hdGluZyBhY2NpZGVudHM%3D",
+   "titre_fil": "Safety is not a joke",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1guff2v/",
+   "videos": [
+    "ocCsSX2bYB0"
+   ]
+  },
+  "reddit:1gwc7go": {
+   "auteur": "reddit:slalomwind",
+   "communaute": "r/sailing",
+   "date": 1732180471,
+   "fil": "reddit:1gwc7go",
+   "id": "reddit:1gwc7go",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/HFO3GWYWPN0",
+   "titre_fil": "Anchor or DPS ? ",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1gwc7go/",
+   "videos": [
+    "HFO3GWYWPN0"
+   ]
+  },
   "reddit:1gwr1ot": {
    "auteur": "reddit:LakesideProduction",
    "communaute": "r/liveaboard",
@@ -3202,6 +4355,38 @@
    "url": "https://www.reddit.com/r/liveaboard/comments/1gwr1ot/",
    "videos": [
     "EpAUg3X5dBM"
+   ]
+  },
+  "reddit:1gy2hsx": {
+   "auteur": "reddit:Firm-Name-8795",
+   "communaute": "r/sailing",
+   "date": 1732376672,
+   "fil": "reddit:1gy2hsx",
+   "id": "reddit:1gy2hsx",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/GnJT-bTiFIs?si=NBLXdJGiUgSFb9EA",
+   "titre_fil": "Leopard / Lagoon / Aquila potential Buyers/ Sellers:: be cautious with your purchases! Stay aware of what’s beneath the surface and what fellow industry members are finding ",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1gy2hsx/",
+   "videos": [
+    "GnJT-bTiFIs"
+   ]
+  },
+  "reddit:1gy8fuh": {
+   "auteur": "reddit:bagnap",
+   "communaute": "r/sailing",
+   "date": 1732392172,
+   "fil": "reddit:1gy8fuh",
+   "id": "reddit:1gy8fuh",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/f14r3tC-Y4E",
+   "titre_fil": "VG 2012 | Recovering from a broach",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1gy8fuh/",
+   "videos": [
+    "f14r3tC-Y4E"
    ]
   },
   "reddit:1h5a7s3": {
@@ -10307,6 +11492,22 @@
    "url": "https://www.reddit.com/r/sailing/comments/1xr9mtw/",
    "videos": [
     "1OilKap7QUg"
+   ]
+  },
+  "reddit:1xw89n3": {
+   "auteur": "reddit:nmaunder",
+   "communaute": "r/sailing",
+   "date": 1794677842,
+   "fil": "reddit:1xw89n3",
+   "id": "reddit:1xw89n3",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=vCZz0sS8RNU",
+   "titre_fil": "Wild footage from the Golden Globe Race leader, filmed this morning in the Southern Ocean.",
+   "type": "article",
+   "url": "https://www.reddit.com/r/sailing/comments/1xw89n3/",
+   "videos": [
+    "vCZz0sS8RNU"
    ]
   },
   "reddit:28slfn": {
@@ -25916,6 +27117,22 @@
     "PB6Q18SeVag"
    ]
   },
+  "reddit:im7b3ru": {
+   "auteur": "reddit:JerichoKilo",
+   "communaute": "r/SailboatCruising",
+   "date": 1661736705,
+   "fil": "reddit:wwho8x",
+   "id": "reddit:im7b3ru",
+   "mots": [],
+   "source": "reddit",
+   "texte": "It can also be [treacherously shallow ](https://youtu.be/ErEKdnyYOpA) for anything drafting more than 3.5-4' depending on tides",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/wwho8x/_/im7b3ru/",
+   "videos": [
+    "ErEKdnyYOpA"
+   ]
+  },
   "reddit:imdite": {
    "auteur": "reddit:LakesideProduction",
    "communaute": "r/liveaboard",
@@ -25978,6 +27195,22 @@
    "url": "https://www.reddit.com/r/SailboatCruising/comments/inc0ax/",
    "videos": [
     "5SMphEl5D7Y"
+   ]
+  },
+  "reddit:ino0nx7": {
+   "auteur": "reddit:Janktronic",
+   "communaute": "r/SailboatCruising",
+   "date": 1662685482,
+   "fil": "reddit:x8nwzq",
+   "id": "reddit:ino0nx7",
+   "mots": [],
+   "source": "reddit",
+   "texte": "It is already possible, a moving vehicle still has full data rate.  There is nothing special about GRIB files.\n\n* https://www.youtube.com/watch?v=OblLo5t_cdk\n* https://www.pcmag.com/news/dish-demands-spacex-deactivate-starlink-dishes-used-on-moving-boats-and\n* https://www.cnbc.com/2022/06/30/fcc-approves-spacex-starlink-service-to-vehicles-boats-planes.html",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/x8nwzq/_/ino0nx7/",
+   "videos": [
+    "OblLo5t_cdk"
    ]
   },
   "reddit:inwvyh": {
@@ -26044,6 +27277,22 @@
     "j8KVUDwLOHw"
    ]
   },
+  "reddit:ipjn2fs": {
+   "auteur": "reddit:SalesyMcSellerson",
+   "communaute": "r/SailboatCruising",
+   "date": 1663895731,
+   "fil": "reddit:xkumit",
+   "id": "reddit:ipjn2fs",
+   "mots": [],
+   "source": "reddit",
+   "texte": "[You're welcome] (https://youtu.be/03QuygM0YB8)",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/xkumit/_/ipjn2fs/",
+   "videos": [
+    "03QuygM0YB8"
+   ]
+  },
   "reddit:iqboav": {
    "auteur": "reddit:taptak",
    "communaute": "r/SailboatCruising",
@@ -26092,6 +27341,56 @@
     "CHd7IJHia_0"
    ]
   },
+  "reddit:isjh9va": {
+   "auteur": "reddit:Then-Blueberry-6679",
+   "communaute": "r/SailboatCruising",
+   "date": 1665927389,
+   "fil": "reddit:y58tv3",
+   "id": "reddit:isjh9va",
+   "mots": [],
+   "source": "reddit",
+   "texte": "If it’s just you alone, you could probably go as small as a Dana 24, which is a very nice seaworthy boat, to a 37 or so. I’m single handing an Islander 36. It will obviously take time and practice outside of the usual ASA courses. If you want an older boat then look at reputable brands. Remember that reputation came from the history and longevity of these older boats. Newer models? Pick one that suits you… it will more than likely outlast your interest.  https://youtu.be/3TVcEmU7Ogk is a link to a fellow who is doing what you want to do. He is responsive to questions. I have a few offshore sailing videos on “Sailing Haldis” channel which may or may not be useful. Good luck!",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/y58tv3/_/isjh9va/",
+   "videos": [
+    "3TVcEmU7Ogk"
+   ]
+  },
+  "reddit:iskbbhz": {
+   "auteur": "reddit:TradeApe",
+   "communaute": "r/SailboatCruising",
+   "date": 1665939999,
+   "fil": "reddit:y5cbn9",
+   "id": "reddit:iskbbhz",
+   "mots": [],
+   "source": "reddit",
+   "texte": "If you haven't picked a marina on Lanzarote yet, I can recommend [Puerto Calero](https://youtu.be/gu9FtiqLeDo) once you've checked in...or larger [Rubicon marina](https://youtu.be/yQYB1XAm1cQ). Both nicer than the one in the capital city. Calero is better to get work on the boat done.\n\nOn Gran Canaria, my favourite marina is [Puerto Mogan](https://youtu.be/YXCKuca508I) in the south. The wind acceleration zone stretches down the island's east coast all the way past Maspalomas in the south.\n\nMogan is a great place to kick off trips to Tenerife (Los Gigantes marina), La Gomera and La Palma. The last one needs a reservation well in advance at the moment.\n\nThe acceleration zone between Gran Canaria and Tenerife can get super bumpy. I've seen gusts in excess of 50kts there which made for a quick but very wet passage :D\n\nOn Tenerife, the marina in the capital is alright. Las Galletas and the one next door at the golf course is a waste of time/money. Los Gigantes is nice, the rest are tourist traps. The island itself is AMAZING to explore with a car though...my favourite island of all of the Canary Islands.\n\nIf you're coming from Rubicon and are heading down the west coats of Fuerteventura, the wind can pick up a bit once you make it past the Playa Blanca lighthouse at the tip of Lanzarote.\n\nShout if you're stuck somehow or want Lanzarote tips ;)",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/y5cbn9/_/iskbbhz/",
+   "videos": [
+    "gu9FtiqLeDo",
+    "yQYB1XAm1cQ",
+    "YXCKuca508I"
+   ]
+  },
+  "reddit:iszgdz9": {
+   "auteur": "reddit:TradeApe",
+   "communaute": "r/SailboatCruising",
+   "date": 1666212127,
+   "fil": "reddit:y86fsn",
+   "id": "reddit:iszgdz9",
+   "mots": [],
+   "source": "reddit",
+   "texte": "**Short answer:** \n\nYup, you could probably cross the Atlantic in this if you are an experienced sailor.\n\nSo...buy the yacht, take sailing courses (not just basic ones!!!), VHF course, first aid course, diesel engine course, sea survival course and all the other stuff you need to cross oceans. Then gain experience on other people's yachts and get a few ocean crossings under your belt. \n\n**Long answer:**\n\nIf you have to ask this question, the boat might be capable, but you aren't. That's not an attack on you...and is also something you can fix. \n\nA while ago, we had a crazy Pole show up at our sailing school. He had built his own little yacht and sailed it all the way down to Canary Islands with nothing but an iPad and Youtube instructions. He walked in and said he would like to do his RYA Yachtmaster and we thought he was nuts to sail all the way down here before taking a single sailing course. \n\nFast forward a few months and he passes his certificate. First thing he told me was that he now realises how fucking lucky he got coming down here without everything he's learned during the course. \n\nSo yeah, you CAN cross oceans in almost anything...but you need to learn how to sail FIRST. And by learning I don't just mean formal courses (RYA, ASA), but also gaining experience in rougher weather during stuff like deliveries. Go on sites like Crewseekers once you've taken a few basic courses and volunteer to crew during other people's passages. Gain as much experience as you can.\n\nAn […]",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/y86fsn/_/iszgdz9/",
+   "videos": [
+    "ibP5IQxId34"
+   ]
+  },
   "reddit:ituf3w": {
    "auteur": "reddit:carloscostan",
    "communaute": "r/SailboatCruising",
@@ -26106,6 +27405,22 @@
    "url": "https://www.reddit.com/r/SailboatCruising/comments/ituf3w/",
    "videos": [
     "SpxjOP5GzMo"
+   ]
+  },
+  "reddit:itvn0c7": {
+   "auteur": "reddit:kayvdr",
+   "communaute": "r/SailboatCruising",
+   "date": 1666804503,
+   "fil": "reddit:yd3mc7",
+   "id": "reddit:itvn0c7",
+   "mots": [],
+   "source": "reddit",
+   "texte": "My partner loves surfing more than sailing so we are currently on a mission down the California and baja coast from Canada. We’ve been surfing from our dinghy a lot, dropping a big anchor on the outside of the break! Here’s our latest video on YouTube: https://youtu.be/HelEOdKoi2Y",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/yd3mc7/_/itvn0c7/",
+   "videos": [
+    "HelEOdKoi2Y"
    ]
   },
   "reddit:iu0rd5": {
@@ -26188,6 +27503,38 @@
     "lR5O4B471DE"
    ]
   },
+  "reddit:iwlv1nj": {
+   "auteur": "reddit:Saga47swan",
+   "communaute": "r/SailboatCruising",
+   "date": 1668616437,
+   "fil": "reddit:ywrcmj",
+   "id": "reddit:iwlv1nj",
+   "mots": [],
+   "source": "reddit",
+   "texte": "See our boat video - then you understand that new boat is not an option “old is gold”.  [https://youtu.be/sqb-PtWE-6M](https://youtu.be/sqb-PtWE-6M)",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/ywrcmj/_/iwlv1nj/",
+   "videos": [
+    "sqb-PtWE-6M"
+   ]
+  },
+  "reddit:iwrnvo6": {
+   "auteur": "reddit:richwest3",
+   "communaute": "r/SailboatCruising",
+   "date": 1668718782,
+   "fil": "reddit:yxufl7",
+   "id": "reddit:iwrnvo6",
+   "mots": [],
+   "source": "reddit",
+   "texte": "I use it mainly for two things: historical weather and the MI (misery index, or zone of misery). I did a little video about it here: [https://www.youtube.com/watch?v=DonsXDghBLI&t=76s](https://www.youtube.com/watch?v=DonsXDghBLI&t=76s)\n\nIt's part of a series on weather we made mostly featuring PredictWind and their new hydrodynamic tools.",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/yxufl7/_/iwrnvo6/",
+   "videos": [
+    "DonsXDghBLI"
+   ]
+  },
   "reddit:ix1f61": {
    "auteur": "reddit:greenjoe04",
    "communaute": "r/SailboatCruising",
@@ -26236,6 +27583,22 @@
     "ypN-glNL_as"
    ]
   },
+  "reddit:ixspuhk": {
+   "auteur": "reddit:furiousfotographie",
+   "communaute": "r/SailboatCruising",
+   "date": 1669425059,
+   "fil": "reddit:z4ec25",
+   "id": "reddit:ixspuhk",
+   "mots": [],
+   "source": "reddit",
+   "texte": "It's like you guys haven't ever seen that video of the hot hippy chick that crossed the Atlantic in the world's shittiest boat with bedsheets for sails. C'mon, man! \n\nhttps://youtu.be/zCBjAQ5FUg8",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/z4ec25/_/ixspuhk/",
+   "videos": [
+    "zCBjAQ5FUg8"
+   ]
+  },
   "reddit:iynd5y": {
    "auteur": "reddit:rucasailing",
    "communaute": "r/SailboatCruising",
@@ -26252,6 +27615,22 @@
     "Xm---V7zSLs"
    ]
   },
+  "reddit:iyzf9qb": {
+   "auteur": "reddit:ncoif",
+   "communaute": "r/SailboatCruising",
+   "date": 1670231856,
+   "fil": "reddit:zcbcce",
+   "id": "reddit:iyzf9qb",
+   "mots": [],
+   "source": "reddit",
+   "texte": "Thank you for your warm comment, I’m glad you enjoyed watching it!!\n\nShameless plug, we did [a similar charter](https://m.youtube.com/watch?v=Bb0o5EmZ6Co) last year in Croatia.",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/zcbcce/_/iyzf9qb/",
+   "videos": [
+    "Bb0o5EmZ6Co"
+   ]
+  },
   "reddit:iz0kcy": {
    "auteur": "reddit:taptak",
    "communaute": "r/SailboatCruising",
@@ -26266,6 +27645,38 @@
    "url": "https://www.reddit.com/r/SailboatCruising/comments/iz0kcy/",
    "videos": [
     "Np5r4g_w1RE"
+   ]
+  },
+  "reddit:iz59dch": {
+   "auteur": "reddit:Infinite_Metal",
+   "communaute": "r/SailboatCruising",
+   "date": 1670343005,
+   "fil": "reddit:zdnc1c",
+   "id": "reddit:iz59dch",
+   "mots": [],
+   "source": "reddit",
+   "texte": "Your comment is in direct contradiction to recent trips off the coast of Somalia. \n\nI don’t believe you. \n\nhttps://m.youtube.com/watch?v=ChPqMbFjvXw",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/zdnc1c/_/iz59dch/",
+   "videos": [
+    "ChPqMbFjvXw"
+   ]
+  },
+  "reddit:iz5cci4": {
+   "auteur": "reddit:wonderfullyforgottte",
+   "communaute": "r/SailboatCruising",
+   "date": 1670344214,
+   "fil": "reddit:ze8n8i",
+   "id": "reddit:iz5cci4",
+   "mots": [],
+   "source": "reddit",
+   "texte": "yes there are ways to deal with it in a water. Hopefully it is the valve and not the thru hull. here is an idea on how it would work.\n\nhttps://www.youtube.com/watch?v=f-P49Y-o6Y8",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/ze8n8i/_/iz5cci4/",
+   "videos": [
+    "f-P49Y-o6Y8"
    ]
   },
   "reddit:iz77k8": {
@@ -26348,6 +27759,22 @@
     "2PTkde254Zc"
    ]
   },
+  "reddit:j2svtdn": {
+   "auteur": "reddit:mrthomasfritz",
+   "communaute": "r/SailboatCruising",
+   "date": 1672771969,
+   "fil": "reddit:1021lzr",
+   "id": "reddit:j2svtdn",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=By0y8O7AbZw",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/1021lzr/_/j2svtdn/",
+   "videos": [
+    "By0y8O7AbZw"
+   ]
+  },
   "reddit:j374oq": {
    "auteur": "reddit:rucasailing",
    "communaute": "r/SailboatCruising",
@@ -26378,6 +27805,54 @@
    "url": "https://www.reddit.com/r/SailboatCruising/comments/j3ebt2/",
    "videos": [
     "-wJyt7dLP8c"
+   ]
+  },
+  "reddit:j3j9h72": {
+   "auteur": "reddit:mwax321",
+   "communaute": "r/SailboatCruising",
+   "date": 1673220197,
+   "fil": "reddit:106n32e",
+   "id": "reddit:j3j9h72",
+   "mots": [],
+   "source": "reddit",
+   "texte": "Boat cost, your experience/resume boating, where you want to go, when you want to be there, what you want covered, age of boat, survey, deductibles. \n\nOurs is about 2.5% of boat value per year. It can be as low as 1% and as high as 6%.\n\nVery different from car insurance. It's like a job interview getting insured. Boat insurance companies are dying off and there are less and less options. \n\nI had a quote this summer for $2000 less... however, they  included a special \"lightning deductible\" that was more than double the regular deductible on that plan. Getting hit by lightning is very expensive, and this plan basically wouldn't pay for any of it. I know too many people who have been hit and had $100k repairs. You basically replace every wire and electronic on your boat. \n\nI also know people who go without insurance. If you choose to do this, please have a warchest of money for maintenance, repairs and accidents. I know people who's boats have sank for terrible reasons (not their fault), and they begged for money to help repair. Don't rely on charity. There's something very wrong with \"please donate to help me fix my YACHT because I was irresponsible.\" \n\nAnd then one last fatherly advice: make sure you aren't spending every last penny on this. Basically, don't do this:\n\n https://youtu.be/O5F27CAvmf4",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/106n32e/_/j3j9h72/",
+   "videos": [
+    "O5F27CAvmf4"
+   ]
+  },
+  "reddit:j3jiplu": {
+   "auteur": "reddit:AxTheAxMan",
+   "communaute": "r/SailboatCruising",
+   "date": 1673223787,
+   "fil": "reddit:106n32e",
+   "id": "reddit:j3jiplu",
+   "mots": [],
+   "source": "reddit",
+   "texte": "Don't be like Sailing Doodles and intentionally solo sail into awful conditions in an area you're not insured to be in?\n\n\"The transmission suffered catastrophic failure and insurance is refusing to pay for damages\" .... (When his spare anchor came loose and wrapped around his driveshaft.)\n\nhttps://youtu.be/ELa66tQU3f4\n\nhttps://sailingdoodles.com/fire-at-sea/",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/106n32e/_/j3jiplu/",
+   "videos": [
+    "ELa66tQU3f4"
+   ]
+  },
+  "reddit:j3xg97u": {
+   "auteur": "reddit:bagnap",
+   "communaute": "r/SailboatCruising",
+   "date": 1673463744,
+   "fil": "reddit:1099kln",
+   "id": "reddit:j3xg97u",
+   "mots": [],
+   "source": "reddit",
+   "texte": "This is a thoroughly comprehensive YouTube with spreadsheets attached\n\nhttps://youtu.be/z38cIBVdiV0",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/1099kln/_/j3xg97u/",
+   "videos": [
+    "z38cIBVdiV0"
    ]
   },
   "reddit:j3zieu": {
@@ -26426,6 +27901,22 @@
    "url": "https://www.reddit.com/r/liveaboard/comments/j44a5a/",
    "videos": [
     "Sfk8IQE4oOs"
+   ]
+  },
+  "reddit:j60am8a": {
+   "auteur": "reddit:markph0204",
+   "communaute": "r/SailboatCruising",
+   "date": 1674764637,
+   "fil": "reddit:10lh5oj",
+   "id": "reddit:j60am8a",
+   "mots": [],
+   "source": "reddit",
+   "texte": "Just saw [this video](https://www.youtube.com/watch?v=YsBoi3CrbVc&t=185s) a few nights back.",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/10lh5oj/_/j60am8a/",
+   "videos": [
+    "YsBoi3CrbVc"
    ]
   },
   "reddit:j6mmsy": {
@@ -26524,6 +28015,22 @@
     "02h7FnW9IVo"
    ]
   },
+  "reddit:j87ipgl": {
+   "auteur": "reddit:nothingbutt",
+   "communaute": "r/SailboatCruising",
+   "date": 1676180124,
+   "fil": "reddit:10e7iab",
+   "id": "reddit:j87ipgl",
+   "mots": [],
+   "source": "reddit",
+   "texte": "On the boat AC front, it's worth taking a look at this:\n\nhttps://youtu.be/xF113aUlZgo\n\nIf you want AC for sleeping in a cabin. The same channel also has some information on a combined lithium and lead acid/traditional battery bank approach that frankly made me nervous at first but it's an interesting idea. Not sure about that one but the low power AC seems like a winner.",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/10e7iab/_/j87ipgl/",
+   "videos": [
+    "xF113aUlZgo"
+   ]
+  },
   "reddit:j8giv7": {
    "auteur": "reddit:SailingPivo",
    "communaute": "r/liveaboard",
@@ -26588,6 +28095,86 @@
     "MPGACtmQHLs"
    ]
   },
+  "reddit:j9uno1l": {
+   "auteur": "reddit:Blue_water_dreams",
+   "communaute": "r/SailboatCruising",
+   "date": 1677261907,
+   "fil": "reddit:11adhq8",
+   "id": "reddit:j9uno1l",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/shorts/SB39KDop_j8?feature=share\n\nGood stuff, lol.",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/11adhq8/_/j9uno1l/",
+   "videos": [
+    "SB39KDop_j8"
+   ]
+  },
+  "reddit:j9wzhpv": {
+   "auteur": "reddit:pironiero",
+   "communaute": "r/SailboatCruising",
+   "date": 1677297550,
+   "fil": "reddit:11amw98",
+   "id": "reddit:j9wzhpv",
+   "mots": [],
+   "source": "reddit",
+   "texte": "found it, thanks https://youtu.be/50zeHzEwgoI",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/11amw98/_/j9wzhpv/",
+   "videos": [
+    "50zeHzEwgoI"
+   ]
+  },
+  "reddit:jadtdlg": {
+   "auteur": "reddit:Jillredhanded",
+   "communaute": "r/SailboatCruising",
+   "date": 1677609869,
+   "fil": "reddit:11cq5qi",
+   "id": "reddit:jadtdlg",
+   "mots": [],
+   "source": "reddit",
+   "texte": "[Here ya go!](https://youtu.be/EAyDS1NuK_A)",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/11cq5qi/_/jadtdlg/",
+   "videos": [
+    "EAyDS1NuK_A"
+   ]
+  },
+  "reddit:jamjjvc": {
+   "auteur": "reddit:Phombus",
+   "communaute": "r/SailboatCruising",
+   "date": 1677767691,
+   "fil": "reddit:11g1y3u",
+   "id": "reddit:jamjjvc",
+   "mots": [],
+   "source": "reddit",
+   "texte": "here is a video of last years\nhttps://www.youtube.com/watch?v=NrMCPneZ0hg",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/11g1y3u/_/jamjjvc/",
+   "videos": [
+    "NrMCPneZ0hg"
+   ]
+  },
+  "reddit:jarlped": {
+   "auteur": "reddit:Chuck-32",
+   "communaute": "r/SailboatCruising",
+   "date": 1677858162,
+   "fil": "reddit:11gl16e",
+   "id": "reddit:jarlped",
+   "mots": [],
+   "source": "reddit",
+   "texte": "I decided to make a hard dodger using this video as inspiration. My dodger is almost finished and I should be installing it in the next couple of weeks. Benefits are it will last the life of my boat, it has 3 - 100 watt panels, and a place to secure grab rails making it safer, and doing it myself it is about 1/3rd the price of having a canvas dodger professionally built. I don't like the look of most hard dodgers but this one really keeps the lines of a canvas dodger. \nhttps://youtu.be/gIPKOQZv-Ys",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/11gl16e/_/jarlped/",
+   "videos": [
+    "gIPKOQZv-Ys"
+   ]
+  },
   "reddit:jb72t7": {
    "auteur": "reddit:rucasailing",
    "communaute": "r/SailboatCruising",
@@ -26636,6 +28223,22 @@
     "pMjR0EGjiUU"
    ]
   },
+  "reddit:jdd8k1x": {
+   "auteur": "reddit:doryteke",
+   "communaute": "r/SailboatCruising",
+   "date": 1679586455,
+   "fil": "reddit:11z2y2t",
+   "id": "reddit:jdd8k1x",
+   "mots": [],
+   "source": "reddit",
+   "texte": "Those SC ads remind me (I think I saw it here years ago) of a fantastic commercial from Norway. It’s such a great ad campaign, there’s a couple. https://youtu.be/7kZloJqOzk4",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/11z2y2t/_/jdd8k1x/",
+   "videos": [
+    "7kZloJqOzk4"
+   ]
+  },
   "reddit:jdejlf": {
    "auteur": "reddit:Theocerbo",
    "communaute": "r/SailboatCruising",
@@ -26650,6 +28253,22 @@
    "url": "https://www.reddit.com/r/SailboatCruising/comments/jdejlf/",
    "videos": [
     "Os1fKd-Thxo"
+   ]
+  },
+  "reddit:jdj0z0j": {
+   "auteur": "reddit:Godspiral",
+   "communaute": "r/SailboatCruising",
+   "date": 1679684815,
+   "fil": "reddit:12011zh",
+   "id": "reddit:jdj0z0j",
+   "mots": [],
+   "source": "reddit",
+   "texte": "The deck/cabin on a monohull is just never going to fall off.  He did have an old/customish cat that disintegrated this way.\n\nhttps://www.youtube.com/watch?v=gQJBOxas2Gg&amp;t=2317s Zingaro is youtube name.",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/12011zh/_/jdj0z0j/",
+   "videos": [
+    "gQJBOxas2Gg"
    ]
   },
   "reddit:jdnkgp": {
@@ -26682,6 +28301,38 @@
    "url": "https://www.reddit.com/r/SailboatCruising/comments/jdsfi5/",
    "videos": [
     "KQAUD2HoY0U"
+   ]
+  },
+  "reddit:jeaz9i5": {
+   "auteur": "reddit:carrburritoid",
+   "communaute": "r/SailboatCruising",
+   "date": 1680200560,
+   "fil": "reddit:126tcp8",
+   "id": "reddit:jeaz9i5",
+   "mots": [],
+   "source": "reddit",
+   "texte": "Here's Awahnee sailing out of Hawaii with twin jibs [https://youtu.be/7EZUmZh6vys](https://youtu.be/7EZUmZh6vys)",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/126tcp8/_/jeaz9i5/",
+   "videos": [
+    "7EZUmZh6vys"
+   ]
+  },
+  "reddit:jebfpzx": {
+   "auteur": "reddit:northerndenizen",
+   "communaute": "r/SailboatCruising",
+   "date": 1680206850,
+   "fil": "reddit:126tcp8",
+   "id": "reddit:jebfpzx",
+   "mots": [],
+   "source": "reddit",
+   "texte": "Also look at Solent rigs, pretty much made for this concept - though your 'stay' sail usually isn't overlapping.\n\nHere's a good video that goes through it: https://youtu.be/Lo_VyawzoVo",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/126tcp8/_/jebfpzx/",
+   "videos": [
+    "Lo_VyawzoVo"
    ]
   },
   "reddit:jesik5": {
@@ -26924,6 +28575,39 @@
     "Wg12WNNjHA4"
    ]
   },
+  "reddit:jlssqeg": {
+   "auteur": "reddit:mrthomasfritz",
+   "communaute": "r/SailboatCruising",
+   "date": 1685174292,
+   "fil": "reddit:13slhlf",
+   "id": "reddit:jlssqeg",
+   "mots": [],
+   "source": "reddit",
+   "texte": "[https://youtu.be/H4p6q9IjSuI?t=189](https://youtu.be/H4p6q9IjSuI?t=189)\n\n[https://youtu.be/LasfnbFfZQg?t=152](https://youtu.be/LasfnbFfZQg?t=152)\n\n&#x200B;\n\nTwo youtube videos of sailboats that did not have any \"known\" problems, perhaps it could have been rigging too lose.  Perhaps shackle broke.   Perhaps galvanic rot inside.  When you have several hundred pounds falling uncontrolled, it is not good.",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/13slhlf/_/jlssqeg/",
+   "videos": [
+    "H4p6q9IjSuI",
+    "LasfnbFfZQg"
+   ]
+  },
+  "reddit:jlto598": {
+   "auteur": "reddit:mrthomasfritz",
+   "communaute": "r/SailboatCruising",
+   "date": 1685196386,
+   "fil": "reddit:13slhlf",
+   "id": "reddit:jlto598",
+   "mots": [],
+   "source": "reddit",
+   "texte": "[https://youtu.be/ogZm\\_ghmkY0](https://youtu.be/ogZm_ghmkY0)\n\nYou might be able to get away with this, before cutting, mind your vhf, steam lights, anchor lights, and deck lights is possible.  \n\n You would have to be extremely careful, but I think a external splice might work.  \n\nPersonally I would wrap a full yard  1 meter x 10 meter of carbon fiber around it, then do vacuum injection of the marine grade epoxy resin, make sure you use the bleeder & breather cloth.  This could get really messy, protect everything with drop cloths.  \n\nYou want about 15mm thickness of the carbon.  Remove all the excess epoxy with this vacuum bag process.   You want about 20 cm above the bend and 20 cm below.\n\nYou do need a high pressure vacuum pump.$$$$\n\nAlso need to make sure nothing gets in the track of your cars.\n\nI think for < 2000 EU, it might be possible to patch it.  At lease, I would try if crossing the ocean and suddenly I noticed that.\n\nResearch and try this with a 20cm pipe, joining them with just a but joint.  Then see if you can break it. Practice before you try on your boat.\n\nAnd... all instructions are free of charge and I accept no responsibility for accidents, failures, injuries, or deaths.",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/13slhlf/_/jlto598/",
+   "videos": [
+    "ogZm_ghmkY0"
+   ]
+  },
   "reddit:jm754g": {
    "auteur": "reddit:IgorStropnik",
    "communaute": "r/SailboatCruising",
@@ -27002,6 +28686,22 @@
    "url": "https://www.reddit.com/r/SailboatCruising/comments/jpdnxv/",
    "videos": [
     "pa6n1CUUFIA"
+   ]
+  },
+  "reddit:jphf7ju": {
+   "auteur": "reddit:senorpoop",
+   "communaute": "r/SailboatCruising",
+   "date": 1687711488,
+   "fil": "reddit:14ijgbq",
+   "id": "reddit:jphf7ju",
+   "mots": [],
+   "source": "reddit",
+   "texte": "Yes. Essentially the boat will almost always want to be downwind (or downcurrent) of the anchor. This usually means the bow is pointed at the anchor, because that's usually the only attachment point for the anchor. By \"triangulating\" the rhode with a point further aft on the boat, you can point the boat in a direction other than directly at the anchor, such as into a crossing swell.\n\nhttps://www.youtube.com/watch?v=TIx-YdjdLjk",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/14ijgbq/_/jphf7ju/",
+   "videos": [
+    "TIx-YdjdLjk"
    ]
   },
   "reddit:jpi05e": {
@@ -27098,6 +28798,22 @@
    "url": "https://www.reddit.com/r/SailboatCruising/comments/jq8gx6/",
    "videos": [
     "RUst21ixZRU"
+   ]
+  },
+  "reddit:jqfkfx4": {
+   "auteur": "reddit:SOC_FreeDiver",
+   "communaute": "r/SailboatCruising",
+   "date": 1688334922,
+   "fil": "reddit:14n7oy7",
+   "id": "reddit:jqfkfx4",
+   "mots": [],
+   "source": "reddit",
+   "texte": "If you don't have your own buyer broker, the listing broker should be working for you as well as the owners.  Ask the broker for comps on the boat.  Compare the comps, and then figure out what you think a fair price would be based on what you've observed.\n\nYou'll want to make an offer contingent of a sea trial and survey.  You don't want to waste your money on a survey if you're not going to be able to meet on price.\n\nAll surveyors are not equal.  You want one that will spend a lot of time crawling around the boat. You can't ask a broker for a referral, the best bet is to try a local yacht club.\n\nOnce you get the survey, you can negotiate on price if there are additional findings. If you're not experienced with maintaining boats, it's likely you missed a lot of issues. Even experienced people miss a lot of things.  \n\nI'd be happy to email you a copy of my book: How to buy a sailboat in Mexico.   [https://amzn.to/3rJTIYK](https://amzn.to/3rJTIYK)\n\nI have a beautiful 50ft ketch for sale. Here is a virtual tour:\n\n[https://www.youtube.com/watch?v=ADsQ132KNvE](https://www.youtube.com/watch?v=ADsQ132KNvE)\n\nDisclaimer: I am a long time cruiser and new yacht broker.",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/14n7oy7/_/jqfkfx4/",
+   "videos": [
+    "ADsQ132KNvE"
    ]
   },
   "reddit:jqntjp": {
@@ -27276,6 +28992,22 @@
     "E-uCJITyQgc"
    ]
   },
+  "reddit:ju35der": {
+   "auteur": "reddit:sunbnda",
+   "communaute": "r/SailboatCruising",
+   "date": 1690733253,
+   "fil": "reddit:15dknb7",
+   "id": "reddit:ju35der",
+   "mots": [],
+   "source": "reddit",
+   "texte": "No solar panel gets 100% output of what they're rated at. There's multiple factors that keep it from happening. Here's Will Prowse, a diy youtube solar panel and solar generator expert, trying to get 500W out of a 600W array in ideal conditions.\n\nhttps://youtu.be/vHcM6zCxzGM\n\nDon't bother moving them around. They look great and you're getting really good output.",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/15dknb7/_/ju35der/",
+   "videos": [
+    "vHcM6zCxzGM"
+   ]
+  },
   "reddit:jua2wc": {
    "auteur": "reddit:VernonDeck",
    "communaute": "r/SailboatCruising",
@@ -27290,6 +29022,22 @@
    "url": "https://www.reddit.com/r/SailboatCruising/comments/jua2wc/",
    "videos": [
     "ejGQrXNJcNY"
+   ]
+  },
+  "reddit:juivbmu": {
+   "auteur": "reddit:Sailing_Sea_Dream",
+   "communaute": "r/SailboatCruising",
+   "date": 1691004518,
+   "fil": "reddit:15gerx5",
+   "id": "reddit:juivbmu",
+   "mots": [],
+   "source": "reddit",
+   "texte": "Ya! The Discus has a very cool layout that sure fits a lot in there. The bridge deck allows the little passage way to the cozy double aft cabin, which is a real rarity in a sub 35ft boat. Here is a tour video of my boat showing the layout: https://www.youtube.com/watch?v=NvNKgOvpBfQ&t=188s&ab\\_channel=SailingSeaDreamofClyde",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/15gerx5/_/juivbmu/",
+   "videos": [
+    "NvNKgOvpBfQ"
    ]
   },
   "reddit:juo62g": {
@@ -27308,6 +29056,22 @@
     "W-MXVSNaYOI"
    ]
   },
+  "reddit:jup8tqr": {
+   "auteur": "reddit:Aplay1",
+   "communaute": "r/SailboatCruising",
+   "date": 1691111106,
+   "fil": "reddit:15hjopa",
+   "id": "reddit:jup8tqr",
+   "mots": [],
+   "source": "reddit",
+   "texte": "[Lady K Sailing has done a couple of videos, here’s one](https://youtu.be/NZGxQmZs2-k)",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/15hjopa/_/jup8tqr/",
+   "videos": [
+    "NZGxQmZs2-k"
+   ]
+  },
   "reddit:jv5x6c": {
    "auteur": "reddit:YachtRubyRose",
    "communaute": "r/SailboatCruising",
@@ -27322,6 +29086,22 @@
    "url": "https://www.reddit.com/r/SailboatCruising/comments/jv5x6c/",
    "videos": [
     "kgn-4379pC0"
+   ]
+  },
+  "reddit:jv73clo": {
+   "auteur": "reddit:SVAuspicious",
+   "communaute": "r/SailboatCruising",
+   "date": 1691434834,
+   "fil": "reddit:15krn9c",
+   "id": "reddit:jv73clo",
+   "mots": [],
+   "source": "reddit",
+   "texte": "High voltage electricity is not safe. Check insurance statistics for boats and houses. Fire with electrical sources are is the most common cause of boat loss. The underlying issue is thermal cycling of conductors at connectors. TL;DR: you can smell a gas leak, you can't smell a loose electrical connection until the fire starts. \n\nGet a real knife and learn [knife skills](https://www.youtube.com/watch?v=JMA2SqaDgG8). \n\nNot a fan of alcohol. Low energy content and you can't see the flames. Propane/butane is the way to go.",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/15krn9c/_/jv73clo/",
+   "videos": [
+    "JMA2SqaDgG8"
    ]
   },
   "reddit:jv9l46": {
@@ -27644,6 +29424,22 @@
     "aPBQ0nQzhG8"
    ]
   },
+  "reddit:k0058nm": {
+   "auteur": "reddit:SVAuspicious",
+   "communaute": "r/SailboatCruising",
+   "date": 1694372579,
+   "fil": "reddit:16dtdhh",
+   "id": "reddit:k0058nm",
+   "mots": [],
+   "source": "reddit",
+   "texte": "Sorry to have been out of your time and price market. \n\nIn addition to J and ASS in Annapolis you might explore Rock Hall. Lots of Philly and other PA people sail out of Rock Hall. The commute isn't bad and you're closer to deep water so there is much less motoring. A Google search turned up [Delmarva Sailing School](http://www.delmarvasailingschool.com/delmarva_sailing_school_web_site_002.htm). I don't know anything about them except what's on their website. \n\nMaryland School for Seamanship is in Rock Hall and I do NOT recommend them. \n\nYou might also look at the Baltimore Sailing Center. Traffic might be an issue and they are US Sailing v. ASA but the sailing would be different. Personally I don't go into Baltimore if I can avoid it but it is there. I'd rather walk through South Philly carrying a balloon that says \"Free Rolex\" than go into downtown Baltimore. YMMV. Lots of people feel differently. Maybe I'm just [Leonard](https://www.youtube.com/watch?v=a8mn0AKKh60). I'd rather be back in F8 rising 9 than go to Baltimore. \n\nIs there anything in Delaware City? Manasquan? Tom's River? Everything from the Delaware Memorial Bridge to Outerbridge Crossing just sort of merges together for me. \\*grin\\*",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/16dtdhh/_/k0058nm/",
+   "videos": [
+    "a8mn0AKKh60"
+   ]
+  },
   "reddit:k05sq0": {
    "auteur": "reddit:padastty",
    "communaute": "r/SailboatCruising",
@@ -27674,6 +29470,38 @@
    "url": "https://www.reddit.com/r/SailboatCruising/comments/k0nswf/",
    "videos": [
     "aom-XDZidBo"
+   ]
+  },
+  "reddit:k14ca49": {
+   "auteur": "reddit:muchachomalo",
+   "communaute": "r/SailboatCruising",
+   "date": 1695042058,
+   "fil": "reddit:16l421v",
+   "id": "reddit:k14ca49",
+   "mots": [],
+   "source": "reddit",
+   "texte": "Yes you are ok with living on a boat and your partner is also.  But you will be living on a 45 foot boat instead of a 3000ft ship.  I know bunks are tiny but it is still very different living.  Also living in marinas is very different.  Not to mention sailboats are drastically different from motorboats.  I really suggest doing a charter on a sailboat to see what you like first.\n\n  Learn about what can go wrong with a sailboat.  Here are some youtube videos that talk about what a surveyor is looking for https://youtu.be/u0sZoxa9VbY?si=BZPh0c6GIqQ-aNJ_ .  So that you can look at a boat and save your time and money and figure out if you should even get it surveyed.  Only you know your mechanical ability.  Sails are like your tires  There are cheap sails and expensive sails.  Both have a life span depending on how they are treated and used.  As far as issues with specific makes or models of boats it is all hearsay online unless you saw it yourself.\n\nI would suggest looking at a local sailing club to learn how to sail.  Pungent sound can be a complicated spot with the weather and winds.  Best to learn on other peoples sailboats instead of your own.  My partner and I are going down a similar journey but we are learning to sail right now and getting some hours in.  We did a class at a community college and are learning at a yacht club that has rental sailboats in San Diego.  We haven't had any issues but we have seen people get into some shenanigan's in the bay of san Diego from the […]",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/16l421v/_/k14ca49/",
+   "videos": [
+    "u0sZoxa9VbY"
+   ]
+  },
+  "reddit:k15swnj": {
+   "auteur": "reddit:adrienc",
+   "communaute": "r/SailboatCruising",
+   "date": 1695061697,
+   "fil": "reddit:16cn3my",
+   "id": "reddit:k15swnj",
+   "mots": [],
+   "source": "reddit",
+   "texte": "Interesting that you brought up St Malo. I chose a boat with a deep fin keel precisely because sailing out of St Malo bay frequently involves heading upwind. There are times, though, when I wish I could just beach anywhere.\n\nAnother advantage of twin bilge keels is the convenience they offer when storing on the hard. An insight provided by Marc Lombard in this interview on the topic of recent twin keel designs: [https://www.youtube.com/watch?v=0cmBaKCwM-E](https://www.youtube.com/watch?v=0cmBaKCwM-E)  (It's in French)",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/SailboatCruising/comments/16cn3my/_/k15swnj/",
+   "videos": [
+    "0cmBaKCwM-E"
    ]
   },
   "reddit:k1afkj": {
@@ -32430,6 +34258,22 @@
     "riLkbCj6zsM"
    ]
   },
+  "reddit:ms49xtc": {
+   "auteur": "reddit:the-montser",
+   "communaute": "r/sailboats",
+   "date": 1747154750,
+   "fil": "reddit:1klq3qc",
+   "id": "reddit:ms49xtc",
+   "mots": [],
+   "source": "reddit",
+   "texte": "There is a fantastic [documentary](https://youtu.be/oqaSWjtF8PI?si=zSTTUygpNeP1n0kg) of the restoration of Marilee on YouTube.",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/sailboats/comments/1klq3qc/_/ms49xtc/",
+   "videos": [
+    "oqaSWjtF8PI"
+   ]
+  },
   "reddit:ms4a55": {
    "auteur": "reddit:TwotheHorizonSailing",
    "communaute": "r/SailboatCruising",
@@ -32444,6 +34288,54 @@
    "url": "https://www.reddit.com/r/SailboatCruising/comments/ms4a55/",
    "videos": [
     "0cd4pmhD5jw"
+   ]
+  },
+  "reddit:msgh3xq": {
+   "auteur": "reddit:Plastic_Table_8232",
+   "communaute": "r/sailboats",
+   "date": 1747320420,
+   "fil": "reddit:1kn8tua",
+   "id": "reddit:msgh3xq",
+   "mots": [],
+   "source": "reddit",
+   "texte": "[You too can…](https://youtu.be/bI45DclwWxQ?si=WnP0KDsbdVAiZAw7)",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/sailboats/comments/1kn8tua/_/msgh3xq/",
+   "videos": [
+    "bI45DclwWxQ"
+   ]
+  },
+  "reddit:msn3hnr": {
+   "auteur": "reddit:Prestigious_Stay_945",
+   "communaute": "r/sailboats",
+   "date": 1747409676,
+   "fil": "reddit:1knttuu",
+   "id": "reddit:msn3hnr",
+   "mots": [],
+   "source": "reddit",
+   "texte": "What about building custom hard dodger and solar arch? I think this would be a good infill industry. Also the solar upgrade and installation would also be a good byline\n\nhttps://www.youtube.com/watch?v=bNaf5g7_MXs",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/sailboats/comments/1knttuu/_/msn3hnr/",
+   "videos": [
+    "bNaf5g7_MXs"
+   ]
+  },
+  "reddit:msu45bb": {
+   "auteur": "reddit:LameBMX",
+   "communaute": "r/sailboats",
+   "date": 1747508222,
+   "fil": "reddit:1kny824",
+   "id": "reddit:msu45bb",
+   "mots": [],
+   "source": "reddit",
+   "texte": "there is always point of vanishing stability. what matters is there is not an inverted point of stability. take a catamaran and flip it over. just as hard to right as to flip without sail up. take a monohull and plop it upside down. now you have around half its mass (the keel) perched above the center of buoyancy. give a Lil wiggle and the keel is going to get below the center of buoyancy.\n\nunless the rig goes poking holes, or there are other ways for a massive amount of water to enter fast (open hatches, companionway etc. most yachts will survive rolling and pitch poling much better than its occupants. \n\nmatt Rutherford I think...\n\nhttps://youtu.be/n12nnrEGWXQ?si=nIY_yktuTMmVCSnI\n\nI do t remember getting rolled, maybe almost rolled, but that's almost a given in that kind of distance unless you spend more time at dock waiting for weather than sailing.",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/sailboats/comments/1kny824/_/msu45bb/",
+   "videos": [
+    "n12nnrEGWXQ"
    ]
   },
   "reddit:mtbkk9": {
@@ -32478,6 +34370,38 @@
     "Uit2XPAzeL4"
    ]
   },
+  "reddit:mu4myer": {
+   "auteur": "reddit:T1ck-T0ck",
+   "communaute": "r/sailboats",
+   "date": 1748152081,
+   "fil": "reddit:1kusgtc",
+   "id": "reddit:mu4myer",
+   "mots": [],
+   "source": "reddit",
+   "texte": "Dont buy it, watch this - https://youtu.be/iOpElgBSBWY?si=Gy9olOagujwS9OUC",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/sailboats/comments/1kusgtc/_/mu4myer/",
+   "videos": [
+    "iOpElgBSBWY"
+   ]
+  },
+  "reddit:mud5xp6": {
+   "auteur": "reddit:LameBMX",
+   "communaute": "r/sailboats",
+   "date": 1748276859,
+   "fil": "reddit:1kvigas",
+   "id": "reddit:mud5xp6",
+   "mots": [],
+   "source": "reddit",
+   "texte": "I got ya fam\n\nhttps://youtu.be/PbjVdJfvYqI?si=BrYlCM5IV7f5UIEN",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/sailboats/comments/1kvigas/_/mud5xp6/",
+   "videos": [
+    "PbjVdJfvYqI"
+   ]
+  },
   "reddit:mvaepv4": {
    "auteur": "reddit:Embarrassed_Can6796",
    "communaute": "r/SailboatCruising",
@@ -32492,6 +34416,22 @@
    "url": "https://www.reddit.com/r/SailboatCruising/comments/1kvlw9u/_/mvaepv4/",
    "videos": [
     "ztGCJyWYYRQ"
+   ]
+  },
+  "reddit:mvt8041": {
+   "auteur": "reddit:iamcornholio2",
+   "communaute": "r/sailboats",
+   "date": 1748973726,
+   "fil": "reddit:1l2hf91",
+   "id": "reddit:mvt8041",
+   "mots": [],
+   "source": "reddit",
+   "texte": "Gold ol Youtube:\n\n[https://www.youtube.com/watch?v=6xTaFsJpwo8](https://www.youtube.com/watch?v=6xTaFsJpwo8)",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/sailboats/comments/1l2hf91/_/mvt8041/",
+   "videos": [
+    "6xTaFsJpwo8"
    ]
   },
   "reddit:mw06xb": {
@@ -32942,6 +34882,22 @@
     "XyIBnGTCnjQ"
    ]
   },
+  "reddit:n3g705x": {
+   "auteur": "reddit:forkcat211",
+   "communaute": "r/liveaboard",
+   "date": 1752675023,
+   "fil": "reddit:1m1bo68",
+   "id": "reddit:n3g705x",
+   "mots": [],
+   "source": "reddit",
+   "texte": "Not op...\n\nAlluring Artic Sailing\n\nhttps://www.youtube.com/watch?v=7slTMpYglbM",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/liveaboard/comments/1m1bo68/_/n3g705x/",
+   "videos": [
+    "7slTMpYglbM"
+   ]
+  },
   "reddit:n3rm0u": {
    "auteur": "reddit:SailingPivo",
    "communaute": "r/SailboatCruising",
@@ -33198,6 +35154,22 @@
     "HaLjgzZS8yI"
    ]
   },
+  "reddit:n6w85s4": {
+   "auteur": "reddit:tannels",
+   "communaute": "r/liveaboard",
+   "date": 1754324650,
+   "fil": "reddit:1mhb8hd",
+   "id": "reddit:n6w85s4",
+   "mots": [],
+   "source": "reddit",
+   "texte": "I've been watching every video on YouTube that I can find about living about a sailboat and came across this channel.  He lives aboard his own boat and goes on various adventures, but also interviews other people who have boats.  This particular one is exactly what you are looking to do, the guy took a sailing catamaran and removed the mast, added a giant platform to the top with tons of solar, converted the engines and everything to electric, and they live on it:  \n\n[Electric Catamaran FULL TOUR \\[44' L X 23' W, 7.2KW of Solar + 32kwh Lithium Battery Bank\\]](https://www.youtube.com/watch?v=_rUUlnHr40c&ab_channel=AdventuremanDan)",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/liveaboard/comments/1mhb8hd/_/n6w85s4/",
+   "videos": [
+    "_rUUlnHr40c"
+   ]
+  },
   "reddit:n7wc0q": {
    "auteur": "reddit:CalicoSkiesSailing",
    "communaute": "r/SailboatCruising",
@@ -33438,6 +35410,22 @@
     "dp_KvYTjDuM"
    ]
   },
+  "reddit:nb824aw": {
+   "auteur": "reddit:Born-Living4998",
+   "communaute": "r/liveaboard",
+   "date": 1756423579,
+   "fil": "reddit:1li5tou",
+   "id": "reddit:nb824aw",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/fEEQixqcci8?feature=shared\n\nTry this…",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/liveaboard/comments/1li5tou/_/nb824aw/",
+   "videos": [
+    "fEEQixqcci8"
+   ]
+  },
   "reddit:nc90o5": {
    "auteur": "reddit:europeanyacht",
    "communaute": "r/SailboatCruising",
@@ -33452,6 +35440,22 @@
    "url": "https://www.reddit.com/r/SailboatCruising/comments/nc90o5/",
    "videos": [
     "7wiKbaZhczU"
+   ]
+  },
+  "reddit:ncf0n4y": {
+   "auteur": "reddit:Significant_trucker",
+   "communaute": "r/liveaboard",
+   "date": 1757009754,
+   "fil": "reddit:1n8c00o",
+   "id": "reddit:ncf0n4y",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/9rTGlXZqijY?si=rRBdyQoTfmIrBvJQ You can check out HLN diesel heater, original equipment for trucks.",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/liveaboard/comments/1n8c00o/_/ncf0n4y/",
+   "videos": [
+    "9rTGlXZqijY"
    ]
   },
   "reddit:nclfkv": {
@@ -36688,6 +38692,134 @@
    "url": "https://www.reddit.com/r/SailboatCruising/comments/p9meg2/",
    "videos": [
     "qebRsbfRza8"
+   ]
+  },
+  "reddit:pb34oma": {
+   "auteur": "reddit:haroldslackenoffer",
+   "communaute": "r/sailing",
+   "date": 1789957479,
+   "fil": "reddit:1wkuobm",
+   "id": "reddit:pb34oma",
+   "mots": [],
+   "source": "reddit",
+   "texte": "Look for the YouTube’s by Epic Navigator. I still have no idea what slapping the wind is but he seems to be pretty confident in his abilities as an instructor and captain. \n\nhttps://youtu.be/2bnF9gAe1JE?is=93zwjqdTgLj\\_jkhd",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/sailing/comments/1wkuobm/_/pb34oma/",
+   "videos": [
+    "2bnF9gAe1JE"
+   ]
+  },
+  "reddit:pb7oqac": {
+   "auteur": "reddit:ScarryKitten",
+   "communaute": "r/sailing",
+   "date": 1790015062,
+   "fil": "reddit:1wlm8jl",
+   "id": "reddit:pb7oqac",
+   "mots": [],
+   "source": "reddit",
+   "texte": "That is a lovely boat! I went to sailboatdata.com, and to the Cheoy Lee association websites to get specs. If the age is right, it’s likely a 31’ offshore; the 32 didn’t come out until the late 70s. Among other things, there is a ketch drawing that gives sail dimensions: based on that, you can do some web crawling to see what a used set of sails might cost.   \nBoat specs look good: 11k lbs displacement, SailArea/Displacement \\~14 (not a racer), comfort ratio is good for a novice cruiser : 35ish. \n\nGoogling Cheoy Lee Offshore 31 for sale, I get the following response:\n\n**Current Market Overview**  \n**Average/Median Price:** Used models typically list between **$12,500 and $36,000**, heavily dependent on hull condition, interior upkeep, and whether the auxiliary diesel engine has been upgraded. \\[[1](https://www.youtube.com/watch?v=FeQYUpNJ9vI&t=56), [2](https://www.listingsport.com/sailboats/cheoy-lee/offshore-31/for-sale)\\]\n\n**Active Example:** A well-maintained [1968 Cheoy Lee Herreshoff 31 Offshore Ketch](https://www.yachtworld.com/yacht/1968-cheoy-lee-herreshoff-31-offshore-ketch-9858254/) is listed via Cahoon Yacht Brokerage in Duxbury, Massachusetts, priced at **$17,500** (featuring an updated Yanmar 3GM30 diesel engine and ketch rigging). \\[[1](https://www.yachtworld.com/yacht/1968-cheoy-lee-herreshoff-31-offshore-ketch-9858254/), [2](https://www.boats.com/sailing-boats/1968-cheoy-lee-herreshoff-31-offshore-ketch-9858254/)\\]\n\nUnless your main goal is to get into boat re […]",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/sailing/comments/1wlm8jl/_/pb7oqac/",
+   "videos": [
+    "FeQYUpNJ9vI"
+   ]
+  },
+  "reddit:pbcaii9": {
+   "auteur": "reddit:rowman_urn",
+   "communaute": "r/sailing",
+   "date": 1790074232,
+   "fil": "reddit:1wlm8jl",
+   "id": "reddit:pbcaii9",
+   "mots": [],
+   "source": "reddit",
+   "texte": "Take a look at a traditional yard launching boats from a inter shed, for some ideas.\n[hunters yard launching ](https://youtu.be/HFEQgW6Nf9k?si=mPU4rS8uJ2_sK3Nj)",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/sailing/comments/1wlm8jl/_/pbcaii9/",
+   "videos": [
+    "HFEQgW6Nf9k"
+   ]
+  },
+  "reddit:pbfi1rg": {
+   "auteur": "reddit:hottenniscoach",
+   "communaute": "r/sailing",
+   "date": 1790106518,
+   "fil": "reddit:1wnhdvb",
+   "id": "reddit:pbfi1rg",
+   "mots": [],
+   "source": "reddit",
+   "texte": "This guy gives solid reviews\n\nhttps://youtu.be/tjxFOejWKmk?is=aaRoZFW44vQ1QQRj",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/sailing/comments/1wnhdvb/_/pbfi1rg/",
+   "videos": [
+    "tjxFOejWKmk"
+   ]
+  },
+  "reddit:pbpkpyu": {
+   "auteur": "reddit:IN2017",
+   "communaute": "r/sailing",
+   "date": 1790226338,
+   "fil": "reddit:1worwq2",
+   "id": "reddit:pbpkpyu",
+   "mots": [],
+   "source": "reddit",
+   "texte": "This will perhaps help finding the answer … \nInteresting in general and so true …\n\nhttps://youtu.be/Nl6v7f3bxLM?si=5Nm9M-7QN9oePNpZ",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/sailing/comments/1worwq2/_/pbpkpyu/",
+   "videos": [
+    "Nl6v7f3bxLM"
+   ]
+  },
+  "reddit:pbuwfbn": {
+   "auteur": "reddit:ceciltech",
+   "communaute": "r/sailing",
+   "date": 1790288427,
+   "fil": "reddit:1wp6fng",
+   "id": "reddit:pbuwfbn",
+   "mots": [],
+   "source": "reddit",
+   "texte": "Cruisers be cruising: [https://www.youtube.com/watch?v=eNAidK99UwQ](https://www.youtube.com/watch?v=eNAidK99UwQ)",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/sailing/comments/1wp6fng/_/pbuwfbn/",
+   "videos": [
+    "eNAidK99UwQ"
+   ]
+  },
+  "reddit:pbxxwsj": {
+   "auteur": "reddit:opticalminefield",
+   "communaute": "r/sailing",
+   "date": 1790331079,
+   "fil": "reddit:1wprg2p",
+   "id": "reddit:pbxxwsj",
+   "mots": [],
+   "source": "reddit",
+   "texte": "I zoomed right in and actually I see it is moulded gelcoat after all. The dirt and grime made it hard to see. \n\nIn that case you will to do some gelcoat repair. You don’t want to be doing any painting. Small spots might be a case of sanding/chipping any remaining loose gelcoat then filling. Bigger spots you would want to match the pattern. You probably want to try match the colour in both cases as bright white will stand out. \n\nHowever I would caution that you probably want to understand why this is happening. Could be water in the deck or similar.\n\nThis video and its related ones might be helpful: https://youtu.be/2eZLorXTNys",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/sailing/comments/1wprg2p/_/pbxxwsj/",
+   "videos": [
+    "2eZLorXTNys"
+   ]
+  },
+  "reddit:pcaflhp": {
+   "auteur": "reddit:indigoinblue",
+   "communaute": "r/sailing",
+   "date": 1790475137,
+   "fil": "reddit:1wqzfuf",
+   "id": "reddit:pcaflhp",
+   "mots": [],
+   "source": "reddit",
+   "texte": "It’s not my style but he’s basically declared that he’s on a death wish. Don’t tread on him. He reminds me of Matt Rutherford who cemented his name in history forever with the first known circumnavigation of the Americas. https://youtu.be/n12nnrEGWXQ?is=RqI2Gh61iLWixAVf  \nSometimes bold ignorance pays off and I don’t mean that in a derogatory way.",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/sailing/comments/1wqzfuf/_/pcaflhp/",
+   "videos": [
+    "n12nnrEGWXQ"
    ]
   },
   "reddit:pciskdl": {
