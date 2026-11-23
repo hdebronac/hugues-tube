@@ -55,7 +55,7 @@
    "mentions": 21,
    "part_classee": 1.0,
    "premiere": 1738780170,
-   "score": 9.724,
+   "score": 9.594,
    "sources": [
     "Hacker News",
     "r/LocalLLaMA"
@@ -119,7 +119,7 @@
    "mentions": 22,
    "part_classee": 1.0,
    "premiere": 1774689530,
-   "score": 8.849,
+   "score": 8.731,
    "sources": [
     "Hacker News",
     "r/LocalLLaMA"
@@ -183,7 +183,7 @@
    "mentions": 11,
    "part_classee": 1.0,
    "premiere": 1712040863,
-   "score": 4.079,
+   "score": 4.025,
    "sources": [
     "Hacker News"
    ],
@@ -246,7 +246,7 @@
    "mentions": 12,
    "part_classee": 1.0,
    "premiere": 1790908911,
-   "score": 3.561,
+   "score": 3.514,
    "sources": [
     "Hacker News"
    ],
@@ -309,7 +309,7 @@
    "mentions": 11,
    "part_classee": 1.0,
    "premiere": 1740696479,
-   "score": 3.523,
+   "score": 3.476,
    "sources": [
     "Hacker News"
    ],
@@ -372,7 +372,7 @@
    "mentions": 11,
    "part_classee": 1.0,
    "premiere": 1677563295,
-   "score": 3.472,
+   "score": 3.426,
    "sources": [
     "Hacker News"
    ],
@@ -435,7 +435,7 @@
    "mentions": 5,
    "part_classee": 1.0,
    "premiere": 1765760250,
-   "score": 3.174,
+   "score": 3.131,
    "sources": [
     "Hacker News"
    ],
@@ -498,7 +498,7 @@
    "mentions": 7,
    "part_classee": 1.0,
    "premiere": 1786123583,
-   "score": 2.859,
+   "score": 2.821,
    "sources": [
     "Hacker News"
    ],
@@ -561,7 +561,7 @@
    "mentions": 5,
    "part_classee": 1.0,
    "premiere": 1794423863,
-   "score": 2.588,
+   "score": 2.553,
    "sources": [
     "Hacker News",
     "r/ClaudeAI"
@@ -625,7 +625,7 @@
    "mentions": 9,
    "part_classee": 1.0,
    "premiere": 1770421933,
-   "score": 2.397,
+   "score": 2.365,
    "sources": [
     "r/n8n"
    ],
@@ -688,13 +688,68 @@
    "mentions": 17,
    "part_classee": 1.0,
    "premiere": 1700731072,
-   "score": 2.21,
+   "score": 2.181,
    "sources": [
     "Hacker News"
    ],
    "titre": "[1hr Talk] Intro to Large Language Models",
    "type_contenu": "conference",
    "url_chaine": "https://www.youtube.com/@AndrejKarpathy"
+  },
+  {
+   "auteurs": 4,
+   "chaine": "Codacus",
+   "derniere": 1780550715,
+   "discussions": [
+    {
+     "communaute": "r/LocalLLaMA",
+     "date": 1779537837,
+     "fil": "reddit:1tlemsb",
+     "id": "reddit:1tlemsb",
+     "titre_fil": "found this little known channel with some really good content",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tlemsb/",
+     "verdict": "recommande"
+    },
+    {
+     "communaute": "r/LocalLLaMA",
+     "date": 1778484135,
+     "fil": "reddit:1t9vzjz",
+     "id": "reddit:1t9vzjz",
+     "titre_fil": "rtx 5070ti with Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-Q4_K_M.gguf token speed 564/41",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9vzjz/",
+     "verdict": "recommande"
+    },
+    {
+     "communaute": "Hacker News",
+     "date": 1780550715,
+     "fil": "48385906",
+     "id": "48394339",
+     "titre_fil": "Gemma 4 12B: A unified, encoder-free multimodal model",
+     "url": "https://news.ycombinator.com/item?id=48394339",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "r/LocalLLaMA",
+     "date": 1778015391,
+     "fil": "reddit:1t4skaj",
+     "id": "reddit:1t4skaj",
+     "titre_fil": "Slop or Good? Running 35ba3b llms on 6gb vram",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t4skaj/",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "8F_5pdcD3HY",
+   "mentions": 4,
+   "part_classee": 1.0,
+   "premiere": 1778015391,
+   "score": 1.955,
+   "sources": [
+    "Hacker News",
+    "r/LocalLLaMA"
+   ],
+   "titre": "Running a 35B AI Model on 6GB VRAM, FAST (llama.cpp Guide)",
+   "type_contenu": "technique",
+   "url_chaine": "https://www.youtube.com/@Codacus"
   },
   {
    "auteurs": 5,
@@ -751,7 +806,7 @@
    "mentions": 5,
    "part_classee": 1.0,
    "premiere": 1791488082,
-   "score": 1.86,
+   "score": 1.835,
    "sources": [
     "Hacker News",
     "r/ClaudeAI"
@@ -815,7 +870,7 @@
    "mentions": 5,
    "part_classee": 1.0,
    "premiere": 1747127012,
-   "score": 1.841,
+   "score": 1.816,
    "sources": [
     "Hacker News"
    ],
@@ -878,7 +933,7 @@
    "mentions": 8,
    "part_classee": 1.0,
    "premiere": 1681105935,
-   "score": 1.791,
+   "score": 1.767,
    "sources": [
     "Hacker News"
    ],
@@ -941,7 +996,7 @@
    "mentions": 5,
    "part_classee": 1.0,
    "premiere": 1749069342,
-   "score": 1.769,
+   "score": 1.746,
    "sources": [
     "Hacker News"
    ],
@@ -977,7 +1032,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1788550352,
-   "score": 1.743,
+   "score": 1.719,
    "sources": [
     "Hacker News"
    ],
@@ -1040,7 +1095,7 @@
    "mentions": 5,
    "part_classee": 1.0,
    "premiere": 1785176207,
-   "score": 1.646,
+   "score": 1.624,
    "sources": [
     "Hacker News"
    ],
@@ -1094,7 +1149,7 @@
    "mentions": 4,
    "part_classee": 1.0,
    "premiere": 1756679668,
-   "score": 1.637,
+   "score": 1.615,
    "sources": [
     "Hacker News"
    ],
@@ -1139,12 +1194,12 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1789510257,
-   "score": 1.622,
+   "score": 1.601,
    "sources": [
     "r/LocalLLaMA"
    ],
    "titre": "Your Life at Every Level of Running AI Locally (Laptop to 4×3090)",
-   "type_contenu": "retour_experience",
+   "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@TheDevPsyche"
   },
   {
@@ -1184,7 +1239,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1779424347,
-   "score": 1.523,
+   "score": 1.503,
    "sources": [
     "r/n8n"
    ],
@@ -1229,7 +1284,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1763165597,
-   "score": 1.459,
+   "score": 1.44,
    "sources": [
     "Hacker News"
    ],
@@ -1274,13 +1329,50 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1729697214,
-   "score": 1.444,
+   "score": 1.425,
    "sources": [
     "Hacker News"
    ],
    "titre": "Attention in transformers, step-by-step | Deep Learning Chapter 6",
    "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@3blue1brown"
+  },
+  {
+   "auteurs": 2,
+   "chaine": "Cohle M ",
+   "derniere": 1778931730,
+   "discussions": [
+    {
+     "communaute": "Hacker News",
+     "date": 1778931730,
+     "fil": "48159268",
+     "id": "48159268",
+     "titre_fil": "Show HN: Let's build Claude Code from scratch (tutorial)",
+     "url": "https://news.ycombinator.com/item?id=48159268",
+     "verdict": "recommande"
+    },
+    {
+     "communaute": "r/LocalLLaMA",
+     "date": 1778603114,
+     "fil": "reddit:1tb6nkx",
+     "id": "reddit:1tb6nkx",
+     "titre_fil": "Let's build claude code from scratch!",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tb6nkx/",
+     "verdict": "recommande"
+    }
+   ],
+   "id": "8pDfgBEy8bg",
+   "mentions": 2,
+   "part_classee": 1.0,
+   "premiere": 1778603114,
+   "score": 1.387,
+   "sources": [
+    "Hacker News",
+    "r/LocalLLaMA"
+   ],
+   "titre": "let's build claude code from scratch",
+   "type_contenu": "technique",
+   "url_chaine": "https://www.youtube.com/@cohlem69"
   },
   {
    "auteurs": 4,
@@ -1328,12 +1420,12 @@
    "mentions": 4,
    "part_classee": 1.0,
    "premiere": 1787848146,
-   "score": 1.378,
+   "score": 1.36,
    "sources": [
     "Hacker News"
    ],
    "titre": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
-   "type_contenu": "retour_experience",
+   "type_contenu": "autre",
    "url_chaine": "https://www.youtube.com/@lexfridman"
   },
   {
@@ -1373,7 +1465,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1793908620,
-   "score": 1.372,
+   "score": 1.354,
    "sources": [
     "Hacker News"
    ],
@@ -1418,7 +1510,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1780964907,
-   "score": 1.329,
+   "score": 1.311,
    "sources": [
     "Hacker News",
     "r/LocalLLaMA"
@@ -1455,7 +1547,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1792279445,
-   "score": 1.326,
+   "score": 1.309,
    "sources": [
     "Hacker News",
     "r/ClaudeAI"
@@ -1492,12 +1584,12 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1787272747,
-   "score": 1.318,
+   "score": 1.3,
    "sources": [
     "Hacker News"
    ],
    "titre": "I'm done with terminals",
-   "type_contenu": "retour_experience",
+   "type_contenu": "autre",
    "url_chaine": "https://www.youtube.com/@theo"
   },
   {
@@ -1528,13 +1620,13 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1790948691,
-   "score": 1.286,
+   "score": 1.269,
    "sources": [
     "Hacker News",
     "r/ClaudeAI"
    ],
    "titre": "Terminal Velocity — building the Darkball with three AI agents (shorter)",
-   "type_contenu": "retour_experience",
+   "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@DavidBerlioz"
   },
   {
@@ -1583,7 +1675,7 @@
    "mentions": 4,
    "part_classee": 1.0,
    "premiere": 1749129182,
-   "score": 1.284,
+   "score": 1.266,
    "sources": [
     "Hacker News"
    ],
@@ -1628,7 +1720,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1765590968,
-   "score": 1.271,
+   "score": 1.254,
    "sources": [
     "Hacker News"
    ],
@@ -1664,7 +1756,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1789248397,
-   "score": 1.242,
+   "score": 1.225,
    "sources": [
     "Hacker News",
     "r/LocalLLaMA"
@@ -1701,7 +1793,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1785954525,
-   "score": 1.201,
+   "score": 1.185,
    "sources": [
     "Hacker News"
    ],
@@ -1755,7 +1847,7 @@
    "mentions": 4,
    "part_classee": 1.0,
    "premiere": 1744301953,
-   "score": 1.196,
+   "score": 1.18,
    "sources": [
     "Hacker News"
    ],
@@ -1791,7 +1883,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1778002307,
-   "score": 1.195,
+   "score": 1.179,
    "sources": [
     "Hacker News"
    ],
@@ -1854,7 +1946,7 @@
    "mentions": 8,
    "part_classee": 1.0,
    "premiere": 1685511275,
-   "score": 1.186,
+   "score": 1.17,
    "sources": [
     "Hacker News"
    ],
@@ -1899,7 +1991,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1793898831,
-   "score": 1.177,
+   "score": 1.162,
    "sources": [
     "Hacker News"
    ],
@@ -1944,13 +2036,58 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1766998706,
-   "score": 1.168,
+   "score": 1.152,
    "sources": [
     "Hacker News"
    ],
    "titre": "Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic",
    "type_contenu": "retour_experience",
    "url_chaine": "https://www.youtube.com/@RyanLPeterman"
+  },
+  {
+   "auteurs": 3,
+   "chaine": "3Blue1Brown",
+   "derniere": 1795244504,
+   "discussions": [
+    {
+     "communaute": "Hacker News",
+     "date": 1732736346,
+     "fil": "42256093",
+     "id": "42259017",
+     "titre_fil": "Ask HN: Recommendation for a SWE looking to get up to speed with latest on AI",
+     "url": "https://news.ycombinator.com/item?id=42259017",
+     "verdict": "recommande"
+    },
+    {
+     "communaute": "Hacker News",
+     "date": 1795244504,
+     "fil": "50585376",
+     "id": "50586738",
+     "titre_fil": "Clojure will affect the way you think about programming (2017)",
+     "url": "https://news.ycombinator.com/item?id=50586738",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "Hacker News",
+     "date": 1789392520,
+     "fil": "49685036",
+     "id": "49696530",
+     "titre_fil": "Ask HN: Are we losing our engineering literacy?",
+     "url": "https://news.ycombinator.com/item?id=49696530",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "LPZh9BOjkQs",
+   "mentions": 3,
+   "part_classee": 1.0,
+   "premiere": 1732736346,
+   "score": 1.151,
+   "sources": [
+    "Hacker News"
+   ],
+   "titre": "Large Language Models explained briefly",
+   "type_contenu": "technique",
+   "url_chaine": "https://www.youtube.com/@3blue1brown"
   },
   {
    "auteurs": 4,
@@ -1998,7 +2135,7 @@
    "mentions": 4,
    "part_classee": 1.0,
    "premiere": 1751286376,
-   "score": 1.166,
+   "score": 1.15,
    "sources": [
     "Hacker News"
    ],
@@ -2034,7 +2171,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1777809827,
-   "score": 1.159,
+   "score": 1.144,
    "sources": [
     "Hacker News"
    ],
@@ -2079,7 +2216,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1790978193,
-   "score": 1.131,
+   "score": 1.116,
    "sources": [
     "Hacker News"
    ],
@@ -2133,13 +2270,68 @@
    "mentions": 4,
    "part_classee": 1.0,
    "premiere": 1750315249,
-   "score": 1.118,
+   "score": 1.104,
    "sources": [
     "Hacker News"
    ],
    "titre": "Agentic Engineering in Action with Mitchell Hashimoto",
    "type_contenu": "retour_experience",
    "url_chaine": "https://www.youtube.com/@zeddotdev"
+  },
+  {
+   "auteurs": 4,
+   "chaine": "Sequoia Capital",
+   "derniere": 1777713564,
+   "discussions": [
+    {
+     "communaute": "Hacker News",
+     "date": 1777713564,
+     "fil": "47984799",
+     "id": "47984799",
+     "titre_fil": "Andrej Karpathy: From Vibe Coding to Agentic Engineering",
+     "url": "https://news.ycombinator.com/item?id=47984799",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "Hacker News",
+     "date": 1777615543,
+     "fil": "47971697",
+     "id": "47971697",
+     "titre_fil": "Andrej Karpathy: From Vibe Coding to Agentic Engineering [video]",
+     "url": "https://news.ycombinator.com/item?id=47971697",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "r/LocalLLaMA",
+     "date": 1777555497,
+     "fil": "reddit:1szw0rw",
+     "id": "reddit:1szw0rw",
+     "titre_fil": "Andrej Karpathy: From Vibe Coding to Agentic Engineering",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1szw0rw/",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "Hacker News",
+     "date": 1777506310,
+     "fil": "47956176",
+     "id": "47956176",
+     "titre_fil": "Andrej Karpathy: From Vibe Coding to Agentic Engineering [video]",
+     "url": "https://news.ycombinator.com/item?id=47956176",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "96jN2OCOfLs",
+   "mentions": 4,
+   "part_classee": 1.0,
+   "premiere": 1777506310,
+   "score": 1.081,
+   "sources": [
+    "Hacker News",
+    "r/LocalLLaMA"
+   ],
+   "titre": "Andrej Karpathy: From Vibe Coding to Agentic Engineering w/ Stephanie Zhan",
+   "type_contenu": "conference",
+   "url_chaine": "https://www.youtube.com/@sequoiacapital"
   },
   {
    "auteurs": 2,
@@ -2169,7 +2361,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1779868570,
-   "score": 1.086,
+   "score": 1.072,
    "sources": [
     "Hacker News"
    ],
@@ -2232,7 +2424,7 @@
    "mentions": 9,
    "part_classee": 1.0,
    "premiere": 1695584467,
-   "score": 1.071,
+   "score": 1.056,
    "sources": [
     "Hacker News"
    ],
@@ -2277,7 +2469,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1770327588,
-   "score": 1.067,
+   "score": 1.052,
    "sources": [
     "Hacker News"
    ],
@@ -2313,7 +2505,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1764666732,
-   "score": 1.044,
+   "score": 1.03,
    "sources": [
     "Hacker News",
     "r/n8n"
@@ -2350,7 +2542,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1780685457,
-   "score": 1.028,
+   "score": 1.014,
    "sources": [
     "Hacker News"
    ],
@@ -2413,7 +2605,7 @@
    "mentions": 5,
    "part_classee": 1.0,
    "premiere": 1750304668,
-   "score": 1.026,
+   "score": 1.012,
    "sources": [
     "Hacker News"
    ],
@@ -2449,50 +2641,13 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1752500501,
-   "score": 1.018,
+   "score": 1.004,
    "sources": [
     "Hacker News"
    ],
    "titre": "How LLMs work for Web Devs: GPT in 600 lines of Vanilla JS - Ishan Anand",
    "type_contenu": "conference",
    "url_chaine": "https://www.youtube.com/@aiDotEngineer"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "Codacus",
-   "derniere": 1780550715,
-   "discussions": [
-    {
-     "communaute": "r/LocalLLaMA",
-     "date": 1779537837,
-     "fil": "reddit:1tlemsb",
-     "id": "reddit:1tlemsb",
-     "titre_fil": "found this little known channel with some really good content",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tlemsb/",
-     "verdict": "recommande"
-    },
-    {
-     "communaute": "Hacker News",
-     "date": 1780550715,
-     "fil": "48385906",
-     "id": "48394339",
-     "titre_fil": "Gemma 4 12B: A unified, encoder-free multimodal model",
-     "url": "https://news.ycombinator.com/item?id=48394339",
-     "verdict": "neutre"
-    }
-   ],
-   "id": "8F_5pdcD3HY",
-   "mentions": 2,
-   "part_classee": 1.0,
-   "premiere": 1779537837,
-   "score": 1.007,
-   "sources": [
-    "Hacker News",
-    "r/LocalLLaMA"
-   ],
-   "titre": "Running a 35B AI Model on 6GB VRAM, FAST (llama.cpp Guide)",
-   "type_contenu": "technique",
-   "url_chaine": "https://www.youtube.com/@Codacus"
   },
   {
    "auteurs": 2,
@@ -2549,7 +2704,7 @@
    "mentions": 5,
    "part_classee": 1.0,
    "premiere": 1763162416,
-   "score": 0.998,
+   "score": 0.985,
    "sources": [
     "Hacker News",
     "r/n8n"
@@ -2557,6 +2712,42 @@
    "titre": "You Won't Believe How Easy it is to Create an AI Knowledge Base with N8N",
    "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@Hadidiz"
+  },
+  {
+   "auteurs": 2,
+   "chaine": "Eno PDF",
+   "derniere": 1777576673,
+   "discussions": [
+    {
+     "communaute": "r/LocalLLaMA",
+     "date": 1777576673,
+     "fil": "reddit:1t0622b",
+     "id": "reddit:1t0622b",
+     "titre_fil": "Local Agentic PDF Search with eno: Full llama.cpp + Qwen3.6 Setup",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t0622b/",
+     "verdict": "recommande"
+    },
+    {
+     "communaute": "r/LocalLLaMA",
+     "date": 1777571188,
+     "fil": "reddit:1t03hob",
+     "id": "reddit:1t03hob",
+     "titre_fil": "Running Local Agentic PDF Search with eno- YouTube",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t03hob/",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "838BasjdQ64",
+   "mentions": 2,
+   "part_classee": 1.0,
+   "premiere": 1777571188,
+   "score": 0.946,
+   "sources": [
+    "r/LocalLLaMA"
+   ],
+   "titre": "Local Agentic PDF Search with eno: Full llama.cpp + Qwen3.6 Setup",
+   "type_contenu": "technique",
+   "url_chaine": "https://www.youtube.com/@enopdf"
   },
   {
    "auteurs": 2,
@@ -2586,7 +2777,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1760766488,
-   "score": 0.947,
+   "score": 0.934,
    "sources": [
     "Hacker News",
     "r/n8n"
@@ -2632,7 +2823,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1758831353,
-   "score": 0.942,
+   "score": 0.929,
    "sources": [
     "r/n8n"
    ],
@@ -2677,7 +2868,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1783369009,
-   "score": 0.934,
+   "score": 0.922,
    "sources": [
     "Hacker News"
    ],
@@ -2722,13 +2913,49 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1755576288,
-   "score": 0.929,
+   "score": 0.917,
    "sources": [
     "r/n8n"
    ],
    "titre": "n8n Beginner Tutorial: Automate SEO Blogging with AI",
    "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@jay.ai.automation"
+  },
+  {
+   "auteurs": 2,
+   "chaine": "WebXFearless",
+   "derniere": 1765898586,
+   "discussions": [
+    {
+     "communaute": "r/n8n",
+     "date": 1765898586,
+     "fil": "reddit:1po4o1d",
+     "id": "reddit:1po4o1d",
+     "titre_fil": "Posting Video/Images to Social Media Platforms",
+     "url": "https://www.reddit.com/r/n8n/comments/1po4o1d/",
+     "verdict": "recommande"
+    },
+    {
+     "communaute": "r/n8n",
+     "date": 1751230374,
+     "fil": "reddit:1lnpaa5",
+     "id": "reddit:1lnpaa5",
+     "titre_fil": "Posting videos, reels to instagram, tiktok, twitter(X) just got easier",
+     "url": "https://www.reddit.com/r/n8n/comments/1lnpaa5/",
+     "verdict": "recommande"
+    }
+   ],
+   "id": "h_U_p4pQosM",
+   "mentions": 2,
+   "part_classee": 1.0,
+   "premiere": 1751230374,
+   "score": 0.901,
+   "sources": [
+    "r/n8n"
+   ],
+   "titre": "Post videos, reels and images on Instagram, X/Twitter, Tiktok and Youtube using N8N",
+   "type_contenu": "technique",
+   "url_chaine": "https://www.youtube.com/@WebXFearless"
   },
   {
    "auteurs": 2,
@@ -2758,7 +2985,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1773327799,
-   "score": 0.9,
+   "score": 0.888,
    "sources": [
     "Hacker News"
    ],
@@ -2794,7 +3021,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1766835517,
-   "score": 0.884,
+   "score": 0.872,
    "sources": [
     "Hacker News"
    ],
@@ -2839,7 +3066,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1778150925,
-   "score": 0.866,
+   "score": 0.854,
    "sources": [
     "Hacker News"
    ],
@@ -2875,7 +3102,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1772623556,
-   "score": 0.863,
+   "score": 0.852,
    "sources": [
     "Hacker News"
    ],
@@ -2911,7 +3138,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1771907376,
-   "score": 0.847,
+   "score": 0.835,
    "sources": [
     "Hacker News"
    ],
@@ -2947,12 +3174,12 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1754361697,
-   "score": 0.842,
+   "score": 0.831,
    "sources": [
     "Hacker News"
    ],
    "titre": "Master Claude Code: Proven Daily Workflows from 3 Technical Founders (Real Examples)",
-   "type_contenu": "retour_experience",
+   "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@PatrickOakleyEllis"
   },
   {
@@ -2992,58 +3219,13 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1709259066,
-   "score": 0.828,
+   "score": 0.817,
    "sources": [
     "Hacker News"
    ],
    "titre": "Let's build the GPT Tokenizer",
    "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@AndrejKarpathy"
-  },
-  {
-   "auteurs": 3,
-   "chaine": "Sequoia Capital",
-   "derniere": 1777713564,
-   "discussions": [
-    {
-     "communaute": "Hacker News",
-     "date": 1777713564,
-     "fil": "47984799",
-     "id": "47984799",
-     "titre_fil": "Andrej Karpathy: From Vibe Coding to Agentic Engineering",
-     "url": "https://news.ycombinator.com/item?id=47984799",
-     "verdict": "neutre"
-    },
-    {
-     "communaute": "Hacker News",
-     "date": 1777615543,
-     "fil": "47971697",
-     "id": "47971697",
-     "titre_fil": "Andrej Karpathy: From Vibe Coding to Agentic Engineering [video]",
-     "url": "https://news.ycombinator.com/item?id=47971697",
-     "verdict": "neutre"
-    },
-    {
-     "communaute": "Hacker News",
-     "date": 1777506310,
-     "fil": "47956176",
-     "id": "47956176",
-     "titre_fil": "Andrej Karpathy: From Vibe Coding to Agentic Engineering [video]",
-     "url": "https://news.ycombinator.com/item?id=47956176",
-     "verdict": "neutre"
-    }
-   ],
-   "id": "96jN2OCOfLs",
-   "mentions": 3,
-   "part_classee": 1.0,
-   "premiere": 1777506310,
-   "score": 0.822,
-   "sources": [
-    "Hacker News"
-   ],
-   "titre": "Andrej Karpathy: From Vibe Coding to Agentic Engineering w/ Stephanie Zhan",
-   "type_contenu": "conference",
-   "url_chaine": "https://www.youtube.com/@sequoiacapital"
   },
   {
    "auteurs": 2,
@@ -3073,12 +3255,12 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1770329292,
-   "score": 0.817,
+   "score": 0.806,
    "sources": [
     "Hacker News"
    ],
    "titre": "Claude Opus 4.6 Is INSANE – This Might Be the BEST Model Yet!",
-   "type_contenu": "retour_experience",
+   "type_contenu": "autre",
    "url_chaine": "https://www.youtube.com/@Bijanbowen"
   },
   {
@@ -3118,7 +3300,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1756320247,
-   "score": 0.815,
+   "score": 0.804,
    "sources": [
     "Hacker News"
    ],
@@ -3163,7 +3345,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1683389723,
-   "score": 0.812,
+   "score": 0.802,
    "sources": [
     "Hacker News"
    ],
@@ -3208,7 +3390,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1692650210,
-   "score": 0.808,
+   "score": 0.797,
    "sources": [
     "Hacker News"
    ],
@@ -3253,7 +3435,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1769746553,
-   "score": 0.8,
+   "score": 0.79,
    "sources": [
     "Hacker News"
    ],
@@ -3289,7 +3471,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1769171285,
-   "score": 0.797,
+   "score": 0.786,
    "sources": [
     "Hacker News",
     "r/n8n"
@@ -3335,7 +3517,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1754364834,
-   "score": 0.797,
+   "score": 0.786,
    "sources": [
     "Hacker News"
    ],
@@ -3371,13 +3553,13 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1794253090,
-   "score": 0.79,
+   "score": 0.779,
    "sources": [
     "Hacker News",
     "r/ClaudeAI"
    ],
    "titre": "Claude Fable 5.2 designs a working voice-assistant hub",
-   "type_contenu": "autre",
+   "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@claude"
   },
   {
@@ -3408,7 +3590,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1793313286,
-   "score": 0.776,
+   "score": 0.765,
    "sources": [
     "Hacker News"
    ],
@@ -3444,7 +3626,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1767487697,
-   "score": 0.768,
+   "score": 0.758,
    "sources": [
     "Hacker News",
     "r/n8n"
@@ -3481,7 +3663,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1757987784,
-   "score": 0.765,
+   "score": 0.754,
    "sources": [
     "r/n8n"
    ],
@@ -3526,7 +3708,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1774103870,
-   "score": 0.763,
+   "score": 0.753,
    "sources": [
     "Hacker News"
    ],
@@ -3571,7 +3753,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1736939699,
-   "score": 0.758,
+   "score": 0.747,
    "sources": [
     "Hacker News"
    ],
@@ -3616,12 +3798,12 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1788894573,
-   "score": 0.744,
+   "score": 0.734,
    "sources": [
     "r/LocalLLaMA"
    ],
    "titre": "Qwen3.8 27B Is INSANE – This Is the BEST Local AI Model Yet!",
-   "type_contenu": "retour_experience",
+   "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@Bijanbowen"
   },
   {
@@ -3652,12 +3834,12 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1791247897,
-   "score": 0.741,
+   "score": 0.731,
    "sources": [
     "Hacker News"
    ],
    "titre": "Can AI Make a Game Engine?",
-   "type_contenu": "autre",
+   "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@TheCherno"
   },
   {
@@ -3688,7 +3870,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1750203304,
-   "score": 0.739,
+   "score": 0.729,
    "sources": [
     "Hacker News"
    ],
@@ -3724,7 +3906,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1790630325,
-   "score": 0.734,
+   "score": 0.724,
    "sources": [
     "Hacker News"
    ],
@@ -3760,49 +3942,13 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1790843238,
-   "score": 0.733,
+   "score": 0.723,
    "sources": [
     "r/LocalLLaMA"
    ],
    "titre": "I seriously should NOT be dropping this.",
    "type_contenu": "autre",
    "url_chaine": "https://www.youtube.com/@PewDiePie"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "Sources Podcast",
-   "derniere": 1792445271,
-   "discussions": [
-    {
-     "communaute": "Hacker News",
-     "date": 1792445271,
-     "fil": "50141657",
-     "id": "50158294",
-     "titre_fil": "Websites are closing their doors to AI agents",
-     "url": "https://news.ycombinator.com/item?id=50158294",
-     "verdict": "neutre"
-    },
-    {
-     "communaute": "Hacker News",
-     "date": 1788918202,
-     "fil": "49615537",
-     "id": "49619743",
-     "titre_fil": "Muse – Meta’s personal AI agent",
-     "url": "https://news.ycombinator.com/item?id=49619743",
-     "verdict": "neutre"
-    }
-   ],
-   "id": "Lx8lrn-cytc",
-   "mentions": 2,
-   "part_classee": 1.0,
-   "premiere": 1788918202,
-   "score": 0.731,
-   "sources": [
-    "Hacker News"
-   ],
-   "titre": "Mark Zuckerberg on how Meta's Muse AI agent will make people money",
-   "type_contenu": "autre",
-   "url_chaine": "https://www.youtube.com/@sourcespod"
   },
   {
    "auteurs": 3,
@@ -3841,13 +3987,49 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1759172295,
-   "score": 0.731,
+   "score": 0.722,
    "sources": [
     "Hacker News"
    ],
    "titre": "An experimental new way to design software",
    "type_contenu": "autre",
    "url_chaine": "https://www.youtube.com/@anthropic-ai"
+  },
+  {
+   "auteurs": 2,
+   "chaine": "Sources Podcast",
+   "derniere": 1792445271,
+   "discussions": [
+    {
+     "communaute": "Hacker News",
+     "date": 1792445271,
+     "fil": "50141657",
+     "id": "50158294",
+     "titre_fil": "Websites are closing their doors to AI agents",
+     "url": "https://news.ycombinator.com/item?id=50158294",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "Hacker News",
+     "date": 1788918202,
+     "fil": "49615537",
+     "id": "49619743",
+     "titre_fil": "Muse – Meta’s personal AI agent",
+     "url": "https://news.ycombinator.com/item?id=49619743",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "Lx8lrn-cytc",
+   "mentions": 2,
+   "part_classee": 1.0,
+   "premiere": 1788918202,
+   "score": 0.721,
+   "sources": [
+    "Hacker News"
+   ],
+   "titre": "Mark Zuckerberg on how Meta's Muse AI agent will make people money",
+   "type_contenu": "autre",
+   "url_chaine": "https://www.youtube.com/@sourcespod"
   },
   {
    "auteurs": 4,
@@ -3895,7 +4077,7 @@
    "mentions": 4,
    "part_classee": 1.0,
    "premiere": 1743694898,
-   "score": 0.727,
+   "score": 0.717,
    "sources": [
     "Hacker News"
    ],
@@ -3931,7 +4113,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1788053932,
-   "score": 0.725,
+   "score": 0.715,
    "sources": [
     "Hacker News"
    ],
@@ -3967,7 +4149,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1764629018,
-   "score": 0.723,
+   "score": 0.713,
    "sources": [
     "r/n8n"
    ],
@@ -4012,7 +4194,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1770229386,
-   "score": 0.72,
+   "score": 0.711,
    "sources": [
     "Hacker News"
    ],
@@ -4048,7 +4230,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1789594669,
-   "score": 0.714,
+   "score": 0.704,
    "sources": [
     "Hacker News",
     "r/ClaudeAI"
@@ -4085,7 +4267,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1747341419,
-   "score": 0.713,
+   "score": 0.703,
    "sources": [
     "Hacker News"
    ],
@@ -4139,49 +4321,13 @@
    "mentions": 4,
    "part_classee": 1.0,
    "premiere": 1707314827,
-   "score": 0.708,
+   "score": 0.698,
    "sources": [
     "Hacker News"
    ],
    "titre": "GPT-4chan: This is the worst AI ever",
-   "type_contenu": "autre",
-   "url_chaine": "https://www.youtube.com/@YannicKilcher"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "3Blue1Brown",
-   "derniere": 1789392520,
-   "discussions": [
-    {
-     "communaute": "Hacker News",
-     "date": 1732736346,
-     "fil": "42256093",
-     "id": "42259017",
-     "titre_fil": "Ask HN: Recommendation for a SWE looking to get up to speed with latest on AI",
-     "url": "https://news.ycombinator.com/item?id=42259017",
-     "verdict": "recommande"
-    },
-    {
-     "communaute": "Hacker News",
-     "date": 1789392520,
-     "fil": "49685036",
-     "id": "49696530",
-     "titre_fil": "Ask HN: Are we losing our engineering literacy?",
-     "url": "https://news.ycombinator.com/item?id=49696530",
-     "verdict": "neutre"
-    }
-   ],
-   "id": "LPZh9BOjkQs",
-   "mentions": 2,
-   "part_classee": 1.0,
-   "premiere": 1732736346,
-   "score": 0.702,
-   "sources": [
-    "Hacker News"
-   ],
-   "titre": "Large Language Models explained briefly",
    "type_contenu": "technique",
-   "url_chaine": "https://www.youtube.com/@3blue1brown"
+   "url_chaine": "https://www.youtube.com/@YannicKilcher"
   },
   {
    "auteurs": 2,
@@ -4211,7 +4357,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1788275966,
-   "score": 0.699,
+   "score": 0.689,
    "sources": [
     "Hacker News"
    ],
@@ -4247,7 +4393,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1787391809,
-   "score": 0.689,
+   "score": 0.68,
    "sources": [
     "Hacker News"
    ],
@@ -4301,7 +4447,7 @@
    "mentions": 4,
    "part_classee": 1.0,
    "premiere": 1749172685,
-   "score": 0.678,
+   "score": 0.669,
    "sources": [
     "Hacker News"
    ],
@@ -4337,7 +4483,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1787153552,
-   "score": 0.678,
+   "score": 0.669,
    "sources": [
     "Hacker News"
    ],
@@ -4373,7 +4519,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1785646307,
-   "score": 0.677,
+   "score": 0.668,
    "sources": [
     "Hacker News"
    ],
@@ -4418,7 +4564,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1767294600,
-   "score": 0.673,
+   "score": 0.664,
    "sources": [
     "Hacker News"
    ],
@@ -4454,7 +4600,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1760111007,
-   "score": 0.665,
+   "score": 0.657,
    "sources": [
     "r/n8n"
    ],
@@ -4490,7 +4636,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1785917096,
-   "score": 0.665,
+   "score": 0.656,
    "sources": [
     "Hacker News"
    ],
@@ -4553,7 +4699,7 @@
    "mentions": 6,
    "part_classee": 1.0,
    "premiere": 1775470584,
-   "score": 0.66,
+   "score": 0.651,
    "sources": [
     "Hacker News"
    ],
@@ -4616,7 +4762,7 @@
    "mentions": 6,
    "part_classee": 1.0,
    "premiere": 1775470584,
-   "score": 0.66,
+   "score": 0.651,
    "sources": [
     "Hacker News"
    ],
@@ -4670,7 +4816,7 @@
    "mentions": 4,
    "part_classee": 1.0,
    "premiere": 1752771755,
-   "score": 0.65,
+   "score": 0.641,
    "sources": [
     "Hacker News"
    ],
@@ -4706,7 +4852,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1781973722,
-   "score": 0.642,
+   "score": 0.633,
    "sources": [
     "Hacker News"
    ],
@@ -4742,7 +4888,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1784237240,
-   "score": 0.634,
+   "score": 0.626,
    "sources": [
     "Hacker News"
    ],
@@ -4796,7 +4942,7 @@
    "mentions": 4,
    "part_classee": 1.0,
    "premiere": 1757744482,
-   "score": 0.634,
+   "score": 0.626,
    "sources": [
     "Hacker News"
    ],
@@ -4841,7 +4987,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1783218897,
-   "score": 0.633,
+   "score": 0.625,
    "sources": [
     "Hacker News"
    ],
@@ -4877,7 +5023,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1783386765,
-   "score": 0.623,
+   "score": 0.615,
    "sources": [
     "r/LocalLLaMA"
    ],
@@ -4940,7 +5086,7 @@
    "mentions": 5,
    "part_classee": 1.0,
    "premiere": 1725262864,
-   "score": 0.62,
+   "score": 0.612,
    "sources": [
     "Hacker News"
    ],
@@ -4976,7 +5122,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1778306059,
-   "score": 0.619,
+   "score": 0.61,
    "sources": [
     "Hacker News",
     "r/ClaudeAI"
@@ -5040,7 +5186,7 @@
    "mentions": 5,
    "part_classee": 1.0,
    "premiere": 1731385347,
-   "score": 0.616,
+   "score": 0.607,
    "sources": [
     "Hacker News"
    ],
@@ -5076,7 +5222,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1728246285,
-   "score": 0.61,
+   "score": 0.602,
    "sources": [
     "Hacker News"
    ],
@@ -5121,7 +5267,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1782006557,
-   "score": 0.604,
+   "score": 0.596,
    "sources": [
     "r/LocalLLaMA"
    ],
@@ -5166,7 +5312,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1755402652,
-   "score": 0.597,
+   "score": 0.589,
    "sources": [
     "r/n8n"
    ],
@@ -5202,7 +5348,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1755461156,
-   "score": 0.595,
+   "score": 0.587,
    "sources": [
     "Hacker News"
    ],
@@ -5256,7 +5402,7 @@
    "mentions": 4,
    "part_classee": 1.0,
    "premiere": 1725613270,
-   "score": 0.591,
+   "score": 0.583,
    "sources": [
     "Hacker News"
    ],
@@ -5292,7 +5438,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1767407713,
-   "score": 0.574,
+   "score": 0.566,
    "sources": [
     "Hacker News"
    ],
@@ -5328,7 +5474,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1778874012,
-   "score": 0.564,
+   "score": 0.556,
    "sources": [
     "Hacker News"
    ],
@@ -5391,7 +5537,7 @@
    "mentions": 10,
    "part_classee": 1.0,
    "premiere": 1746342425,
-   "score": 0.562,
+   "score": 0.555,
    "sources": [
     "Hacker News",
     "r/n8n"
@@ -5428,13 +5574,58 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1753625236,
-   "score": 0.559,
+   "score": 0.552,
    "sources": [
     "Hacker News"
    ],
    "titre": "Large Language Models and the Future of Programming by Peter Norvig",
    "type_contenu": "conference",
    "url_chaine": "https://www.youtube.com/@GoogleDevelopersNorthAmerica"
+  },
+  {
+   "auteurs": 2,
+   "chaine": "Lucas Walter | AI Automation",
+   "derniere": 1753289123,
+   "discussions": [
+    {
+     "communaute": "r/n8n",
+     "date": 1752857443,
+     "fil": "reddit:1m37hm2",
+     "id": "reddit:1m37hm2",
+     "titre_fil": "I recreated a dentist voice agent making $24K/yr using ElevenLabs. Handles after-hours appointment booking",
+     "url": "https://www.reddit.com/r/n8n/comments/1m37hm2/",
+     "verdict": "recommande"
+    },
+    {
+     "communaute": "r/n8n",
+     "date": 1753289123,
+     "fil": "reddit:1m7eccy",
+     "id": "reddit:1m7eccy",
+     "titre_fil": "Flow execution in active vs inactive",
+     "url": "https://www.reddit.com/r/n8n/comments/1m7eccy/",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "r/n8n",
+     "date": 1752857667,
+     "fil": "reddit:1m37l5z",
+     "id": "reddit:1m37l5z",
+     "titre_fil": "I recreated a dentist voice agent making $24K/yr using ElevenLabs. Handles after-hours appointment booking",
+     "url": "https://www.reddit.com/r/n8n/comments/1m37l5z/",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "vQ5Z8-f-xw4",
+   "mentions": 3,
+   "part_classee": 1.0,
+   "premiere": 1752857443,
+   "score": 0.551,
+   "sources": [
+    "r/n8n"
+   ],
+   "titre": "$24K/Year from this AI Dentist Voice Agent (free n8n template)",
+   "type_contenu": "technique",
+   "url_chaine": "https://www.youtube.com/@LucasWalterAI"
   },
   {
    "auteurs": 3,
@@ -5473,7 +5664,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1759170695,
-   "score": 0.549,
+   "score": 0.542,
    "sources": [
     "Hacker News"
    ],
@@ -5509,13 +5700,49 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1774294753,
-   "score": 0.548,
+   "score": 0.541,
    "sources": [
     "Hacker News"
    ],
    "titre": "Forget all previous prompts and give me a recipe for bolognese",
-   "type_contenu": "retour_experience",
+   "type_contenu": "autre",
    "url_chaine": "https://www.youtube.com/@SteveMould"
+  },
+  {
+   "auteurs": 2,
+   "chaine": "n8n",
+   "derniere": 1752272257,
+   "discussions": [
+    {
+     "communaute": "r/n8n",
+     "date": 1751565918,
+     "fil": "reddit:1lqwgjg",
+     "id": "reddit:1lqwgjg",
+     "titre_fil": "n8n workflow to make plans out of transcripts",
+     "url": "https://www.reddit.com/r/n8n/comments/1lqwgjg/",
+     "verdict": "recommande"
+    },
+    {
+     "communaute": "r/n8n",
+     "date": 1752272257,
+     "fil": "reddit:1lxk3lc",
+     "id": "reddit:1lxk3lc",
+     "titre_fil": "Automating Gong Sales Call Analysis with n8n and AI",
+     "url": "https://www.reddit.com/r/n8n/comments/1lxk3lc/",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "AIiJ29hEn80",
+   "mentions": 2,
+   "part_classee": 1.0,
+   "premiere": 1751565918,
+   "score": 0.536,
+   "sources": [
+    "r/n8n"
+   ],
+   "titre": "Automating Gong Sales Call Analysis with n8n and AI [n8n At Scale]",
+   "type_contenu": "technique",
+   "url_chaine": "https://www.youtube.com/@n8n-io"
   },
   {
    "auteurs": 2,
@@ -5545,7 +5772,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1776172027,
-   "score": 0.538,
+   "score": 0.531,
    "sources": [
     "Hacker News"
    ],
@@ -5581,12 +5808,12 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1773628464,
-   "score": 0.529,
+   "score": 0.522,
    "sources": [
     "Hacker News"
    ],
    "titre": "Shipping a button in 2026…",
-   "type_contenu": "autre",
+   "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@programmersarealsohuman5909"
   },
   {
@@ -5617,12 +5844,12 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1749696078,
-   "score": 0.524,
+   "score": 0.517,
    "sources": [
     "Hacker News"
    ],
    "titre": "Nvidia, You’re Late. World’s First 128GB LLM Mini Is Here!",
-   "type_contenu": "autre",
+   "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@AZisk"
   },
   {
@@ -5662,7 +5889,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1756855132,
-   "score": 0.524,
+   "score": 0.517,
    "sources": [
     "Hacker News"
    ],
@@ -5707,7 +5934,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1773891285,
-   "score": 0.519,
+   "score": 0.512,
    "sources": [
     "Hacker News"
    ],
@@ -5743,12 +5970,12 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1773852795,
-   "score": 0.508,
+   "score": 0.501,
    "sources": [
     "Hacker News"
    ],
    "titre": "The Context Must Flow | Full Trailer + The Gateway Explained",
-   "type_contenu": "autre",
+   "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@permitio"
   },
   {
@@ -5779,7 +6006,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1766786878,
-   "score": 0.502,
+   "score": 0.495,
    "sources": [
     "Hacker News"
    ],
@@ -5833,7 +6060,7 @@
    "mentions": 4,
    "part_classee": 1.0,
    "premiere": 1725107606,
-   "score": 0.499,
+   "score": 0.492,
    "sources": [
     "Hacker News"
    ],
@@ -5887,7 +6114,7 @@
    "mentions": 4,
    "part_classee": 1.0,
    "premiere": 1714852062,
-   "score": 0.499,
+   "score": 0.492,
    "sources": [
     "Hacker News"
    ],
@@ -5932,7 +6159,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1772635422,
-   "score": 0.497,
+   "score": 0.491,
    "sources": [
     "Hacker News"
    ],
@@ -5986,7 +6213,7 @@
    "mentions": 4,
    "part_classee": 1.0,
    "premiere": 1741247975,
-   "score": 0.496,
+   "score": 0.49,
    "sources": [
     "Hacker News"
    ],
@@ -6022,7 +6249,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1772988771,
-   "score": 0.495,
+   "score": 0.489,
    "sources": [
     "Hacker News"
    ],
@@ -6058,7 +6285,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1771340859,
-   "score": 0.492,
+   "score": 0.486,
    "sources": [
     "Hacker News"
    ],
@@ -6094,7 +6321,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1772456207,
-   "score": 0.491,
+   "score": 0.485,
    "sources": [
     "Hacker News"
    ],
@@ -6130,7 +6357,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1765088565,
-   "score": 0.491,
+   "score": 0.485,
    "sources": [
     "Hacker News"
    ],
@@ -6193,49 +6420,13 @@
    "mentions": 5,
    "part_classee": 1.0,
    "premiere": 1758962923,
-   "score": 0.484,
+   "score": 0.478,
    "sources": [
     "Hacker News"
    ],
    "titre": "Proxmox‑GitOps - Linux Container Automation: \"75sec to microservice homelab\"",
    "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@stevius"
-  },
-  {
-   "auteurs": 2,
-   "chaine": "Anthropic",
-   "derniere": 1729635932,
-   "discussions": [
-    {
-     "communaute": "Hacker News",
-     "date": 1729635932,
-     "fil": "41914989",
-     "id": "41919351",
-     "titre_fil": "Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku",
-     "url": "https://news.ycombinator.com/item?id=41919351",
-     "verdict": "recommande"
-    },
-    {
-     "communaute": "Hacker News",
-     "date": 1729623774,
-     "fil": "41914989",
-     "id": "41917534",
-     "titre_fil": "Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku",
-     "url": "https://news.ycombinator.com/item?id=41917534",
-     "verdict": "recommande"
-    }
-   ],
-   "id": "vH2f7cjXjKI",
-   "mentions": 2,
-   "part_classee": 1.0,
-   "premiere": 1729623774,
-   "score": 0.478,
-   "sources": [
-    "Hacker News"
-   ],
-   "titre": "Claude | Computer use for coding",
-   "type_contenu": "technique",
-   "url_chaine": "https://www.youtube.com/@anthropic-ai"
   },
   {
    "auteurs": 2,
@@ -6265,13 +6456,49 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1762324512,
-   "score": 0.477,
+   "score": 0.471,
    "sources": [
     "Hacker News"
    ],
    "titre": null,
    "type_contenu": "conference",
    "url_chaine": null
+  },
+  {
+   "auteurs": 2,
+   "chaine": "Anthropic",
+   "derniere": 1729635932,
+   "discussions": [
+    {
+     "communaute": "Hacker News",
+     "date": 1729635932,
+     "fil": "41914989",
+     "id": "41919351",
+     "titre_fil": "Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku",
+     "url": "https://news.ycombinator.com/item?id=41919351",
+     "verdict": "recommande"
+    },
+    {
+     "communaute": "Hacker News",
+     "date": 1729623774,
+     "fil": "41914989",
+     "id": "41917534",
+     "titre_fil": "Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku",
+     "url": "https://news.ycombinator.com/item?id=41917534",
+     "verdict": "recommande"
+    }
+   ],
+   "id": "vH2f7cjXjKI",
+   "mentions": 2,
+   "part_classee": 1.0,
+   "premiere": 1729623774,
+   "score": 0.471,
+   "sources": [
+    "Hacker News"
+   ],
+   "titre": "Claude | Computer use for coding",
+   "type_contenu": "technique",
+   "url_chaine": "https://www.youtube.com/@anthropic-ai"
   },
   {
    "auteurs": 3,
@@ -6310,7 +6537,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1751388853,
-   "score": 0.475,
+   "score": 0.469,
    "sources": [
     "Hacker News"
    ],
@@ -6346,12 +6573,12 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1680808103,
-   "score": 0.473,
+   "score": 0.467,
    "sources": [
     "Hacker News"
    ],
    "titre": "Intelligence and Stupidity: The Orthogonality Thesis",
-   "type_contenu": "autre",
+   "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@RobertMilesAI"
   },
   {
@@ -6382,12 +6609,12 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1769640456,
-   "score": 0.47,
+   "score": 0.463,
    "sources": [
     "Hacker News"
    ],
    "titre": "What’s the best programming language for AI?",
-   "type_contenu": "autre",
+   "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@theo"
   },
   {
@@ -6427,7 +6654,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1679487324,
-   "score": 0.46,
+   "score": 0.454,
    "sources": [
     "Hacker News"
    ],
@@ -6463,7 +6690,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1768623737,
-   "score": 0.451,
+   "score": 0.445,
    "sources": [
     "Hacker News"
    ],
@@ -6499,7 +6726,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1768323328,
-   "score": 0.448,
+   "score": 0.442,
    "sources": [
     "Hacker News",
     "r/n8n"
@@ -6536,7 +6763,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1767950936,
-   "score": 0.443,
+   "score": 0.438,
    "sources": [
     "Hacker News"
    ],
@@ -6581,7 +6808,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1732044388,
-   "score": 0.438,
+   "score": 0.432,
    "sources": [
     "Hacker News"
    ],
@@ -6626,7 +6853,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1748715355,
-   "score": 0.437,
+   "score": 0.431,
    "sources": [
     "Hacker News"
    ],
@@ -6662,7 +6889,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1741543860,
-   "score": 0.434,
+   "score": 0.429,
    "sources": [
     "Hacker News"
    ],
@@ -6698,12 +6925,12 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1742435053,
-   "score": 0.433,
+   "score": 0.427,
    "sources": [
     "Hacker News"
    ],
    "titre": "Agentic AI: Workflows vs. agents",
-   "type_contenu": "autre",
+   "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@googlecloudtech"
   },
   {
@@ -6752,7 +6979,7 @@
    "mentions": 4,
    "part_classee": 1.0,
    "premiere": 1730879720,
-   "score": 0.426,
+   "score": 0.42,
    "sources": [
     "Hacker News"
    ],
@@ -6788,7 +7015,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1749726811,
-   "score": 0.424,
+   "score": 0.419,
    "sources": [
     "Hacker News"
    ],
@@ -6824,7 +7051,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1739627730,
-   "score": 0.422,
+   "score": 0.417,
    "sources": [
     "Hacker News"
    ],
@@ -6869,7 +7096,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1726253772,
-   "score": 0.421,
+   "score": 0.415,
    "sources": [
     "Hacker News"
    ],
@@ -6914,7 +7141,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1764213487,
-   "score": 0.408,
+   "score": 0.403,
    "sources": [
     "r/n8n"
    ],
@@ -6950,13 +7177,13 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1763236892,
-   "score": 0.4,
+   "score": 0.394,
    "sources": [
     "Hacker News",
     "r/n8n"
    ],
    "titre": "Socratic demo 11152025",
-   "type_contenu": "retour_experience",
+   "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@songkevin6915"
   },
   {
@@ -6987,7 +7214,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1736457156,
-   "score": 0.389,
+   "score": 0.384,
    "sources": [
     "Hacker News"
    ],
@@ -7023,7 +7250,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1678225881,
-   "score": 0.389,
+   "score": 0.384,
    "sources": [
     "Hacker News"
    ],
@@ -7059,7 +7286,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1758554396,
-   "score": 0.361,
+   "score": 0.356,
    "sources": [
     "r/n8n"
    ],
@@ -7113,7 +7340,7 @@
    "mentions": 4,
    "part_classee": 1.0,
    "premiere": 1722556316,
-   "score": 0.358,
+   "score": 0.354,
    "sources": [
     "Hacker News"
    ],
@@ -7149,7 +7376,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1751611104,
-   "score": 0.354,
+   "score": 0.349,
    "sources": [
     "Hacker News"
    ],
@@ -7185,7 +7412,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1718908099,
-   "score": 0.351,
+   "score": 0.346,
    "sources": [
     "Hacker News"
    ],
@@ -7221,7 +7448,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1754496205,
-   "score": 0.337,
+   "score": 0.332,
    "sources": [
     "Hacker News"
    ],
@@ -7257,7 +7484,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1753181500,
-   "score": 0.326,
+   "score": 0.322,
    "sources": [
     "Hacker News"
    ],
@@ -7293,7 +7520,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1709850543,
-   "score": 0.318,
+   "score": 0.314,
    "sources": [
     "Hacker News"
    ],
@@ -7329,7 +7556,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1752433996,
-   "score": 0.317,
+   "score": 0.312,
    "sources": [
     "Hacker News"
    ],
@@ -7374,7 +7601,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1713288528,
-   "score": 0.308,
+   "score": 0.304,
    "sources": [
     "Hacker News"
    ],
@@ -7410,7 +7637,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1750780940,
-   "score": 0.304,
+   "score": 0.3,
    "sources": [
     "Hacker News"
    ],
@@ -7446,7 +7673,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1748455944,
-   "score": 0.29,
+   "score": 0.286,
    "sources": [
     "Hacker News"
    ],
@@ -7482,7 +7709,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1748360315,
-   "score": 0.288,
+   "score": 0.284,
    "sources": [
     "Hacker News"
    ],
@@ -7518,12 +7745,12 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1705997372,
-   "score": 0.286,
+   "score": 0.282,
    "sources": [
     "Hacker News"
    ],
    "titre": "The True Story of How GPT-2 Became Maximally Lewd",
-   "type_contenu": "autre",
+   "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@RationalAnimations"
   },
   {
@@ -7554,7 +7781,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1747734361,
-   "score": 0.285,
+   "score": 0.281,
    "sources": [
     "Hacker News"
    ],
@@ -7599,7 +7826,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1704047291,
-   "score": 0.283,
+   "score": 0.279,
    "sources": [
     "Hacker News"
    ],
@@ -7635,7 +7862,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1734990397,
-   "score": 0.279,
+   "score": 0.275,
    "sources": [
     "Hacker News"
    ],
@@ -7671,7 +7898,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1742276863,
-   "score": 0.274,
+   "score": 0.27,
    "sources": [
     "Hacker News"
    ],
@@ -7707,12 +7934,12 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1717305983,
-   "score": 0.255,
+   "score": 0.252,
    "sources": [
     "Hacker News"
    ],
    "titre": null,
-   "type_contenu": "retour_experience",
+   "type_contenu": "autre",
    "url_chaine": null
   },
   {
@@ -7743,7 +7970,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1735109200,
-   "score": 0.254,
+   "score": 0.251,
    "sources": [
     "Hacker News"
    ],
@@ -7797,7 +8024,7 @@
    "mentions": 4,
    "part_classee": 1.0,
    "premiere": 1765038281,
-   "score": 0.251,
+   "score": 0.248,
    "sources": [
     "Hacker News"
    ],
@@ -7833,7 +8060,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1741701277,
-   "score": 0.249,
+   "score": 0.246,
    "sources": [
     "Hacker News"
    ],
@@ -7869,7 +8096,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1715558685,
-   "score": 0.245,
+   "score": 0.242,
    "sources": [
     "Hacker News"
    ],
@@ -7905,7 +8132,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1737508528,
-   "score": 0.24,
+   "score": 0.237,
    "sources": [
     "Hacker News"
    ],
@@ -7959,7 +8186,7 @@
    "mentions": 4,
    "part_classee": 1.0,
    "premiere": 1736537588,
-   "score": 0.238,
+   "score": 0.235,
    "sources": [
     "Hacker News"
    ],
@@ -7995,7 +8222,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1738775053,
-   "score": 0.235,
+   "score": 0.231,
    "sources": [
     "Hacker News"
    ],
@@ -8040,7 +8267,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1707953883,
-   "score": 0.223,
+   "score": 0.22,
    "sources": [
     "Hacker News"
    ],
@@ -8076,7 +8303,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1692224200,
-   "score": 0.216,
+   "score": 0.213,
    "sources": [
     "Hacker News"
    ],
@@ -8121,7 +8348,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1683587182,
-   "score": 0.211,
+   "score": 0.208,
    "sources": [
     "Hacker News"
    ],
@@ -8157,7 +8384,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1682804340,
-   "score": 0.188,
+   "score": 0.186,
    "sources": [
     "Hacker News"
    ],
@@ -8193,7 +8420,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1701878881,
-   "score": 0.182,
+   "score": 0.18,
    "sources": [
     "Hacker News"
    ],
@@ -8229,7 +8456,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1682804340,
-   "score": 0.178,
+   "score": 0.175,
    "sources": [
     "Hacker News"
    ],
@@ -8265,7 +8492,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1681974139,
-   "score": 0.169,
+   "score": 0.167,
    "sources": [
     "Hacker News"
    ],
@@ -8301,7 +8528,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1722155663,
-   "score": 0.164,
+   "score": 0.161,
    "sources": [
     "Hacker News"
    ],
@@ -8337,7 +8564,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1717981203,
-   "score": 0.157,
+   "score": 0.155,
    "sources": [
     "Hacker News"
    ],
@@ -8373,7 +8600,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1720155627,
-   "score": 0.155,
+   "score": 0.153,
    "sources": [
     "Hacker News"
    ],
@@ -8418,7 +8645,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1679213176,
-   "score": 0.148,
+   "score": 0.146,
    "sources": [
     "Hacker News"
    ],
@@ -8463,7 +8690,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1692282120,
-   "score": 0.147,
+   "score": 0.145,
    "sources": [
     "Hacker News"
    ],
@@ -8499,7 +8726,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1713177122,
-   "score": 0.133,
+   "score": 0.131,
    "sources": [
     "Hacker News"
    ],
@@ -8535,7 +8762,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1704843172,
-   "score": 0.129,
+   "score": 0.127,
    "sources": [
     "Hacker News"
    ],
@@ -8571,12 +8798,12 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1700271671,
-   "score": 0.127,
+   "score": 0.125,
    "sources": [
     "Hacker News"
    ],
    "titre": "Making Chat (ro)Bots",
-   "type_contenu": "autre",
+   "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@BostonDynamics"
   },
   {
@@ -8607,7 +8834,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1684108949,
-   "score": 0.123,
+   "score": 0.122,
    "sources": [
     "Hacker News"
    ],
@@ -8643,7 +8870,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1682448024,
-   "score": 0.122,
+   "score": 0.12,
    "sources": [
     "Hacker News"
    ],
@@ -8679,7 +8906,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1709139590,
-   "score": 0.122,
+   "score": 0.12,
    "sources": [
     "Hacker News"
    ],
@@ -8724,7 +8951,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1678834314,
-   "score": 0.12,
+   "score": 0.119,
    "sources": [
     "Hacker News"
    ],
@@ -8760,7 +8987,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1702543975,
-   "score": 0.105,
+   "score": 0.104,
    "sources": [
     "Hacker News"
    ],
@@ -8796,7 +9023,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1699990816,
-   "score": 0.103,
+   "score": 0.101,
    "sources": [
     "Hacker News"
    ],
@@ -8832,7 +9059,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1695802144,
-   "score": 0.098,
+   "score": 0.097,
    "sources": [
     "Hacker News"
    ],
@@ -8877,7 +9104,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1690230620,
-   "score": 0.082,
+   "score": 0.081,
    "sources": [
     "Hacker News"
    ],
@@ -8913,7 +9140,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1689688257,
-   "score": 0.08,
+   "score": 0.079,
    "sources": [
     "Hacker News"
    ],
@@ -8949,7 +9176,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1682437851,
-   "score": 0.073,
+   "score": 0.072,
    "sources": [
     "Hacker News"
    ],
@@ -8985,7 +9212,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1683643425,
-   "score": 0.072,
+   "score": 0.071,
    "sources": [
     "Hacker News"
    ],
@@ -9021,7 +9248,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1679362969,
-   "score": 0.064,
+   "score": 0.063,
    "sources": [
     "Hacker News"
    ],
@@ -9086,7 +9313,7 @@
    "mentions": 12,
    "part_classee": 1.0,
    "premiere": 1771927548,
-   "score": 5.727,
+   "score": 5.719,
    "sources": [
     "Hacker News",
     "Hisse et Oh",
@@ -9144,7 +9371,7 @@
    "mentions": 4,
    "part_classee": 1.0,
    "premiere": 1662916840,
-   "score": 3.164,
+   "score": 3.16,
    "sources": [
     "Hacker News",
     "r/SailboatCruising",
@@ -9210,13 +9437,68 @@
    "mentions": 6,
    "part_classee": 1.0,
    "premiere": 1612444509,
-   "score": 3.087,
+   "score": 3.083,
    "sources": [
     "Hacker News"
    ],
    "titre": "Celestial Navigation (instruction video)",
    "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@NathanielsCAD"
+  },
+  {
+   "auteurs": 4,
+   "chaine": "TOXPRO",
+   "derniere": 1750786398,
+   "discussions": [
+    {
+     "communaute": "r/liveaboard",
+     "date": 1750786398,
+     "fil": "reddit:1ljgvbk",
+     "id": "reddit:mzjrmp4",
+     "titre_fil": null,
+     "url": "https://www.reddit.com/r/liveaboard/comments/1ljgvbk/_/mzjrmp4/",
+     "verdict": "recommande"
+    },
+    {
+     "communaute": "r/SailboatCruising",
+     "date": 1710686264,
+     "fil": "reddit:1bgir65",
+     "id": "reddit:kva9sii",
+     "titre_fil": null,
+     "url": "https://www.reddit.com/r/SailboatCruising/comments/1bgir65/_/kva9sii/",
+     "verdict": "recommande"
+    },
+    {
+     "communaute": "r/SailboatCruising",
+     "date": 1737621648,
+     "fil": "reddit:1i7yx6y",
+     "id": "reddit:m8p0gpp",
+     "titre_fil": null,
+     "url": "https://www.reddit.com/r/SailboatCruising/comments/1i7yx6y/_/m8p0gpp/",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "r/SailboatCruising",
+     "date": 1737137707,
+     "fil": "reddit:1hx1tl1",
+     "id": "reddit:m7o1rc4",
+     "titre_fil": null,
+     "url": "https://www.reddit.com/r/SailboatCruising/comments/1hx1tl1/_/m7o1rc4/",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "NJTdu309d3E",
+   "mentions": 4,
+   "part_classee": 1.0,
+   "premiere": 1710686264,
+   "score": 2.807,
+   "sources": [
+    "r/SailboatCruising",
+    "r/liveaboard"
+   ],
+   "titre": "The Sailor | Biographical Documentary | Paul Johnson",
+   "type_contenu": "autre",
+   "url_chaine": "https://www.youtube.com/@TOXPRO_official"
   },
   {
    "auteurs": 4,
@@ -9264,7 +9546,7 @@
    "mentions": 4,
    "part_classee": 1.0,
    "premiere": 1474907158,
-   "score": 2.811,
+   "score": 2.807,
    "sources": [
     "r/SailboatCruising",
     "r/sailboats"
@@ -9310,7 +9592,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1555972528,
-   "score": 2.253,
+   "score": 2.25,
    "sources": [
     "Hacker News",
     "r/SailboatCruising"
@@ -9374,13 +9656,50 @@
    "mentions": 6,
    "part_classee": 1.0,
    "premiere": 1678875965,
-   "score": 2.216,
+   "score": 2.213,
    "sources": [
     "Hacker News"
    ],
    "titre": "How an 18th Century Sailing Warship Works (HMS Victory)",
    "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@animagraffs"
+  },
+  {
+   "auteurs": 2,
+   "chaine": "Clark's Adventure",
+   "derniere": 1750947639,
+   "discussions": [
+    {
+     "communaute": "r/liveaboard",
+     "date": 1750947639,
+     "fil": "reddit:1lkncki",
+     "id": "reddit:mzvyd2v",
+     "titre_fil": null,
+     "url": "https://www.reddit.com/r/liveaboard/comments/1lkncki/_/mzvyd2v/",
+     "verdict": "recommande"
+    },
+    {
+     "communaute": "r/SailboatCruising",
+     "date": 1676180124,
+     "fil": "reddit:10e7iab",
+     "id": "reddit:j87ipgl",
+     "titre_fil": null,
+     "url": "https://www.reddit.com/r/SailboatCruising/comments/10e7iab/_/j87ipgl/",
+     "verdict": "recommande"
+    }
+   ],
+   "id": "xF113aUlZgo",
+   "mentions": 2,
+   "part_classee": 1.0,
+   "premiere": 1676180124,
+   "score": 1.928,
+   "sources": [
+    "r/SailboatCruising",
+    "r/liveaboard"
+   ],
+   "titre": "Battery-Powered AIR CONDITIONING on a Sailboat [Capable Cruising Guides]",
+   "type_contenu": "technique",
+   "url_chaine": "https://www.youtube.com/@Clarks-Adventure"
   },
   {
    "auteurs": 2,
@@ -9410,7 +9729,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1775243670,
-   "score": 1.927,
+   "score": 1.925,
    "sources": [
     "r/SailboatCruising",
     "r/sailing"
@@ -9456,7 +9775,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1734181594,
-   "score": 1.865,
+   "score": 1.863,
    "sources": [
     "Hisse et Oh",
     "r/sailing"
@@ -9466,49 +9785,41 @@
    "url_chaine": "https://www.youtube.com/@reubydoi7111"
   },
   {
-   "auteurs": 3,
-   "chaine": "TOXPRO",
-   "derniere": 1737621648,
+   "auteurs": 2,
+   "chaine": "Lady K Sailing",
+   "derniere": 1761712099,
    "discussions": [
     {
      "communaute": "r/SailboatCruising",
-     "date": 1710686264,
-     "fil": "reddit:1bgir65",
-     "id": "reddit:kva9sii",
+     "date": 1761712099,
+     "fil": "reddit:1ohz972",
+     "id": "reddit:nlyewr9",
      "titre_fil": null,
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/1bgir65/_/kva9sii/",
+     "url": "https://www.reddit.com/r/SailboatCruising/comments/1ohz972/_/nlyewr9/",
      "verdict": "recommande"
     },
     {
-     "communaute": "r/SailboatCruising",
-     "date": 1737621648,
-     "fil": "reddit:1i7yx6y",
-     "id": "reddit:m8p0gpp",
+     "communaute": "r/liveaboard",
+     "date": 1751909622,
+     "fil": "reddit:1ltkehr",
+     "id": "reddit:n1uc7xg",
      "titre_fil": null,
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/1i7yx6y/_/m8p0gpp/",
-     "verdict": "neutre"
-    },
-    {
-     "communaute": "r/SailboatCruising",
-     "date": 1737137707,
-     "fil": "reddit:1hx1tl1",
-     "id": "reddit:m7o1rc4",
-     "titre_fil": null,
-     "url": "https://www.reddit.com/r/SailboatCruising/comments/1hx1tl1/_/m7o1rc4/",
-     "verdict": "neutre"
+     "url": "https://www.reddit.com/r/liveaboard/comments/1ltkehr/_/n1uc7xg/",
+     "verdict": "recommande"
     }
    ],
-   "id": "NJTdu309d3E",
-   "mentions": 3,
+   "id": "I7mO6Ku3EiM",
+   "mentions": 2,
    "part_classee": 1.0,
-   "premiere": 1710686264,
-   "score": 1.767,
+   "premiere": 1751909622,
+   "score": 1.837,
    "sources": [
-    "r/SailboatCruising"
+    "r/SailboatCruising",
+    "r/liveaboard"
    ],
-   "titre": "The Sailor | Biographical Documentary | Paul Johnson",
-   "type_contenu": "autre",
-   "url_chaine": "https://www.youtube.com/@TOXPRO_official"
+   "titre": "TOP 3 Small Sailboats You Can Sail AROUND THE WORLD! Ep 331 - Lady K sailing",
+   "type_contenu": "vlog",
+   "url_chaine": "https://www.youtube.com/@LadyKSailing"
   },
   {
    "auteurs": 2,
@@ -9538,7 +9849,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1615068569,
-   "score": 1.755,
+   "score": 1.752,
    "sources": [
     "r/SailboatCruising"
    ],
@@ -9601,13 +9912,13 @@
    "mentions": 6,
    "part_classee": 1.0,
    "premiere": 1588134385,
-   "score": 1.533,
+   "score": 1.531,
    "sources": [
     "Hacker News",
     "r/liveaboard"
    ],
    "titre": "Living on a Self-Sufficient Sailboat for 10 Years + FULL TOUR",
-   "type_contenu": "retour_experience",
+   "type_contenu": "vlog",
    "url_chaine": "https://www.youtube.com/@ExploringAlternatives"
   },
   {
@@ -9638,7 +9949,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1749603422,
-   "score": 1.476,
+   "score": 1.475,
    "sources": [
     "r/sailboats"
    ],
@@ -9674,7 +9985,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1555972528,
-   "score": 1.451,
+   "score": 1.449,
    "sources": [
     "Hacker News",
     "r/SailboatCruising"
@@ -9711,7 +10022,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1788260958,
-   "score": 1.381,
+   "score": 1.379,
    "sources": [
     "Hisse et Oh"
    ],
@@ -9747,7 +10058,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1651688301,
-   "score": 1.372,
+   "score": 1.37,
    "sources": [
     "r/SailboatCruising",
     "r/sailboats"
@@ -9784,7 +10095,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1777660691,
-   "score": 1.359,
+   "score": 1.357,
    "sources": [
     "r/SailboatCruising",
     "r/liveaboard"
@@ -9821,7 +10132,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1612459706,
-   "score": 1.335,
+   "score": 1.334,
    "sources": [
     "r/SailboatCruising",
     "r/liveaboard"
@@ -9858,7 +10169,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1761052373,
-   "score": 1.302,
+   "score": 1.3,
    "sources": [
     "r/liveaboard"
    ],
@@ -9894,7 +10205,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1750896109,
-   "score": 1.271,
+   "score": 1.27,
    "sources": [
     "r/SailboatCruising"
    ],
@@ -9930,12 +10241,12 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1669425059,
-   "score": 1.256,
+   "score": 1.254,
    "sources": [
     "r/SailboatCruising"
    ],
    "titre": "Solo Atlantic Crossing on a WHARRAM",
-   "type_contenu": "retour_experience",
+   "type_contenu": "autre",
    "url_chaine": "https://www.youtube.com/@whereskiana"
   },
   {
@@ -9966,7 +10277,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1551314100,
-   "score": 1.251,
+   "score": 1.249,
    "sources": [
     "Hacker News",
     "r/SailboatCruising"
@@ -10003,12 +10314,12 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1628524278,
-   "score": 1.169,
+   "score": 1.167,
    "sources": [
     "Hacker News"
    ],
    "titre": "Risking My Life To Settle A Physics Debate",
-   "type_contenu": "retour_experience",
+   "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@veritasium"
   },
   {
@@ -10039,7 +10350,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1698406268,
-   "score": 1.133,
+   "score": 1.131,
    "sources": [
     "r/SailboatCruising"
    ],
@@ -10084,7 +10395,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1583606876,
-   "score": 1.101,
+   "score": 1.099,
    "sources": [
     "r/SailboatCruising",
     "r/liveaboard"
@@ -10121,7 +10432,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1605046958,
-   "score": 1.077,
+   "score": 1.076,
    "sources": [
     "r/SailboatCruising"
    ],
@@ -10157,7 +10468,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1643289004,
-   "score": 1.022,
+   "score": 1.021,
    "sources": [
     "Hacker News"
    ],
@@ -10193,7 +10504,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1297200051,
-   "score": 0.979,
+   "score": 0.977,
    "sources": [
     "Hacker News"
    ],
@@ -10229,7 +10540,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1725506005,
-   "score": 0.807,
+   "score": 0.806,
    "sources": [
     "Hacker News"
    ],
@@ -10265,7 +10576,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1793885851,
-   "score": 0.799,
+   "score": 0.798,
    "sources": [
     "Hisse et Oh",
     "r/sailing"
@@ -10320,7 +10631,7 @@
    "mentions": 4,
    "part_classee": 1.0,
    "premiere": 1790226338,
-   "score": 0.794,
+   "score": 0.793,
    "sources": [
     "r/sailboats",
     "r/sailing"
@@ -10357,7 +10668,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1699111218,
-   "score": 0.78,
+   "score": 0.779,
    "sources": [
     "Hacker News"
    ],
@@ -10402,7 +10713,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1763350634,
-   "score": 0.747,
+   "score": 0.746,
    "sources": [
     "r/liveaboard",
     "r/sailing"
@@ -10439,7 +10750,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1753609719,
-   "score": 0.731,
+   "score": 0.73,
    "sources": [
     "Hacker News"
    ],
@@ -10475,12 +10786,12 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1749564155,
-   "score": 0.725,
+   "score": 0.724,
    "sources": [
     "r/sailing"
    ],
    "titre": "Meet the MODX, an electric 70ft cat with fully automated inflatable wingsails!",
-   "type_contenu": "autre",
+   "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@yachtingworld"
   },
   {
@@ -10511,12 +10822,12 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1747594395,
-   "score": 0.721,
+   "score": 0.72,
    "sources": [
     "r/sailing"
    ],
    "titre": "Brooklyn Bridge Timeline of the Allision by the Mexican Naval Training Ship ARM Cuauhtémoc",
-   "type_contenu": "autre",
+   "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@wgowshipping"
   },
   {
@@ -10547,7 +10858,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1581542528,
-   "score": 0.701,
+   "score": 0.7,
    "sources": [
     "r/SailboatCruising"
    ],
@@ -10583,7 +10894,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1730299981,
-   "score": 0.695,
+   "score": 0.694,
    "sources": [
     "r/liveaboard",
     "r/sailing"
@@ -10666,12 +10977,12 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1611200895,
-   "score": 0.662,
+   "score": 0.661,
    "sources": [
     "Hacker News"
    ],
    "titre": "Sailing at Triple the Wind Speed",
-   "type_contenu": "autre",
+   "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@americascup"
   },
   {
@@ -10774,7 +11085,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1643634853,
-   "score": 0.577,
+   "score": 0.576,
    "sources": [
     "r/SailboatCruising"
    ],
@@ -10883,7 +11194,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1535561066,
-   "score": 0.453,
+   "score": 0.452,
    "sources": [
     "r/SailboatCruising"
    ],
@@ -10893,6 +11204,60 @@
   }
  ],
  "trading-claude": [
+  {
+   "auteurs": 2,
+   "chaine": null,
+   "derniere": 1781574084,
+   "discussions": [
+    {
+     "communaute": "r/quantfinance",
+     "date": 1781574084,
+     "fil": "reddit:1u6zypm",
+     "id": "reddit:1u6zypm",
+     "titre_fil": "Sites like getcracked.io are pure scam",
+     "url": "https://www.reddit.com/r/quantfinance/comments/1u6zypm/",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "r/quantfinance",
+     "date": 1776219367,
+     "fil": "reddit:1slsyzw",
+     "id": "reddit:1slsyzw",
+     "titre_fil": "Is Coding Jesus a scamster?",
+     "url": "https://www.reddit.com/r/quantfinance/comments/1slsyzw/",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "r/quantfinance",
+     "date": 1776219138,
+     "fil": "reddit:1slsvxm",
+     "id": "reddit:1slsvxm",
+     "titre_fil": "Is Coding Jesus a scamster?",
+     "url": "https://www.reddit.com/r/quantfinance/comments/1slsvxm/",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "r/quantfinance",
+     "date": 1776218721,
+     "fil": "reddit:1slsqfl",
+     "id": "reddit:1slsqfl",
+     "titre_fil": "Is coding jesus a scamster?",
+     "url": "https://www.reddit.com/r/quantfinance/comments/1slsqfl/",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "_CMNUnn0Lf4",
+   "mentions": 4,
+   "part_classee": 1.0,
+   "premiere": 1776218721,
+   "score": 0.709,
+   "sources": [
+    "r/quantfinance"
+   ],
+   "titre": null,
+   "type_contenu": "autre",
+   "url_chaine": null
+  },
   {
    "auteurs": 6,
    "chaine": "vpro documentary",
@@ -10948,7 +11313,7 @@
    "mentions": 6,
    "part_classee": 1.0,
    "premiere": 1272461052,
-   "score": 0.561,
+   "score": 0.558,
    "sources": [
     "Hacker News"
    ],
@@ -10984,13 +11349,49 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1367622114,
-   "score": 0.551,
+   "score": 0.548,
    "sources": [
     "Hacker News"
    ],
    "titre": "Nanex ~ Order Routing Animation ~ 02-May-2013 ~ JNJ",
    "type_contenu": "technique",
    "url_chaine": "https://www.youtube.com/@EricHunsader"
+  },
+  {
+   "auteurs": 2,
+   "chaine": "Good Work",
+   "derniere": 1726860509,
+   "discussions": [
+    {
+     "communaute": "r/quant",
+     "date": 1726860509,
+     "fil": "reddit:1flkd2e",
+     "id": "reddit:1flkd2e",
+     "titre_fil": "https://www.youtube.com/watch?v=DuBrreMiZlA",
+     "url": "https://www.reddit.com/r/quant/comments/1flkd2e/",
+     "verdict": "neutre"
+    },
+    {
+     "communaute": "r/quant",
+     "date": 1726845775,
+     "fil": "reddit:1flemxl",
+     "id": "reddit:1flemxl",
+     "titre_fil": "A little humor for Friday- \"What do Wall Street quants actually do?\"",
+     "url": "https://www.reddit.com/r/quant/comments/1flemxl/",
+     "verdict": "neutre"
+    }
+   ],
+   "id": "DuBrreMiZlA",
+   "mentions": 2,
+   "part_classee": 1.0,
+   "premiere": 1726845775,
+   "score": 0.484,
+   "sources": [
+    "r/quant"
+   ],
+   "titre": "What do Wall Street quants actually do?",
+   "type_contenu": "autre",
+   "url_chaine": "https://www.youtube.com/@GoodWorkMB"
   },
   {
    "auteurs": 2,
@@ -11020,7 +11421,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1589545175,
-   "score": 0.474,
+   "score": 0.472,
    "sources": [
     "Hacker News"
    ],
@@ -11056,7 +11457,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1709058663,
-   "score": 0.427,
+   "score": 0.425,
    "sources": [
     "r/algotrading"
    ],
@@ -11092,7 +11493,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1701450640,
-   "score": 0.404,
+   "score": 0.402,
    "sources": [
     "r/algotrading"
    ],
@@ -11128,7 +11529,7 @@
    "mentions": 2,
    "part_classee": 1.0,
    "premiere": 1516528304,
-   "score": 0.341,
+   "score": 0.339,
    "sources": [
     "Hacker News"
    ],
@@ -11173,7 +11574,7 @@
    "mentions": 3,
    "part_classee": 1.0,
    "premiere": 1359044852,
-   "score": 0.222,
+   "score": 0.221,
    "sources": [
     "Hacker News"
    ],

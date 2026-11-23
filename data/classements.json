@@ -1599,6 +1599,12 @@
    "verdict": "recommande"
   }
  },
+ "agents-ia:41844225": {
+  "5eqRuVp65eY": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
  "agents-ia:41872922": {
   "wOL3n8ErBAc": {
    "type_contenu": "autre",
@@ -4921,6 +4927,12 @@
    "verdict": "neutre"
   }
  },
+ "agents-ia:48159268": {
+  "8pDfgBEy8bg": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
  "agents-ia:48161937": {
   "21EYKqUsPfg": {
    "type_contenu": "autre",
@@ -6379,6 +6391,142 @@
    "verdict": "recommande"
   }
  },
+ "agents-ia:50515910": {
+  "OPZCQk8jF-I": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:50535264": {
+  "OPZCQk8jF-I": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:50541738": {
+  "pyRG_5dCrfg": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:50561434": {
+  "pyRG_5dCrfg": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:50567721": {
+  "sof3vW4mHTs": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:50573228": {
+  "sof3vW4mHTs": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:50586738": {
+  "LPZh9BOjkQs": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:50594288": {
+  "Ic1Jf7VlXRM": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:50599006": {
+  "Cjntrqhn8pk": {
+   "type_contenu": "conference",
+   "verdict": "hors_sujet"
+  },
+  "E1q9zDSAQEw": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:50602181": {
+  "5eqRuVp65eY": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:reddit:1lnpaa5": {
+  "h_U_p4pQosM": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:reddit:1lqwgjg": {
+  "AIiJ29hEn80": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:reddit:1lrh3kl": {
+  "dQw4w9WgXcQ": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:reddit:1lrh6jt": {
+  "dQw4w9WgXcQ": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:reddit:1lxk3lc": {
+  "AIiJ29hEn80": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:reddit:1m37hm2": {
+  "vQ5Z8-f-xw4": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:reddit:1m37l5z": {
+  "vQ5Z8-f-xw4": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:reddit:1m7e4ob": {
+  "JsUVVhYm8p4": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:reddit:1m7e6il": {
+  "JsUVVhYm8p4": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:reddit:1m7eccy": {
+  "vQ5Z8-f-xw4": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:reddit:1m7eesf": {
+  "JsUVVhYm8p4": {
+   "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:reddit:1mbqwi3": {
+  "WQcsCbM9Fgs": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
  "agents-ia:reddit:1msgrhm": {
   "kAifAHeyWac": {
    "type_contenu": "autre",
@@ -6583,6 +6731,12 @@
    "verdict": "recommande"
   }
  },
+ "agents-ia:reddit:1po4o1d": {
+  "h_U_p4pQosM": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
  "agents-ia:reddit:1pwedev": {
   "WQcsCbM9Fgs": {
    "type_contenu": "technique",
@@ -6677,6 +6831,42 @@
   "dQw4w9WgXcQ": {
    "type_contenu": "autre",
    "verdict": "hors_sujet"
+  }
+ },
+ "agents-ia:reddit:1szw0rw": {
+  "96jN2OCOfLs": {
+   "type_contenu": "conference",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:reddit:1t03hob": {
+  "838BasjdQ64": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:reddit:1t0622b": {
+  "838BasjdQ64": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:reddit:1t4skaj": {
+  "8F_5pdcD3HY": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "agents-ia:reddit:1t9vzjz": {
+  "8F_5pdcD3HY": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "agents-ia:reddit:1tb6nkx": {
+  "8pDfgBEy8bg": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
   }
  },
  "agents-ia:reddit:1tlemsb": {
@@ -7709,6 +7899,12 @@
    "verdict": "neutre"
   }
  },
+ "navigation-hauturiere:heo:6aad313720af8ad0e1e1ade1": {
+  "tz23G_UXCGA": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
  "navigation-hauturiere:heo:6aafc3cde264efe5d51eb238": {
   "q88th2bTR1E": {
    "type_contenu": "autre",
@@ -7756,6 +7952,18 @@
  "navigation-hauturiere:reddit:19smyol1qpbdv": {
   "8alNxLjCBJc": {
    "type_contenu": "technique",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:reddit:19t0lathsyjph": {
+  "tz23G_UXCGA": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "navigation-hauturiere:reddit:1eix8wm": {
+  "DgB8ge-L7lI": {
+   "type_contenu": "autre",
    "verdict": "hors_sujet"
   }
  },
@@ -8111,6 +8319,12 @@
    "verdict": "recommande"
   }
  },
+ "navigation-hauturiere:reddit:j87ipgl": {
+  "xF113aUlZgo": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
  "navigation-hauturiere:reddit:jadtdlg": {
   "EAyDS1NuK_A": {
    "type_contenu": "vlog",
@@ -8303,6 +8517,12 @@
    "verdict": "recommande"
   }
  },
+ "navigation-hauturiere:reddit:mzjrmp4": {
+  "NJTdu309d3E": {
+   "type_contenu": "autre",
+   "verdict": "recommande"
+  }
+ },
  "navigation-hauturiere:reddit:mzslppp": {
   "8Khk-b9-KIA": {
    "type_contenu": "technique",
@@ -8313,6 +8533,18 @@
   "8Khk-b9-KIA": {
    "type_contenu": "vlog",
    "verdict": "neutre"
+  }
+ },
+ "navigation-hauturiere:reddit:mzvyd2v": {
+  "xF113aUlZgo": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "navigation-hauturiere:reddit:n1uc7xg": {
+  "I7mO6Ku3EiM": {
+   "type_contenu": "vlog",
+   "verdict": "recommande"
   }
  },
  "navigation-hauturiere:reddit:nhrwj87": {
@@ -8330,6 +8562,12 @@
  "navigation-hauturiere:reddit:nknang9": {
   "n12nnrEGWXQ": {
    "type_contenu": "retour_experience",
+   "verdict": "recommande"
+  }
+ },
+ "navigation-hauturiere:reddit:nlyewr9": {
+  "I7mO6Ku3EiM": {
+   "type_contenu": "autre",
    "verdict": "recommande"
   }
  },
@@ -9157,6 +9395,48 @@
    "verdict": "neutre"
   }
  },
+ "trading-claude:reddit:1cjg9f9": {
+  "kQLNRqgufWo": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "trading-claude:reddit:1cjlj9r": {
+  "kQLNRqgufWo": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "trading-claude:reddit:1cv5y7v": {
+  "EUJJFALM7oc": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "trading-claude:reddit:1cv86nr": {
+  "EUJJFALM7oc": {
+   "type_contenu": "technique",
+   "verdict": "recommande"
+  }
+ },
+ "trading-claude:reddit:1e28j67": {
+  "A5w-dEgIU1M": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "trading-claude:reddit:1flemxl": {
+  "DuBrreMiZlA": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "trading-claude:reddit:1flkd2e": {
+  "DuBrreMiZlA": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
  "trading-claude:reddit:1l9k8er": {
   "IOu3OSqDeEc": {
    "type_contenu": "autre",
@@ -9247,7 +9527,37 @@
    "verdict": "hors_sujet"
   }
  },
+ "trading-claude:reddit:1slsqfl": {
+  "_CMNUnn0Lf4": {
+   "type_contenu": "technique",
+   "verdict": "neutre"
+  }
+ },
+ "trading-claude:reddit:1slsvxm": {
+  "_CMNUnn0Lf4": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "trading-claude:reddit:1slsyzw": {
+  "_CMNUnn0Lf4": {
+   "type_contenu": "autre",
+   "verdict": "neutre"
+  }
+ },
+ "trading-claude:reddit:1sltous": {
+  "_CMNUnn0Lf4": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
  "trading-claude:reddit:1sltsh5": {
+  "_CMNUnn0Lf4": {
+   "type_contenu": "autre",
+   "verdict": "hors_sujet"
+  }
+ },
+ "trading-claude:reddit:1tdaiy4": {
   "_CMNUnn0Lf4": {
    "type_contenu": "autre",
    "verdict": "hors_sujet"

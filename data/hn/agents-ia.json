@@ -1,49 +1,49 @@
 {
  "curseurs": {
-  "Anthropic youtube|comment": 1794833521,
-  "Anthropic youtube|story": 1794833521,
-  "Anthropic youtu|comment": 1794833521,
-  "Anthropic youtu|story": 1794833521,
-  "Claude youtube|comment": 1794833521,
-  "Claude youtube|story": 1794833521,
-  "Claude youtu|comment": 1794833521,
-  "Claude youtu|story": 1794833521,
-  "LLM youtube|comment": 1794833521,
-  "LLM youtube|story": 1794833521,
-  "LLM youtu|comment": 1794833521,
-  "LLM youtu|story": 1794833521,
-  "MCP youtube|comment": 1794833521,
-  "MCP youtube|story": 1794833521,
-  "MCP youtu|comment": 1794833521,
-  "MCP youtu|story": 1794833521,
-  "RAG youtube|comment": 1794833521,
-  "RAG youtube|story": 1794833521,
-  "RAG youtu|comment": 1794833521,
-  "RAG youtu|story": 1794833521,
-  "agent youtube|comment": 1794833521,
-  "agent youtube|story": 1794833521,
-  "agent youtu|comment": 1794833521,
-  "agent youtu|story": 1794833521,
-  "agentic youtube|comment": 1794833521,
-  "agentic youtube|story": 1794833521,
-  "agentic youtu|comment": 1794833521,
-  "agentic youtu|story": 1794833521,
-  "agents youtube|comment": 1794833521,
-  "agents youtube|story": 1794833521,
-  "agents youtu|comment": 1794833521,
-  "agents youtu|story": 1794833521,
-  "automation youtube|comment": 1794833521,
-  "automation youtube|story": 1794833521,
-  "automation youtu|comment": 1794833521,
-  "automation youtu|story": 1794833521,
-  "n8n youtube|comment": 1794833521,
-  "n8n youtube|story": 1794833521,
-  "n8n youtu|comment": 1794833521,
-  "n8n youtu|story": 1794833521,
-  "prompt youtube|comment": 1794833521,
-  "prompt youtube|story": 1794833521,
-  "prompt youtu|comment": 1794833521,
-  "prompt youtu|story": 1794833521
+  "Anthropic youtube|comment": 1795445335,
+  "Anthropic youtube|story": 1795445335,
+  "Anthropic youtu|comment": 1795445335,
+  "Anthropic youtu|story": 1795445335,
+  "Claude youtube|comment": 1795445335,
+  "Claude youtube|story": 1795445335,
+  "Claude youtu|comment": 1795445335,
+  "Claude youtu|story": 1795445335,
+  "LLM youtube|comment": 1795445335,
+  "LLM youtube|story": 1795445335,
+  "LLM youtu|comment": 1795445335,
+  "LLM youtu|story": 1795445335,
+  "MCP youtube|comment": 1795445335,
+  "MCP youtube|story": 1795445335,
+  "MCP youtu|comment": 1795445335,
+  "MCP youtu|story": 1795445335,
+  "RAG youtube|comment": 1795445335,
+  "RAG youtube|story": 1795445335,
+  "RAG youtu|comment": 1795445335,
+  "RAG youtu|story": 1795445335,
+  "agent youtube|comment": 1795445335,
+  "agent youtube|story": 1795445335,
+  "agent youtu|comment": 1795445335,
+  "agent youtu|story": 1795445335,
+  "agentic youtube|comment": 1795445335,
+  "agentic youtube|story": 1795445335,
+  "agentic youtu|comment": 1795445335,
+  "agentic youtu|story": 1795445335,
+  "agents youtube|comment": 1795445335,
+  "agents youtube|story": 1795445335,
+  "agents youtu|comment": 1795445335,
+  "agents youtu|story": 1795445335,
+  "automation youtube|comment": 1795445335,
+  "automation youtube|story": 1795445335,
+  "automation youtu|comment": 1795445335,
+  "automation youtu|story": 1795445335,
+  "n8n youtube|comment": 1795445335,
+  "n8n youtube|story": 1795445335,
+  "n8n youtu|comment": 1795445335,
+  "n8n youtu|story": 1795445335,
+  "prompt youtube|comment": 1795445335,
+  "prompt youtube|story": 1795445335,
+  "prompt youtu|comment": 1795445335,
+  "prompt youtu|story": 1795445335
  },
  "elements": {
   "34210819": {
@@ -86757,6 +86757,993 @@
    "type": "article",
    "videos": [
     "OPZCQk8jF-I"
+   ]
+  },
+  "50517104": {
+   "auteur": "lamuswawir",
+   "date": 1794833728,
+   "fil": "50517104",
+   "id": "50517104",
+   "mots": [
+    "LLM"
+   ],
+   "texte": "Retain control over the writing process with LLMs [video]",
+   "titre_fil": "Retain control over the writing process with LLMs [video]",
+   "type": "article",
+   "videos": [
+    "GrgpK1KhsJ8"
+   ]
+  },
+  "50517210": {
+   "auteur": "joystonm",
+   "date": 1794834426,
+   "fil": "50517210",
+   "id": "50517210",
+   "mots": [
+    "agent"
+   ],
+   "texte": "Show HN: Furnish – AI-powered home design with editable 2D plans and 3D views",
+   "titre_fil": "Show HN: Furnish – AI-powered home design with editable 2D plans and 3D views",
+   "type": "article",
+   "videos": [
+    "3oPcRKvGyFY"
+   ]
+  },
+  "50517803": {
+   "auteur": "jcs",
+   "date": 1794838491,
+   "fil": "50517803",
+   "id": "50517803",
+   "mots": [
+    "agent",
+    "agents"
+   ],
+   "texte": "Show HN: Coral – Open-source gateway where agents write their own tools",
+   "titre_fil": "Show HN: Coral – Open-source gateway where agents write their own tools",
+   "type": "article",
+   "videos": [
+    "p0PKOlHLyVI"
+   ]
+  },
+  "50520484": {
+   "auteur": "Betelbuddy",
+   "date": 1794851373,
+   "fil": "50518567",
+   "id": "50520484",
+   "mots": [
+    "Anthropic"
+   ],
+   "texte": "Anthropic uses Trainium and Inferencia: https://www.youtube.com/watch?v=Bteba8KLeGc\n\nhttps://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/events/approved/reinvent-2025/reinvent/2024/slides/cmp/CMP333-NEW_AWS-Trainium2-for-breakthrough-AI-training-and-inference-performance.pdf",
+   "titre_fil": "Nvidia was in trouble before the Jensen Huang mess",
+   "type": "commentaire",
+   "videos": [
+    "Bteba8KLeGc"
+   ]
+  },
+  "50521172": {
+   "auteur": "mooreds",
+   "date": 1794854399,
+   "fil": "50521172",
+   "id": "50521172",
+   "mots": [
+    "agentic"
+   ],
+   "texte": "Building an Agentic Eval Pipeline: Battle-Tested Lessons [video]",
+   "titre_fil": "Building an Agentic Eval Pipeline: Battle-Tested Lessons [video]",
+   "type": "article",
+   "videos": [
+    "0cBJ4X1LS1A"
+   ]
+  },
+  "50522602": {
+   "auteur": "wanderingstan",
+   "date": 1794860337,
+   "fil": "50522602",
+   "id": "50522602",
+   "mots": [
+    "Claude",
+    "agent",
+    "agents"
+   ],
+   "texte": "Show HN: My OSS Claude Meetings alternative that works with any agent or call",
+   "titre_fil": "Show HN: My OSS Claude Meetings alternative that works with any agent or call",
+   "type": "article",
+   "videos": [
+    "Rs-Z1YeLt98",
+    "a3uNUdIwqVY",
+    "c8mZKkcxhJo",
+    "2uQIR83LwY0"
+   ]
+  },
+  "50524457": {
+   "auteur": "mughu12345",
+   "date": 1794868627,
+   "fil": "50524457",
+   "id": "50524457",
+   "mots": [
+    "Claude"
+   ],
+   "texte": "Claude vs. Dino [video]",
+   "titre_fil": "Claude vs. Dino [video]",
+   "type": "article",
+   "videos": [
+    "iUqU4Xe2D4E"
+   ]
+  },
+  "50526969": {
+   "auteur": "gmays",
+   "date": 1794885536,
+   "fil": "50526969",
+   "id": "50526969",
+   "mots": [
+    "LLM"
+   ],
+   "texte": "Everything You Wanted to Know About LLM Post-Training [video]",
+   "titre_fil": "Everything You Wanted to Know About LLM Post-Training [video]",
+   "type": "article",
+   "videos": [
+    "LVXtFnEbNU0"
+   ]
+  },
+  "50527627": {
+   "auteur": "dualvariable",
+   "date": 1794891453,
+   "fil": "50521045",
+   "id": "50527627",
+   "mots": [
+    "LLM"
+   ],
+   "texte": "Sorry, I think I wooshed you on that.\n\nIBM Magic Pixie Dust ad:\n\nhttps://www.youtube.com/watch?v=3nbEeU2dRBg\n\nI was trying to allude to LLMs/AI as the IBM Magic Pixie Dust.",
+   "titre_fil": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+   "type": "commentaire",
+   "videos": [
+    "3nbEeU2dRBg"
+   ]
+  },
+  "50528492": {
+   "auteur": "newuser94303",
+   "date": 1794900306,
+   "fil": "50528492",
+   "id": "50528492",
+   "mots": [
+    "Claude"
+   ],
+   "texte": "What does Claude thinks of the IPO? [video]",
+   "titre_fil": "What does Claude thinks of the IPO? [video]",
+   "type": "article",
+   "videos": [
+    "LvqLsBBL_zY"
+   ]
+  },
+  "50528802": {
+   "auteur": "abeindoria",
+   "date": 1794903384,
+   "fil": "50526537",
+   "id": "50528802",
+   "mots": [
+    "Anthropic"
+   ],
+   "texte": ">AI really is a revolutionary technology, but low hanging fruit like note-taking, summarization, etc. are not even remotely a killer product.\n\nI am frequently baffled how Chinese labs (Like Alibaba Qwen) tend to make better 'marketing' material than a lot of what OAI/Anthropic does, especially Anthropic.\n\nThe Qwen3.8-Max release trailer was one of the better examples of it.[1] Meanwhile Anthropic releases tend to be very dense and maybe a 20-30 second teaser of an abstract beige flower. I get it, they aim a _ton_ towards people who release their release reports and system cards, but at what point do you start marketing to the everyday people if your goal really is \"Beneficial/Benevolent AI for everyone.\"\n\n---\n\n1: https://www.youtube.com/watch?v=CKlK-KDFKjM",
+   "titre_fil": "Mem Is Shutting Down",
+   "type": "commentaire",
+   "videos": [
+    "CKlK-KDFKjM"
+   ]
+  },
+  "50529581": {
+   "auteur": "funiqlab",
+   "date": 1794910532,
+   "fil": "50529581",
+   "id": "50529581",
+   "mots": [
+    "agent",
+    "agents"
+   ],
+   "texte": "Show HN: LingDongNews, a small desktop news ticker for your own feeds",
+   "titre_fil": "Show HN: LingDongNews, a small desktop news ticker for your own feeds",
+   "type": "article",
+   "videos": [
+    "kb6YXzWzQ-0"
+   ]
+  },
+  "50532500": {
+   "auteur": "franze",
+   "date": 1794928509,
+   "fil": "50532500",
+   "id": "50532500",
+   "mots": [
+    "agentic"
+   ],
+   "texte": "My Agentic Setup [video]",
+   "titre_fil": "My Agentic Setup [video]",
+   "type": "article",
+   "videos": [
+    "-Oge2vboGiw"
+   ]
+  },
+  "50532647": {
+   "auteur": "binyu",
+   "date": 1794929107,
+   "fil": "50532647",
+   "id": "50532647",
+   "mots": [
+    "Anthropic"
+   ],
+   "texte": "Why Does the Anthropic IPO Need Five Different Classes of Stock? [video]",
+   "titre_fil": "Why Does the Anthropic IPO Need Five Different Classes of Stock? [video]",
+   "type": "article",
+   "videos": [
+    "FhVbxweMaWM"
+   ]
+  },
+  "50533825": {
+   "auteur": "acmehra",
+   "date": 1794932935,
+   "fil": "50533825",
+   "id": "50533825",
+   "mots": [
+    "agent"
+   ],
+   "texte": "Vaayu's task decomposition engine for multi-agent and multi model solutions",
+   "titre_fil": "Vaayu's task decomposition engine for multi-agent and multi model solutions",
+   "type": "article",
+   "videos": [
+    "-PIz2vhKm18"
+   ]
+  },
+  "50533899": {
+   "auteur": "FriendlyMike",
+   "date": 1794933166,
+   "fil": "50533899",
+   "id": "50533899",
+   "mots": [
+    "agentic"
+   ],
+   "texte": "4 Modes of agentic development (span podcast)",
+   "titre_fil": "4 Modes of agentic development (span podcast)",
+   "type": "article",
+   "videos": [
+    "sn9Iw-QvXOI"
+   ]
+  },
+  "50535264": {
+   "auteur": "kwanbix",
+   "date": 1794937710,
+   "fil": "50535264",
+   "id": "50535264",
+   "mots": [
+    "Anthropic"
+   ],
+   "texte": "Anthropic Researcher:Pretty Much All Humans Will Become Permanently Unemployable [video]",
+   "titre_fil": "Anthropic Researcher:Pretty Much All Humans Will Become Permanently Unemployable [video]",
+   "type": "article",
+   "videos": [
+    "OPZCQk8jF-I"
+   ]
+  },
+  "50536100": {
+   "auteur": "HashLMG",
+   "date": 1794940738,
+   "fil": "50536100",
+   "id": "50536100",
+   "mots": [
+    "agentic"
+   ],
+   "texte": "Show HN: HashCortx 4.5 comes with the biggest updates and influences 30000 clone",
+   "titre_fil": "Show HN: HashCortx 4.5 comes with the biggest updates and influences 30000 clone",
+   "type": "article",
+   "videos": [
+    "p-D_RkB2_3Y"
+   ]
+  },
+  "50536468": {
+   "auteur": "yonasb",
+   "date": 1794942103,
+   "fil": "50536468",
+   "id": "50536468",
+   "mots": [
+    "Anthropic",
+    "agent",
+    "agentic",
+    "agents",
+    "prompt"
+   ],
+   "texte": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+   "titre_fil": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+   "type": "article",
+   "videos": [
+    "2JrrpRm9Mww"
+   ]
+  },
+  "50540765": {
+   "auteur": "cookiengineer",
+   "date": 1794965780,
+   "fil": "50535740",
+   "id": "50540765",
+   "mots": [
+    "LLM"
+   ],
+   "texte": "> Problem is tech is full of PMs and other managers that don’t know technology. Things that could be algorithms, functions, programs, regex filters, etc are now LLMs because they don’t know anything else to solve problems\n\nIs this the right approach though?\n\nComputers should be usable by humans, not the other way around. How CPUs are built, how assembler came to be, how programming languages came to be... ultimately, they were all just compromises along the way to make computers more usable by humans.\n\nWith LLMs, however, the threshold barrier for being able to modify and use a computer effectively is now zero, which in my opinion is a good thing.\n\nI can recommend watching \"the mother of all demos\" talk from 1968 [1] which basically established the design patterns for modern computers. That's how old the concept of desktop environments is. There hasn't been any meaningful invention eversince, apart from touchscreens/smartphones, and now LLMs as a generalized interface design.\n\n[1] https://www.youtube.com/watch?v=yJDv-zdhzMY",
+   "titre_fil": "Not Everything Needs an LLM",
+   "type": "commentaire",
+   "videos": [
+    "yJDv-zdhzMY"
+   ]
+  },
+  "50541738": {
+   "auteur": "agnosticmantis",
+   "date": 1794974695,
+   "fil": "50541738",
+   "id": "50541738",
+   "mots": [
+    "Anthropic"
+   ],
+   "texte": "How \"Independent\" AI Safety Groups Are Pumping Anthropic IPO – Internet of Bugs",
+   "titre_fil": "How \"Independent\" AI Safety Groups Are Pumping Anthropic IPO – Internet of Bugs",
+   "type": "article",
+   "videos": [
+    "pyRG_5dCrfg"
+   ]
+  },
+  "50541822": {
+   "auteur": "0xDEAFBEAD",
+   "date": 1794975603,
+   "fil": "50532849",
+   "id": "50541822",
+   "mots": [
+    "agent",
+    "agents"
+   ],
+   "texte": ">Keeping telling yourself Trump has any say in how their organization functions at an operational level.\n\n\"CIA Employees’ Names Risk Exposure After Trump Demands List in Unclassified Email\"\n\nhttps://www.newsweek.com/trump-unclassified-email-cia-agents-names-2027099\n\nWhat would falsify your theories?\n\nThe thing about them being \"nonpartisan careerists\", at least, appears to be false. See https://steadystate1.substack.com/\n\nSame for \"the politicans trust these guys to do their jobs with their expertise\".  See https://www.youtube.com/watch?v=7UD6F4F-Bcw\n\nSo roughly speaking your claims seem to fall into two categories: (a) unfalsifiable, or (b) falsifiable, and additionally false.  If your falsifiable claims are false, I expect the same is likely true of your unfalsifiable claims.\n\n>You can call people conspiracy theorists all you want as an insult\n\nHow do you explain, for example, people who insist that the earth is flat despite all evidence to the contrary?  There's clearly a cognitive trap around conspiracies which a lot of people fall into, and I'm supposed to avoid mentioning it when it comes up, in order to be polite?  No thanks.\n\nWhat does Occam's Razor say?  https://substack.com/@kryptogal/note/c-390204515",
+   "titre_fil": "Highly classified US national security communications network goes down",
+   "type": "commentaire",
+   "videos": [
+    "7UD6F4F-Bcw"
+   ]
+  },
+  "50542343": {
+   "auteur": "matt_d",
+   "date": 1794980988,
+   "fil": "50542343",
+   "id": "50542343",
+   "mots": [
+    "agent",
+    "agents",
+    "prompt"
+   ],
+   "texte": "Optimizing AI Agents: Prompts vs. Weights (GEPA, GRPO) – Stanford CS329Z [video]",
+   "titre_fil": "Optimizing AI Agents: Prompts vs. Weights (GEPA, GRPO) – Stanford CS329Z [video]",
+   "type": "article",
+   "videos": [
+    "e_m99aR7_3Q"
+   ]
+  },
+  "50544185": {
+   "auteur": "DonHopkins",
+   "date": 1794995524,
+   "fil": "50542135",
+   "id": "50544185",
+   "mots": [
+    "agent"
+   ],
+   "texte": "Standout should Standdown.\n\nSmartReachAround optimizes the Mean Jerk-Time!\n\nhttps://www.youtube.com/watch?v=8LpRh6HQrtQ\n\nThis is Alexis Aftalion's actual video promoting his company Standup -- I will let it speak for itself, and preserve the transcript here lest he take it down. That Y Combinator fell for this bullshit hook line and sinker says more than I could possibly write:\n\nStandout — Hiring is broken. We're fixing it\n\nhttps://www.youtube.com/watch?v=7LdjJO-ibdI\n\n448 views  May 6, 2026\nStandout (YC S26) is an AI career agent connecting top operators with the best startups. We deliver introductions, not applications. A real agent on every match, supercharged by AI to move 10x faster than a recruiter at a fraction of the cost.\n\nEvery year, startups lose billions hiring the wrong people, and the best operators miss the roles that would have defined their careers. Recruiter spam, ghosted applications, mismatched intros, missed windows. The roles that define a decade go to people inside small networks most candidates can't reach. We have that network. Our AI handles the rest.\n\nTranscript:\n\nTIME LEFT TO ESCAPE THE PERMANENT UNDERCLASS: 01 YEAR 07 MONTH 13 DAYS\n\nMessage from Claudia Crush: hey can't do dinner tonight\n\nMessage from Claudia Crush: going out with my ex, he just signd at ElevenLabs for 800k [emoji heart hands]\n\nMessage from Cosimo: Big news - I have officially joined @ElevenLabs [likely ai generated photo of smiling man holding WELCOME TO 11ElevenLabs cake, presuma […]",
+   "titre_fil": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
+   "type": "commentaire",
+   "videos": [
+    "8LpRh6HQrtQ",
+    "7LdjJO-ibdI"
+   ]
+  },
+  "50546796": {
+   "auteur": "phpp",
+   "date": 1795012496,
+   "fil": "50546796",
+   "id": "50546796",
+   "mots": [
+    "agent",
+    "agents"
+   ],
+   "texte": "Show HN: Grand Treasure Island – GTA-style game on a real island, modeled by AI",
+   "titre_fil": "Show HN: Grand Treasure Island – GTA-style game on a real island, modeled by AI",
+   "type": "article",
+   "videos": [
+    "yW2SQmB-2i0"
+   ]
+  },
+  "50548992": {
+   "auteur": "mooreds",
+   "date": 1795022074,
+   "fil": "50548992",
+   "id": "50548992",
+   "mots": [
+    "LLM"
+   ],
+   "texte": "Beyond the LLM Top: Putting AI security into practice [video]",
+   "titre_fil": "Beyond the LLM Top: Putting AI security into practice [video]",
+   "type": "article",
+   "videos": [
+    "5jijlWkozh8"
+   ]
+  },
+  "50549188": {
+   "auteur": "ashriv",
+   "date": 1795022788,
+   "fil": "50549188",
+   "id": "50549188",
+   "mots": [
+    "LLM",
+    "agent",
+    "agents"
+   ],
+   "texte": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+   "titre_fil": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+   "type": "article",
+   "videos": [
+    "lCWMdBQ96rY"
+   ]
+  },
+  "50549248": {
+   "auteur": "walidhadri",
+   "date": 1795023031,
+   "fil": "50549248",
+   "id": "50549248",
+   "mots": [
+    "LLM"
+   ],
+   "texte": "You're Learning LLMs in the Wrong Order",
+   "titre_fil": "You're Learning LLMs in the Wrong Order",
+   "type": "article",
+   "videos": [
+    "kChLGU7ArTQ"
+   ]
+  },
+  "50549595": {
+   "auteur": "dofm",
+   "date": 1795024350,
+   "fil": "50548021",
+   "id": "50549595",
+   "mots": [
+    "Anthropic",
+    "LLM"
+   ],
+   "texte": "> These are 90-95% cheaper than Anthropic. I'd prefer open source, too, but this has nothing to do with Windows Phone OS (which failed because of network effects).\n\nFWIW it is worth noting that the GP's suggestion is more in line with Microsoft's own stated belief in the future of \"unmetered AI\".\n\nAt the moment, Microsoft is arguably meeting that claim with their support for and encouragement of Nvidia Nemotron Bolt, which is an actually pretty good, quite interesting, unusually-trained-and-sized-to-fit MoE model that was designed to go with the launch of the Nvidia/Microsoft RTX Spark machines.\n\n(Good Sam Witteveen video about it: https://www.youtube.com/watch?v=WJpeW9lCSUM )\n\nBut it would be good to see Microsoft themselves distilling an open weights model.\n\nLike any vendor with a profit motive they do have to decide the obvious, though: how do you make money from it, when right now it could cost several hundred million dollars to train (even if you adjust the training of a larger proprietary model so you can distill the smaller one from it)?\n\nThere is, essentially, no way to keep an open weights model from being copied/distilled/extracted, and IMO what that tends to suggest is that open weights models will essentially gravitate to sort of uncontroversial, \"standard library\" tasks.\n\nSo I think it also means that Microsoft's approach on open weights will ultimately be the same as Apple's: they will focus their efforts on LLMs that meaningfully add function to their OS and ca […]",
+   "titre_fil": "Seven new models at scalable price-performance",
+   "type": "commentaire",
+   "videos": [
+    "WJpeW9lCSUM"
+   ]
+  },
+  "50549733": {
+   "auteur": "richardcrng",
+   "date": 1795024952,
+   "fil": "50547980",
+   "id": "50549733",
+   "mots": [
+    "agent",
+    "agents"
+   ],
+   "texte": "Very helpful to see a bunch of these together.\n\nOP: I'd be curious about your personal stack? A bit of your story / motivation here would be interesting, too!\n\nI'm seeing some things pop up where open-source tools are more paradigm-breaking, e.g.\n\n- Ink and Switch's Patchwork[1] is a very malleable[2] piece of software\n\n- Imbue's Studio[3] looks pretty accessible and fun from a user perspective\n\nMy theory of change: make open-source more powerful than the closed alternatives, e.g. a single connected database that powers tasks, messages and projects.\n\n-> Connected context wins in the age of agents! Repo here: https://github.com/withnative/native\n\n[1] Very cool demo at Local-First Conf 26: https://www.youtube.com/watch?v=4UxGijnuXEs\n\n[2] As you'd expect given their Malleable Software essay https://www.inkandswitch.com/essay/malleable-software/\n\n[3] https://imbue.com/product/studio -- I think technically not OSI-approved (BSL or FSL, off the top of my head), but imo still a great thing to check out. Studio is also a bit more 'use your data from within SaaS apps' rather than get out of them, however Imbue also has `datalib` as an export tool: https://github.com/imbue-ai/datalib",
+   "titre_fil": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+   "type": "commentaire",
+   "videos": [
+    "4UxGijnuXEs"
+   ]
+  },
+  "50550078": {
+   "auteur": "earthwalker17",
+   "date": 1795026460,
+   "fil": "50550078",
+   "id": "50550078",
+   "mots": [
+    "agent"
+   ],
+   "texte": "Fable 5.2 made a video explaining the DeepSeek Super-agent architecture",
+   "titre_fil": "Fable 5.2 made a video explaining the DeepSeek Super-agent architecture",
+   "type": "article",
+   "videos": [
+    "-b7g5XIgEn0"
+   ]
+  },
+  "50557841": {
+   "auteur": "viraptor",
+   "date": 1795080116,
+   "fil": "50548021",
+   "id": "50557841",
+   "mots": [
+    "LLM"
+   ],
+   "texte": "The JS comparison doesn't work in the same way the LLM comparison doesn't work. You can build at different levels than the tool you're using. For example I learned cool optimising compiler tricks while building .Net to native compiler in C#. I've done weird 3d graphics things in Haskell. I've done live process memory hacking to recover a critical system from Python. None of the tools / environments prevented me from learning how to deal with low level things. Neither does using LLMs stop me today.\n\nWanna see an extreme user of LLMs who really cares about quality? Check what Matt Pockock is doing for example https://youtu.be/jVBlkOF8sHk",
+   "titre_fil": "Seven new models at scalable price-performance",
+   "type": "commentaire",
+   "videos": [
+    "jVBlkOF8sHk"
+   ]
+  },
+  "50558566": {
+   "auteur": "somenameforme",
+   "date": 1795086263,
+   "fil": "50548161",
+   "id": "50558566",
+   "mots": [
+    "LLM"
+   ],
+   "texte": "It's so incredible what LLMs are enabling. Great work! It's wild thinking that the children of today are going to be growing up in a time where being able to make things like this at the snap of their fingers is something to take for granted. Not to diminish what you did - because I'm sure you had to grab the docs, sources, and other information to throw at the beast - but that would just be the precode research phase a few years ago, whereas now it's near to the finish line!\n\nOne recommendation I would make is to grab an ambient space themed track to play in the back, with a mute button of course. There's all sorts of great high quality stuff for free in this exact domain. Watching this while listening to some X3 audio is quite pleasant. Lol since everything's so easy now you could even do some sort of fancy waveform analysis of the song and have events trigger on climatic/catch points in the song itself. Like imagine something like this [1] hitting an event at 1:23, 1:32, etc.\n\n[1] - https://youtu.be/XESJ_Hgt3KA?list=PL2DE76FAF3D895DD0&t=79",
+   "titre_fil": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+   "type": "commentaire",
+   "videos": [
+    "XESJ_Hgt3KA"
+   ]
+  },
+  "50560579": {
+   "auteur": "denysvitali",
+   "date": 1795098516,
+   "fil": "50560579",
+   "id": "50560579",
+   "mots": [
+    "Anthropic"
+   ],
+   "texte": "Anthropic IPO: Live",
+   "titre_fil": "Anthropic IPO: Live",
+   "type": "article",
+   "videos": [
+    "cpIlQK6p9cY"
+   ]
+  },
+  "50560979": {
+   "auteur": "pjmlp",
+   "date": 1795100331,
+   "fil": "50560979",
+   "id": "50560979",
+   "mots": [
+    "agentic"
+   ],
+   "texte": "Google talk at REBASE'26: Agentic Coding is not going to save C++ [video]",
+   "titre_fil": "Google talk at REBASE'26: Agentic Coding is not going to save C++ [video]",
+   "type": "article",
+   "videos": [
+    "Ob0CMX8s55s"
+   ]
+  },
+  "50561434": {
+   "auteur": "smukherjee19",
+   "date": 1795102356,
+   "fil": "50561434",
+   "id": "50561434",
+   "mots": [
+    "Anthropic"
+   ],
+   "texte": "\"Independent\" AI Safety Groups Are Pumping Anthropic's IPO [video]",
+   "titre_fil": "\"Independent\" AI Safety Groups Are Pumping Anthropic's IPO [video]",
+   "type": "article",
+   "videos": [
+    "pyRG_5dCrfg"
+   ]
+  },
+  "50562320": {
+   "auteur": "D_R_Farrell",
+   "date": 1795106044,
+   "fil": "50562320",
+   "id": "50562320",
+   "mots": [
+    "Claude",
+    "agent",
+    "agentic",
+    "agents",
+    "prompt"
+   ],
+   "texte": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+   "titre_fil": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+   "type": "article",
+   "videos": [
+    "BogcYWf4siM"
+   ]
+  },
+  "50563198": {
+   "auteur": "hnedeotes",
+   "date": 1795109647,
+   "fil": "50546495",
+   "id": "50563198",
+   "mots": [
+    "agent",
+    "agents"
+   ],
+   "texte": "At some point I stopped enjoying the game (due to many reasons, biggest is randomness but even the lore & flavour of the game just went downhill after a certain point and nowadays I can't even stand a release video... It's the same flavour as marvel movies and sequels but in another context) but I always enjoyed the type of game it offers. If you're into it these kind of game-play/puzzles I'm working on a slightly different game, that has no randomness (my biggest issue with MtG after having played it casually over the years).\n\nAlthough the web-client is fairly less enticing than arena game-play I'm working on the client and AI - https://www.youtube.com/watch?v=SswKnyrDAaE you can see the work in progress in that video - that's just a test run and the AI was completely dumb at that point it's now much more competitive already - note the original game, the rules engine and web-browser version, etc, weren't vibe-coded but I'm building this native client all with agents, and they actually play against the original server.\n\nOn the online version you can draft for free (against bots) without keeping the scrolls (playground), but I would wait a bit as I'm releasing new scrolls and hopefully the native client not too far from now. You can also play for free by going to library, making a codex and joining the queue but you probably need to find someone to join you as right now there's basically 0 players and no AI on the web version yet.",
+   "titre_fil": "Exponential Behavior in Magic: The Gathering",
+   "type": "commentaire",
+   "videos": [
+    "SswKnyrDAaE"
+   ]
+  },
+  "50563435": {
+   "auteur": "MichalKrk",
+   "date": 1795110709,
+   "fil": "50563434",
+   "id": "50563435",
+   "mots": [
+    "agent",
+    "automation",
+    "prompt"
+   ],
+   "texte": "Hey HN, Misho & Lukas here. We're two data science students from ETH Zurich and we love building stuff with AI.\n\nWe just built an agent that automates tasks for you in your own Chrome. You give it a task (\"launch a Google Ads campaign\", \"build a post-purchase email flow in Klaviyo\"), it asks a few questions, then clicks and types its way through it.\n\nWe want to turn this into a startup. We started with marketing tasks because Misho worked on marketing automation software before.\n\nDemo: https://youtu.be/d1_LeuYmKrA\n\nHow it works:\n* The agent runs on AWS on OpenAI's open-source Codex runtime.\n* Playwright drives your Chrome through our extension. No API integrations, and no passwords leave your browser. If you can click it, it can click it.\n* Approvals and Stop are enforced on the server, not with \"please ask first\" in a prompt. We don't trust the model with that.\n\nAnd we're kind of stuck. The agent works, and we think it's pretty cool... but we just can't figure out who it's for. We tried six different landing pages with Google Ads for each... and spent $214 on 26 clicks, zero sign-ups :(\n\nSo, help us out please:\n* What's the browser chore you'd happily never do again?\n* Have you ever paid a VA or a freelancer just to set up or click through some mundane task for you (e.g. setting up a Shopify integration)? What was it?\n* Roast the landing page: shoppilot.ch. It's clearly not converting.\n\nIf you want to try it: app.shoppilot.ch. Happy to hear any thoughts.",
+   "titre_fil": "[dead]",
+   "type": "commentaire",
+   "videos": [
+    "d1_LeuYmKrA"
+   ]
+  },
+  "50564646": {
+   "auteur": "bob1029",
+   "date": 1795115076,
+   "fil": "50564646",
+   "id": "50564646",
+   "mots": [
+    "LLM"
+   ],
+   "texte": "What Would the Ideal LLM Inference Chip Look Like? [video]",
+   "titre_fil": "What Would the Ideal LLM Inference Chip Look Like? [video]",
+   "type": "article",
+   "videos": [
+    "1LGwx7jzOK4"
+   ]
+  },
+  "50564849": {
+   "auteur": "tim333",
+   "date": 1795115884,
+   "fil": "50554179",
+   "id": "50564849",
+   "mots": [
+    "LLM"
+   ],
+   "texte": "I don't buy it being down to the substrate. I haven't noticed people with cochlear implants suddenly lose true consciousness because there are some chips in there.\n\nHinton was quite interesting discussing it https://www.youtube.com/watch?v=hDyUuc4utmk&t=85s\n\nHis take: If you give a multimodal LLM a camera and a pointer arm and say point at some objects, say an apple, it can do it. If you put a mirror in front of the camera it would point the wrong way and if you explained that to the LLM it would probably say - ah I see - the mirror makes it look to me that the apple is in a different location to where it is, which implies it has a subjective experience of where the apple is.\n\nMy take is human consciousness got there through evolution as a practical thing for survival and success. The brain is wired to bring together relevant information like there's a bear over there, it seems scary - to both the decision making bit - run or not - and the language and memory bits which are probably a bit LLM like - they can churn out words saying \"wow, I saw a bear\".\n\nThe consciousness bits are what the language like bit is fed, as opposed say to the gut muscles pushing around yesterday's food which are not wired up to that so you don't have conscious awareness of that, usually.",
+   "titre_fil": "Thomas Nagel says that it's criminal to build AI that feigns consciousness",
+   "type": "commentaire",
+   "videos": [
+    "hDyUuc4utmk"
+   ]
+  },
+  "50565431": {
+   "auteur": "housec84",
+   "date": 1795118278,
+   "fil": "50565431",
+   "id": "50565431",
+   "mots": [
+    "agent"
+   ],
+   "texte": "An AI agent that pays for every thought and dies when the money runs out",
+   "titre_fil": "An AI agent that pays for every thought and dies when the money runs out",
+   "type": "article",
+   "videos": [
+    "MySG62ItZKU"
+   ]
+  },
+  "50567265": {
+   "auteur": "Bender",
+   "date": 1795126719,
+   "fil": "50567265",
+   "id": "50567265",
+   "mots": [
+    "Anthropic"
+   ],
+   "texte": "IPO: Anthropic Bankruptsy Likelier Than Success [video][15m]",
+   "titre_fil": "IPO: Anthropic Bankruptsy Likelier Than Success [video][15m]",
+   "type": "article",
+   "videos": [
+    "a5pHmGq1mEs"
+   ]
+  },
+  "50567721": {
+   "auteur": "Philpax",
+   "date": 1795128916,
+   "fil": "50567721",
+   "id": "50567721",
+   "mots": [
+    "Anthropic"
+   ],
+   "texte": "Why We Built Anthropic [video]",
+   "titre_fil": "Why We Built Anthropic [video]",
+   "type": "article",
+   "videos": [
+    "sof3vW4mHTs"
+   ]
+  },
+  "50568763": {
+   "auteur": "kolchinski",
+   "date": 1795135912,
+   "fil": "50568763",
+   "id": "50568763",
+   "mots": [
+    "Claude",
+    "LLM",
+    "agent",
+    "agents",
+    "prompt"
+   ],
+   "texte": "Show HN: Zeus – Claude Code for AI voice agents",
+   "titre_fil": "Show HN: Zeus – Claude Code for AI voice agents",
+   "type": "article",
+   "videos": [
+    "YlkIc3L29lo"
+   ]
+  },
+  "50569617": {
+   "auteur": "MichalKrk",
+   "date": 1795143552,
+   "fil": "50569616",
+   "id": "50569617",
+   "mots": [
+    "agent",
+    "automation",
+    "prompt"
+   ],
+   "texte": "Hey HN, Misho & Lukas here. We're two data science students from ETH Zurich and we love building stuff with AI.\n\nWe just built an agent that automates tasks for you in your own Chrome. You give it a task (\"launch a Google Ads campaign\", \"build a post-purchase email flow in Klaviyo\"), it asks a few questions, then clicks and types its way through it.\n\nWe want to turn this into a startup. We started with marketing tasks because Misho worked on marketing automation software before.\n\nDemo: https://youtu.be/d1_LeuYmKrA\n\nHow it works:\n- The agent runs on AWS on OpenAI's open-source Codex runtime.\n- Playwright drives your Chrome through our extension. No API integrations, and no passwords leave your browser. If you can click it, it can click it.\n- Approvals and Stop are enforced on the server, not with \"please ask first\" in a prompt. We don't trust the model with that.\n\nAnd we're kind of stuck. The agent works, and we think it's pretty cool... but we just can't figure out who it's for. We tried six different landing pages with Google Ads for each... and spent $214 on 26 clicks, zero sign-ups :(\n\nSo, help us out please:\n- What's the browser chore you'd happily never do again?\n- Have you ever paid a VA or a freelancer just to set up or click through some mundane task for you (e.g. setting up a Shopify integration)? What was it?\n- Roast the landing page... It's clearly not converting.\n\nIf you want to try it: app.shoppilot.ch. Happy to hear any thoughts.",
+   "titre_fil": "I built a solution and can't find the problem",
+   "type": "commentaire",
+   "videos": [
+    "d1_LeuYmKrA"
+   ]
+  },
+  "50571172": {
+   "auteur": "ez_mmk",
+   "date": 1795158692,
+   "fil": "50571172",
+   "id": "50571172",
+   "mots": [
+    "Claude"
+   ],
+   "texte": "Testing an AM/FM radio PCB designed by Claude [video]",
+   "titre_fil": "Testing an AM/FM radio PCB designed by Claude [video]",
+   "type": "article",
+   "videos": [
+    "vyClHoyzAL8"
+   ]
+  },
+  "50573228": {
+   "auteur": "vismit2000",
+   "date": 1795174211,
+   "fil": "50573228",
+   "id": "50573228",
+   "mots": [
+    "Anthropic"
+   ],
+   "texte": "The Making of Anthropic [video]",
+   "titre_fil": "The Making of Anthropic [video]",
+   "type": "article",
+   "videos": [
+    "sof3vW4mHTs"
+   ]
+  },
+  "50576275": {
+   "auteur": "teekert",
+   "date": 1795188976,
+   "fil": "50574968",
+   "id": "50576275",
+   "mots": [
+    "Anthropic"
+   ],
+   "texte": "I think he worked together with this person? https://www.youtube.com/watch?v=Mzbtj5nkMXI\n\nPretty crazy interview, he didn't want throw the Anthropic employee under the bus when OpenAI offered co-authorship on the Navier Stokes paper. He suspects OpenAI somehow used his codex usage btw. Almost unprovable of course.",
+   "titre_fil": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+   "type": "commentaire",
+   "videos": [
+    "Mzbtj5nkMXI"
+   ]
+  },
+  "50577409": {
+   "auteur": "muvich3n",
+   "date": 1795192576,
+   "fil": "50577409",
+   "id": "50577409",
+   "mots": [
+    "MCP",
+    "agent",
+    "agents"
+   ],
+   "texte": "Show HN: I stole a game interaction and brought it to macOS",
+   "titre_fil": "Show HN: I stole a game interaction and brought it to macOS",
+   "type": "article",
+   "videos": [
+    "yziiGo_Hq6Q"
+   ]
+  },
+  "50578509": {
+   "auteur": "j_zhao",
+   "date": 1795195715,
+   "fil": "50578508",
+   "id": "50578509",
+   "mots": [
+    "Claude",
+    "MCP",
+    "agent",
+    "agents",
+    "prompt"
+   ],
+   "texte": "WASD Engine is an open-source MCP server and desktop app that makes Claude or any agent much better at making games.\n\nMost AI slop games look blocky and sound robotic because Claude builds them entirely in code so I made a harness to fix that. It gives Claude a real studio setup, tuned specifically for agents. A Godot 4.7 runtime to build and playtest in plus Blender, GIMP, and image generation for models and design and ElevenLabs for audio.\n\nWith the same model and prompt, it one-shots games that look much better than Claude alone. Even smaller models using the harness make frontier-level games.\n\nFinished games export to web, Windows and macOS and you can host multiplayer too. Everything stays a Godot project on disk so you can open it in the stock editor or upload to Steam.\n\nReally interested in y’all’s feedback on this.\n\nGitHub: github.com/WASDEngine/WASD-Engine\n\nDiscord: discord.gg/BmRRK59TqS\n\nYouTube: https://youtu.be/Ed9YfSJFuZc?si=6rg41nBXADMK3M8q",
+   "titre_fil": "Open-source harness that makes Claude better for game dev",
+   "type": "commentaire",
+   "videos": [
+    "Ed9YfSJFuZc"
+   ]
+  },
+  "50581787": {
+   "auteur": "Betelbuddy",
+   "date": 1795207466,
+   "fil": "50579568",
+   "id": "50581787",
+   "mots": [
+    "Anthropic",
+    "Claude"
+   ],
+   "texte": "So you are saying they are selective in how they enforce their terms of service? :-)\n\nFrom the stuff I only know... from watching YouTube...Anthropic trains Claude on AWS: https://youtu.be/KJFnCx0DFsg\n\nAre they not worried their secrets get stolen?",
+   "titre_fil": "Hurried Announcement: Alessandro Masullo GRH",
+   "type": "commentaire",
+   "videos": [
+    "KJFnCx0DFsg"
+   ]
+  },
+  "50583459": {
+   "auteur": "frevib",
+   "date": 1795214935,
+   "fil": "50579568",
+   "id": "50583459",
+   "mots": [
+    "prompt"
+   ],
+   "texte": "Unlikely? You have a program running arbitrary code on your computer, which has full disk access, and acts on fuzzy prompts.\n\nAs Kelsey Hightower says: “we will consider that malware”: https://m.youtube.com/watch?v=CDxdh5S9dUw&ra=m&t=483",
+   "titre_fil": "Hurried Announcement: Alessandro Masullo GRH",
+   "type": "commentaire",
+   "videos": [
+    "CDxdh5S9dUw"
+   ]
+  },
+  "50586621": {
+   "auteur": "j12a",
+   "date": 1795243118,
+   "fil": "50585376",
+   "id": "50586621",
+   "mots": [
+    "LLM"
+   ],
+   "texte": "There was a good Conj 2026 talk on points that can make Clojure a great fit for LLM-driven development, same which make it convenient for humans also.\n\nWhat tipped the scales for Clojure - Brendan Foote (Clojure/Conj 2026)\n\nhttps://youtube.com/watch?v=tzzg8CVkl2A",
+   "titre_fil": "Clojure will affect the way you think about programming (2017)",
+   "type": "commentaire",
+   "videos": [
+    "tzzg8CVkl2A"
+   ]
+  },
+  "50586738": {
+   "auteur": "Joel_Mckay",
+   "date": 1795244504,
+   "fil": "50585376",
+   "id": "50586738",
+   "mots": [
+    "LLM"
+   ],
+   "texte": "Except a statistically salient search context is in proximity to something similar, and manual content curators drop their thumb on the scales weights to boost desirable outcomes in the quantized model.\n\nhttps://www.youtube.com/watch?v=LPZh9BOjkQs&list=PLZHQObOWTQDM4E-dwvbnQTiyKDO-y9T2t\n\nThe encoding of the LLM is almost always lossy compression, but we agree it is not real intelligence.\n\nAs a sentient turnip, I likely wouldn't understand such things, but do recognize copyright bleed-through when it includes known obscure works.  =3\n\nhttps://en.wikipedia.org/wiki/Mechanical_Turk",
+   "titre_fil": "Clojure will affect the way you think about programming (2017)",
+   "type": "commentaire",
+   "videos": [
+    "LPZh9BOjkQs"
+   ]
+  },
+  "50592936": {
+   "auteur": "slifin",
+   "date": 1795290579,
+   "fil": "50585376",
+   "id": "50592936",
+   "mots": [
+    "LLM"
+   ],
+   "texte": "Rich Hickey's talk from this year:\n\nhttps://youtu.be/P5eO7BNyJao?si=45zxrLUsY9AMUg6B\n\nI feel like there was not enough fuss about what he showed off this year considering how many programmers (historically myself included) cared about checking/enforcing structure on a potentially nested thing, spec in usage has proved to be good for external boundaries but not great for internals\n\nI remember we used to code something like:\n\nclass User {\n   name\n   age\n   username\n   password\n}\n\netc all the time but would end up having to make everything optional so that we could use the type hint against the age method and the auth method when we had partial information for the object\n\nObviously not an optimal design and can be broken down into yet more types and then composed together but I'm not a huge fan of object of object of object type situations — anyway my point is that Rich showed that we can just do the checks in context using deconstructing and in a reusable way rather than trying to declare a type once centrally and then cram that into everything else\n\nI haven't explained it very well — I wanted to do a blog on it but just watch the video its one of the few things I got excited about even though I don't really code directly any more - the sad thing is current LLMs won't even use the technique because its not in their training sets and that still matters I've noticed for what they do",
+   "titre_fil": "Clojure will affect the way you think about programming (2017)",
+   "type": "commentaire",
+   "videos": [
+    "P5eO7BNyJao"
+   ]
+  },
+  "50592988": {
+   "auteur": "vahidce",
+   "date": 1795290879,
+   "fil": "50592988",
+   "id": "50592988",
+   "mots": [
+    "agent",
+    "agents"
+   ],
+   "texte": "Show HN: I made an app to show your codebase on a canvas [video]",
+   "titre_fil": "Show HN: I made an app to show your codebase on a canvas [video]",
+   "type": "article",
+   "videos": [
+    "WNnumyRfUpQ"
+   ]
+  },
+  "50594288": {
+   "auteur": "Bluestein",
+   "date": 1795300084,
+   "fil": "50594288",
+   "id": "50594288",
+   "mots": [
+    "Anthropic"
+   ],
+   "texte": "Anthropic Opened Its Books. What Is It Worth? [video]",
+   "titre_fil": "Anthropic Opened Its Books. What Is It Worth? [video]",
+   "type": "article",
+   "videos": [
+    "Ic1Jf7VlXRM"
+   ]
+  },
+  "50594455": {
+   "auteur": "spwa4",
+   "date": 1795301694,
+   "fil": "50591853",
+   "id": "50594455",
+   "mots": [
+    "LLM"
+   ],
+   "texte": "Every model is now distillation in a way. The US models are now hiring people do, well do their job and make traces of that available to them. This is a desperation move since:\n\n1) this takes away the advantage they AI labs had (\"distilling humans\" by stealing data, essentially) (or to put it bluntly: distilling humans by paying for data is a lot more expensive)\n\n2) Because this is LLM reacting to humans who are reacting to LLMs this is no longer good data (data should be independent from training according to the math, or you will start to see, imho, what people are complaining about with ChatGPT 6.2 models: this data is no longer resulting in improvement across the board. It's getting better at some things at the cost of getting worse at others. This might even be a fundamental problem, rather than just one the labs are causing for themselves)\n\n3) Is this really the game you want to play against China? Getting more training data through letting people generate it? I don't think US and EU combined can win that game. And ...\n\nhttps://www.youtube.com/watch?v=JV4BwRxDZi0",
+   "titre_fil": "Inkling-2-Mini in 5.4 GB Memory",
+   "type": "commentaire",
+   "videos": [
+    "JV4BwRxDZi0"
+   ]
+  },
+  "50599006": {
+   "auteur": "DonHopkins",
+   "date": 1795350387,
+   "fil": "50533945",
+   "id": "50599006",
+   "mots": [
+    "Claude"
+   ],
+   "texte": "Speaking of Mr. Claude:\n\nAlan Kay thinks about Claude Shannon's way of dealing with noisy channels every day:\n\nhttps://www.youtube.com/watch?v=Cjntrqhn8pk\n\nClaude Shannon built Marvin Minsky an actual physical \"Useless Machine\", which Marvin preferred to call the \"Ultimate Machine\", whose only purpose was to turn itself off:\n\nhttps://en.wikipedia.org/wiki/Useless_machine\n\nHere is a fictional Ultimate Machine PDP-7 device emulator, with a demo written in Forth that draws with turtle graphics on the Type 340 vector graphics display:\n\nhttps://hyperties.org/cabinet/devices/ultimate-machine/\n\nVPL developed an actual physical Data Glove device that Jaron Lanier used to perform virtual musical instruments in virtual reality:\n\nhttps://www.youtube.com/watch?v=E1q9zDSAQEw\n\nHere is a fictional Data Hand PDP-7 device emulator, that uses webcam video instead of an actual glove, also with a demo written in Forth that draws with turtle graphics on the Type 340 vector graphics display:\n\nhttps://hyperties.org/cabinet/devices/datahand/\n\nNow here's a Forth program orchestrating both of those fictional emulated fictional PDP-7 devices, that lets you turn the Ultimate Machine off with your own hand:\n\nhttps://hyperties.org/cabinet/devices/ultimate-hand/",
+   "titre_fil": "A real Linux kernel, compiled to WebAssembly",
+   "type": "commentaire",
+   "videos": [
+    "Cjntrqhn8pk",
+    "E1q9zDSAQEw"
+   ]
+  },
+  "50602181": {
+   "auteur": "Kotlopou",
+   "date": 1795370676,
+   "fil": "50601525",
+   "id": "50602181",
+   "mots": [
+    "LLM"
+   ],
+   "texte": "Oh, I always wanted to know how the entropy of English was looking! The human baseline is both surprisingly unclear and surprisingly better than even today's frontier models (https://www.lesswrong.com/posts/SZ3jDHXHb4WF4jmbr/where-is-human-level-on-text-prediction-gpts-task). Though this is an extrapolation from 6 years ago, so take it with a grain of salt.\n\nThere's also the Hilberg model where the entropy rate keeps falling towards zero as you consider longer and longer texts, and at least here (https://www.youtube.com/watch?v=5eqRuVp65eY) data from LLMs showed no floor. It would be unintuitive if it turned out that you can compress sensible English text to, say, O(sqrt N) length!",
+   "titre_fil": "Perplexity and Intelligence",
+   "type": "commentaire",
+   "videos": [
+    "5eqRuVp65eY"
+   ]
+  },
+  "50602232": {
+   "auteur": "hn-aarvin",
+   "date": 1795371017,
+   "fil": "50601525",
+   "id": "50602232",
+   "mots": [
+    "Claude"
+   ],
+   "texte": "I've been watching 3Blue1Brown's series on compression and intelligence^[1], which seems to discuss similar ideas.\n\nIn particular, his mention of an unknown floor for loss seems directly connected to Claude Shannon's entropy rate regarding compression—having to probe human brains to estimate the entropy of English at 1 bit per character, just as OpenAI doesn't know the exact entropy rate of its held-out codebase.\n\n[1]: https://youtu.be/qbsb9DpdZ6s",
+   "titre_fil": "Perplexity and Intelligence",
+   "type": "commentaire",
+   "videos": [
+    "qbsb9DpdZ6s"
+   ]
+  },
+  "50611221": {
+   "auteur": "taleodor",
+   "date": 1795440237,
+   "fil": "50611221",
+   "id": "50611221",
+   "mots": [
+    "agentic"
+   ],
+   "texte": "ReARM Boards: Managing Agentic Coding Squads [video]",
+   "titre_fil": "ReARM Boards: Managing Agentic Coding Squads [video]",
+   "type": "article",
+   "videos": [
+    "EB_Oj5euJEY"
    ]
   }
  }

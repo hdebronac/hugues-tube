@@ -286,6 +286,13 @@
   "url_chaine": null,
   "verifie_le": 1794217786
  },
+ "5eqRuVp65eY": {
+  "chaine": "Welch Labs",
+  "etat": "disponible",
+  "titre": "AI can't cross this line and we don't know why.",
+  "url_chaine": "https://www.youtube.com/@WelchLabs",
+  "verifie_le": 1795445335
+ },
  "5t1vTLU7s40": {
   "chaine": "Lex Fridman",
   "etat": "disponible",
@@ -391,6 +398,13 @@
   "url_chaine": "https://www.youtube.com/@ECON102Podcast",
   "verifie_le": 1794128561
  },
+ "838BasjdQ64": {
+  "chaine": "Eno PDF",
+  "etat": "disponible",
+  "titre": "Local Agentic PDF Search with eno: Full llama.cpp + Qwen3.6 Setup",
+  "url_chaine": "https://www.youtube.com/@enopdf",
+  "verifie_le": 1795445335
+ },
  "87DyyMV0kCY": {
   "chaine": "Black Hat",
   "etat": "disponible",
@@ -447,6 +461,13 @@
   "url_chaine": "https://www.youtube.com/@aiDotEngineer",
   "verifie_le": 1794128561
  },
+ "8pDfgBEy8bg": {
+  "chaine": "Cohle M ",
+  "etat": "disponible",
+  "titre": "let's build claude code from scratch",
+  "url_chaine": "https://www.youtube.com/@cohlem69",
+  "verifie_le": 1795445335
+ },
  "8pTEmbeENF4": {
   "chaine": "Joey Reid",
   "etat": "disponible",
@@ -502,6 +523,13 @@
   "titre": "The Real Reason Microsoft and the FAA Went Down This Week..",
   "url_chaine": "https://www.youtube.com/@TPAS-v3v",
   "verifie_le": 1794833521
+ },
+ "AIiJ29hEn80": {
+  "chaine": "n8n",
+  "etat": "disponible",
+  "titre": "Automating Gong Sales Call Analysis with n8n and AI [n8n At Scale]",
+  "url_chaine": "https://www.youtube.com/@n8n-io",
+  "verifie_le": 1795445335
  },
  "AUQKjgKQF7w": {
   "chaine": null,
@@ -706,6 +734,13 @@
   "url_chaine": "https://www.youtube.com/@programmersarealsohuman5909",
   "verifie_le": 1794128561
  },
+ "DuBrreMiZlA": {
+  "chaine": "Good Work",
+  "etat": "disponible",
+  "titre": "What do Wall Street quants actually do?",
+  "url_chaine": "https://www.youtube.com/@GoodWorkMB",
+  "verifie_le": 1795445335
+ },
  "EAyDS1NuK_A": {
   "chaine": "Captain Rick Moore",
   "etat": "disponible",
@@ -747,6 +782,13 @@
   "titre": null,
   "url_chaine": null,
   "verifie_le": 1794128561
+ },
+ "EUJJFALM7oc": {
+  "chaine": null,
+  "etat": "indisponible",
+  "titre": null,
+  "url_chaine": null,
+  "verifie_le": 1795445335
  },
  "EWvNQjAaOHw": {
   "chaine": "Andrej Karpathy",
@@ -972,6 +1014,13 @@
   "url_chaine": "https://www.youtube.com/@Arch-AI-nativeopensourceinfras",
   "verifie_le": 1794128561
  },
+ "I7mO6Ku3EiM": {
+  "chaine": "Lady K Sailing",
+  "etat": "disponible",
+  "titre": "TOP 3 Small Sailboats You Can Sail AROUND THE WORLD! Ep 331 - Lady K sailing",
+  "url_chaine": "https://www.youtube.com/@LadyKSailing",
+  "verifie_le": 1795445335
+ },
  "I9aGC6Ui3eE": {
   "chaine": "Anthropic",
   "etat": "disponible",
@@ -1062,6 +1111,13 @@
   "titre": "Agent Smith Interrogation",
   "url_chaine": "https://www.youtube.com/@Intellect1618",
   "verifie_le": 1794128561
+ },
+ "JsUVVhYm8p4": {
+  "chaine": "blankarray",
+  "etat": "disponible",
+  "titre": "Reddit N8N Job Leads Auto-Saved to Google Sheets with Comments | n8n No-Code Automation",
+  "url_chaine": "https://www.youtube.com/@blankarray",
+  "verifie_le": 1795445335
  },
  "K27diMbCsuw": {
   "chaine": "Manus AI",
@@ -1216,6 +1272,13 @@
   "titre": "I seriously should NOT be dropping this.",
   "url_chaine": "https://www.youtube.com/@PewDiePie",
   "verifie_le": 1794217786
+ },
+ "OPZCQk8jF-I": {
+  "chaine": "Palisade Research",
+  "etat": "disponible",
+  "titre": "Anthropic Researcher: \"Pretty Much All Humans Will Become Permanently Unemployable\"",
+  "url_chaine": "https://www.youtube.com/@PalisadeResearch",
+  "verifie_le": 1795445335
  },
  "OQsXDdGxk3U": {
   "chaine": "Louis Vuitton 38th America's Cup Naples, Italy",
@@ -2225,6 +2288,13 @@
   "url_chaine": "https://www.youtube.com/@aboatinthewoods",
   "verifie_le": 1794217786
  },
+ "h_U_p4pQosM": {
+  "chaine": "WebXFearless",
+  "etat": "disponible",
+  "titre": "Post videos, reels and images on Instagram, X/Twitter, Tiktok and Youtube using N8N",
+  "url_chaine": "https://www.youtube.com/@WebXFearless",
+  "verifie_le": 1795445335
+ },
  "h_x0Y3FqkEI": {
   "chaine": "infiniteinfiniteinfi",
   "etat": "disponible",
@@ -2357,6 +2427,13 @@
   "titre": "Let's build GPT: from scratch, in code, spelled out.",
   "url_chaine": "https://www.youtube.com/@AndrejKarpathy",
   "verifie_le": 1794128561
+ },
+ "kQLNRqgufWo": {
+  "chaine": null,
+  "etat": "indisponible",
+  "titre": null,
+  "url_chaine": null,
+  "verifie_le": 1795445335
  },
  "kQRu7DdTTVA": {
   "chaine": "Anthropic",
@@ -2617,6 +2694,13 @@
   "url_chaine": "https://www.youtube.com/@retriever-ai",
   "verifie_le": 1794217786
  },
+ "pyRG_5dCrfg": {
+  "chaine": "Internet of Bugs",
+  "etat": "disponible",
+  "titre": "How \"Independent\" AI Safety Groups Are Pumping Anthropic's IPO",
+  "url_chaine": "https://www.youtube.com/@InternetOfBugs",
+  "verifie_le": 1795445335
+ },
  "q88th2bTR1E": {
   "chaine": "Captain Harlow",
   "etat": "disponible",
@@ -2750,6 +2834,13 @@
   "url_chaine": "https://www.youtube.com/@WSJEvents",
   "verifie_le": 1794128561
  },
+ "sof3vW4mHTs": {
+  "chaine": "Anthropic",
+  "etat": "disponible",
+  "titre": "The making of Anthropic",
+  "url_chaine": "https://www.youtube.com/@anthropic-ai",
+  "verifie_le": 1795445335
+ },
  "srp66IaXPBg": {
   "chaine": "Quantum Unit",
   "etat": "disponible",
@@ -2805,6 +2896,13 @@
   "titre": "Sailing with Strangers - Exploring the 1000 Islands",
   "url_chaine": "https://www.youtube.com/@ShawndMcCallum",
   "verifie_le": 1794217786
+ },
+ "tz23G_UXCGA": {
+  "chaine": "Veritasium",
+  "etat": "disponible",
+  "titre": "Something is jamming GPS over Europe. Here's what we found",
+  "url_chaine": "https://www.youtube.com/@veritasium",
+  "verifie_le": 1795445335
  },
  "u0u5vZQxvDY": {
   "chaine": "Sailing Ruby Rose",
@@ -2896,6 +2994,13 @@
   "titre": "selective attention test",
   "url_chaine": "https://www.youtube.com/@DanielSimons",
   "verifie_le": 1794128561
+ },
+ "vQ5Z8-f-xw4": {
+  "chaine": "Lucas Walter | AI Automation",
+  "etat": "disponible",
+  "titre": "$24K/Year from this AI Dentist Voice Agent (free n8n template)",
+  "url_chaine": "https://www.youtube.com/@LucasWalterAI",
+  "verifie_le": 1795445335
  },
  "vYCT7cw0ycw": {
   "chaine": "Harvard Mathematics Department",
@@ -2994,6 +3099,13 @@
   "titre": "Shipping a button in 2026…",
   "url_chaine": "https://www.youtube.com/@programmersarealsohuman5909",
   "verifie_le": 1794128561
+ },
+ "xF113aUlZgo": {
+  "chaine": "Clark's Adventure",
+  "etat": "disponible",
+  "titre": "Battery-Powered AIR CONDITIONING on a Sailboat [Capable Cruising Guides]",
+  "url_chaine": "https://www.youtube.com/@Clarks-Adventure",
+  "verifie_le": 1795445335
  },
  "xXCBz_8hM9w": {
   "chaine": "Y Combinator",

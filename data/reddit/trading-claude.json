@@ -1,31 +1,463 @@
 {
  "curseurs": {
   "algotrading|comments": {
-   "plus_ancien": 1783613222,
-   "plus_recent": 1794832729
+   "plus_ancien": 1782973697,
+   "plus_recent": 1795444470
   },
   "algotrading|posts": {
-   "plus_ancien": 1676841156,
-   "plus_recent": 1794831877
+   "plus_ancien": 1662287106,
+   "plus_recent": 1795440562
   },
   "quantfinance|comments": {
-   "plus_ancien": 1791373446,
-   "plus_recent": 1794836287
+   "plus_ancien": 1790664558,
+   "plus_recent": 1795440479
   },
   "quantfinance|posts": {
-   "plus_ancien": 1779802171,
-   "plus_recent": 1794831826
+   "plus_ancien": 1776006342,
+   "plus_recent": 1795447694
   },
   "quant|comments": {
-   "plus_ancien": 1789073815,
-   "plus_recent": 1794827733
+   "plus_ancien": 1786934905,
+   "plus_recent": 1795436831
   },
   "quant|posts": {
-   "plus_ancien": 1728443111,
-   "plus_recent": 1794812441
+   "plus_ancien": 1710784653,
+   "plus_recent": 1795439017
   }
  },
  "elements": {
+  "reddit:103g1hn": {
+   "auteur": "reddit:LiteratureHefty1416",
+   "communaute": "r/algotrading",
+   "date": 1672868683,
+   "fil": "reddit:103g1hn",
+   "id": "reddit:103g1hn",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=Kh7V6hN82VY&feature=share",
+   "titre_fil": "Quit talking, start doing",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/103g1hn/",
+   "videos": [
+    "Kh7V6hN82VY"
+   ]
+  },
+  "reddit:103m9f4": {
+   "auteur": "reddit:teebizy",
+   "communaute": "r/algotrading",
+   "date": 1672883911,
+   "fil": "reddit:103m9f4",
+   "id": "reddit:103m9f4",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=Wh-3U1fUSEo&feature=share",
+   "titre_fil": "BarChart Screener #PennyStocks #Charts #Stocks #trading #education #mone...",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/103m9f4/",
+   "videos": [
+    "Wh-3U1fUSEo"
+   ]
+  },
+  "reddit:104ndxu": {
+   "auteur": "reddit:Background-Buffalo79",
+   "communaute": "r/algotrading",
+   "date": 1672987998,
+   "fil": "reddit:104ndxu",
+   "id": "reddit:104ndxu",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/shorts/HxsGxy10wf8?feature=share",
+   "titre_fil": "anime video 👌👌",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/104ndxu/",
+   "videos": [
+    "HxsGxy10wf8"
+   ]
+  },
+  "reddit:10592o0": {
+   "auteur": "reddit:Status_Time9609",
+   "communaute": "r/algotrading",
+   "date": 1673047581,
+   "fil": "reddit:10592o0",
+   "id": "reddit:10592o0",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/3EDUJ_Lc7lY",
+   "titre_fil": "Free Money!!80% Return Instantly with this Forex Broker!!! Limited Time Only",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/10592o0/",
+   "videos": [
+    "3EDUJ_Lc7lY"
+   ]
+  },
+  "reddit:106skcr": {
+   "auteur": "reddit:teebizy",
+   "communaute": "r/algotrading",
+   "date": 1673207897,
+   "fil": "reddit:106skcr",
+   "id": "reddit:106skcr",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=Sq9BC_LqR-Q&feature=share",
+   "titre_fil": "Covered Calls #optionstrading #stocks #education #wealth #money #financi...",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/106skcr/",
+   "videos": [
+    "Sq9BC_LqR-Q"
+   ]
+  },
+  "reddit:1079om4": {
+   "auteur": "reddit:Ultra133",
+   "communaute": "r/algotrading",
+   "date": 1673255024,
+   "fil": "reddit:1079om4",
+   "id": "reddit:1079om4",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/HhkIRjPpMyk",
+   "titre_fil": "Watch and buy",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/1079om4/",
+   "videos": [
+    "HhkIRjPpMyk"
+   ]
+  },
+  "reddit:109gcbo": {
+   "auteur": "reddit:Icy_Yogurtcloset2540",
+   "communaute": "r/algotrading",
+   "date": 1673472040,
+   "fil": "reddit:109gcbo",
+   "id": "reddit:109gcbo",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=dDCGu9ALX8Y&ab_channel=alegitimatenameindeedmateindeed",
+   "titre_fil": "https://www.youtube.com/watch?v=dDCGu9ALX8Y&ab_channel=alegitimatenameindeedmateindeed",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/109gcbo/",
+   "videos": [
+    "dDCGu9ALX8Y"
+   ]
+  },
+  "reddit:10cdq49": {
+   "auteur": "reddit:teebizy",
+   "communaute": "r/algotrading",
+   "date": 1673767774,
+   "fil": "reddit:10cdq49",
+   "id": "reddit:10cdq49",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=m33DIGm4PPI&feature=share",
+   "titre_fil": "Next Big Thing on ThinkOrSwim : Free Open Interest Script #optionstradin...",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/10cdq49/",
+   "videos": [
+    "m33DIGm4PPI"
+   ]
+  },
+  "reddit:10cwn1k": {
+   "auteur": "reddit:investingpodcastlog",
+   "communaute": "r/algotrading",
+   "date": 1673820804,
+   "fil": "reddit:10cwn1k",
+   "id": "reddit:10cwn1k",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=0TFv8sO394Q&feature=share",
+   "titre_fil": "Podcast: Setting your Goals and Success Plan Up for 2023",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/10cwn1k/",
+   "videos": [
+    "0TFv8sO394Q"
+   ]
+  },
+  "reddit:10ij7yk": {
+   "auteur": "reddit:Background-Buffalo79",
+   "communaute": "r/algotrading",
+   "date": 1674392649,
+   "fil": "reddit:10ij7yk",
+   "id": "reddit:10ij7yk",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/N0j64In1C3A",
+   "titre_fil": "Baldur's gate 3 -Cinematic Trailer",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/10ij7yk/",
+   "videos": [
+    "N0j64In1C3A"
+   ]
+  },
+  "reddit:10im00s": {
+   "auteur": "reddit:ikrambilaholanda",
+   "communaute": "r/algotrading",
+   "date": 1674400860,
+   "fil": "reddit:10im00s",
+   "id": "reddit:10im00s",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=toxEIJ_Ls40&feature=share",
+   "titre_fil": "حقيقة زواج دنيا باطما | شكون العريس غادي تصدمو | ابتسام بطمة تكشف سر ؟",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/10im00s/",
+   "videos": [
+    "toxEIJ_Ls40"
+   ]
+  },
+  "reddit:10jfggx": {
+   "auteur": "reddit:P4QO",
+   "communaute": "r/algotrading",
+   "date": 1674488593,
+   "fil": "reddit:10jfggx",
+   "id": "reddit:10jfggx",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=ytkJpdMKpOc",
+   "titre_fil": "Build your own Cumulative Volume Delta indicator with Python [Chad Thackray vid]",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/10jfggx/",
+   "videos": [
+    "ytkJpdMKpOc"
+   ]
+  },
+  "reddit:10l5w94": {
+   "auteur": "reddit:arbnori12",
+   "communaute": "r/algotrading",
+   "date": 1674671721,
+   "fil": "reddit:10l5w94",
+   "id": "reddit:10l5w94",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/shorts/JIcYpHgxUy4?feature=share",
+   "titre_fil": "#funny",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/10l5w94/",
+   "videos": [
+    "JIcYpHgxUy4"
+   ]
+  },
+  "reddit:10oi9b2": {
+   "auteur": "reddit:ikrambilaholanda",
+   "communaute": "r/algotrading",
+   "date": 1675025549,
+   "fil": "reddit:10oi9b2",
+   "id": "reddit:10oi9b2",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=d89LKYHBYr4&feature=share",
+   "titre_fil": "السر الدي أختفه الفنانة خديجة أسد عن إبنتها قبل وفاتها | كانت خايفة تموت...",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/10oi9b2/",
+   "videos": [
+    "d89LKYHBYr4"
+   ]
+  },
+  "reddit:10p2zav": {
+   "auteur": "reddit:Data_Zero",
+   "communaute": "r/algotrading",
+   "date": 1675087040,
+   "fil": "reddit:10p2zav",
+   "id": "reddit:10p2zav",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/shorts/qX-8pp62gWI?feature=share\n[removed]",
+   "titre_fil": "PROOF! THAT AMC CAN PUSH PAST THE ALL TIME HIGH OF 44$ Using The Basics",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/10p2zav/",
+   "videos": [
+    "qX-8pp62gWI"
+   ]
+  },
+  "reddit:10s9suv": {
+   "auteur": "reddit:Data_Zero",
+   "communaute": "r/algotrading",
+   "date": 1675394855,
+   "fil": "reddit:10s9suv",
+   "id": "reddit:10s9suv",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/48ezShJn93A",
+   "titre_fil": "AMC Stock Is Squeezing!",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/10s9suv/",
+   "videos": [
+    "48ezShJn93A"
+   ]
+  },
+  "reddit:10sqlp7": {
+   "auteur": "reddit:Kkashif34",
+   "communaute": "r/algotrading",
+   "date": 1675446952,
+   "fil": "reddit:10sqlp7",
+   "id": "reddit:10sqlp7",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=q5c1_Qyfppw&feature=share",
+   "titre_fil": "Kaun Kahta Hai Business Karne Ke liye Experiance Ki Jarurat Hoti Hai || ...",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/10sqlp7/",
+   "videos": [
+    "q5c1_Qyfppw"
+   ]
+  },
+  "reddit:10v9klw": {
+   "auteur": "reddit:Data_Zero",
+   "communaute": "r/algotrading",
+   "date": 1675697779,
+   "fil": "reddit:10v9klw",
+   "id": "reddit:10v9klw",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/HCElU9HeuIo",
+   "titre_fil": "Proof that #AMC and #APE are about to see a massive run up the #moass is upon us get ready #amcapes #AMCtothemoon LFG💯⚠️💰",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/10v9klw/",
+   "videos": [
+    "HCElU9HeuIo"
+   ]
+  },
+  "reddit:10vka33": {
+   "auteur": "reddit:Sensitive_Age_2284",
+   "communaute": "r/algotrading",
+   "date": 1675722527,
+   "fil": "reddit:10vka33",
+   "id": "reddit:10vka33",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/36J4e_lBi7w",
+   "titre_fil": "Check it out",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/10vka33/",
+   "videos": [
+    "36J4e_lBi7w"
+   ]
+  },
+  "reddit:10vlg9b": {
+   "auteur": "reddit:teebizy",
+   "communaute": "r/algotrading",
+   "date": 1675725330,
+   "fil": "reddit:10vlg9b",
+   "id": "reddit:10vlg9b",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=m33DIGm4PPI&feature=share",
+   "titre_fil": "Free OI Script : Whale Detection on ThinkOrSwim : #optionstrading #mone...",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/10vlg9b/",
+   "videos": [
+    "m33DIGm4PPI"
+   ]
+  },
+  "reddit:10vlp3c": {
+   "auteur": "reddit:Mountaindrop_",
+   "communaute": "r/algotrading",
+   "date": 1675725947,
+   "fil": "reddit:10vlp3c",
+   "id": "reddit:10vlp3c",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/zHRkh6VB1rE",
+   "titre_fil": "It's live now, please go watch🙏🏾 link :",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/10vlp3c/",
+   "videos": [
+    "zHRkh6VB1rE"
+   ]
+  },
+  "reddit:10xv6ys": {
+   "auteur": "reddit:GeofreyGekood",
+   "communaute": "r/algotrading",
+   "date": 1675950558,
+   "fil": "reddit:10xv6ys",
+   "id": "reddit:10xv6ys",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/hI9RHSlwwFI",
+   "titre_fil": "Pionex Trading Bot|Crypto Trading Bot|",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/10xv6ys/",
+   "videos": [
+    "hI9RHSlwwFI"
+   ]
+  },
+  "reddit:1118brh": {
+   "auteur": "reddit:teebizy",
+   "communaute": "r/algotrading",
+   "date": 1676295158,
+   "fil": "reddit:1118brh",
+   "id": "reddit:1118brh",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=4IVHOlivy7w&feature=share",
+   "titre_fil": "Manipulating ThinkOrSwim Volume #education #money #trading #finance #sto...",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/1118brh/",
+   "videos": [
+    "4IVHOlivy7w"
+   ]
+  },
+  "reddit:111ls3l": {
+   "auteur": "reddit:Beach-Bum-Money",
+   "communaute": "r/algotrading",
+   "date": 1676326676,
+   "fil": "reddit:111ls3l",
+   "id": "reddit:111ls3l",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/live/A4Cm2oew2zs?feature=share",
+   "titre_fil": "STOCK MARKET CRASH WARNING? CPI Inflation Data Incoming & What It Means ...",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/111ls3l/",
+   "videos": [
+    "A4Cm2oew2zs"
+   ]
+  },
+  "reddit:113eaxe": {
+   "auteur": "reddit:Data_Zero",
+   "communaute": "r/algotrading",
+   "date": 1676510490,
+   "fil": "reddit:113eaxe",
+   "id": "reddit:113eaxe",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/pnQDnlOXMUc",
+   "titre_fil": "#AMC stock is about to explode #APE is going to #squeeze! Get ready FTDs due #AMCAPES it's time #moass! https://youtu.be/pnQDnlOXMUc",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/113eaxe/",
+   "videos": [
+    "pnQDnlOXMUc"
+   ]
+  },
+  "reddit:116egre": {
+   "auteur": "reddit:Data_Zero",
+   "communaute": "r/algotrading",
+   "date": 1676820427,
+   "fil": "reddit:116egre",
+   "id": "reddit:116egre",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/W9-c7qgb-Sc",
+   "titre_fil": "check out my New AMC / APE Update I also cover SPY and BTC in the video but mainly focus on AMC and APE I go over all the data D.D and T.A for the stocks! https://youtu.be/W9-c7qgb-Sc",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/116egre/",
+   "videos": [
+    "W9-c7qgb-Sc"
+   ]
+  },
+  "reddit:116m5vu": {
+   "auteur": "reddit:ReplaceAll",
+   "communaute": "r/algotrading",
+   "date": 1676836280,
+   "fil": "reddit:116m5vu",
+   "id": "reddit:116m5vu",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/C97Ou0CDiiM",
+   "titre_fil": "625% ROI Per Month Config MATICUSDT",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/116m5vu/",
+   "videos": [
+    "C97Ou0CDiiM"
+   ]
+  },
   "reddit:11cnt86": {
    "auteur": "reddit:eldany001",
    "communaute": "r/algotrading",
@@ -1770,6 +2202,22 @@
     "1Ic2MAftji4"
    ]
   },
+  "reddit:19sw99mgn9e03": {
+   "auteur": "reddit:-xXpurplypunkXx-",
+   "communaute": "r/quant",
+   "date": 1795134039,
+   "fil": "reddit:1y0cdwt",
+   "id": "reddit:19sw99mgn9e03",
+   "mots": [],
+   "source": "reddit",
+   "texte": "A popular youtube video did this recently with oil storage, including time of day correction: https://www.youtube.com/watch?v=VJm9BBJwMDY",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/quant/comments/1y0cdwt/_/19sw99mgn9e03/",
+   "videos": [
+    "VJm9BBJwMDY"
+   ]
+  },
   "reddit:1acmm9u": {
    "auteur": "reddit:dallibab",
    "communaute": "r/algotrading",
@@ -1978,6 +2426,22 @@
     "d8kvLRj3mCg"
    ]
   },
+  "reddit:1bjkvce": {
+   "auteur": "reddit:betterre",
+   "communaute": "r/quant",
+   "date": 1710960069,
+   "fil": "reddit:1bjkvce",
+   "id": "reddit:1bjkvce",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/gi1e_22x4Bs?feature=shared\n[removed]",
+   "titre_fil": "Wall Street (1987) - Sheep get slaughtered (HD)",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1bjkvce/",
+   "videos": [
+    "gi1e_22x4Bs"
+   ]
+  },
   "reddit:1bpxrp4": {
    "auteur": "reddit:SamuelAnonymous",
    "communaute": "r/algotrading",
@@ -2154,6 +2618,38 @@
     "d54oc0bNlfU"
    ]
   },
+  "reddit:1c35es2": {
+   "auteur": "reddit:WiseInterest885",
+   "communaute": "r/quant",
+   "date": 1713024405,
+   "fil": "reddit:1c35es2",
+   "id": "reddit:1c35es2",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/quant/comments/1c35es2/dont_buy_thequantguidecom_course_the_ultimate/\nI bought TheQuantGuide's interview prep course (thequantguide.com) for $3499. I’m creating a throw-away account and writing with a few months delay because (1) I’m embarrassed for having paid for the course and (2) I don’t want the creators of the course to identify me (they know my real name and other personal information).\n\nSummary: The course is not literally a scam, but they use dishonest marketing and it’s comparable to other resources which are cheaper/free and better. I bought the Quant Guide course based on very positive reviews on reddit and a blog post by someone called “Jack Doherty”. In hindsight, I could have realized these reviews were fake if I had done more research\n\nInitially I signed up for the intro call through a link on their website. I received an invitation from [[e-mail masqué]](mailto:[e-mail masqué]), which didn’t include any name. I had an intro call with someone who introduced himself as Aaron. Aaron claimed to have worked as a quant for Citadel for 3 years. He seemed very convincing and charismatic. Even though I was doubting myself, he said I have a high chance of getting a job at a top tier firm if I put enough effort and read all their materials.\n\nI couldn’t find Aaron on LinkedIn or any other social media. Aaron didn’t disclose his last name. In fact, in all my future interactions with them I never saw anyone’s full name - the person’s name was alway […]",
+   "titre_fil": "Don't buy TheQuantGuide.com course (The Ultimate Quant Interview Preparation)",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1c35es2/",
+   "videos": [
+    "nBzy5LDHqjY"
+   ]
+  },
+  "reddit:1c7jxyp": {
+   "auteur": "reddit:QuantPhil",
+   "communaute": "r/quant",
+   "date": 1713488262,
+   "fil": "reddit:1c7jxyp",
+   "id": "reddit:1c7jxyp",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/quant/comments/1c7jxyp/formulas_for_risk_free_rate_and_volatility_in/\nI was looking at a tutorial to create the Black Sholes option pricing model in excel and 2 of the inputs were simply assumed.\n\nRisk Free Rate : 0.1 \nVolatility : 0.2\n\nhttps://www.youtube.com/watch?v=J6OySvT-PDE\n\nHow would you formulate a good estimate of these 2 parameters?",
+   "titre_fil": "Formulas for Risk free rate and Volatility in BackScholes?",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1c7jxyp/",
+   "videos": [
+    "J6OySvT-PDE"
+   ]
+  },
   "reddit:1c88m7r": {
    "auteur": "reddit:simplepicksio",
    "communaute": "r/algotrading",
@@ -2186,6 +2682,22 @@
     "wIOmph9C_Hg"
    ]
   },
+  "reddit:1cdo82l": {
+   "auteur": "reddit:itchingpixels",
+   "communaute": "r/quant",
+   "date": 1714145105,
+   "fil": "reddit:1cdo82l",
+   "id": "reddit:1cdo82l",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/quant/comments/1cdo82l/ability_to_export_from_bloomberg_teminal_via_api/\nHi,  \n I'm looking to export data for non-market time series (macroeconomic data, various indices) from Bloomberg / Eikon. Is this something that can be done easily with Bloomberg terminal (or Eikon) if I subscribe?\n\nAka if I run a local bloomberg terminal instance, can I connect to it and fetch any data via the API that's exposed locally?\n\nPeople post tutorials to youtube (eg. [https://www.youtube.com/watch?v=jyJ3tHGgFXk](https://www.youtube.com/watch?v=jyJ3tHGgFXk)), it looks like this is possible and I'd not need to pay extra for the API access, just the \"normal\" Bloomberg Terminal subscription?\n\nThanks for enlightening me!",
+   "titre_fil": "Ability to export from Bloomberg Teminal via API without additional subscription?",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1cdo82l/",
+   "videos": [
+    "jyJ3tHGgFXk"
+   ]
+  },
   "reddit:1cg048f": {
    "auteur": "reddit:IndicatorSavvy__com",
    "communaute": "r/algotrading",
@@ -2200,6 +2712,54 @@
    "url": "https://www.reddit.com/r/algotrading/comments/1cg048f/",
    "videos": [
     "R9qpiJxArxM"
+   ]
+  },
+  "reddit:1chwpbg": {
+   "auteur": "reddit:Leandro_Quant",
+   "communaute": "r/quant",
+   "date": 1714596216,
+   "fil": "reddit:1chwpbg",
+   "id": "reddit:1chwpbg",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/gVt6RvTs_T8?si=QMufhyKXcFqx1Eey\n[removed]",
+   "titre_fil": "Generative AI in Quant Finance (IB, Hedge Funds, Fintech...)",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1chwpbg/",
+   "videos": [
+    "gVt6RvTs_T8"
+   ]
+  },
+  "reddit:1chyz8b": {
+   "auteur": "reddit:Leandro_Quant",
+   "communaute": "r/quant",
+   "date": 1714601697,
+   "fil": "reddit:1chyz8b",
+   "id": "reddit:1chyz8b",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/gVt6RvTs_T8?si=N8NYBdkMUWkJuGHC\n[CONTEXT] I am currently working in Quant front office role at a major european bank and I also made a bunch of interviews for quant finance roles. Based on what I saw and the questions asked by my colleagues during interviews. I conclude that GANs were a pretty hot topic today. So I think it could be interesting for your own culture (and use this in future interviews if you are concerned) to présent you a small intro to GANs and their applications. \n\nHello everyone,\n\nI realised a video that present GANs, and their real applications in finance (IB, regulatory entities or fintech).\nThe 3 examples used here are:\n- JP Morgan \n- American Express \n- Financial Conduct authority\n\nI let you discover it if you want to.\n\nHope you enjoy ! \n\nP.S: I messaged the admin and they are okay that I share some stuff I make as long as you like it :)",
+   "titre_fil": "Generative AI in Quant Finance (IB, Hedge Funds, Fintech,...)",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1chyz8b/",
+   "videos": [
+    "gVt6RvTs_T8"
+   ]
+  },
+  "reddit:1cjg9f9": {
+   "auteur": "reddit:nmierfin",
+   "communaute": "r/quant",
+   "date": 1714762122,
+   "fil": "reddit:1cjg9f9",
+   "id": "reddit:1cjg9f9",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/quant/comments/1cjg9f9/i_made_a_video_explaining_the_concept_of_constant/\nAbout two months ago I made a post on this subreddit highlighting how I designed a bot that executed the Universal Portfolio algorithm through Interactive Brokers' API.\n\nI also designed a back-testing system to test the results of the bot (which looked pretty promising at the time). The link to the previous post can be found here: [I designed a custom made trading bot that uses Thomas Cover's Universal Portfolio algorithm : r/quant (reddit.com)](https://www.reddit.com/r/quant/comments/1bk7h7r/i_designed_a_custom_made_trading_bot_that_uses/)\n\nAll that being said, all of this stuff can be quite technical for the lay person and there are not many resources out there that explain these key concepts in portfolio selection (other than maybe the papers themselves) or textbooks on information theory.\n\nTherefore, I took it upon myself to post a video explaining the topic and it's potential uses in trading stocks.\n\nHope you like it.\n\nThe video can be found here:\n\n[How to achieve THEORETICAL EXPONENTIAL RETURNS: The Universal Portfolio Algorithm (youtube.com)](https://www.youtube.com/watch?v=kQLNRqgufWo&t=14s&ab_channel=InfernoTradingInc.)",
+   "titre_fil": "I made a video explaining the concept of constant rebalanced portfolios and how the Universal Portfolio algorithm can be used to \"learn\" such optimum constant rebalanced portfolio",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1cjg9f9/",
+   "videos": [
+    "kQLNRqgufWo"
    ]
   },
   "reddit:1cjlj9r": {
@@ -2234,6 +2794,102 @@
     "D6a8Xx5XKJ0"
    ]
   },
+  "reddit:1cm98um": {
+   "auteur": "reddit:ThisUserForMaths",
+   "communaute": "r/quant",
+   "date": 1715080020,
+   "fil": "reddit:1cm98um",
+   "id": "reddit:1cm98um",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/8KULmxz97mM?si=pfFZRUkIVUnPL8fL",
+   "titre_fil": "Won't Somebody Please Think of The Traders??",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1cm98um/",
+   "videos": [
+    "8KULmxz97mM"
+   ]
+  },
+  "reddit:1cmmcy6": {
+   "auteur": "reddit:diogenesFIRE",
+   "communaute": "r/quant",
+   "date": 1715115135,
+   "fil": "reddit:1cmmcy6",
+   "id": "reddit:1cmmcy6",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=PTUY16CkS-k",
+   "titre_fil": "With the Fed keeping interest rates higher for longer, here's a throwback to 15 years ago when they did the opposite",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1cmmcy6/",
+   "videos": [
+    "PTUY16CkS-k"
+   ]
+  },
+  "reddit:1cuahza": {
+   "auteur": "reddit:ThisUserForMaths",
+   "communaute": "r/quant",
+   "date": 1715965472,
+   "fil": "reddit:1cuahza",
+   "id": "reddit:1cuahza",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/PfdJoGXEYTo?si=n7F3ffHecC6zL8d-",
+   "titre_fil": "OIS Discounting - Curve Bootstrapping - Part 1: The Theory",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1cuahza/",
+   "videos": [
+    "PfdJoGXEYTo"
+   ]
+  },
+  "reddit:1cv5y7v": {
+   "auteur": "reddit:DullStore5681",
+   "communaute": "r/quant",
+   "date": 1716062672,
+   "fil": "reddit:1cv5y7v",
+   "id": "reddit:1cv5y7v",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/quant/comments/1cv5y7v/video_on_intuitive_explanation_of_mean_reversion/\nHello everyone,\n\nI found a video talking about the fundamentals of mean reversion. It also goes over two mean reversion strategies called passive aggressive mean reversion and anticorrelation.\n\nHopefully you can find it useful.\n\n[https://www.youtube.com/watch?v=EUJJFALM7oc](https://www.youtube.com/watch?v=EUJJFALM7oc)",
+   "titre_fil": "Video on intuitive explanation of mean reversion with example strategies",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1cv5y7v/",
+   "videos": [
+    "EUJJFALM7oc"
+   ]
+  },
+  "reddit:1cv86nr": {
+   "auteur": "reddit:nmierfin",
+   "communaute": "r/quant",
+   "date": 1716068833,
+   "fil": "reddit:1cv86nr",
+   "id": "reddit:1cv86nr",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/quant/comments/1cv86nr/nifty_mean_reversion_strategies/\nFor those of you who are new to trading equities they might find this video informative​. It talks about how the volatility of stocks that revert to their average can be exploited for profit.\n\nThe two strategies it highlights are the passive aggressive mean reversion and anticorrelation.\n\nHopefully you find this interesting.\n\nThe video can be found here:\n\n[https://www.youtube.com/watch?v=EUJJFALM7oc](https://www.youtube.com/watch?v=EUJJFALM7oc)",
+   "titre_fil": "Nifty mean reversion strategies",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1cv86nr/",
+   "videos": [
+    "EUJJFALM7oc"
+   ]
+  },
+  "reddit:1cvk7qs": {
+   "auteur": "reddit:lampishthing",
+   "communaute": "r/quant",
+   "date": 1716110139,
+   "fil": "reddit:1cvk7qs",
+   "id": "reddit:1cvk7qs",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/fBEqbYgs0Zg?si=zyG0Rj0O4q3pFCJv",
+   "titre_fil": "Japan Spent 60 Billion Dollars Defending The Yen",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1cvk7qs/",
+   "videos": [
+    "fBEqbYgs0Zg"
+   ]
+  },
   "reddit:1cxge27": {
    "auteur": "reddit:Ill-Note882",
    "communaute": "r/algotrading",
@@ -2248,6 +2904,22 @@
    "url": "https://www.reddit.com/r/algotrading/comments/1cxge27/",
    "videos": [
     "e0dGVnuWq9k"
+   ]
+  },
+  "reddit:1cyf6ab": {
+   "auteur": "reddit:Tacoslim",
+   "communaute": "r/quant",
+   "date": 1716422244,
+   "fil": "reddit:1cyf6ab",
+   "id": "reddit:1cyf6ab",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/AyJdUFeYHYs?si=5Cx1KbZzZqqISjeo",
+   "titre_fil": "Sources of Uncorrelated Returns",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1cyf6ab/",
+   "videos": [
+    "AyJdUFeYHYs"
    ]
   },
   "reddit:1d4he8c": {
@@ -2278,6 +2950,22 @@
    "titre_fil": "You Won't Believe These 3 Undervalued AI Stocks That Could Make You Rich!",
    "type": "article",
    "url": "https://www.reddit.com/r/algotrading/comments/1d4rfck/",
+   "videos": [
+    "xsHrlx9ebEI"
+   ]
+  },
+  "reddit:1d4rfmu": {
+   "auteur": "reddit:EandH_ENT",
+   "communaute": "r/quant",
+   "date": 1717147235,
+   "fil": "reddit:1d4rfmu",
+   "id": "reddit:1d4rfmu",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/xsHrlx9ebEI?si=yWfGh4TeDNYPYxI2",
+   "titre_fil": "You Won't Believe These 3 Undervalued AI Stocks That Could Make You Rich!",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1d4rfmu/",
    "videos": [
     "xsHrlx9ebEI"
    ]
@@ -2362,6 +3050,38 @@
     "HjODj2JIA_8"
    ]
   },
+  "reddit:1dc76lo": {
+   "auteur": "reddit:UndeniableSchkleem",
+   "communaute": "r/quant",
+   "date": 1717974973,
+   "fil": "reddit:1dc76lo",
+   "id": "reddit:1dc76lo",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/394MFdZRZHw?si=FqJkD7tDlERN1jDj",
+   "titre_fil": "Pretty sweet teaser video ;]",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1dc76lo/",
+   "videos": [
+    "394MFdZRZHw"
+   ]
+  },
+  "reddit:1dg3xaa": {
+   "auteur": "reddit:nmierfin",
+   "communaute": "r/quant",
+   "date": 1718406399,
+   "fil": "reddit:1dg3xaa",
+   "id": "reddit:1dg3xaa",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://m.youtube.com/watch?v=EZU_FbW3MvM&t",
+   "titre_fil": "I found a video where one made and implemented a fully fledged bot using interactive brokers",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1dg3xaa/",
+   "videos": [
+    "EZU_FbW3MvM"
+   ]
+  },
   "reddit:1doqtgo": {
    "auteur": "reddit:West-Example-8623",
    "communaute": "r/algotrading",
@@ -2378,6 +3098,118 @@
     "HZGCoVF3YvM"
    ]
   },
+  "reddit:1dqi2tl": {
+   "auteur": "reddit:WeakGoal8694",
+   "communaute": "r/quant",
+   "date": 1719576421,
+   "fil": "reddit:1dqi2tl",
+   "id": "reddit:1dqi2tl",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/quant/comments/1dqi2tl/video_series_on_market_making_and_quant_interviews/\nMe and a friend received offers from 6 top trading firms. Since we both came from a non-target university in Germany where quant is basically non-existent, preparing for the interviews was quite challenging. We created a video series that focuses on building the intuition and deeper level understanding behind market making/trading interviews. We know that self-promotion is not appreciated here, however, we truly believe that our series is a valuable resource since the huge number of duplicate question lists can be overwhelming, especially for beginners just trying to get into the industry. You can check out a chapter of the course covering an intro to market making here: [https://youtu.be/Q7RUnxQBS5U?si=PHpfDg\\_LZ336ns4z](https://youtu.be/Q7RUnxQBS5U?si=PHpfDg_LZ336ns4z). The full course includes considerably more content ranging from videos on topics such as online assessments, basic interview tips to problem solving, math problems, betting games, and more ([https://www.quantintuition.com/](https://www.quantintuition.com/)).   \n  \nIf you have any feedback or comments on how we could improve this, we would be more than happy to hear these (e.g. via DMs or below). Else feel free to ask us questions that you might have.",
+   "titre_fil": "Video series on Market Making and quant interviews",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1dqi2tl/",
+   "videos": [
+    "Q7RUnxQBS5U"
+   ]
+  },
+  "reddit:1drp032": {
+   "auteur": "reddit:QAnon-OG",
+   "communaute": "r/quant",
+   "date": 1719706768,
+   "fil": "reddit:1drp032",
+   "id": "reddit:1drp032",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=gpJCL2ZuSDU&t=9s",
+   "titre_fil": "Hi, I started a youtube channel for quant questions, please give me feedback :)",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1drp032/",
+   "videos": [
+    "gpJCL2ZuSDU"
+   ]
+  },
+  "reddit:1drp2sj": {
+   "auteur": "reddit:QAnon-OG",
+   "communaute": "r/quant",
+   "date": 1719707013,
+   "fil": "reddit:1drp2sj",
+   "id": "reddit:1drp2sj",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=gpJCL2ZuSDU&t=9s",
+   "titre_fil": "Hi, I started a youtube channel for quant questions, please give me feedback :)",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1drp2sj/",
+   "videos": [
+    "gpJCL2ZuSDU"
+   ]
+  },
+  "reddit:1dtwn2x": {
+   "auteur": "reddit:QAnon-OG",
+   "communaute": "r/quant",
+   "date": 1719954139,
+   "fil": "reddit:1dtwn2x",
+   "id": "reddit:1dtwn2x",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=dCAeg-DCEgs",
+   "titre_fil": "Super intro video for quant questions - please give feedback",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1dtwn2x/",
+   "videos": [
+    "dCAeg-DCEgs"
+   ]
+  },
+  "reddit:1duh1zr": {
+   "auteur": "reddit:QAnon-OG",
+   "communaute": "r/quant",
+   "date": 1720020204,
+   "fil": "reddit:1duh1zr",
+   "id": "reddit:1duh1zr",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=j3f0yywTFPQ&t=1s",
+   "titre_fil": "Quant Questions YT Channel - There seems to be a lack of channels on quant questions, so we've started one, please support and subscribe!",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1duh1zr/",
+   "videos": [
+    "j3f0yywTFPQ"
+   ]
+  },
+  "reddit:1dw0e7t": {
+   "auteur": "reddit:Svenicius",
+   "communaute": "r/quant",
+   "date": 1720192598,
+   "fil": "reddit:1dw0e7t",
+   "id": "reddit:1dw0e7t",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/live/ocP2-qVsfsY?si=flWIxRlnbOYQJCXz\n[removed]",
+   "titre_fil": "For non-tradionals",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1dw0e7t/",
+   "videos": [
+    "ocP2-qVsfsY"
+   ]
+  },
+  "reddit:1e07ybi": {
+   "auteur": "reddit:QuarterAlone1767",
+   "communaute": "r/quant",
+   "date": 1720648049,
+   "fil": "reddit:1e07ybi",
+   "id": "reddit:1e07ybi",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/quant/comments/1e07ybi/jane_street_quant_trading_mock_interview_video/\nThis quant trading mock interview [https://www.youtube.com/watch?v=Rc1NcUdOti4](https://www.youtube.com/watch?v=Rc1NcUdOti4) has no finance questions or stochastic calculus, just probability questions and brainteasers. Is this an accurate representation? How does being good at brainteasers have any bearing to algorithmic trading and quant jobs at HFT firms?",
+   "titre_fil": "Jane Street quant trading mock interview video",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1e07ybi/",
+   "videos": [
+    "Rc1NcUdOti4"
+   ]
+  },
   "reddit:1e0v9ir": {
    "auteur": "reddit:shock_and_awful",
    "communaute": "r/algotrading",
@@ -2392,6 +3224,22 @@
    "url": "https://www.reddit.com/r/algotrading/comments/1e0v9ir/",
    "videos": [
     "fbPfoH_Iiug"
+   ]
+  },
+  "reddit:1e28j67": {
+   "auteur": "reddit:FLQuant",
+   "communaute": "r/quant",
+   "date": 1720871293,
+   "fil": "reddit:1e28j67",
+   "id": "reddit:1e28j67",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/quant/comments/1e28j67/cool_youtube_channels/\nA while ago I came across the [Veritasium ](https://www.youtube.com/watch?v=A5w-dEgIU1M)video about BS. It is just an introduction, but it is really good. I realized that I don't know any quant \"entertainment\" channel. Channels like Veritasium, 3b1b, Stand-up Maths... are informative yet nice to watch while having lunch.\n\nDoes any one aware of quant Youtube channel like those?",
+   "titre_fil": "Cool Youtube channels? ",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1e28j67/",
+   "videos": [
+    "A5w-dEgIU1M"
    ]
   },
   "reddit:1e61o71": {
@@ -2442,6 +3290,38 @@
     "-Me3minlA_I"
    ]
   },
+  "reddit:1eh9txu": {
+   "auteur": "reddit:VaheAG",
+   "communaute": "r/quant",
+   "date": 1722494000,
+   "fil": "reddit:1eh9txu",
+   "id": "reddit:1eh9txu",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/quant/comments/1eh9txu/introduction_to_the_ornsteinuhlenbeck_process/\nHi quant community! I recorded my first short educational video on the Ornstein-Uhlenbeck process -- I'm sure a well-known stochastic process to you with applications in basic and applied sciences. I cover its basic statistical properties, with an emphasis on visual illustrations and explaining how two competing \"forces\" (deterministic and stochastic) dictate its dynamics. I hope the video offers a new perspective to you that's not available elsewhere. You can watch it here: [https://www.youtube.com/watch?v=vFjW-tSR0IQ](https://www.youtube.com/watch?v=vFjW-tSR0IQ)",
+   "titre_fil": "Introduction to the Ornstein-Uhlenbeck process",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1eh9txu/",
+   "videos": [
+    "vFjW-tSR0IQ"
+   ]
+  },
+  "reddit:1ehrneh": {
+   "auteur": "reddit:QAnon-OG",
+   "communaute": "r/quant",
+   "date": 1722545906,
+   "fil": "reddit:1ehrneh",
+   "id": "reddit:1ehrneh",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=Xex3ODwoO64&list=PL3U3Bj11pyg76ihoI1056vKVo7BAYIG9h",
+   "titre_fil": "This year, I started a youtube channel focused on Quant Interview Questions, if you haven't stumbled upon it yet, check it out, it may prove useful in your prep - Feedback is always appreciated :)",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1ehrneh/",
+   "videos": [
+    "Xex3ODwoO64"
+   ]
+  },
   "reddit:1enbjlo": {
    "auteur": "reddit:hidoy709",
    "communaute": "r/algotrading",
@@ -2474,6 +3354,22 @@
     "AJceIeMQbS4"
    ]
   },
+  "reddit:1eofrjk": {
+   "auteur": "reddit:Julianprime123",
+   "communaute": "r/quant",
+   "date": 1723249901,
+   "fil": "reddit:1eofrjk",
+   "id": "reddit:1eofrjk",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/quant/comments/1eofrjk/using_heston_volatility_model_to_derive/\nI am working with complementary option data (end-of-day quotes) for Bitcoin, obtained from the Deribit exchange. My objective is to extract smooth risk-neutral densities. Initially, I attempted to numerically second-differentiate the call surface (for a given day) to directly obtain the risk-neutral densities. This approach turned out to be problematic, even after applying various filtering methods, such as removing low-volume options and options beyond certain moneyness or spreads. My research suggests that most options data is too noisy to directly extract smooth and no-arbitrage densities. Consequently, I decided to use the following procedure (that I think is more or less consistent with industry) for each day:\n\n  \n1. Remove zero volume options from the call surface.\n\n2. Calibrate a Heston stochastic volatility model to the call surface, obtaining the 5 parameters. The exact procedure was followed from [https://www.youtube.com/watch?v=Jy4\\_AVEyO0w](https://www.youtube.com/watch?v=Jy4_AVEyO0w) . \n\n3. Feed the estimated Heston parameters back into the Heston model and generate a set call options that expire in 3 months on a denser strike grid of (0.05 current trading price, 3x current trading price), using equally spaced intervals of L/1000 where L is the difference between the ends of the interval. \n\nNow this is where I may run into trouble with my understanding. My understanding is th […]",
+   "titre_fil": "Using Heston volatility model to derive option-implied densities. Correct or no?",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1eofrjk/",
+   "videos": [
+    "Jy4_AVEyO0w"
+   ]
+  },
   "reddit:1eov926": {
    "auteur": "reddit:bitcoinfinance3",
    "communaute": "r/algotrading",
@@ -2488,6 +3384,22 @@
    "url": "https://www.reddit.com/r/algotrading/comments/1eov926/",
    "videos": [
     "NdZtkSVu5k0"
+   ]
+  },
+  "reddit:1eoznjn": {
+   "auteur": "reddit:WeakGoal8694",
+   "communaute": "r/quant",
+   "date": 1723313851,
+   "fil": "reddit:1eoznjn",
+   "id": "reddit:1eoznjn",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/quant/comments/1eoznjn/simple_options_pricing_on_coin_flip_contract/\nI made a short video showcasing how you don't need any options pricing models to price an option on a simple binary outcome such as a coin flip. Let me know if you have any thoughts on this\n\n[https://www.youtube.com/watch?v=e3eAsjvf7ns](https://www.youtube.com/watch?v=e3eAsjvf7ns)",
+   "titre_fil": "Simple options pricing on coin flip contract",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1eoznjn/",
+   "videos": [
+    "e3eAsjvf7ns"
    ]
   },
   "reddit:1eqd9hd": {
@@ -2522,6 +3434,22 @@
     "AL3C909aK4k"
    ]
   },
+  "reddit:1ernp3k": {
+   "auteur": "reddit:winmacintosh95",
+   "communaute": "r/quant",
+   "date": 1723595350,
+   "fil": "reddit:1ernp3k",
+   "id": "reddit:1ernp3k",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/TpaC48e4kZk?feature=shared\n[removed]",
+   "titre_fil": "My Channel",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1ernp3k/",
+   "videos": [
+    "TpaC48e4kZk"
+   ]
+  },
   "reddit:1es7q4r": {
    "auteur": "reddit:shrimpsonnn",
    "communaute": "r/algotrading",
@@ -2534,6 +3462,22 @@
    "titre_fil": "Code a Complete SMA BACKTEST in Under 10 Minutes | DEMO",
    "type": "article",
    "url": "https://www.reddit.com/r/algotrading/comments/1es7q4r/",
+   "videos": [
+    "rDrvlEdWeUE"
+   ]
+  },
+  "reddit:1es7rhv": {
+   "auteur": "reddit:shrimpsonnn",
+   "communaute": "r/quant",
+   "date": 1723656905,
+   "fil": "reddit:1es7rhv",
+   "id": "reddit:1es7rhv",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=rDrvlEdWeUE&si=Aer6UEnfL2P_85lH",
+   "titre_fil": "Code a Complete SMA BACKTEST in Under 10 Minutes | DEMO",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1es7rhv/",
    "videos": [
     "rDrvlEdWeUE"
    ]
@@ -2570,6 +3514,22 @@
     "rhjf6PCtSWw"
    ]
   },
+  "reddit:1f0vpo1": {
+   "auteur": "reddit:QAnon-OG",
+   "communaute": "r/quant",
+   "date": 1724590600,
+   "fil": "reddit:1f0vpo1",
+   "id": "reddit:1f0vpo1",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=cxYz4rZaYgA",
+   "titre_fil": "Hi, I know the quant space has been a black box for newcomers, so I've been working on my own personal project to break that. Right now I've been posting youtube videos going over simple problems that anyone interested in quant interview questions can do. here's my recent video for Jane Street ",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1f0vpo1/",
+   "videos": [
+    "cxYz4rZaYgA"
+   ]
+  },
   "reddit:1f37jkb": {
    "auteur": "reddit:SofexAlgorithms",
    "communaute": "r/algotrading",
@@ -2602,6 +3562,54 @@
     "HiVeHvyjUxM"
    ]
   },
+  "reddit:1f4bp6z": {
+   "auteur": "reddit:QAnon-OG",
+   "communaute": "r/quant",
+   "date": 1724961039,
+   "fil": "reddit:1f4bp6z",
+   "id": "reddit:1f4bp6z",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=ud4yzeBnNGQ",
+   "titre_fil": "A while back we started a quant interview question youtube channel, here's a video one of the users of our platform made for us, leave your thoughts on it to help him grow ",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1f4bp6z/",
+   "videos": [
+    "ud4yzeBnNGQ"
+   ]
+  },
+  "reddit:1f5ccng": {
+   "auteur": "reddit:QAnon-OG",
+   "communaute": "r/quant",
+   "date": 1725069482,
+   "fil": "reddit:1f5ccng",
+   "id": "reddit:1f5ccng",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=57inG8VRxGE",
+   "titre_fil": "the quant space has definitely been a black box that I want to open for newcomers. I'm trying to do this by making youtube videos on simpl questions. This is a super popular quant question mentioned in TED by Alex Gendler, here's our own take on the Greedy Pirates problem - please subscribe!",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1f5ccng/",
+   "videos": [
+    "57inG8VRxGE"
+   ]
+  },
+  "reddit:1f5cdps": {
+   "auteur": "reddit:QAnon-OG",
+   "communaute": "r/quant",
+   "date": 1725069578,
+   "fil": "reddit:1f5cdps",
+   "id": "reddit:1f5cdps",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=57inG8VRxGE",
+   "titre_fil": "the quant space has definitely been a black box and I want to open it for newcomers. I'm doing this by making youtube videos on simple questions. This is a super popular quant question mentioned in TED by Alex Gendler, here's our own take on the Greedy Pirates brainteaser problem - pls subscribe!\n",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1f5cdps/",
+   "videos": [
+    "57inG8VRxGE"
+   ]
+  },
   "reddit:1f5qweo": {
    "auteur": "reddit:Asgharkhanacca",
    "communaute": "r/algotrading",
@@ -2616,6 +3624,70 @@
    "url": "https://www.reddit.com/r/algotrading/comments/1f5qweo/",
    "videos": [
     "p66BDvE_Gx0"
+   ]
+  },
+  "reddit:1f794qp": {
+   "auteur": "reddit:QAnon-OG",
+   "communaute": "r/quant",
+   "date": 1725289842,
+   "fil": "reddit:1f794qp",
+   "id": "reddit:1f794qp",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=nusCR4WY2RA",
+   "titre_fil": "Finally passed the 20th video mark with our 21st for our Quant Interview Question channel - growing this channel has been a great summer pass time for my friends and I. If you guys haven't seen it yet check it out. ",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1f794qp/",
+   "videos": [
+    "nusCR4WY2RA"
+   ]
+  },
+  "reddit:1f8907x": {
+   "auteur": "reddit:QAnon-OG",
+   "communaute": "r/quant",
+   "date": 1725391924,
+   "fil": "reddit:1f8907x",
+   "id": "reddit:1f8907x",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=RjNTdLEECN4",
+   "titre_fil": "Everything you need to know to take your first step in becoming a quant researcher, trader, or developer  ",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1f8907x/",
+   "videos": [
+    "RjNTdLEECN4"
+   ]
+  },
+  "reddit:1f89wka": {
+   "auteur": "reddit:QAnon-OG",
+   "communaute": "r/quant",
+   "date": 1725394087,
+   "fil": "reddit:1f89wka",
+   "id": "reddit:1f89wka",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/quant/comments/1f89wka/i_decided_to_start_a_quant_youtube_channel_i/\nHere's a link to the video: [https://www.youtube.com/watch?v=RjNTdLEECN4](https://www.youtube.com/watch?v=RjNTdLEECN4)",
+   "titre_fil": " I decided to start a quant youtube channel, I didn't think I'd keep it going for as long as I have, as of now we're up to 30 videos and almost 500 subscribers. As a request from some friends and my audience I made a video on the very basics of quant finance. Check it out at Quant Questions IO ",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1f89wka/",
+   "videos": [
+    "RjNTdLEECN4"
+   ]
+  },
+  "reddit:1f8isb6": {
+   "auteur": "reddit:Impossible-Cup2925",
+   "communaute": "r/quant",
+   "date": 1725418383,
+   "fil": "reddit:1f8isb6",
+   "id": "reddit:1f8isb6",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/yxqTervPZe8?si=2BTlSDNNDHaWFEsn\nReally enjoyed this episode. Thanks Gappy  for sharing insights. Your gardening is a blessing.",
+   "titre_fil": "Gappy talks quant",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1f8isb6/",
+   "videos": [
+    "yxqTervPZe8"
    ]
   },
   "reddit:1f8v70e": {
@@ -2650,6 +3722,86 @@
     "UY-qBYnx7n8"
    ]
   },
+  "reddit:1fex42e": {
+   "auteur": "reddit:Live_Construction_12",
+   "communaute": "r/quant",
+   "date": 1726127547,
+   "fil": "reddit:1fex42e",
+   "id": "reddit:1fex42e",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/quant/comments/1fex42e/any_better_online_resource_than_mit_quant_course/\nIm talking about this course [https://www.youtube.com/watch?v=wvXDB9dMdEo&list=PLCRPN3Z81LCIZ7543AvRjWfzSC15K7l-X](https://www.youtube.com/watch?v=wvXDB9dMdEo&list=PLCRPN3Z81LCIZ7543AvRjWfzSC15K7l-X) \n\nI know its good but still wanted to ask if anyone knows a better resource / lectures for quantitative finance? Also do you think the fact that MIT course is from 9 years ago is bad or doesnt really matter? Thanks",
+   "titre_fil": "Any better online resource than MIT Quant course?",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1fex42e/",
+   "videos": [
+    "wvXDB9dMdEo"
+   ]
+  },
+  "reddit:1ffw4gw": {
+   "auteur": "reddit:ThisUserForMaths",
+   "communaute": "r/quant",
+   "date": 1726237738,
+   "fil": "reddit:1ffw4gw",
+   "id": "reddit:1ffw4gw",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/bqr2lp-NsoQ?si=MiyMEwfsghv7H_oL\nThis is part 2 of our series on swap curve bootstrapping!\n\nIn this video, we show an example in Excel which is actually a complete parallel implementation of the bootstrapping calculations happening in ORE. \nEverything presented in the spreadsheet has a corresponding implementation in C++, with the exact same data and the exact same results.",
+   "titre_fil": "OIS Discounting - Curve Bootstrapping - Part 2: The Practice",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1ffw4gw/",
+   "videos": [
+    "bqr2lp-NsoQ"
+   ]
+  },
+  "reddit:1fiuika": {
+   "auteur": "reddit:Gheeas",
+   "communaute": "r/quant",
+   "date": 1726564803,
+   "fil": "reddit:1fiuika",
+   "id": "reddit:1fiuika",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/quant/comments/1fiuika/being_a_quantitative_trader/\nThere are levels to this field.\n\nIt does not take long for someone with a computer science background to get the basics of HOW to algorithmically trade, and how to backtest through python, and the baseline statistics that you need to check (STD of returns, Max drawdown, Kurt, Skew, etc). A few weeks to a month by far if he doesn't have a stats background. This is just dipping your toe in the water.\n\nIt is unbelievable how complex it can get for a novice mathematician. Just watched a video on James Simons explaining the origins of his Cherns Simons theory that you can find [here](https://youtu.be/8VipIKLg6-k?si=g5lvIjphlwB5w-4u).\n\nI feel as though it is easy to fake it. There is so much more to it, and it is disheartening in a way.\n\nThrough your experience, it would be interesting to get examples of typical problems you could be trying to solve through mathematical concepts. Is the barrier of entry really that high to be a quantitative trader?",
+   "titre_fil": "Being a quantitative trader",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1fiuika/",
+   "videos": [
+    "8VipIKLg6-k"
+   ]
+  },
+  "reddit:1flemxl": {
+   "auteur": "reddit:No-Purchase4052",
+   "communaute": "r/quant",
+   "date": 1726845775,
+   "fil": "reddit:1flemxl",
+   "id": "reddit:1flemxl",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=DuBrreMiZlA",
+   "titre_fil": "A little humor for Friday- \"What do Wall Street quants actually do?\"",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1flemxl/",
+   "videos": [
+    "DuBrreMiZlA"
+   ]
+  },
+  "reddit:1flkd2e": {
+   "auteur": "reddit:I_lie_on_reddit_alot",
+   "communaute": "r/quant",
+   "date": 1726860509,
+   "fil": "reddit:1flkd2e",
+   "id": "reddit:1flkd2e",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=DuBrreMiZlA",
+   "titre_fil": "https://www.youtube.com/watch?v=DuBrreMiZlA",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1flkd2e/",
+   "videos": [
+    "DuBrreMiZlA"
+   ]
+  },
   "reddit:1fm5lfj": {
    "auteur": "reddit:Russ_CW",
    "communaute": "r/algotrading",
@@ -2664,6 +3816,38 @@
    "url": "https://www.reddit.com/r/algotrading/comments/1fm5lfj/",
    "videos": [
     "On5v-g_RX8U"
+   ]
+  },
+  "reddit:1fsa148": {
+   "auteur": "reddit:Investys",
+   "communaute": "r/quant",
+   "date": 1727631689,
+   "fil": "reddit:1fsa148",
+   "id": "reddit:1fsa148",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/qnz9ubGitfc?si=BqtApy-QQB0kj9U_\n[removed]",
+   "titre_fil": "Will Renaissance Tech’s Secret To Success Ever Be Solved?",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1fsa148/",
+   "videos": [
+    "qnz9ubGitfc"
+   ]
+  },
+  "reddit:1fz4fi2": {
+   "auteur": "reddit:nmierfin",
+   "communaute": "r/quant",
+   "date": 1728405997,
+   "fil": "reddit:1fz4fi2",
+   "id": "reddit:1fz4fi2",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=CGCIzPKcl78",
+   "titre_fil": "Is financial math all just made up or does it actually have some legitimacy?",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1fz4fi2/",
+   "videos": [
+    "CGCIzPKcl78"
    ]
   },
   "reddit:1g2rzw7": {
@@ -4909,6 +6093,70 @@
     "InH25PzMqpk"
    ]
   },
+  "reddit:1slsqfl": {
+   "auteur": "reddit:According-Jump-978",
+   "communaute": "r/quantfinance",
+   "date": 1776218721,
+   "fil": "reddit:1slsqfl",
+   "id": "reddit:1slsqfl",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/quantfinance/comments/1slsqfl/is_coding_jesus_a_scamster/\nCoding Jesus claims he is (or was) a quant developer-does anyone know where he actually works or worked? Is he a larper?\n\nAsking this especially since he has launched a garbage expensive platform for quant dev interviews advertised as \"master c++/python/operating systems/concurrency\" which are best covered cheaply or free through textbooks as mentioned in [this](https://www.youtube.com/watch?v=_CMNUnn0Lf4) video.",
+   "titre_fil": "Is coding jesus a scamster?",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1slsqfl/",
+   "videos": [
+    "_CMNUnn0Lf4"
+   ]
+  },
+  "reddit:1slsvxm": {
+   "auteur": "reddit:According-Jump-978",
+   "communaute": "r/quantfinance",
+   "date": 1776219138,
+   "fil": "reddit:1slsvxm",
+   "id": "reddit:1slsvxm",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/quantfinance/comments/1slsvxm/is_coding_jesus_a_scamster/\nCoding Jesus claims he is (or was) a quant developer-does anyone know where he actually works or worked? Is he a larper?\n\nAsking this especially since he has launched a garbage expensive platform for quant dev interviews advertised as \"master c++/python/operating systems/concurrency\" which are best covered cheaply or free through textbooks as mentioned in [this](https://www.youtube.com/watch?v=_CMNUnn0Lf4) video.\n\nEdit 1-EVERYTHING you need for quant interviews is available cheaply or for FREE. Please don’t fall for sites like Coding Jesus’s or other overpriced platforms charging $45/month.",
+   "titre_fil": "Is Coding Jesus a scamster?",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1slsvxm/",
+   "videos": [
+    "_CMNUnn0Lf4"
+   ]
+  },
+  "reddit:1slsyzw": {
+   "auteur": "reddit:According-Jump-978",
+   "communaute": "r/quantfinance",
+   "date": 1776219367,
+   "fil": "reddit:1slsyzw",
+   "id": "reddit:1slsyzw",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/quantfinance/comments/1slsyzw/is_coding_jesus_a_scamster/\nCoding Jesus claims he is (or was) a quant developer-does anyone know where he actually works or worked? Is he a larper?\n\nAsking this especially since he has launched a garbage expensive platform for quant dev interviews advertised as \"master c++/python/operating systems/concurrency\" which are best covered cheaply or free through textbooks as mentioned in [this](https://www.youtube.com/watch?v=_CMNUnn0Lf4) video.\n\nEdit 1-EVERYTHING you need for quant interviews is available cheaply or for FREE. Please don’t fall for sites like Coding Jesus’s or other overpriced platforms charging $45/month.",
+   "titre_fil": "Is Coding Jesus a scamster?",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1slsyzw/",
+   "videos": [
+    "_CMNUnn0Lf4"
+   ]
+  },
+  "reddit:1sltous": {
+   "auteur": "reddit:According-Jump-978",
+   "communaute": "r/quantfinance",
+   "date": 1776221309,
+   "fil": "reddit:1sltous",
+   "id": "reddit:1sltous",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/quantfinance/comments/1sltous/sites_like_getcracked_are_pure_scam/\n**Edit-lol getcracked bots are downvoting this to reduce its reach. please upvote so that other students know about.**\n\nIt is a garbage expensive platform for quant interviews advertised as \"master c++/python/operating systems/concurrency\" which are best covered cheaply or free through textbooks as mentioned in [this](https://www.youtube.com/watch?v=_CMNUnn0Lf4) video.\n\nMost of what you need for quant interviews is available for free. Going through a book rigorously is a much better way to prepare for C++/OS/design patterns and other topics for quant dev interviews than doing MCQs. The only exception is algorithms-for that, you have LeetCode (again, mostly for free).\n\nFor trading and research roles, green book/brainstellar/openquant/zetamac/leetcode etc are freely available and sufficient.\n\nTLDR: Please avoid such sites and save your money. Upvote so that other people know about it.",
+   "titre_fil": "Sites like getcracked are pure scam",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1sltous/",
+   "videos": [
+    "_CMNUnn0Lf4"
+   ]
+  },
   "reddit:1sltsh5": {
    "auteur": "reddit:According-Jump-978",
    "communaute": "r/quant",
@@ -4925,6 +6173,22 @@
     "_CMNUnn0Lf4"
    ]
   },
+  "reddit:1snc1v3": {
+   "auteur": "reddit:FRM_To_Job",
+   "communaute": "r/quantfinance",
+   "date": 1776364131,
+   "fil": "reddit:1snc1v3",
+   "id": "reddit:1snc1v3",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=aXo9mBZGYvE&si=nywtSK-NGhOD-80z",
+   "titre_fil": "The Risk Metric Banks Use to Protect Billions (Value at Risk Explained)",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1snc1v3/",
+   "videos": [
+    "aXo9mBZGYvE"
+   ]
+  },
   "reddit:1snq96t": {
    "auteur": "reddit:PrimeQuantSystems",
    "communaute": "r/quant",
@@ -4939,6 +6203,70 @@
    "url": "https://www.reddit.com/r/quant/comments/1snq96t/",
    "videos": [
     "vvseUM0UXcM"
+   ]
+  },
+  "reddit:1solbpg": {
+   "auteur": "reddit:ArashPartow",
+   "communaute": "r/quantfinance",
+   "date": 1776479906,
+   "fil": "reddit:1solbpg",
+   "id": "reddit:1solbpg",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=InH25PzMqpk",
+   "titre_fil": "Life as a Quant Researcher",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1solbpg/",
+   "videos": [
+    "InH25PzMqpk"
+   ]
+  },
+  "reddit:1sv4s33": {
+   "auteur": "reddit:Local_Ad135",
+   "communaute": "r/quantfinance",
+   "date": 1777099807,
+   "fil": "reddit:1sv4s33",
+   "id": "reddit:1sv4s33",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=ODhqHlCzWaw",
+   "titre_fil": "A Fun Quant Interview Question",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1sv4s33/",
+   "videos": [
+    "ODhqHlCzWaw"
+   ]
+  },
+  "reddit:1sw1z6p": {
+   "auteur": "reddit:Local_Ad135",
+   "communaute": "r/quantfinance",
+   "date": 1777192394,
+   "fil": "reddit:1sw1z6p",
+   "id": "reddit:1sw1z6p",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=piENl0WFJfU",
+   "titre_fil": "Easy Citadel Interview Question",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1sw1z6p/",
+   "videos": [
+    "piENl0WFJfU"
+   ]
+  },
+  "reddit:1sx3w69": {
+   "auteur": "reddit:Local_Ad135",
+   "communaute": "r/quantfinance",
+   "date": 1777296932,
+   "fil": "reddit:1sx3w69",
+   "id": "reddit:1sx3w69",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=lGlvbdQaYHE",
+   "titre_fil": "A Fun Quant Interview Puzzle",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1sx3w69/",
+   "videos": [
+    "lGlvbdQaYHE"
    ]
   },
   "reddit:1sx6kw0": {
@@ -4989,6 +6317,38 @@
     "py_SOkXqYR0"
    ]
   },
+  "reddit:1syk6uz": {
+   "auteur": "reddit:ORATS_Matt",
+   "communaute": "r/quantfinance",
+   "date": 1777425177,
+   "fil": "reddit:1syk6uz",
+   "id": "reddit:1syk6uz",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=py_SOkXqYR0",
+   "titre_fil": "Physical delivery for large intraday options datasets",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1syk6uz/",
+   "videos": [
+    "py_SOkXqYR0"
+   ]
+  },
+  "reddit:1syqapu": {
+   "auteur": "reddit:Novel-Ad5625",
+   "communaute": "r/quantfinance",
+   "date": 1777442893,
+   "fil": "reddit:1syqapu",
+   "id": "reddit:1syqapu",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/hhz_4Zu61n8?si=ZN2LIYpVcO6_BGtm",
+   "titre_fil": "What is Money? 💰",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1syqapu/",
+   "videos": [
+    "hhz_4Zu61n8"
+   ]
+  },
   "reddit:1sz60l1": {
    "auteur": "reddit:Defiguy38",
    "communaute": "r/quant",
@@ -5037,6 +6397,22 @@
     "ytknR-B5Tf8"
    ]
   },
+  "reddit:1t32dyb": {
+   "auteur": "reddit:bananaduck1",
+   "communaute": "r/quantfinance",
+   "date": 1777854663,
+   "fil": "reddit:1t32dyb",
+   "id": "reddit:1t32dyb",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/n8odbfXJlCc",
+   "titre_fil": "pov from competition math to $1.4M at Jane Street",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1t32dyb/",
+   "videos": [
+    "n8odbfXJlCc"
+   ]
+  },
   "reddit:1t32ew3": {
    "auteur": "reddit:bananaduck1",
    "communaute": "r/quant",
@@ -5051,6 +6427,22 @@
    "url": "https://www.reddit.com/r/quant/comments/1t32ew3/",
    "videos": [
     "n8odbfXJlCc"
+   ]
+  },
+  "reddit:1t3bjlz": {
+   "auteur": "reddit:Extreme_Leg_6162",
+   "communaute": "r/quantfinance",
+   "date": 1777882937,
+   "fil": "reddit:1t3bjlz",
+   "id": "reddit:1t3bjlz",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/KAmzoavtqJ0?si=RUlHhGdUihD-UaVD\nIf your interested in market data aggregation methods, check out my new video.",
+   "titre_fil": "TWO WORDS!! Volatility And Kagi.",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1t3bjlz/",
+   "videos": [
+    "KAmzoavtqJ0"
    ]
   },
   "reddit:1t3c7tg": {
@@ -5085,6 +6477,22 @@
     "tNkoGc4jcYY"
    ]
   },
+  "reddit:1t6ebpp": {
+   "auteur": "reddit:Extreme_Leg_6162",
+   "communaute": "r/quantfinance",
+   "date": 1778168635,
+   "fil": "reddit:1t6ebpp",
+   "id": "reddit:1t6ebpp",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/_NkqvSe5Rq8?si=cj35nJBVVZyFGpj8\nIf you're interested in market data aggregation, check out my latest Youtube video",
+   "titre_fil": "Volatility....Again!",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1t6ebpp/",
+   "videos": [
+    "_NkqvSe5Rq8"
+   ]
+  },
   "reddit:1t6egnh": {
    "auteur": "reddit:Extreme_Leg_6162",
    "communaute": "r/quant",
@@ -5099,6 +6507,22 @@
    "url": "https://www.reddit.com/r/quant/comments/1t6egnh/",
    "videos": [
     "_NkqvSe5Rq8"
+   ]
+  },
+  "reddit:1t6t45e": {
+   "auteur": "reddit:bananaduck1",
+   "communaute": "r/quantfinance",
+   "date": 1778202066,
+   "fil": "reddit:1t6t45e",
+   "id": "reddit:1t6t45e",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/6rEQyMMDkCI",
+   "titre_fil": "POV: I turned down Citadel for Y Combinator",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1t6t45e/",
+   "videos": [
+    "6rEQyMMDkCI"
    ]
   },
   "reddit:1t71x2f": {
@@ -5117,6 +6541,230 @@
     "uEZx5xDgRF4"
    ]
   },
+  "reddit:1t71yif": {
+   "auteur": "reddit:Extreme_Leg_6162",
+   "communaute": "r/quantfinance",
+   "date": 1778229415,
+   "fil": "reddit:1t71yif",
+   "id": "reddit:1t71yif",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/uEZx5xDgRF4?si=f_4g9Qco58VVnk1q\nThis video walks through a practical intro to Run bar aggregation and a advanced aggregation method called Kairosis. \n\nHope this video helps or sparks your curiosity.",
+   "titre_fil": "This PhD LEVEL market analysis",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1t71yif/",
+   "videos": [
+    "uEZx5xDgRF4"
+   ]
+  },
+  "reddit:1t722ut": {
+   "auteur": "reddit:Extreme_Leg_6162",
+   "communaute": "r/quantfinance",
+   "date": 1778229853,
+   "fil": "reddit:1t722ut",
+   "id": "reddit:1t722ut",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/uEZx5xDgRF4?si=ODowMdfJjGtGCN3j\nThis video walks through a practical intro to Run bar aggregation and a advanced aggregation method called Kairosis.\n\nHope this video helps or sparks your curiosity.",
+   "titre_fil": "This is PhD LEVEL market analysis.",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1t722ut/",
+   "videos": [
+    "uEZx5xDgRF4"
+   ]
+  },
+  "reddit:1t96pz1": {
+   "auteur": "reddit:Extreme_Leg_6162",
+   "communaute": "r/quantfinance",
+   "date": 1778419087,
+   "fil": "reddit:1t96pz1",
+   "id": "reddit:1t96pz1",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/myGy1de0s1E\nThis is a video covering one of the latest developments in adaptive bayesian forecasting.\n\nHope this sparks your curiosity.",
+   "titre_fil": "This is PhD LEVEL market ANALYSIS",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1t96pz1/",
+   "videos": [
+    "myGy1de0s1E"
+   ]
+  },
+  "reddit:1taw0v0": {
+   "auteur": "reddit:Forsaken_Radish7286",
+   "communaute": "r/quantfinance",
+   "date": 1778576832,
+   "fil": "reddit:1taw0v0",
+   "id": "reddit:1taw0v0",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/quantfinance/comments/1taw0v0/99_of_this_sub/\n[https://www.youtube.com/watch?v=85lpWoESHUM&pp=ygUVaSB3YW50IHRvIGViIGEgdHJhZGVy](https://www.youtube.com/watch?v=85lpWoESHUM&pp=ygUVaSB3YW50IHRvIGViIGEgdHJhZGVy)",
+   "titre_fil": "99% of this sub",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1taw0v0/",
+   "videos": [
+    "85lpWoESHUM"
+   ]
+  },
+  "reddit:1tawora": {
+   "auteur": "reddit:Extreme_Leg_6162",
+   "communaute": "r/quantfinance",
+   "date": 1778579091,
+   "fil": "reddit:1tawora",
+   "id": "reddit:1tawora",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/UVAGr1XqPTU\nClose-to-close variance throws away half the information in every candle. The Parkinson estimator fixes this by using the high-low range instead:\n\n\n\n\\> σ²\\_P = Σ(ln H/L)² / (4n ln 2)\n\n\n\nBecause price \\*explores\\* the full range intrabar, that ratio captures variance that never shows up in close prices. Parkinson showed this is roughly \\*\\*5× more efficient\\*\\* than the classical estimator for the same sample size.\n\n\n\nThe part people miss is what happens \\*inside\\* the bar as it's being built. The estimator doesn't jump to its final value — it crawls up from zero, tick by tick, as each new H/L observation lands. That progress curve is the actual bar-close signal. A flat crawl means low-volatility chop. A sudden spike means a directional burst just hit. The bar closes the moment the curve crosses your target threshold.\n\n\n\nOnce you watch the estimator accumulate in real time, close-to-close vol feels like reading a book through frosted glass.\n\n\n\nHope this helps.",
+   "titre_fil": "Most Traders Measure Volatility Wrong — And it Costs Them Bar Quality.",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1tawora/",
+   "videos": [
+    "UVAGr1XqPTU"
+   ]
+  },
+  "reddit:1taxux9": {
+   "auteur": "reddit:Extreme_Leg_6162",
+   "communaute": "r/quantfinance",
+   "date": 1778582770,
+   "fil": "reddit:1taxux9",
+   "id": "reddit:1taxux9",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/yejxQ0YKDi0\nClose-to-close variance throws away half the information in every candle. The Parkinson estimator fixes this by using the high-low range instead:\n\n\n\n\\> σ²\\_P = Σ(ln H/L)² / (4n ln 2)\n\n\n\nBecause price \\*explores\\* the full range intrabar, that ratio captures variance that never shows up in close prices. Parkinson showed this is roughly \\*\\*5× more efficient\\*\\* than the classical estimator for the same sample size.\n\n\n\nThe part people miss is what happens \\*inside\\* the bar as it's being built. The estimator doesn't jump to its final value — it crawls up from zero, tick by tick, as each new H/L observation lands. That progress curve is the actual bar-close signal. A flat crawl means low-volatility chop. A sudden spike means a directional burst just hit. The bar closes the moment the curve crosses your target threshold.\n\n\n\nOnce you watch the estimator accumulate in real time, close-to-close vol feels like reading a book through frosted glass.\n\n\n\nHope this helps.",
+   "titre_fil": "Most Traders Measure Volatility Wrong — And it Costs Them Bar Quality.",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1taxux9/",
+   "videos": [
+    "yejxQ0YKDi0"
+   ]
+  },
+  "reddit:1tayyhp": {
+   "auteur": "reddit:Local_Ad135",
+   "communaute": "r/quantfinance",
+   "date": 1778585870,
+   "fil": "reddit:1tayyhp",
+   "id": "reddit:1tayyhp",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=piENl0WFJfU",
+   "titre_fil": "EASY🥱",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1tayyhp/",
+   "videos": [
+    "piENl0WFJfU"
+   ]
+  },
+  "reddit:1tayzfc": {
+   "auteur": "reddit:Local_Ad135",
+   "communaute": "r/quantfinance",
+   "date": 1778585938,
+   "fil": "reddit:1tayzfc",
+   "id": "reddit:1tayzfc",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=piENl0WFJfU",
+   "titre_fil": "EASY PROBLEM  🥱",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1tayzfc/",
+   "videos": [
+    "piENl0WFJfU"
+   ]
+  },
+  "reddit:1tcssq8": {
+   "auteur": "reddit:Extreme_Leg_6162",
+   "communaute": "r/quantfinance",
+   "date": 1778750328,
+   "fil": "reddit:1tcssq8",
+   "id": "reddit:1tcssq8",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/cfZRc3RdTt0\nMost of us use time-based candles out of habit, but they have a real problem: one 5-minute candle during a news spike contains way more \"market action\" than one during a quiet mid-afternoon session. They're not equal.\n\nI went down a rabbit hole applying Shannon Information Theory to fix this. The idea: each price move carries an amount of information proportional to how surprising it is. Normal, expected moves carry little info. Big, rare moves carry a lot.\n\nA \"Shannon Information Bar\" accumulates that information tick by tick and only closes a new candle once enough information has been collected — so during crazy volatile moments you get many small bars, and during slow grind you get long bars. The bar adapts to the market.\n\nWould love to hear if anyone's actually traded with adaptive bars before — what was your experience vs regular candles?",
+   "titre_fil": "Shannon Information Bars — closing bars on information content instead of time/volume",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1tcssq8/",
+   "videos": [
+    "cfZRc3RdTt0"
+   ]
+  },
+  "reddit:1tczljq": {
+   "auteur": "reddit:Local_Ad135",
+   "communaute": "r/quantfinance",
+   "date": 1778768309,
+   "fil": "reddit:1tczljq",
+   "id": "reddit:1tczljq",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=wkbe62bFXwE",
+   "titre_fil": "Can you solve this quant interview question?",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1tczljq/",
+   "videos": [
+    "wkbe62bFXwE"
+   ]
+  },
+  "reddit:1tdaiy4": {
+   "auteur": "reddit:According-Jump-978",
+   "communaute": "r/quantfinance",
+   "date": 1778791050,
+   "fil": "reddit:1tdaiy4",
+   "id": "reddit:1tdaiy4",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/quantfinance/comments/1tdaiy4/beware_of_getcrackedio_scam/\nSites like [getcracked.io](http://getcracked.io) are pure scam. It is a garbage expensive platform for quant interview preparation advertised as \"master c++/python/operating systems/concurrency\" which are best covered cheaply or free through textbooks as mentioned in [this](https://www.youtube.com/watch?v=_CMNUnn0Lf4) video.\n\nMost of what you need for quant interview preparation is available for free. Going through a textbook rigorously is a much better way to prepare for C++/OS/design patterns and other topics for quant dev interviews than doing MCQs. The only exception is algorithms-for that, you have Leetcode (again, mostly for free).\n\nFor trading and research roles, brainstellar/openquant/zetamac/leetcode/greenbook etc are freely available and sufficient.\n\nTLDR: Please avoid such sites and save your money. Upvote so that other people know about it.",
+   "titre_fil": "Beware of getcracked.io scam",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1tdaiy4/",
+   "videos": [
+    "_CMNUnn0Lf4"
+   ]
+  },
+  "reddit:1tenf31": {
+   "auteur": "reddit:Extreme_Leg_6162",
+   "communaute": "r/quantfinance",
+   "date": 1778919001,
+   "fil": "reddit:1tenf31",
+   "id": "reddit:1tenf31",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/vPcX6BqEYCg?si=u6iZBS_SBbC4PhHJ\nMost retail quants benchmark themselves against hedge funds and feel small. They're benchmarking wrong. Institutions face a capacity constraint paradox — alpha degrades *as AUM grows*, not because the ideas get worse, but because execution costs scale nonlinearly with order size. The strategies that \"don't scale\" for a $2B fund are often exactly the ones that work cleanly at retail size, where you're too small to move the book and too fast to be detected. I broke down the full math — square-root market impact, slippage modeling, and execution detection windows — in a new video. Happy to get into the specifics in the comments if anyone wants to dig into the model.",
+   "titre_fil": "The RETAIL Quant EDGE",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1tenf31/",
+   "videos": [
+    "vPcX6BqEYCg"
+   ]
+  },
+  "reddit:1tfl54p": {
+   "auteur": "reddit:Extreme_Leg_6162",
+   "communaute": "r/quantfinance",
+   "date": 1779011792,
+   "fil": "reddit:1tfl54p",
+   "id": "reddit:1tfl54p",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/vyp11o655Ww\nThe quant community spends a lot of time asking \"how do I compete with institutions?\" but that's the wrong question. The retail opportunity space isn't about competing — it's about operating in a regime where institutions structurally can't follow you. Micro-alpha signals decay too fast to be worth deploying at scale, the invisibility premium only exists below a certain order size, and holding periods short enough to capture alpha before it decays are exactly the windows where large funds have already exited. The edge isn't smaller — it's in a different place entirely. Broke this down in detail in a new video, covering micro-alpha exploitation, the invisibility premium, and how holding period interacts with alpha decay at retail scale.",
+   "titre_fil": "The RETAIL Quant OPPORTUNITY SPACE",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1tfl54p/",
+   "videos": [
+    "vyp11o655Ww"
+   ]
+  },
+  "reddit:1tge5x3": {
+   "auteur": "reddit:Extreme_Leg_6162",
+   "communaute": "r/quantfinance",
+   "date": 1779085661,
+   "fil": "reddit:1tge5x3",
+   "id": "reddit:1tge5x3",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/MPdDvpjcZpY\nHot take: in small, thinly traded markets, a $20k retail account can outperform a $200M fund on the *same signal* — not because the fund has worse research, but because of a structural problem that kicks in at scale.\n\nThe concept is information effectiveness — how much of your signal you can actually capture after execution friction. In illiquid markets, institutions face a hard ceiling. Their position size relative to market depth means they're moving prices against themselves before the position is even built. The signal gets priced in by their own orders.\n\nRetail doesn't have this problem. They sit comfortably below the capacity threshold where market impact is negligible.\n\nCovered this in my latest YT video.",
+   "titre_fil": "Retail Quant > Quant Fund",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1tge5x3/",
+   "videos": [
+    "MPdDvpjcZpY"
+   ]
+  },
   "reddit:1tgj7g6": {
    "auteur": "reddit:Weak_Pressure_7642",
    "communaute": "r/quant",
@@ -5131,6 +6779,22 @@
    "url": "https://www.reddit.com/r/quant/comments/1tgj7g6/",
    "videos": [
     "ectBEF9qZvU"
+   ]
+  },
+  "reddit:1thgmai": {
+   "auteur": "reddit:Extreme_Leg_6162",
+   "communaute": "r/quantfinance",
+   "date": 1779179505,
+   "fil": "reddit:1thgmai",
+   "id": "reddit:1thgmai",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/7jz38_IHboo\nThe biggest edge retail quants have over institutions is size. You can trade markets, timeframes, and capacity windows that are completely invisible to a $10B fund. Most retail quants throw this advantage away by copying institutional strategies at a fraction of the capital they require. There's a specific capacity range — mathematically derivable — where retail quants have a genuine structural advantage. My latest video covers the framework.",
+   "titre_fil": "The MOST OPTIMAL RETAIL Quant STRATEGY.",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1thgmai/",
+   "videos": [
+    "7jz38_IHboo"
    ]
   },
   "reddit:1ti20t1": {
@@ -5149,6 +6813,22 @@
     "O2VB05towp4"
    ]
   },
+  "reddit:1tidy10": {
+   "auteur": "reddit:Extreme_Leg_6162",
+   "communaute": "r/quantfinance",
+   "date": 1779260758,
+   "fil": "reddit:1tidy10",
+   "id": "reddit:1tidy10",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/U_gzk66mdDM?si=3peYciM_xGb8v-wV\nRetail traders actually have structural advantages over hedge funds — here's what the math says\n\n\n\nCounterintuitive take that I think holds up: retail isn't at a disadvantage to institutions. It operates in a different market entirely.\n\n\n\nThe reason is market impact. When a hedge fund places a large order, it moves the market against itself before execution even completes. This is governed by what researchers call the square-root law — the larger the order, the worse the execution, and this compounds with the natural decay of alpha signals over time.\n\n\n\nWhat this means practically:\n\n\n\nInstitutions executing $10M+ orders routinely lose 15–40 basis points on adverse selection alone — just from other participants detecting the order flow and front-running it. Retail placing a $500 order? Invisible. Executes instantly. Captures the full edge.\n\n\n\nThere's also a speed dimension: retail can act on a signal in milliseconds. By the time a large fund runs its TWAP algorithm and lets the order book recover, the edge has partially decayed.\n\n\n\nNone of this is theoretical speculation — it's backed by decades of microstructure research (Kyle 1985, Bouchaud 2004, Obizhaeva & Wang 2013).\n\n\n\nMade a video going deep on the math behind this.",
+   "titre_fil": "RETAIL Quant = INVISIBILITY",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1tidy10/",
+   "videos": [
+    "U_gzk66mdDM"
+   ]
+  },
   "reddit:1tjuhwe": {
    "auteur": "reddit:Rare-Instance7961",
    "communaute": "r/quant",
@@ -5163,6 +6843,70 @@
    "url": "https://www.reddit.com/r/quant/comments/1tjuhwe/",
    "videos": [
     "xKZ_8ULR91Y"
+   ]
+  },
+  "reddit:1tlaq5j": {
+   "auteur": "reddit:Extreme_Leg_6162",
+   "communaute": "r/quantfinance",
+   "date": 1779525033,
+   "fil": "reddit:1tlaq5j",
+   "id": "reddit:1tlaq5j",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/V4lZLfsg22E\nUnpopular opinion: the aggregation method you use matters more than the model you build on top of it. Most systematic traders spend months optimizing signals, features, and model architecture on top of a data representation they chose by default — usually time bars because that's what every charting platform gives you. The aggregation choice is treated as a preprocessing detail rather than a fundamental design decision. KL divergence aggregation makes it obvious why that's wrong. The bars it produces have structurally different properties from fixed threshold bars — they cluster at regime transitions, adapt to the market's current statistical character, and produce features with higher average information content. Building the same model on KL divergence bars versus time bars is not a parameter change. It's a different experiment entirely. Covered the math, the implementation in Julia, and the practical implications in my latest video",
+   "titre_fil": "INFORMATION THEORY + TSLA 1MIN DATA",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1tlaq5j/",
+   "videos": [
+    "V4lZLfsg22E"
+   ]
+  },
+  "reddit:1tm7168": {
+   "auteur": "reddit:Local_Ad135",
+   "communaute": "r/quantfinance",
+   "date": 1779613608,
+   "fil": "reddit:1tm7168",
+   "id": "reddit:1tm7168",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=jE9-cRkTcv4",
+   "titre_fil": "Easy Quant Interview Question",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1tm7168/",
+   "videos": [
+    "jE9-cRkTcv4"
+   ]
+  },
+  "reddit:1tny1ec": {
+   "auteur": "reddit:Local_Ad135",
+   "communaute": "r/quantfinance",
+   "date": 1779775315,
+   "fil": "reddit:1tny1ec",
+   "id": "reddit:1tny1ec",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=zlVcAUajG4I",
+   "titre_fil": "EZ quant interview question",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1tny1ec/",
+   "videos": [
+    "zlVcAUajG4I"
+   ]
+  },
+  "reddit:1tnyjhb": {
+   "auteur": "reddit:Extreme_Leg_6162",
+   "communaute": "r/quantfinance",
+   "date": 1779776909,
+   "fil": "reddit:1tnyjhb",
+   "id": "reddit:1tnyjhb",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/NWi_YQENw00\nCorrelation tells you one thing: linear co-movement. That's it. That's the whole metric.\n\nMarkets are not linear. Regimes shift. Tails couple in ways the center doesn't. Dependencies appear and vanish based on volatility context. Correlation sees none of this — it returns a single number and calls it a day.\n\nMutual information captures the full dependency structure. Linear, nonlinear, regime-dependent, tail-dependent — if there is a statistical relationship between two variables, MI finds it. If there isn't, it tells you that too — in bits, on a consistent scale, with nothing assumed about the underlying distribution. \n\n  \nCheck out my latest Youtube vid for a demonstration of Mutual Info agg on real data.",
+   "titre_fil": "Correlation is a TOY METRIC dressed up as a SERIOUS TOOL and QUANT FINANCE never got the MEMO.",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1tnyjhb/",
+   "videos": [
+    "NWi_YQENw00"
    ]
   },
   "reddit:1tp0e6h": {
@@ -6877,6 +8621,38 @@
     "kKxqaCoDaO8"
    ]
   },
+  "reddit:1y0fj1v": {
+   "auteur": "reddit:BoysenberryLost5223",
+   "communaute": "r/quantfinance",
+   "date": 1795109793,
+   "fil": "reddit:1y0fj1v",
+   "id": "reddit:1y0fj1v",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/XZ62EwiCb4I?si=zO_a4mvenSKgBtPj",
+   "titre_fil": "1.5 months of mental square root practice",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quantfinance/comments/1y0fj1v/",
+   "videos": [
+    "XZ62EwiCb4I"
+   ]
+  },
+  "reddit:1y0fk4v": {
+   "auteur": "reddit:BoysenberryLost5223",
+   "communaute": "r/quant",
+   "date": 1795109860,
+   "fil": "reddit:1y0fk4v",
+   "id": "reddit:1y0fk4v",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/XZ62EwiCb4I?si=zO_a4mvenSKgBtPj\n[removed]",
+   "titre_fil": "1.5 months of mental square roots practice",
+   "type": "article",
+   "url": "https://www.reddit.com/r/quant/comments/1y0fk4v/",
+   "videos": [
+    "XZ62EwiCb4I"
+   ]
+  },
   "reddit:oxok6ff": {
    "auteur": "reddit:Rooster_Odd",
    "communaute": "r/algotrading",
@@ -7213,6 +8989,22 @@
     "8DYF-ReeAtY"
    ]
   },
+  "reddit:p5vaatj": {
+   "auteur": "reddit:Patelpb",
+   "communaute": "r/quant",
+   "date": 1787687433,
+   "fil": "reddit:1vy281t",
+   "id": "reddit:p5vaatj",
+   "mots": [],
+   "source": "reddit",
+   "texte": "This guy has some great \\~high school level breakdowns of special relativity, i.e.\n\n[https://www.youtube.com/watch?v=CP1kxIhgTQw](https://www.youtube.com/watch?v=CP1kxIhgTQw)",
+   "titre_fil": null,
+   "type": "commentaire",
+   "url": "https://www.reddit.com/r/quant/comments/1vy281t/_/p5vaatj/",
+   "videos": [
+    "CP1kxIhgTQw"
+   ]
+  },
   "reddit:p68ueb3": {
    "auteur": "reddit:Ok_Can_5882",
    "communaute": "r/algotrading",
@@ -7355,6 +9147,1238 @@
    "url": "https://www.reddit.com/r/algotrading/comments/1x9xvmi/_/phpbnzv/",
    "videos": [
     "RvHW36lrBJ4"
+   ]
+  },
+  "reddit:x5litn": {
+   "auteur": "reddit:investingpodcastlog",
+   "communaute": "r/algotrading",
+   "date": 1662293592,
+   "fil": "reddit:x5litn",
+   "id": "reddit:x5litn",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=aa29XAOOcvI&feature=share",
+   "titre_fil": "Podcast: 5 Most Toxic Money Habits",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/x5litn/",
+   "videos": [
+    "aa29XAOOcvI"
+   ]
+  },
+  "reddit:x7aio9": {
+   "auteur": "reddit:Marines_Deal3043",
+   "communaute": "r/algotrading",
+   "date": 1662470512,
+   "fil": "reddit:x7aio9",
+   "id": "reddit:x7aio9",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/shorts/mhwQ8dnJo1g?feature=share",
+   "titre_fil": "August 27, 2022",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/x7aio9/",
+   "videos": [
+    "mhwQ8dnJo1g"
+   ]
+  },
+  "reddit:x7rwdo": {
+   "auteur": "reddit:Warm-Attitude-9506",
+   "communaute": "r/algotrading",
+   "date": 1662514200,
+   "fil": "reddit:x7rwdo",
+   "id": "reddit:x7rwdo",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/Ym4k7nBQHJE",
+   "titre_fil": "Calm",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/x7rwdo/",
+   "videos": [
+    "Ym4k7nBQHJE"
+   ]
+  },
+  "reddit:x84q95": {
+   "auteur": "reddit:Ok-General1490",
+   "communaute": "r/algotrading",
+   "date": 1662556135,
+   "fil": "reddit:x84q95",
+   "id": "reddit:x84q95",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=v4MEK_uXDnQ&feature=emb_title",
+   "titre_fil": "Testing The Stochastic RSI (Data)",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/x84q95/",
+   "videos": [
+    "v4MEK_uXDnQ"
+   ]
+  },
+  "reddit:x885pp": {
+   "auteur": "reddit:crypt0nomy",
+   "communaute": "r/algotrading",
+   "date": 1662564734,
+   "fil": "reddit:x885pp",
+   "id": "reddit:x885pp",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=GSKvgWBGiDU&feature=share",
+   "titre_fil": "𝗩𝗔𝗦𝗜𝗟 𝗛𝗔𝗥𝗗 𝗙𝗢𝗥𝗞 𝗖𝗔𝗥𝗗𝗔𝗡𝗢 𝗟𝗜𝗕𝗘𝗥𝗔𝗗𝗢 𝗘𝗟 𝟮𝟮 𝗗𝗘 𝗦𝗘𝗣𝗧𝗜𝗘𝗠𝗕𝗥𝗘",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/x885pp/",
+   "videos": [
+    "GSKvgWBGiDU"
+   ]
+  },
+  "reddit:x9bh3j": {
+   "auteur": "reddit:Ok-General1490",
+   "communaute": "r/algotrading",
+   "date": 1662670427,
+   "fil": "reddit:x9bh3j",
+   "id": "reddit:x9bh3j",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=v4MEK_uXDnQ&t=338s",
+   "titre_fil": "This is Why You Shouldn't Hodl",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/x9bh3j/",
+   "videos": [
+    "v4MEK_uXDnQ"
+   ]
+  },
+  "reddit:xgkylw": {
+   "auteur": "reddit:Ralph_greg",
+   "communaute": "r/algotrading",
+   "date": 1663416977,
+   "fil": "reddit:xgkylw",
+   "id": "reddit:xgkylw",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=t2vLQYA1Gto&feature=share",
+   "titre_fil": "This Secret Trick Will Skyrocket Your Win Rate ( Scalping )",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/xgkylw/",
+   "videos": [
+    "t2vLQYA1Gto"
+   ]
+  },
+  "reddit:xia7ee": {
+   "auteur": "reddit:Ralph_greg",
+   "communaute": "r/algotrading",
+   "date": 1663589360,
+   "fil": "reddit:xia7ee",
+   "id": "reddit:xia7ee",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=nVBj8YSaqhQ&feature=share",
+   "titre_fil": "ADVANCED Accurate 5 Minute Scalping Strategy ( 80% Win Rate )",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/xia7ee/",
+   "videos": [
+    "nVBj8YSaqhQ"
+   ]
+  },
+  "reddit:xojxgi": {
+   "auteur": "reddit:Ok-General1490",
+   "communaute": "r/algotrading",
+   "date": 1664200385,
+   "fil": "reddit:xojxgi",
+   "id": "reddit:xojxgi",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=LkMoG8wWVig",
+   "titre_fil": "Heikin-Ashi Candles ROI Data With Bitcoin",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/xojxgi/",
+   "videos": [
+    "LkMoG8wWVig"
+   ]
+  },
+  "reddit:xp19p8": {
+   "auteur": "reddit:Reptilian_Whisperer",
+   "communaute": "r/algotrading",
+   "date": 1664239163,
+   "fil": "reddit:xp19p8",
+   "id": "reddit:xp19p8",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=BIs_RtB7Stc&ab_channel=WeRideAtDawn",
+   "titre_fil": "Using 10+ Forex Indicators for Scalping, Looking for Clusters of Buy/Sell Signals while using confirmations",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/xp19p8/",
+   "videos": [
+    "BIs_RtB7Stc"
+   ]
+  },
+  "reddit:xqlkkp": {
+   "auteur": "reddit:Beekeyyy",
+   "communaute": "r/algotrading",
+   "date": 1664392519,
+   "fil": "reddit:xqlkkp",
+   "id": "reddit:xqlkkp",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=seupZFLyA4Q",
+   "titre_fil": "Bitcoin and Ethereum TA Pt.2 (Technical Analysis)",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/xqlkkp/",
+   "videos": [
+    "seupZFLyA4Q"
+   ]
+  },
+  "reddit:xrj2c5": {
+   "auteur": "reddit:Beekeyyy",
+   "communaute": "r/algotrading",
+   "date": 1664485708,
+   "fil": "reddit:xrj2c5",
+   "id": "reddit:xrj2c5",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=jgwRrBwmlHQ",
+   "titre_fil": "Stable Bitcoin And Ethereum Market Strategy",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/xrj2c5/",
+   "videos": [
+    "jgwRrBwmlHQ"
+   ]
+  },
+  "reddit:xrlf0a": {
+   "auteur": "reddit:hhaagty",
+   "communaute": "r/algotrading",
+   "date": 1664491853,
+   "fil": "reddit:xrlf0a",
+   "id": "reddit:xrlf0a",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=zbwRzLrLV5Y",
+   "titre_fil": "The Best Stocks To Buy Going Into The Holiday Season | Santa Claus Rally 2022",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/xrlf0a/",
+   "videos": [
+    "zbwRzLrLV5Y"
+   ]
+  },
+  "reddit:xtn0g0": {
+   "auteur": "reddit:Distinct_Shallot_271",
+   "communaute": "r/algotrading",
+   "date": 1664711973,
+   "fil": "reddit:xtn0g0",
+   "id": "reddit:xtn0g0",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/7IMM4XmlFkU",
+   "titre_fil": "THE BIGGEST SECRET OF THE RICH PEOPLE..THAT WOULD SHOCK YOU!!! YOU NEED TO WATCH THIS VIDEO NOW!!!",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/xtn0g0/",
+   "videos": [
+    "7IMM4XmlFkU"
+   ]
+  },
+  "reddit:xui2ih": {
+   "auteur": "reddit:Ok-General1490",
+   "communaute": "r/algotrading",
+   "date": 1664800018,
+   "fil": "reddit:xui2ih",
+   "id": "reddit:xui2ih",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=jfmR1U1qIPM",
+   "titre_fil": "BTC: Is The Bottom In ?",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/xui2ih/",
+   "videos": [
+    "jfmR1U1qIPM"
+   ]
+  },
+  "reddit:xx41pk": {
+   "auteur": "reddit:Ok-General1490",
+   "communaute": "r/algotrading",
+   "date": 1665059374,
+   "fil": "reddit:xx41pk",
+   "id": "reddit:xx41pk",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=uan8m6Urvv0",
+   "titre_fil": "Chainlink: Time To Turn Bullish ?",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/xx41pk/",
+   "videos": [
+    "uan8m6Urvv0"
+   ]
+  },
+  "reddit:xx8orb": {
+   "auteur": "reddit:ImpressiveSpeaker144",
+   "communaute": "r/algotrading",
+   "date": 1665071678,
+   "fil": "reddit:xx8orb",
+   "id": "reddit:xx8orb",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/AwV90q1iSTQ",
+   "titre_fil": "the first person to make billion dollars race",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/xx8orb/",
+   "videos": [
+    "AwV90q1iSTQ"
+   ]
+  },
+  "reddit:xykzma": {
+   "auteur": "reddit:NA_Tv_Forex_Related",
+   "communaute": "r/algotrading",
+   "date": 1665208832,
+   "fil": "reddit:xykzma",
+   "id": "reddit:xykzma",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/N2lXKNHyMsk",
+   "titre_fil": "05 October 20 min profit ($16.88) (NA TV)",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/xykzma/",
+   "videos": [
+    "N2lXKNHyMsk"
+   ]
+  },
+  "reddit:xyl136": {
+   "auteur": "reddit:NA_Tv_Forex_Related",
+   "communaute": "r/algotrading",
+   "date": 1665208973,
+   "fil": "reddit:xyl136",
+   "id": "reddit:xyl136",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=N2lXKNHyMsk",
+   "titre_fil": "05 October 20 min profit ($16.88) (NA TV)",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/xyl136/",
+   "videos": [
+    "N2lXKNHyMsk"
+   ]
+  },
+  "reddit:y00zp9": {
+   "auteur": "reddit:SallyF2000",
+   "communaute": "r/algotrading",
+   "date": 1665362448,
+   "fil": "reddit:y00zp9",
+   "id": "reddit:y00zp9",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=Eu3zuXkj4Gs&feature=share",
+   "titre_fil": "'Now who's gonna stop me?!' (Mario Movie Meme)",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/y00zp9/",
+   "videos": [
+    "Eu3zuXkj4Gs"
+   ]
+  },
+  "reddit:y0v6dp": {
+   "auteur": "reddit:Joseybass",
+   "communaute": "r/algotrading",
+   "date": 1665449515,
+   "fil": "reddit:y0v6dp",
+   "id": "reddit:y0v6dp",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/ARws_vA5tgw",
+   "titre_fil": "the best way to daytrade",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/y0v6dp/",
+   "videos": [
+    "ARws_vA5tgw"
+   ]
+  },
+  "reddit:y1l1xq": {
+   "auteur": "reddit:crypt0nomy",
+   "communaute": "r/algotrading",
+   "date": 1665523889,
+   "fil": "reddit:y1l1xq",
+   "id": "reddit:y1l1xq",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=mzWmtvDd9Pg&feature=share",
+   "titre_fil": "𝗖𝗥𝗬𝗣𝗧𝗢 𝗗𝗘𝗕𝗜𝗧 𝗖𝗔𝗥𝗗 𝗛𝗬𝗣𝗘𝗥𝗣𝗔𝗬 💸 💵 💰 💳",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/y1l1xq/",
+   "videos": [
+    "mzWmtvDd9Pg"
+   ]
+  },
+  "reddit:y2yxt2": {
+   "auteur": "reddit:Suitable_Advisor7013",
+   "communaute": "r/algotrading",
+   "date": 1665668145,
+   "fil": "reddit:y2yxt2",
+   "id": "reddit:y2yxt2",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=InzABnKszeE&feature=share",
+   "titre_fil": "Stock Market Rundown: LASE Stock IS IT STILL A BUY 😱 THIS COULD HAPPEN N...",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/y2yxt2/",
+   "videos": [
+    "InzABnKszeE"
+   ]
+  },
+  "reddit:y7pcwn": {
+   "auteur": "reddit:Budget-Ad-726",
+   "communaute": "r/algotrading",
+   "date": 1666143813,
+   "fil": "reddit:y7pcwn",
+   "id": "reddit:y7pcwn",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=CKrc1VBlOa0&feature=share",
+   "titre_fil": "Macho Man Randy Savage Promo on Ted DiBiase (06-18-1988)",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/y7pcwn/",
+   "videos": [
+    "CKrc1VBlOa0"
+   ]
+  },
+  "reddit:y85gux": {
+   "auteur": "reddit:Maizlord",
+   "communaute": "r/algotrading",
+   "date": 1666192724,
+   "fil": "reddit:y85gux",
+   "id": "reddit:y85gux",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=wAXZluVUFwY&feature=share",
+   "titre_fil": "EVERYONE Will Be TERRIFIED In 10 DAYS - CATHIE WOOD",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/y85gux/",
+   "videos": [
+    "wAXZluVUFwY"
+   ]
+  },
+  "reddit:y8h07f": {
+   "auteur": "reddit:Maizlord",
+   "communaute": "r/algotrading",
+   "date": 1666219976,
+   "fil": "reddit:y8h07f",
+   "id": "reddit:y8h07f",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=QONtG20imGk&feature=share",
+   "titre_fil": "EVERYONE is SO WRONG About THIS CYCLE\" - Chamath Palihapitiya",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/y8h07f/",
+   "videos": [
+    "QONtG20imGk"
+   ]
+  },
+  "reddit:y8tnl4": {
+   "auteur": "reddit:Distinct_Shallot_271",
+   "communaute": "r/algotrading",
+   "date": 1666258784,
+   "fil": "reddit:y8tnl4",
+   "id": "reddit:y8tnl4",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/chPoJ9urExs",
+   "titre_fil": "THE BEST CONCEPT OF GETTING RICH!! YOU NEED TO WATCH THIS NOW AND CHANGE YOUR LIFE!!!!",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/y8tnl4/",
+   "videos": [
+    "chPoJ9urExs"
+   ]
+  },
+  "reddit:y9f927": {
+   "auteur": "reddit:Maizlord",
+   "communaute": "r/algotrading",
+   "date": 1666313456,
+   "fil": "reddit:y9f927",
+   "id": "reddit:y9f927",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=jfVxUAeNDCg&feature=share",
+   "titre_fil": "BE CAREFUL! This Is SERIOUS - Ray Dalio's Last WARNING",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/y9f927/",
+   "videos": [
+    "jfVxUAeNDCg"
+   ]
+  },
+  "reddit:y9mm7s": {
+   "auteur": "reddit:guruubhaii",
+   "communaute": "r/algotrading",
+   "date": 1666335997,
+   "fil": "reddit:y9mm7s",
+   "id": "reddit:y9mm7s",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=CIsGR2oGLwg&feature=share",
+   "titre_fil": "Nifty Bank Nifty Option Sellers makes more money or Option Buyers",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/y9mm7s/",
+   "videos": [
+    "CIsGR2oGLwg"
+   ]
+  },
+  "reddit:y9xomo": {
+   "auteur": "reddit:bel-solutions",
+   "communaute": "r/algotrading",
+   "date": 1666368809,
+   "fil": "reddit:y9xomo",
+   "id": "reddit:y9xomo",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/DNgI8b3NkAw",
+   "titre_fil": "Made this little gem!",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/y9xomo/",
+   "videos": [
+    "DNgI8b3NkAw"
+   ]
+  },
+  "reddit:ybbq13": {
+   "auteur": "reddit:NA_Tv_Forex_Related",
+   "communaute": "r/algotrading",
+   "date": 1666511990,
+   "fil": "reddit:ybbq13",
+   "id": "reddit:ybbq13",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=3GrJ2fyJz1M&feature=share",
+   "titre_fil": "Weekly Forex Analysis 24 - 28 October (NA TV)",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/ybbq13/",
+   "videos": [
+    "3GrJ2fyJz1M"
+   ]
+  },
+  "reddit:ydz27p": {
+   "auteur": "reddit:Beekeyyy",
+   "communaute": "r/algotrading",
+   "date": 1666793395,
+   "fil": "reddit:ydz27p",
+   "id": "reddit:ydz27p",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=eIoQREdlt0k",
+   "titre_fil": "Bitcoin And Ethereum Breakout Progress",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/ydz27p/",
+   "videos": [
+    "eIoQREdlt0k"
+   ]
+  },
+  "reddit:ye1ejf": {
+   "auteur": "reddit:ChillMusicytfy",
+   "communaute": "r/algotrading",
+   "date": 1666799443,
+   "fil": "reddit:ye1ejf",
+   "id": "reddit:ye1ejf",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=ypnTBAY-O9A&feature=share",
+   "titre_fil": "Musica Jazz para concentrarse #3",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/ye1ejf/",
+   "videos": [
+    "ypnTBAY-O9A"
+   ]
+  },
+  "reddit:yec2it": {
+   "auteur": "reddit:crypt0nomy",
+   "communaute": "r/algotrading",
+   "date": 1666826336,
+   "fil": "reddit:yec2it",
+   "id": "reddit:yec2it",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=6j8cHAPAT1k&feature=share",
+   "titre_fil": "𝗡𝗔𝗡𝗢𝗟𝗬 𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠, 𝗟𝗔 𝗥𝗘𝗙𝗘𝗥𝗘𝗡𝗖𝗜𝗔 𝗦𝗨𝗣𝗥𝗘𝗠𝗔 𝗣𝗔𝗥𝗔 𝗗𝗘𝗙𝗜",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/yec2it/",
+   "videos": [
+    "6j8cHAPAT1k"
+   ]
+  },
+  "reddit:yf3nh1": {
+   "auteur": "reddit:kevin8eleven",
+   "communaute": "r/algotrading",
+   "date": 1666905433,
+   "fil": "reddit:yf3nh1",
+   "id": "reddit:yf3nh1",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/algotrading/comments/yf3nh1/how_can_i_add_an_alert_every_time_a_divergence/\nI have a custom RSI indicator built for trading view that works perfectly - it even has a banner show when divergences occur, the problem is divergences occur on so many different pairs and so many different timeframes that I often miss trades.   \n\n\nDoes anyone know a line of code I can add into it so that every time a divergence is about to form it sends me an email or an alert?   \n\n\nIt would be great if, like here in this video  [https://youtu.be/DJ97c8VkZaY?t=210](https://youtu.be/DJ97c8VkZaY?t=210)  it would notify us when the divergence is developing rather then on the close of the candle where the divergence occurs. \n\nP.S This is is a really high win rate strategy id love to share it with anyone that can help :)   \n\n\n&#x200B;\n\n[Heres what it looks like ](https://preview.redd.it/o6zsj1s20fw91.png?width=1512&format=png&auto=webp&s=402280d6ea54169eaec1523a15d9e7c30d0ab1d9)",
+   "titre_fil": "How can I add an alert every time a divergence paints on with my indicator?",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/yf3nh1/",
+   "videos": [
+    "DJ97c8VkZaY"
+   ]
+  },
+  "reddit:ygp2ue": {
+   "auteur": "reddit:Distinct_Shallot_271",
+   "communaute": "r/algotrading",
+   "date": 1667063415,
+   "fil": "reddit:ygp2ue",
+   "id": "reddit:ygp2ue",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/U7Qj68QfpJY",
+   "titre_fil": "A BILLION DOLLAR ADVICE.. .THAT WOULD SHOCK YOU!!! YOU NEED TO WATCH THIS VIDEO NOW!!!",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/ygp2ue/",
+   "videos": [
+    "U7Qj68QfpJY"
+   ]
+  },
+  "reddit:ygr8jc": {
+   "auteur": "reddit:crypt0nomy",
+   "communaute": "r/algotrading",
+   "date": 1667068691,
+   "fil": "reddit:ygr8jc",
+   "id": "reddit:ygr8jc",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=usFjqCNIV_o&feature=share",
+   "titre_fil": "𝗖𝗨𝗘𝗡𝗧𝗔 𝗗𝗘 𝗔𝗛𝗢𝗥𝗥𝗢𝗦 𝗖𝗢𝗡 𝗧𝗔𝗥𝗝𝗘𝗧𝗔 𝗗𝗘𝗕𝗜𝗧𝗢 𝗘𝗡 𝗨𝗦𝗔 𝗖𝗢𝗡 𝗘𝗦𝗧𝗔 𝗔𝗣𝗣",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/ygr8jc/",
+   "videos": [
+    "usFjqCNIV_o"
+   ]
+  },
+  "reddit:yh28yk": {
+   "auteur": "reddit:RaiVn1401",
+   "communaute": "r/algotrading",
+   "date": 1667096758,
+   "fil": "reddit:yh28yk",
+   "id": "reddit:yh28yk",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=qF18e36qIWg&feature=share",
+   "titre_fil": "Study with me: Đại Suy Thoái - Khủng Hoảng Kinh Tế 2008 - Nguyên Nhân - ...",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/yh28yk/",
+   "videos": [
+    "qF18e36qIWg"
+   ]
+  },
+  "reddit:yhno9b": {
+   "auteur": "reddit:penote777",
+   "communaute": "r/algotrading",
+   "date": 1667158550,
+   "fil": "reddit:yhno9b",
+   "id": "reddit:yhno9b",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=PZVkvB7TPi4&feature=share",
+   "titre_fil": "¡¡VUELVE HENRY CAVILL!!.... LA SALVACIÓN DE DC ¿SUPERMAN VS BLACK ADAM? ...",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/yhno9b/",
+   "videos": [
+    "PZVkvB7TPi4"
+   ]
+  },
+  "reddit:yhnv03": {
+   "auteur": "reddit:penote777",
+   "communaute": "r/algotrading",
+   "date": 1667158991,
+   "fil": "reddit:yhnv03",
+   "id": "reddit:yhnv03",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=PZVkvB7TPi4&feature=share",
+   "titre_fil": "¡¡VUELVE HENRY CAVILL!!.... LA SALVACIÓN DE DC ¿SUPERMAN VS BLACK ADAM? ...",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/yhnv03/",
+   "videos": [
+    "PZVkvB7TPi4"
+   ]
+  },
+  "reddit:yigkxa": {
+   "auteur": "reddit:OkPlatypus372",
+   "communaute": "r/algotrading",
+   "date": 1667233145,
+   "fil": "reddit:yigkxa",
+   "id": "reddit:yigkxa",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/q_Vc7iFiuqU",
+   "titre_fil": "this video is about richest employees",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/yigkxa/",
+   "videos": [
+    "q_Vc7iFiuqU"
+   ]
+  },
+  "reddit:yjcnvu": {
+   "auteur": "reddit:PsychologicalBug7162",
+   "communaute": "r/algotrading",
+   "date": 1667318775,
+   "fil": "reddit:yjcnvu",
+   "id": "reddit:yjcnvu",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=lIo-gNhfDtE",
+   "titre_fil": "Ai generated the animation from this song using the song's lyrics. AMAZING!",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/yjcnvu/",
+   "videos": [
+    "lIo-gNhfDtE"
+   ]
+  },
+  "reddit:ykesoq": {
+   "auteur": "reddit:VersusBTC",
+   "communaute": "r/algotrading",
+   "date": 1667417901,
+   "fil": "reddit:ykesoq",
+   "id": "reddit:ykesoq",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/shorts/kqoMSR5Yl50?feature=share",
+   "titre_fil": "Akbar",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/ykesoq/",
+   "videos": [
+    "kqoMSR5Yl50"
+   ]
+  },
+  "reddit:yl3zce": {
+   "auteur": "reddit:clootch1",
+   "communaute": "r/algotrading",
+   "date": 1667484932,
+   "fil": "reddit:yl3zce",
+   "id": "reddit:yl3zce",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=H_mzO2ikg4A&feature=share",
+   "titre_fil": "Cryptyde CEO Brian McFadden discusses Forever 8 acquisition and company ...",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/yl3zce/",
+   "videos": [
+    "H_mzO2ikg4A"
+   ]
+  },
+  "reddit:ylw3g2": {
+   "auteur": "reddit:tmi890",
+   "communaute": "r/algotrading",
+   "date": 1667560367,
+   "fil": "reddit:ylw3g2",
+   "id": "reddit:ylw3g2",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/itieP65UuP4",
+   "titre_fil": "youtube",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/ylw3g2/",
+   "videos": [
+    "itieP65UuP4"
+   ]
+  },
+  "reddit:ym0o50": {
+   "auteur": "reddit:Fit-Abbreviations485",
+   "communaute": "r/algotrading",
+   "date": 1667572514,
+   "fil": "reddit:ym0o50",
+   "id": "reddit:ym0o50",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/iWiakPsT1P0",
+   "titre_fil": "calm relaxing piano music for deep sleep - peace your mind",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/ym0o50/",
+   "videos": [
+    "iWiakPsT1P0"
+   ]
+  },
+  "reddit:ymqdv0": {
+   "auteur": "reddit:PsychologicalBug7162",
+   "communaute": "r/algotrading",
+   "date": 1667644824,
+   "fil": "reddit:ymqdv0",
+   "id": "reddit:ymqdv0",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=1D_ZcfykLp0",
+   "titre_fil": "THIS IS A MUST !!! Ai generated the animation from this song using the song's lyrics. AMAZING!",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/ymqdv0/",
+   "videos": [
+    "1D_ZcfykLp0"
+   ]
+  },
+  "reddit:ymz7s8": {
+   "auteur": "reddit:Pillious_Investment",
+   "communaute": "r/algotrading",
+   "date": 1667666628,
+   "fil": "reddit:ymz7s8",
+   "id": "reddit:ymz7s8",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=iIa9DLEo1nw",
+   "titre_fil": "Upcoming MrBeast channel (Trading version) - educating about investing, challenges to win money, and much more. Early Subscribers will be rewarded",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/ymz7s8/",
+   "videos": [
+    "iIa9DLEo1nw"
+   ]
+  },
+  "reddit:yog3bu": {
+   "auteur": "reddit:Figz1975",
+   "communaute": "r/algotrading",
+   "date": 1667806957,
+   "fil": "reddit:yog3bu",
+   "id": "reddit:yog3bu",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/YP0-IxekH20",
+   "titre_fil": "ALCHEMY CRYPTO CYPHER 11/7/22 XRP NEWS & MUCH MORE!",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/yog3bu/",
+   "videos": [
+    "YP0-IxekH20"
+   ]
+  },
+  "reddit:yozzdi": {
+   "auteur": "reddit:Distinct_Shallot_271",
+   "communaute": "r/algotrading",
+   "date": 1667854350,
+   "fil": "reddit:yozzdi",
+   "id": "reddit:yozzdi",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/xICvwHVINDo",
+   "titre_fil": "THIS IS HOW THE BANKS ROBBING YOUR MONEY!! YOU HAVE TO WATCH THIS VIDEO NOW!!!",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/yozzdi/",
+   "videos": [
+    "xICvwHVINDo"
+   ]
+  },
+  "reddit:yrbwtf": {
+   "auteur": "reddit:PsychologicalBug7162",
+   "communaute": "r/algotrading",
+   "date": 1668079195,
+   "fil": "reddit:yrbwtf",
+   "id": "reddit:yrbwtf",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=q3F8r0JDHy8",
+   "titre_fil": "Watch AI Create an Animated Story from Just a Few Words about Elon Musk and Dogecoin!",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/yrbwtf/",
+   "videos": [
+    "q3F8r0JDHy8"
+   ]
+  },
+  "reddit:yxvmnp": {
+   "auteur": "reddit:dimonoid123",
+   "communaute": "r/algotrading",
+   "date": 1668705006,
+   "fil": "reddit:yxvmnp",
+   "id": "reddit:yxvmnp",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.reddit.com/r/algotrading/comments/yxvmnp/shepard_tone_optimization/\nHas anyone tried running let's say multiple stock prediction models with different phase shift, and slowly rolling them?\n\nI'm also thinking to do linear regression to optimize weights between models by sorting them by DTE to determine some balance between short and long term predictions, since I suspect that each model behaves better some time after it was created (but not too early and not too long).\n\nHere is sound of Shepard tone, to better visualize what I mean:\n\nhttps://youtu.be/BzNzgsAE4F0\n\n\nHas anyone tried this? Any success? \n\nWhat are the main challenges?",
+   "titre_fil": "Shepard tone optimization",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/yxvmnp/",
+   "videos": [
+    "BzNzgsAE4F0"
+   ]
+  },
+  "reddit:yy0m96": {
+   "auteur": "reddit:Distinct_Shallot_271",
+   "communaute": "r/algotrading",
+   "date": 1668716806,
+   "fil": "reddit:yy0m96",
+   "id": "reddit:yy0m96",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/Ox4TOvQz64Y",
+   "titre_fil": "THE SCIENCE OF GETTING RICH!! YOU HAVE TO WATCH THIS VIDEO NOW!!",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/yy0m96/",
+   "videos": [
+    "Ox4TOvQz64Y"
+   ]
+  },
+  "reddit:yzg6bp": {
+   "auteur": "reddit:Beekeyyy",
+   "communaute": "r/algotrading",
+   "date": 1668876332,
+   "fil": "reddit:yzg6bp",
+   "id": "reddit:yzg6bp",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=FIVFm9kX2AE",
+   "titre_fil": "My Crypto Experience This Week ☕",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/yzg6bp/",
+   "videos": [
+    "FIVFm9kX2AE"
+   ]
+  },
+  "reddit:yzr4o4": {
+   "auteur": "reddit:DigBick8008",
+   "communaute": "r/algotrading",
+   "date": 1668905953,
+   "fil": "reddit:yzr4o4",
+   "id": "reddit:yzr4o4",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/yLKSI2Geoco\n[removed]",
+   "titre_fil": "So my bot is making me a solid $50 a day, hopefully next week I’ll be on double that gonna pump some more money into her! I made a quick tutorial video…",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/yzr4o4/",
+   "videos": [
+    "yLKSI2Geoco"
+   ]
+  },
+  "reddit:z1f239": {
+   "auteur": "reddit:No_Firefighter_385",
+   "communaute": "r/algotrading",
+   "date": 1669076330,
+   "fil": "reddit:z1f239",
+   "id": "reddit:z1f239",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/gmhD8yVmkCA?sub_confirmation=1",
+   "titre_fil": "Pastel Colour Drawing of a tree",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/z1f239/",
+   "videos": [
+    "gmhD8yVmkCA"
+   ]
+  },
+  "reddit:z3b4i9": {
+   "auteur": "reddit:Beekeyyy",
+   "communaute": "r/algotrading",
+   "date": 1669266966,
+   "fil": "reddit:z3b4i9",
+   "id": "reddit:z3b4i9",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=GfeHCAaKunA",
+   "titre_fil": "Why Bitcoin Wallet Private Key Is Important 🧠",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/z3b4i9/",
+   "videos": [
+    "GfeHCAaKunA"
+   ]
+  },
+  "reddit:z5jvqk": {
+   "auteur": "reddit:Distinct_Shallot_271",
+   "communaute": "r/algotrading",
+   "date": 1669501686,
+   "fil": "reddit:z5jvqk",
+   "id": "reddit:z5jvqk",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/SxXm0JL0NgE\n[removed]",
+   "titre_fil": "THE FORMULA TO GET RICH!! YOU NEED TO WATCH THIS VIDEO NOW!!",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/z5jvqk/",
+   "videos": [
+    "SxXm0JL0NgE"
+   ]
+  },
+  "reddit:z5wd80": {
+   "auteur": "reddit:Figz1975",
+   "communaute": "r/algotrading",
+   "date": 1669539685,
+   "fil": "reddit:z5wd80",
+   "id": "reddit:z5wd80",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/C1q0ML4zQG0",
+   "titre_fil": "ALcHeMy CrYpTo CyPhA!!! 11/26/22 XRP/GLD/SLVR/OIL/DXY/NEWS!!!",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/z5wd80/",
+   "videos": [
+    "C1q0ML4zQG0"
+   ]
+  },
+  "reddit:z618zv": {
+   "auteur": "reddit:Interesting_Rub8896",
+   "communaute": "r/algotrading",
+   "date": 1669555728,
+   "fil": "reddit:z618zv",
+   "id": "reddit:z618zv",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/SLurhuZeBYo",
+   "titre_fil": "Weekly Market outlook 28th Nov 2022",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/z618zv/",
+   "videos": [
+    "SLurhuZeBYo"
+   ]
+  },
+  "reddit:z67y7f": {
+   "auteur": "reddit:DbtradesAuto",
+   "communaute": "r/algotrading",
+   "date": 1669572214,
+   "fil": "reddit:z67y7f",
+   "id": "reddit:z67y7f",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=3xRouENE2TY",
+   "titre_fil": "Convert your normal upstox broker account to Algo capable with python",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/z67y7f/",
+   "videos": [
+    "3xRouENE2TY"
+   ]
+  },
+  "reddit:z67zqw": {
+   "auteur": "reddit:DbtradesAuto",
+   "communaute": "r/algotrading",
+   "date": 1669572319,
+   "fil": "reddit:z67zqw",
+   "id": "reddit:z67zqw",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=3xRouENE2TY",
+   "titre_fil": "upstox botlib",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/z67zqw/",
+   "videos": [
+    "3xRouENE2TY"
+   ]
+  },
+  "reddit:zazudi": {
+   "auteur": "reddit:BrainlessTurboBeinj",
+   "communaute": "r/algotrading",
+   "date": 1670019832,
+   "fil": "reddit:zazudi",
+   "id": "reddit:zazudi",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=qcIWDYUzd9w",
+   "titre_fil": "I made my first automated crypto trading bot in Python for Bitvavo API, it aint much but its honest work. Thoughts?",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/zazudi/",
+   "videos": [
+    "qcIWDYUzd9w"
+   ]
+  },
+  "reddit:zbxh6v": {
+   "auteur": "reddit:Crypto_Beasts_101",
+   "communaute": "r/algotrading",
+   "date": 1670119480,
+   "fil": "reddit:zbxh6v",
+   "id": "reddit:zbxh6v",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://www.youtube.com/watch?v=NO7EgmMCkwg",
+   "titre_fil": "A good strategy here, posted it in case anyone wants to try it.",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/zbxh6v/",
+   "videos": [
+    "NO7EgmMCkwg"
+   ]
+  },
+  "reddit:zc8woa": {
+   "auteur": "reddit:investingpodcastlog",
+   "communaute": "r/algotrading",
+   "date": 1670157619,
+   "fil": "reddit:zc8woa",
+   "id": "reddit:zc8woa",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=fclctzo5zIw&feature=share",
+   "titre_fil": "Podcast: Small Business Strains",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/zc8woa/",
+   "videos": [
+    "fclctzo5zIw"
+   ]
+  },
+  "reddit:zfcxwl": {
+   "auteur": "reddit:Visible_Spite_9001",
+   "communaute": "r/algotrading",
+   "date": 1670445345,
+   "fil": "reddit:zfcxwl",
+   "id": "reddit:zfcxwl",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=f-xPf4SKbw0&feature=share",
+   "titre_fil": "AMC IS DONE & So Is The Damage To Retail Traders & Investors Watch Them ...",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/zfcxwl/",
+   "videos": [
+    "f-xPf4SKbw0"
+   ]
+  },
+  "reddit:zgyio2": {
+   "auteur": "reddit:Gold_Picture8130",
+   "communaute": "r/algotrading",
+   "date": 1670595524,
+   "fil": "reddit:zgyio2",
+   "id": "reddit:zgyio2",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/shorts/cyDN0yj3lls?feature=share",
+   "titre_fil": "David Michery Shares Plans for #MULN I-GO 🚗",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/zgyio2/",
+   "videos": [
+    "cyDN0yj3lls"
+   ]
+  },
+  "reddit:zh16g9": {
+   "auteur": "reddit:crypt0nomy",
+   "communaute": "r/algotrading",
+   "date": 1670602135,
+   "fil": "reddit:zh16g9",
+   "id": "reddit:zh16g9",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=Nuo0aylp9d0&feature=share",
+   "titre_fil": "𝗗𝗘𝗫 𝗖𝗢𝗠𝗢 𝗔𝗟𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗩𝗔 𝗦𝗘𝗚𝗨𝗥𝗔",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/zh16g9/",
+   "videos": [
+    "Nuo0aylp9d0"
+   ]
+  },
+  "reddit:zhg4lb": {
+   "auteur": "reddit:Potential_Nature_934",
+   "communaute": "r/algotrading",
+   "date": 1670638556,
+   "fil": "reddit:zhg4lb",
+   "id": "reddit:zhg4lb",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/shorts/eT0MSj3_fmY?feature=share",
+   "titre_fil": "Pre-loved Authentic Prada Saffiano Leather Wallet. Shipping from DE, USA. I only ship in USA. Thanks",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/zhg4lb/",
+   "videos": [
+    "eT0MSj3_fmY"
+   ]
+  },
+  "reddit:zi68sx": {
+   "auteur": "reddit:Bulky-Particular186",
+   "communaute": "r/algotrading",
+   "date": 1670712707,
+   "fil": "reddit:zi68sx",
+   "id": "reddit:zi68sx",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/FaVbrtV2uwk",
+   "titre_fil": "#0 Let's make Vettel world champion again in 22 upcoming videos. Starts tomorrow",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/zi68sx/",
+   "videos": [
+    "FaVbrtV2uwk"
+   ]
+  },
+  "reddit:zk4h1b": {
+   "auteur": "reddit:maxsock",
+   "communaute": "r/algotrading",
+   "date": 1670864122,
+   "fil": "reddit:zk4h1b",
+   "id": "reddit:zk4h1b",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=INBSpUmdyOI&feature=share",
+   "titre_fil": "How to Use Headers and Footers in Microsoft Word Like a Pro",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/zk4h1b/",
+   "videos": [
+    "INBSpUmdyOI"
+   ]
+  },
+  "reddit:zkry0j": {
+   "auteur": "reddit:xavipicks",
+   "communaute": "r/algotrading",
+   "date": 1670925115,
+   "fil": "reddit:zkry0j",
+   "id": "reddit:zkry0j",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/5SAO4Dqb-b0",
+   "titre_fil": "Argentina vs Croacia Mundial Qatar 2022 | Apuestas deportivas copa del mundo |Pronosticos deportivos",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/zkry0j/",
+   "videos": [
+    "5SAO4Dqb-b0"
+   ]
+  },
+  "reddit:zlzy82": {
+   "auteur": "reddit:Ramonzitos95",
+   "communaute": "r/algotrading",
+   "date": 1671046283,
+   "fil": "reddit:zlzy82",
+   "id": "reddit:zlzy82",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtu.be/32ngpaitKOA",
+   "titre_fil": "Learn python in this video above, you can learn about strings and training your brain to improve better your skills in language python.",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/zlzy82/",
+   "videos": [
+    "32ngpaitKOA"
+   ]
+  },
+  "reddit:zno3bo": {
+   "auteur": "reddit:Mother-Spinach50",
+   "communaute": "r/algotrading",
+   "date": 1671222169,
+   "fil": "reddit:zno3bo",
+   "id": "reddit:zno3bo",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=ndSJ3XyTqJk&feature=share",
+   "titre_fil": "I Have No Words | Harry Mack Omegle Bars 79 (Reaction)",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/zno3bo/",
+   "videos": [
+    "ndSJ3XyTqJk"
+   ]
+  },
+  "reddit:zwfhs9": {
+   "auteur": "reddit:Fit_Rub_3733",
+   "communaute": "r/algotrading",
+   "date": 1672147204,
+   "fil": "reddit:zwfhs9",
+   "id": "reddit:zwfhs9",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=ERAgBQcUC8E&feature=share",
+   "titre_fil": "Algorand coin ALGO the currency of the day",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/zwfhs9/",
+   "videos": [
+    "ERAgBQcUC8E"
+   ]
+  },
+  "reddit:zxija9": {
+   "auteur": "reddit:clorceus",
+   "communaute": "r/algotrading",
+   "date": 1672255795,
+   "fil": "reddit:zxija9",
+   "id": "reddit:zxija9",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/shorts/EtRiFVPiD7Y?feature=share",
+   "titre_fil": "How Meditation, love, Yoga Can Change Your Life, #shorts #shortvideo #shortsviral #shortsyoutube",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/zxija9/",
+   "videos": [
+    "EtRiFVPiD7Y"
+   ]
+  },
+  "reddit:zysvwy": {
+   "auteur": "reddit:dejoski12",
+   "communaute": "r/algotrading",
+   "date": 1672380523,
+   "fil": "reddit:zysvwy",
+   "id": "reddit:zysvwy",
+   "mots": [],
+   "source": "reddit",
+   "texte": "https://youtube.com/watch?v=gnUbT4TE65o&feature=share",
+   "titre_fil": "My New Code to Backtest on Every Stock at Once!",
+   "type": "article",
+   "url": "https://www.reddit.com/r/algotrading/comments/zysvwy/",
+   "videos": [
+    "gnUbT4TE65o"
    ]
   }
  }
